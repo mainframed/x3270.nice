@@ -1,0 +1,94 @@
+! Menu Colors
+! Foreground
+x3270*dialog*confirmButton.foreground:	 Orange4
+x3270*dialog*foreground:	 Orange4
+x3270.aboutPopup*icon.foreground:	 Orange4
+x3270.keypadForeground:	 Orange4
+x3270*menuBarContainer.foreground:	 Orange4
+x3270*fileMenuButton*foreground:	 Orange4
+x3270*optionsMenuButton*foreground:	 Orange4
+x3270*connectMenuButton*foreground:	 Orange4
+x3270*reconnectButton*foreground:	 Orange4
+x3270*macrosMenuButton*foreground:	 Orange4
+x3270*keypadButton*foreground:	 Orange4
+x3270*fileMenu*foreground:	 Orange4
+x3270*exitMenu*foreground:	 Orange4
+x3270*optionsMenu*foreground:	 Orange4
+x3270*hostMenu*foreground:	 Orange4
+x3270*reconnect*foreground:	 Orange4
+x3270*macrosMenu*foreground:	 Orange4
+x3270*togglesMenu*foreground:	 Orange4
+x3270*fontsMenu*foreground:	 Orange4
+x3270*modelsMenu*foreground:	 Orange4
+x3270*colorsMenu*foreground:	 Orange4
+x3270*charsetMenu*foreground:	 Orange4
+x3270*dialog*value*foreground:	 Orange4
+x3270*dialog*foreground:	 Orange4
+x3270*dialog*confirmButton.foreground:	 Orange4
+x3270*dialog*confirm2Button.foreground:	 Orange4
+3270*dialog*cancelButton.foreground:	 Orange4
+x3270.ftProgressPopup*filename.foreground:	 Orange4
+! Critical
+x3270.errorPopup*label.foreground:	 IndianRed
+x3270*dialog*cancelButton.foreground:	 IndianRed
+! Backgrounds
+x3270.keypadBackground:	 Wheat1
+x3270*menuBarContainer.background:	 Wheat1
+x3270*fileMenuButton*background:	 Wheat1
+x3270*optionsMenuButton*background:	 Wheat1
+x3270*connectMenuButton*background:	 Wheat1
+x3270*reconnectButton*background:	 Wheat1
+x3270*macrosMenuButton*background:	 Wheat1
+x3270*keypadButton*background:	 Wheat1
+x3270*fileMenu*background:	 Wheat1
+x3270*exitMenu*background:	 Wheat1
+x3270*optionsMenu*background:	 Wheat1
+x3270*hostMenu*background:	 Wheat1
+x3270*reconnect*background:	 Wheat1
+x3270*macrosMenu*background:	 Wheat1
+x3270*togglesMenu*background:	 Wheat1
+x3270*fontsMenu*background:	 Wheat1
+x3270*modelsMenu*background:	 Wheat1
+x3270*colorsMenu*background:	 Wheat1
+x3270*charsetMenu*background:	 Wheat1
+x3270*dialog*value*background:	 Wheat1
+x3270*dialog*background:	 Wheat1
+x3270*dialog*confirmButton.background:	 Wheat1
+x3270*dialog*confirm2Button.background:	 Wheat1
+3270*dialog*cancelButton.background:	 Wheat1
+x3270.ftProgressPopup*filename.background:	 Wheat1
+! Borders
+x3270*fileMenuButton*borderColor:	 Wheat1
+x3270*optionsMenuButton*borderColor:	 Wheat1
+x3270*connectMenuButton*borderColor:	 Wheat1
+x3270*reconnectButton*borderColor:	 Wheat1
+x3270*macrosMenuButton*borderColor:	 Wheat1
+x3270*menuBarContainer.borderColor:	 Wheat1
+x3270*fileMenu.borderColor:	 Wheat1
+x3270*exitMenu.borderColor:	 Wheat1
+x3270*optionsMenu.borderColor:	 Wheat1
+x3270*hostMenu.borderColor:	 Wheat1
+x3270*macrosMenu.borderColor:	 Wheat1
+x3270*togglesMenu.borderColor:	 Wheat1
+x3270*fontsMenu.borderColor:	 Wheat1
+x3270*modelsMenu.borderColor:	 Wheat1
+x3270*colorsMenu.borderColor:	 Wheat1
+x3270*charsetMenu.borderColor:	 Wheat1
+x3270*confirmButton.borderColor:	 Wheat1
+x3270*confirmButton.borderColor:	 Wheat1
+x3270*confirm2Button.borderColor:	 Wheat1
+x3270*cancelButton.borderColor:	 Wheat1
+x3270.ftProgressPopup*filename.borderColor:	 Wheat1
+x3270*menuBarContainer.borderWidth: 0
+x3270*value.borderColor: 	Orange4
+x3270*value.foreground: 	Orange4
+! Generating new .x3270pro theme
+! Copy and paste to ~/.x3270pro
+x3270.colorScheme: new
+x3270.colorScheme.new: \
+   Grey7 IndianRed SpringGreen4 LightSalmon3 \
+   SteelBlue MediumPurple3 DarkOliveGreen3 Wheat4 \
+   Orange4 IndianRed SpringGreen4 LightSalmon3 \
+   SteelBlue MediumPurple3 DarkOliveGreen3 Wheat1 \
+   black Wheat1 white 4 \
+   2 1 15 

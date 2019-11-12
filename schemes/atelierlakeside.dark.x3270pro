@@ -1,0 +1,94 @@
+! Menu Colors
+! Foreground
+x3270*dialog*confirmButton.foreground:	 LightSkyBlue3
+x3270*dialog*foreground:	 LightSkyBlue3
+x3270.aboutPopup*icon.foreground:	 LightSkyBlue3
+x3270.keypadForeground:	 LightSkyBlue3
+x3270*menuBarContainer.foreground:	 LightSkyBlue3
+x3270*fileMenuButton*foreground:	 LightSkyBlue3
+x3270*optionsMenuButton*foreground:	 LightSkyBlue3
+x3270*connectMenuButton*foreground:	 LightSkyBlue3
+x3270*reconnectButton*foreground:	 LightSkyBlue3
+x3270*macrosMenuButton*foreground:	 LightSkyBlue3
+x3270*keypadButton*foreground:	 LightSkyBlue3
+x3270*fileMenu*foreground:	 LightSkyBlue3
+x3270*exitMenu*foreground:	 LightSkyBlue3
+x3270*optionsMenu*foreground:	 LightSkyBlue3
+x3270*hostMenu*foreground:	 LightSkyBlue3
+x3270*reconnect*foreground:	 LightSkyBlue3
+x3270*macrosMenu*foreground:	 LightSkyBlue3
+x3270*togglesMenu*foreground:	 LightSkyBlue3
+x3270*fontsMenu*foreground:	 LightSkyBlue3
+x3270*modelsMenu*foreground:	 LightSkyBlue3
+x3270*colorsMenu*foreground:	 LightSkyBlue3
+x3270*charsetMenu*foreground:	 LightSkyBlue3
+x3270*dialog*value*foreground:	 LightSkyBlue3
+x3270*dialog*foreground:	 LightSkyBlue3
+x3270*dialog*confirmButton.foreground:	 LightSkyBlue3
+x3270*dialog*confirm2Button.foreground:	 LightSkyBlue3
+3270*dialog*cancelButton.foreground:	 LightSkyBlue3
+x3270.ftProgressPopup*filename.foreground:	 LightSkyBlue3
+! Critical
+x3270.errorPopup*label.foreground:	 DeepPink3
+x3270*dialog*cancelButton.foreground:	 DeepPink3
+! Backgrounds
+x3270.keypadBackground:	 Grey11
+x3270*menuBarContainer.background:	 Grey11
+x3270*fileMenuButton*background:	 Grey11
+x3270*optionsMenuButton*background:	 Grey11
+x3270*connectMenuButton*background:	 Grey11
+x3270*reconnectButton*background:	 Grey11
+x3270*macrosMenuButton*background:	 Grey11
+x3270*keypadButton*background:	 Grey11
+x3270*fileMenu*background:	 Grey11
+x3270*exitMenu*background:	 Grey11
+x3270*optionsMenu*background:	 Grey11
+x3270*hostMenu*background:	 Grey11
+x3270*reconnect*background:	 Grey11
+x3270*macrosMenu*background:	 Grey11
+x3270*togglesMenu*background:	 Grey11
+x3270*fontsMenu*background:	 Grey11
+x3270*modelsMenu*background:	 Grey11
+x3270*colorsMenu*background:	 Grey11
+x3270*charsetMenu*background:	 Grey11
+x3270*dialog*value*background:	 Grey11
+x3270*dialog*background:	 Grey11
+x3270*dialog*confirmButton.background:	 Grey11
+x3270*dialog*confirm2Button.background:	 Grey11
+3270*dialog*cancelButton.background:	 Grey11
+x3270.ftProgressPopup*filename.background:	 Grey11
+! Borders
+x3270*fileMenuButton*borderColor:	 Grey11
+x3270*optionsMenuButton*borderColor:	 Grey11
+x3270*connectMenuButton*borderColor:	 Grey11
+x3270*reconnectButton*borderColor:	 Grey11
+x3270*macrosMenuButton*borderColor:	 Grey11
+x3270*menuBarContainer.borderColor:	 Grey11
+x3270*fileMenu.borderColor:	 Grey11
+x3270*exitMenu.borderColor:	 Grey11
+x3270*optionsMenu.borderColor:	 Grey11
+x3270*hostMenu.borderColor:	 Grey11
+x3270*macrosMenu.borderColor:	 Grey11
+x3270*togglesMenu.borderColor:	 Grey11
+x3270*fontsMenu.borderColor:	 Grey11
+x3270*modelsMenu.borderColor:	 Grey11
+x3270*colorsMenu.borderColor:	 Grey11
+x3270*charsetMenu.borderColor:	 Grey11
+x3270*confirmButton.borderColor:	 Grey11
+x3270*confirmButton.borderColor:	 Grey11
+x3270*confirm2Button.borderColor:	 Grey11
+x3270*cancelButton.borderColor:	 Grey11
+x3270.ftProgressPopup*filename.borderColor:	 Grey11
+x3270*menuBarContainer.borderWidth: 0
+x3270*value.borderColor: 	LightSkyBlue3
+x3270*value.foreground: 	LightSkyBlue3
+! Generating new .x3270pro theme
+! Copy and paste to ~/.x3270pro
+x3270.colorScheme: new
+x3270.colorScheme.new: \
+   Grey11 DeepPink3 DarkSeaGreen4 Yellow4 \
+   DeepSkyBlue3 SlateBlue3 SpringGreen4 LightSkyBlue3 \
+   PaleTurquoise4 DeepPink3 DarkSeaGreen4 Yellow4 \
+   DeepSkyBlue3 SlateBlue3 SpringGreen4 Grey93 \
+   black Grey11 white 4 \
+   2 1 15 

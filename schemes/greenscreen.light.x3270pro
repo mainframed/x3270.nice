@@ -1,0 +1,94 @@
+! Menu Colors
+! Foreground
+x3270*dialog*confirmButton.foreground:	 DarkGreen
+x3270*dialog*foreground:	 DarkGreen
+x3270.aboutPopup*icon.foreground:	 DarkGreen
+x3270.keypadForeground:	 DarkGreen
+x3270*menuBarContainer.foreground:	 DarkGreen
+x3270*fileMenuButton*foreground:	 DarkGreen
+x3270*optionsMenuButton*foreground:	 DarkGreen
+x3270*connectMenuButton*foreground:	 DarkGreen
+x3270*reconnectButton*foreground:	 DarkGreen
+x3270*macrosMenuButton*foreground:	 DarkGreen
+x3270*keypadButton*foreground:	 DarkGreen
+x3270*fileMenu*foreground:	 DarkGreen
+x3270*exitMenu*foreground:	 DarkGreen
+x3270*optionsMenu*foreground:	 DarkGreen
+x3270*hostMenu*foreground:	 DarkGreen
+x3270*reconnect*foreground:	 DarkGreen
+x3270*macrosMenu*foreground:	 DarkGreen
+x3270*togglesMenu*foreground:	 DarkGreen
+x3270*fontsMenu*foreground:	 DarkGreen
+x3270*modelsMenu*foreground:	 DarkGreen
+x3270*colorsMenu*foreground:	 DarkGreen
+x3270*charsetMenu*foreground:	 DarkGreen
+x3270*dialog*value*foreground:	 DarkGreen
+x3270*dialog*foreground:	 DarkGreen
+x3270*dialog*confirmButton.foreground:	 DarkGreen
+x3270*dialog*confirm2Button.foreground:	 DarkGreen
+3270*dialog*cancelButton.foreground:	 DarkGreen
+x3270.ftProgressPopup*filename.foreground:	 DarkGreen
+! Critical
+x3270.errorPopup*label.foreground:	 Green4
+x3270*dialog*cancelButton.foreground:	 Green4
+! Backgrounds
+x3270.keypadBackground:	 Green1
+x3270*menuBarContainer.background:	 Green1
+x3270*fileMenuButton*background:	 Green1
+x3270*optionsMenuButton*background:	 Green1
+x3270*connectMenuButton*background:	 Green1
+x3270*reconnectButton*background:	 Green1
+x3270*macrosMenuButton*background:	 Green1
+x3270*keypadButton*background:	 Green1
+x3270*fileMenu*background:	 Green1
+x3270*exitMenu*background:	 Green1
+x3270*optionsMenu*background:	 Green1
+x3270*hostMenu*background:	 Green1
+x3270*reconnect*background:	 Green1
+x3270*macrosMenu*background:	 Green1
+x3270*togglesMenu*background:	 Green1
+x3270*fontsMenu*background:	 Green1
+x3270*modelsMenu*background:	 Green1
+x3270*colorsMenu*background:	 Green1
+x3270*charsetMenu*background:	 Green1
+x3270*dialog*value*background:	 Green1
+x3270*dialog*background:	 Green1
+x3270*dialog*confirmButton.background:	 Green1
+x3270*dialog*confirm2Button.background:	 Green1
+3270*dialog*cancelButton.background:	 Green1
+x3270.ftProgressPopup*filename.background:	 Green1
+! Borders
+x3270*fileMenuButton*borderColor:	 Green1
+x3270*optionsMenuButton*borderColor:	 Green1
+x3270*connectMenuButton*borderColor:	 Green1
+x3270*reconnectButton*borderColor:	 Green1
+x3270*macrosMenuButton*borderColor:	 Green1
+x3270*menuBarContainer.borderColor:	 Green1
+x3270*fileMenu.borderColor:	 Green1
+x3270*exitMenu.borderColor:	 Green1
+x3270*optionsMenu.borderColor:	 Green1
+x3270*hostMenu.borderColor:	 Green1
+x3270*macrosMenu.borderColor:	 Green1
+x3270*togglesMenu.borderColor:	 Green1
+x3270*fontsMenu.borderColor:	 Green1
+x3270*modelsMenu.borderColor:	 Green1
+x3270*colorsMenu.borderColor:	 Green1
+x3270*charsetMenu.borderColor:	 Green1
+x3270*confirmButton.borderColor:	 Green1
+x3270*confirmButton.borderColor:	 Green1
+x3270*confirm2Button.borderColor:	 Green1
+x3270*cancelButton.borderColor:	 Green1
+x3270.ftProgressPopup*filename.borderColor:	 Green1
+x3270*menuBarContainer.borderWidth: 0
+x3270*value.borderColor: 	DarkGreen
+x3270*value.foreground: 	DarkGreen
+! Generating new .x3270pro theme
+! Copy and paste to ~/.x3270pro
+x3270.colorScheme: new
+x3270.colorScheme.new: \
+   Grey3 Green4 Green3 Green4 \
+   Green4 Green3 DarkGreen Green3 \
+   Green4 Green4 Green3 Green4 \
+   Green4 Green3 DarkGreen Green1 \
+   black Green1 white 4 \
+   2 1 15 
