@@ -2,6 +2,10 @@
 
 No longer does your x3270 screen need to use the default colors that come with it! This repo contains all the themes from terminal.sexy in `.x3270pro` format, *over 157 themes!* Take your favorite theme and put it in your `.x3270pro` file: `cat schemes/<x3270pro> >> ~/.x3270pro`
 
+## Make Your Own
+
+Don't like the themes included here? Just go to [terminal.sexy](http://terminal.sexy) or [https://ciembor.github.io/4bit/#](https://ciembor.github.io/4bit/#) pick your favorite colors and save it as an `.Xresources` file, then convert it to x3270pro format with `x3270_pro_generator.py <.Xresources file> >> ~/.x3270pro`
+
 ## Color Schemes
 
 ### 3024
