@@ -212,9 +212,18 @@ def main():
             if l.isspace():
                 continue
             try:
-                name = line.strip().split()[0].replace('.','').replace(':','')
+                name = line.strip().split()[0]
+                if "*" in name:
+                    #for weird urxvt rules like URxvt*color1
+                    name = name[name.find("*"):]
+
+                if "*" not in name and "." in name:
+                    #for weird urxvt rules like URxvt.color1
+                    name = "*"+name[name.find(".") + 1:]
+
                 if line[0] == '!': # skip empty comments
                     print("!", l)
+                name = name.replace('.','').replace(':','')
                 if name in color_names:
                     print("!", line.replace('!','').strip())
                     try:
@@ -231,8 +240,12 @@ def main():
                 continue
 
 
-
     mapc[18] = x3270colors['*color8'][1]
+    if len(x3270colors['*background']) == 1:
+        x3270colors['*background'].append("#000000")
+    if len(x3270colors['*foreground']) == 1:
+        x3270colors['*foreground'].append("#ffffff")
+
     for i in x3270colors:
         xcolors[int(x3270colors[i][0])] =  x3270colors[i][1]
     xcolors[8] = x3270colors["*color0"][1]
