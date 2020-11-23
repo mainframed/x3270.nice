@@ -3,25 +3,39 @@
 ! Original Xresource file: 'DjangoRebornAgain'
 ! Copy and paste this output to ~/.x3270pro
 ! --------------------------------------------------
-! Original Xresource file | mapped color
-! *.foreground:  #dadedc  | Grey85 
-! *.background:  #051f14  | Grey7 
-! *.color0:      #000000  | Grey0 
-! *.color8:      #323232  | Grey19 
-! *.color1:      #fd6209  | OrangeRed1 
-! *.color9:      #ff943b  | Salmon1 
-! *.color2:      #41a83e  | DarkSeaGreen4 
-! *.color10:     #73da70  | PaleGreen3 
-! *.color3:      #ffe862  | LightGoldenrod2 
-! *.color11:     #ffff94  | Khaki1 
-! *.color4:      #245032  | Grey23 
-! *.color12:     #568264  | DarkSeaGreen4 
-! *.color5:      #f8f8f8  | Grey100 
-! *.color13:     #ffffff  | Grey100 
-! *.color6:      #9df39f  | DarkSeaGreen2 
-! *.color14:     #cfffd1  | Honeydew2 
-! *.color7:      #ffffff  | Grey100 
-! *.color15:     #ffffff  | Grey100 
+! Original Xresource file: 
+! --------------------------------------------------
+! Generated with :
+! XRDB2Xreources.py
+! *.foreground:  #dadedc
+! *.background:  #051f14
+! Black
+! *.color0:      #000000
+! *.color8:      #323232
+! Red
+! *.color1:      #fd6209
+! *.color9:      #ff943b
+! Green
+! *.color2:      #41a83e
+! *.color10:     #73da70
+! Yellow
+! *.color3:      #ffe862
+! *.color11:     #ffff94
+! Blue
+! *.color4:      #245032
+! *.color12:     #568264
+! Magenta
+! *.color5:      #f8f8f8
+! *.color13:     #ffffff
+! Cyan
+! *.color6:      #9df39f
+! *.color14:     #cfffd1
+! White
+! *.color7:      #ffffff
+! *.color15:     #ffffff
+! Bold, Italic, Underline
+! *.colorIT:
+! *.colorUL:
 ! --------------------------------------------------
 ! Adding theme to Options -> Color Scheme
 ! --------------------------------------------------
@@ -35,94 +49,94 @@ x3270.schemeList: Default 3279: default\n\
 ! --------------------------------------------------
 ! Menu Colors: Foreground
 ! --------------------------------------------------
-x3270*dialog*confirmButton.foreground     : Grey85
-x3270*dialog*foreground                   : Grey85
-x3270.aboutPopup*icon.foreground          : Grey85
-x3270.keypadForeground                    : Grey85
-x3270*menuBarContainer.foreground         : Grey85
-x3270*fileMenuButton*foreground           : Grey85
-x3270*optionsMenuButton*foreground        : Grey85
-x3270*connectMenuButton*foreground        : Grey85
-x3270*reconnectButton*foreground          : Grey85
-x3270*macrosMenuButton*foreground         : Grey85
-x3270*keypadButton*foreground             : Grey85
-x3270*fileMenu*foreground                 : Grey85
-x3270*exitMenu*foreground                 : Grey85
-x3270*optionsMenu*foreground              : Grey85
-x3270*hostMenu*foreground                 : Grey85
-x3270*reconnect*foreground                : Grey85
-x3270*macrosMenu*foreground               : Grey85
-x3270*togglesMenu*foreground              : Grey85
-x3270*fontsMenu*foreground                : Grey85
-x3270*modelsMenu*foreground               : Grey85
-x3270*colorsMenu*foreground               : Grey85
-x3270*charsetMenu*foreground              : Grey85
-x3270*dialog*value*foreground             : Grey85
-x3270*dialog*foreground                   : Grey85
-x3270*dialog*confirmButton.foreground     : Grey85
-x3270*dialog*confirm2Button.foreground    : Grey85
-3270*dialog*cancelButton.foreground       : Grey85
-x3270.ftProgressPopup*filename.foreground : Grey85
+x3270*dialog*confirmButton.foreground     : #dadedc
+x3270*dialog*foreground                   : #dadedc
+x3270.aboutPopup*icon.foreground          : #dadedc
+x3270.keypadForeground                    : #dadedc
+x3270*menuBarContainer.foreground         : #dadedc
+x3270*fileMenuButton*foreground           : #dadedc
+x3270*optionsMenuButton*foreground        : #dadedc
+x3270*connectMenuButton*foreground        : #dadedc
+x3270*reconnectButton*foreground          : #dadedc
+x3270*macrosMenuButton*foreground         : #dadedc
+x3270*keypadButton*foreground             : #dadedc
+x3270*fileMenu*foreground                 : #dadedc
+x3270*exitMenu*foreground                 : #dadedc
+x3270*optionsMenu*foreground              : #dadedc
+x3270*hostMenu*foreground                 : #dadedc
+x3270*reconnect*foreground                : #dadedc
+x3270*macrosMenu*foreground               : #dadedc
+x3270*togglesMenu*foreground              : #dadedc
+x3270*fontsMenu*foreground                : #dadedc
+x3270*modelsMenu*foreground               : #dadedc
+x3270*colorsMenu*foreground               : #dadedc
+x3270*charsetMenu*foreground              : #dadedc
+x3270*dialog*value*foreground             : #dadedc
+x3270*dialog*foreground                   : #dadedc
+x3270*dialog*confirmButton.foreground     : #dadedc
+x3270*dialog*confirm2Button.foreground    : #dadedc
+3270*dialog*cancelButton.foreground       : #dadedc
+x3270.ftProgressPopup*filename.foreground : #dadedc
 ! --------------------------------------------------
 ! Menu Colors: Critical
 ! --------------------------------------------------
-x3270.errorPopup*label.foreground         : Salmon1
-x3270*dialog*cancelButton.foreground      : Salmon1
+x3270.errorPopup*label.foreground         : #ff943b
+x3270*dialog*cancelButton.foreground      : #ff943b
 ! --------------------------------------------------
 ! Menu Colors: Backgrounds
 ! --------------------------------------------------
-x3270.keypadBackground                    : Grey7
-x3270*menuBarContainer.background         : Grey7
-x3270*fileMenuButton*background           : Grey7
-x3270*optionsMenuButton*background        : Grey7
-x3270*connectMenuButton*background        : Grey7
-x3270*reconnectButton*background          : Grey7
-x3270*macrosMenuButton*background         : Grey7
-x3270*keypadButton*background             : Grey7
-x3270*fileMenu*background                 : Grey7
-x3270*exitMenu*background                 : Grey7
-x3270*optionsMenu*background              : Grey7
-x3270*hostMenu*background                 : Grey7
-x3270*reconnect*background                : Grey7
-x3270*macrosMenu*background               : Grey7
-x3270*togglesMenu*background              : Grey7
-x3270*fontsMenu*background                : Grey7
-x3270*modelsMenu*background               : Grey7
-x3270*colorsMenu*background               : Grey7
-x3270*charsetMenu*background              : Grey7
-x3270*dialog*value*background             : Grey7
-x3270*dialog*background                   : Grey7
-x3270*dialog*confirmButton.background     : Grey7
-x3270*dialog*confirm2Button.background    : Grey7
-3270*dialog*cancelButton.background       : Grey7
-x3270.ftProgressPopup*filename.background : Grey7
+x3270.keypadBackground                    : #051f14
+x3270*menuBarContainer.background         : #051f14
+x3270*fileMenuButton*background           : #051f14
+x3270*optionsMenuButton*background        : #051f14
+x3270*connectMenuButton*background        : #051f14
+x3270*reconnectButton*background          : #051f14
+x3270*macrosMenuButton*background         : #051f14
+x3270*keypadButton*background             : #051f14
+x3270*fileMenu*background                 : #051f14
+x3270*exitMenu*background                 : #051f14
+x3270*optionsMenu*background              : #051f14
+x3270*hostMenu*background                 : #051f14
+x3270*reconnect*background                : #051f14
+x3270*macrosMenu*background               : #051f14
+x3270*togglesMenu*background              : #051f14
+x3270*fontsMenu*background                : #051f14
+x3270*modelsMenu*background               : #051f14
+x3270*colorsMenu*background               : #051f14
+x3270*charsetMenu*background              : #051f14
+x3270*dialog*value*background             : #051f14
+x3270*dialog*background                   : #051f14
+x3270*dialog*confirmButton.background     : #051f14
+x3270*dialog*confirm2Button.background    : #051f14
+3270*dialog*cancelButton.background       : #051f14
+x3270.ftProgressPopup*filename.background : #051f14
 ! --------------------------------------------------
 ! Menu Colors: Borders
 ! --------------------------------------------------
-x3270*reconnectButton*borderColor         : Grey85
-x3270*macrosMenuButton*borderColor        : Grey85
-x3270*fileMenu.borderColor                : Grey85
-x3270*exitMenu.borderColor                : Grey85
-x3270*optionsMenu.borderColor             : Grey85
-x3270*hostMenu.borderColor                : Grey85
-x3270*macrosMenu.borderColor              : Grey85
-x3270*togglesMenu.borderColor             : Grey85
-x3270*fontsMenu.borderColor               : Grey85
-x3270*modelsMenu.borderColor              : Grey85
-x3270*colorsMenu.borderColor              : Grey85
-x3270*charsetMenu.borderColor             : Grey85
-x3270*confirmButton.borderColor           : Grey85
-x3270*confirmButton.borderColor           : Grey85
-x3270*confirm2Button.borderColor          : Grey85
-x3270*cancelButton.borderColor            : Grey85
-x3270.ftProgressPopup*filename.borderColor: Grey85
-x3270*fileMenuButton*borderColor          : Grey7
-x3270*optionsMenuButton*borderColor       : Grey7
-x3270*connectMenuButton*borderColor       : Grey7
-x3270*menuBarContainer.borderColor        : Grey7
+x3270*reconnectButton*borderColor         : #dadedc
+x3270*macrosMenuButton*borderColor        : #dadedc
+x3270*fileMenu.borderColor                : #dadedc
+x3270*exitMenu.borderColor                : #dadedc
+x3270*optionsMenu.borderColor             : #dadedc
+x3270*hostMenu.borderColor                : #dadedc
+x3270*macrosMenu.borderColor              : #dadedc
+x3270*togglesMenu.borderColor             : #dadedc
+x3270*fontsMenu.borderColor               : #dadedc
+x3270*modelsMenu.borderColor              : #dadedc
+x3270*colorsMenu.borderColor              : #dadedc
+x3270*charsetMenu.borderColor             : #dadedc
+x3270*confirmButton.borderColor           : #dadedc
+x3270*confirmButton.borderColor           : #dadedc
+x3270*confirm2Button.borderColor          : #dadedc
+x3270*cancelButton.borderColor            : #dadedc
+x3270.ftProgressPopup*filename.borderColor: #dadedc
+x3270*fileMenuButton*borderColor          : #051f14
+x3270*optionsMenuButton*borderColor       : #051f14
+x3270*connectMenuButton*borderColor       : #051f14
+x3270*menuBarContainer.borderColor        : #051f14
 x3270*menuBarContainer.borderWidth        : 0
-x3270*value.borderColor                   : Grey85
-x3270*value.foreground                    : Grey85
+x3270*value.borderColor                   : #dadedc
+x3270*value.foreground                    : #dadedc
 ! --------------------------------------------------
 ! Default Color Scheme
 ! --------------------------------------------------
@@ -131,9 +145,12 @@ x3270.colorScheme: DjangoRebornAgain
 ! Color Scheme definition
 ! --------------------------------------------------
 x3270.colorScheme.DjangoRebornAgain: \
-   Grey0 DarkSeaGreen4 Salmon1 Grey100 \
-   PaleGreen3 Honeydew2 Khaki1 Grey85 \
-   Grey0 Grey23 LightGoldenrod2 Grey100 \
-   DarkSeaGreen4 DarkSeaGreen2 Grey19 Grey100 \
-   white Grey7 Grey19 4 \
+   #000000 #568264 #ff943b #ffffff \
+   #73da70 #cfffd1 #ffff94 #dadedc \
+   #000000 #245032 #ffe862 #f8f8f8 \
+   #41a83e #9df39f #323232 #ffffff \
+   white #051f14 #323232 4 \
    2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------
