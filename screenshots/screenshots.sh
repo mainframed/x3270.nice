@@ -26,9 +26,7 @@ if test -f "$pro"; then
     mv $pro "$pro"_backup
 fi
 
-if test -f $README; then
-    rm $README
-fi
+if test ! -f $README; then
 
 cat << 'EOF' > $README
 # x3270 themes!
@@ -44,6 +42,7 @@ Don't like the themes included here? Just go to [terminal.sexy](http://terminal.
 These themes have been converted using this script from https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/Xresources
 EOF
 
+fi
 
 for i in $1/*
 do
