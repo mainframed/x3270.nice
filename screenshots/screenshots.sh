@@ -61,7 +61,7 @@ do
     echo "" >> $README
     echo "### $f" >> $README
     echo "" >> $README
-    echo "![$f]($4/$f.png?raw=true)" >> $README
+    echo "![$f](./screenshots/${f// /%20}.png?raw=true)" >> $README
     xfce4-screenshooter -w -s $4/"$f".png
     disown $last_pid
     kill -KILL $last_pid
