@@ -211,7 +211,7 @@ def main():
             if l.isspace():
                 continue
             try:
-                name = line.strip().replace(":"," ").split()[0]
+                name = line.strip().replace(":"," ",1).split()[0]
                 if "*" in name:
                     #for weird urxvt rules like URxvt*color1
                     name = name[name.find("*"):]
@@ -226,13 +226,13 @@ def main():
                 if name in color_names:
                     print("!", line.replace('!','').strip())
                     try:
-                        color = line.strip().replace(":"," ").split()[1].replace('[background_opacity]','')
+                        color = line.strip().replace(":"," ",1).split()[1].replace('[background_opacity]','')
                         if color in defines:
                             color = defines[color]
                         x3270colors[name].append(color)
                     except KeyError:
                         continue
-                if line.strip().split()[0].replace('.','').replace(':','').lower() == "#define":
+                if line.strip().split()[0].replace('.','').replace(':',' ',1).lower() == "#define":
                     print("!", line.strip())
                     defines[line.strip().split()[1]] = line.strip().split()[2]
             except:
