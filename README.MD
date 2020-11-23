@@ -957,3 +957,819 @@ These themes have been converted using this script from https://github.com/mbado
 ### Zenburn
 
 ![Zenburn](./screenshots/Zenburn.png?raw=true)
+
+### base16-3024-256.Xresources
+
+![base16-3024-256.Xresources](./screenshots/base16-3024-256.Xresources.png?raw=true)
+
+### base16-3024.Xresources
+
+![base16-3024.Xresources](./screenshots/base16-3024.Xresources.png?raw=true)
+
+### base16-apathy-256.Xresources
+
+![base16-apathy-256.Xresources](./screenshots/base16-apathy-256.Xresources.png?raw=true)
+
+### base16-apathy.Xresources
+
+![base16-apathy.Xresources](./screenshots/base16-apathy.Xresources.png?raw=true)
+
+### base16-ashes-256.Xresources
+
+![base16-ashes-256.Xresources](./screenshots/base16-ashes-256.Xresources.png?raw=true)
+
+### base16-ashes.Xresources
+
+![base16-ashes.Xresources](./screenshots/base16-ashes.Xresources.png?raw=true)
+
+### base16-atelier-cave-256.Xresources
+
+![base16-atelier-cave-256.Xresources](./screenshots/base16-atelier-cave-256.Xresources.png?raw=true)
+
+### base16-atelier-cave-light-256.Xresources
+
+![base16-atelier-cave-light-256.Xresources](./screenshots/base16-atelier-cave-light-256.Xresources.png?raw=true)
+
+### base16-atelier-cave-light.Xresources
+
+![base16-atelier-cave-light.Xresources](./screenshots/base16-atelier-cave-light.Xresources.png?raw=true)
+
+### base16-atelier-cave.Xresources
+
+![base16-atelier-cave.Xresources](./screenshots/base16-atelier-cave.Xresources.png?raw=true)
+
+### base16-atelier-dune-256.Xresources
+
+![base16-atelier-dune-256.Xresources](./screenshots/base16-atelier-dune-256.Xresources.png?raw=true)
+
+### base16-atelier-dune-light-256.Xresources
+
+![base16-atelier-dune-light-256.Xresources](./screenshots/base16-atelier-dune-light-256.Xresources.png?raw=true)
+
+### base16-atelier-dune-light.Xresources
+
+![base16-atelier-dune-light.Xresources](./screenshots/base16-atelier-dune-light.Xresources.png?raw=true)
+
+### base16-atelier-dune.Xresources
+
+![base16-atelier-dune.Xresources](./screenshots/base16-atelier-dune.Xresources.png?raw=true)
+
+### base16-atelier-estuary-256.Xresources
+
+![base16-atelier-estuary-256.Xresources](./screenshots/base16-atelier-estuary-256.Xresources.png?raw=true)
+
+### base16-atelier-estuary-light-256.Xresources
+
+![base16-atelier-estuary-light-256.Xresources](./screenshots/base16-atelier-estuary-light-256.Xresources.png?raw=true)
+
+### base16-atelier-estuary-light.Xresources
+
+![base16-atelier-estuary-light.Xresources](./screenshots/base16-atelier-estuary-light.Xresources.png?raw=true)
+
+### base16-atelier-estuary.Xresources
+
+![base16-atelier-estuary.Xresources](./screenshots/base16-atelier-estuary.Xresources.png?raw=true)
+
+### base16-atelier-forest-256.Xresources
+
+![base16-atelier-forest-256.Xresources](./screenshots/base16-atelier-forest-256.Xresources.png?raw=true)
+
+### base16-atelier-forest-light-256.Xresources
+
+![base16-atelier-forest-light-256.Xresources](./screenshots/base16-atelier-forest-light-256.Xresources.png?raw=true)
+
+### base16-atelier-forest-light.Xresources
+
+![base16-atelier-forest-light.Xresources](./screenshots/base16-atelier-forest-light.Xresources.png?raw=true)
+
+### base16-atelier-forest.Xresources
+
+![base16-atelier-forest.Xresources](./screenshots/base16-atelier-forest.Xresources.png?raw=true)
+
+### base16-atelier-heath-256.Xresources
+
+![base16-atelier-heath-256.Xresources](./screenshots/base16-atelier-heath-256.Xresources.png?raw=true)
+
+### base16-atelier-heath-light-256.Xresources
+
+![base16-atelier-heath-light-256.Xresources](./screenshots/base16-atelier-heath-light-256.Xresources.png?raw=true)
+
+### base16-atelier-heath-light.Xresources
+
+![base16-atelier-heath-light.Xresources](./screenshots/base16-atelier-heath-light.Xresources.png?raw=true)
+
+### base16-atelier-heath.Xresources
+
+![base16-atelier-heath.Xresources](./screenshots/base16-atelier-heath.Xresources.png?raw=true)
+
+### base16-atelier-lakeside-256.Xresources
+
+![base16-atelier-lakeside-256.Xresources](./screenshots/base16-atelier-lakeside-256.Xresources.png?raw=true)
+
+### base16-atelier-lakeside-light-256.Xresources
+
+![base16-atelier-lakeside-light-256.Xresources](./screenshots/base16-atelier-lakeside-light-256.Xresources.png?raw=true)
+
+### base16-atelier-lakeside-light.Xresources
+
+![base16-atelier-lakeside-light.Xresources](./screenshots/base16-atelier-lakeside-light.Xresources.png?raw=true)
+
+### base16-atelier-lakeside.Xresources
+
+![base16-atelier-lakeside.Xresources](./screenshots/base16-atelier-lakeside.Xresources.png?raw=true)
+
+### base16-atelier-plateau-256.Xresources
+
+![base16-atelier-plateau-256.Xresources](./screenshots/base16-atelier-plateau-256.Xresources.png?raw=true)
+
+### base16-atelier-plateau-light-256.Xresources
+
+![base16-atelier-plateau-light-256.Xresources](./screenshots/base16-atelier-plateau-light-256.Xresources.png?raw=true)
+
+### base16-atelier-plateau-light.Xresources
+
+![base16-atelier-plateau-light.Xresources](./screenshots/base16-atelier-plateau-light.Xresources.png?raw=true)
+
+### base16-atelier-plateau.Xresources
+
+![base16-atelier-plateau.Xresources](./screenshots/base16-atelier-plateau.Xresources.png?raw=true)
+
+### base16-atelier-savanna-256.Xresources
+
+![base16-atelier-savanna-256.Xresources](./screenshots/base16-atelier-savanna-256.Xresources.png?raw=true)
+
+### base16-atelier-savanna-light-256.Xresources
+
+![base16-atelier-savanna-light-256.Xresources](./screenshots/base16-atelier-savanna-light-256.Xresources.png?raw=true)
+
+### base16-atelier-savanna-light.Xresources
+
+![base16-atelier-savanna-light.Xresources](./screenshots/base16-atelier-savanna-light.Xresources.png?raw=true)
+
+### base16-atelier-savanna.Xresources
+
+![base16-atelier-savanna.Xresources](./screenshots/base16-atelier-savanna.Xresources.png?raw=true)
+
+### base16-atelier-seaside-256.Xresources
+
+![base16-atelier-seaside-256.Xresources](./screenshots/base16-atelier-seaside-256.Xresources.png?raw=true)
+
+### base16-atelier-seaside-light-256.Xresources
+
+![base16-atelier-seaside-light-256.Xresources](./screenshots/base16-atelier-seaside-light-256.Xresources.png?raw=true)
+
+### base16-atelier-seaside-light.Xresources
+
+![base16-atelier-seaside-light.Xresources](./screenshots/base16-atelier-seaside-light.Xresources.png?raw=true)
+
+### base16-atelier-seaside.Xresources
+
+![base16-atelier-seaside.Xresources](./screenshots/base16-atelier-seaside.Xresources.png?raw=true)
+
+### base16-atelier-sulphurpool-256.Xresources
+
+![base16-atelier-sulphurpool-256.Xresources](./screenshots/base16-atelier-sulphurpool-256.Xresources.png?raw=true)
+
+### base16-atelier-sulphurpool-light-256.Xresources
+
+![base16-atelier-sulphurpool-light-256.Xresources](./screenshots/base16-atelier-sulphurpool-light-256.Xresources.png?raw=true)
+
+### base16-atelier-sulphurpool-light.Xresources
+
+![base16-atelier-sulphurpool-light.Xresources](./screenshots/base16-atelier-sulphurpool-light.Xresources.png?raw=true)
+
+### base16-atelier-sulphurpool.Xresources
+
+![base16-atelier-sulphurpool.Xresources](./screenshots/base16-atelier-sulphurpool.Xresources.png?raw=true)
+
+### base16-bespin-256.Xresources
+
+![base16-bespin-256.Xresources](./screenshots/base16-bespin-256.Xresources.png?raw=true)
+
+### base16-bespin.Xresources
+
+![base16-bespin.Xresources](./screenshots/base16-bespin.Xresources.png?raw=true)
+
+### base16-brewer-256.Xresources
+
+![base16-brewer-256.Xresources](./screenshots/base16-brewer-256.Xresources.png?raw=true)
+
+### base16-brewer.Xresources
+
+![base16-brewer.Xresources](./screenshots/base16-brewer.Xresources.png?raw=true)
+
+### base16-bright-256.Xresources
+
+![base16-bright-256.Xresources](./screenshots/base16-bright-256.Xresources.png?raw=true)
+
+### base16-bright.Xresources
+
+![base16-bright.Xresources](./screenshots/base16-bright.Xresources.png?raw=true)
+
+### base16-brushtrees-256.Xresources
+
+![base16-brushtrees-256.Xresources](./screenshots/base16-brushtrees-256.Xresources.png?raw=true)
+
+### base16-brushtrees-dark-256.Xresources
+
+![base16-brushtrees-dark-256.Xresources](./screenshots/base16-brushtrees-dark-256.Xresources.png?raw=true)
+
+### base16-brushtrees-dark.Xresources
+
+![base16-brushtrees-dark.Xresources](./screenshots/base16-brushtrees-dark.Xresources.png?raw=true)
+
+### base16-brushtrees.Xresources
+
+![base16-brushtrees.Xresources](./screenshots/base16-brushtrees.Xresources.png?raw=true)
+
+### base16-chalk-256.Xresources
+
+![base16-chalk-256.Xresources](./screenshots/base16-chalk-256.Xresources.png?raw=true)
+
+### base16-chalk.Xresources
+
+![base16-chalk.Xresources](./screenshots/base16-chalk.Xresources.png?raw=true)
+
+### base16-circus-256.Xresources
+
+![base16-circus-256.Xresources](./screenshots/base16-circus-256.Xresources.png?raw=true)
+
+### base16-circus.Xresources
+
+![base16-circus.Xresources](./screenshots/base16-circus.Xresources.png?raw=true)
+
+### base16-classic-dark-256.Xresources
+
+![base16-classic-dark-256.Xresources](./screenshots/base16-classic-dark-256.Xresources.png?raw=true)
+
+### base16-classic-dark.Xresources
+
+![base16-classic-dark.Xresources](./screenshots/base16-classic-dark.Xresources.png?raw=true)
+
+### base16-classic-light-256.Xresources
+
+![base16-classic-light-256.Xresources](./screenshots/base16-classic-light-256.Xresources.png?raw=true)
+
+### base16-classic-light.Xresources
+
+![base16-classic-light.Xresources](./screenshots/base16-classic-light.Xresources.png?raw=true)
+
+### base16-codeschool-256.Xresources
+
+![base16-codeschool-256.Xresources](./screenshots/base16-codeschool-256.Xresources.png?raw=true)
+
+### base16-codeschool.Xresources
+
+![base16-codeschool.Xresources](./screenshots/base16-codeschool.Xresources.png?raw=true)
+
+### base16-cupcake-256.Xresources
+
+![base16-cupcake-256.Xresources](./screenshots/base16-cupcake-256.Xresources.png?raw=true)
+
+### base16-cupcake.Xresources
+
+![base16-cupcake.Xresources](./screenshots/base16-cupcake.Xresources.png?raw=true)
+
+### base16-cupertino-256.Xresources
+
+![base16-cupertino-256.Xresources](./screenshots/base16-cupertino-256.Xresources.png?raw=true)
+
+### base16-cupertino.Xresources
+
+![base16-cupertino.Xresources](./screenshots/base16-cupertino.Xresources.png?raw=true)
+
+### base16-darktooth-256.Xresources
+
+![base16-darktooth-256.Xresources](./screenshots/base16-darktooth-256.Xresources.png?raw=true)
+
+### base16-darktooth.Xresources
+
+![base16-darktooth.Xresources](./screenshots/base16-darktooth.Xresources.png?raw=true)
+
+### base16-default-dark-256.Xresources
+
+![base16-default-dark-256.Xresources](./screenshots/base16-default-dark-256.Xresources.png?raw=true)
+
+### base16-default-dark.Xresources
+
+![base16-default-dark.Xresources](./screenshots/base16-default-dark.Xresources.png?raw=true)
+
+### base16-default-light-256.Xresources
+
+![base16-default-light-256.Xresources](./screenshots/base16-default-light-256.Xresources.png?raw=true)
+
+### base16-default-light.Xresources
+
+![base16-default-light.Xresources](./screenshots/base16-default-light.Xresources.png?raw=true)
+
+### base16-dracula-256.Xresources
+
+![base16-dracula-256.Xresources](./screenshots/base16-dracula-256.Xresources.png?raw=true)
+
+### base16-dracula.Xresources
+
+![base16-dracula.Xresources](./screenshots/base16-dracula.Xresources.png?raw=true)
+
+### base16-eighties-256.Xresources
+
+![base16-eighties-256.Xresources](./screenshots/base16-eighties-256.Xresources.png?raw=true)
+
+### base16-eighties.Xresources
+
+![base16-eighties.Xresources](./screenshots/base16-eighties.Xresources.png?raw=true)
+
+### base16-embers-256.Xresources
+
+![base16-embers-256.Xresources](./screenshots/base16-embers-256.Xresources.png?raw=true)
+
+### base16-embers.Xresources
+
+![base16-embers.Xresources](./screenshots/base16-embers.Xresources.png?raw=true)
+
+### base16-flat-256.Xresources
+
+![base16-flat-256.Xresources](./screenshots/base16-flat-256.Xresources.png?raw=true)
+
+### base16-flat.Xresources
+
+![base16-flat.Xresources](./screenshots/base16-flat.Xresources.png?raw=true)
+
+### base16-github-256.Xresources
+
+![base16-github-256.Xresources](./screenshots/base16-github-256.Xresources.png?raw=true)
+
+### base16-github.Xresources
+
+![base16-github.Xresources](./screenshots/base16-github.Xresources.png?raw=true)
+
+### base16-google-dark-256.Xresources
+
+![base16-google-dark-256.Xresources](./screenshots/base16-google-dark-256.Xresources.png?raw=true)
+
+### base16-google-dark.Xresources
+
+![base16-google-dark.Xresources](./screenshots/base16-google-dark.Xresources.png?raw=true)
+
+### base16-google-light-256.Xresources
+
+![base16-google-light-256.Xresources](./screenshots/base16-google-light-256.Xresources.png?raw=true)
+
+### base16-google-light.Xresources
+
+![base16-google-light.Xresources](./screenshots/base16-google-light.Xresources.png?raw=true)
+
+### base16-grayscale-dark-256.Xresources
+
+![base16-grayscale-dark-256.Xresources](./screenshots/base16-grayscale-dark-256.Xresources.png?raw=true)
+
+### base16-grayscale-dark.Xresources
+
+![base16-grayscale-dark.Xresources](./screenshots/base16-grayscale-dark.Xresources.png?raw=true)
+
+### base16-grayscale-light-256.Xresources
+
+![base16-grayscale-light-256.Xresources](./screenshots/base16-grayscale-light-256.Xresources.png?raw=true)
+
+### base16-grayscale-light.Xresources
+
+![base16-grayscale-light.Xresources](./screenshots/base16-grayscale-light.Xresources.png?raw=true)
+
+### base16-green-screen-256.Xresources
+
+![base16-green-screen-256.Xresources](./screenshots/base16-green-screen-256.Xresources.png?raw=true)
+
+### base16-greenscreen-256.Xresources
+
+![base16-greenscreen-256.Xresources](./screenshots/base16-greenscreen-256.Xresources.png?raw=true)
+
+### base16-green-screen.Xresources
+
+![base16-green-screen.Xresources](./screenshots/base16-green-screen.Xresources.png?raw=true)
+
+### base16-greenscreen.Xresources
+
+![base16-greenscreen.Xresources](./screenshots/base16-greenscreen.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-hard-256.Xresources
+
+![base16-gruvbox-dark-hard-256.Xresources](./screenshots/base16-gruvbox-dark-hard-256.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-hard.Xresources
+
+![base16-gruvbox-dark-hard.Xresources](./screenshots/base16-gruvbox-dark-hard.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-medium-256.Xresources
+
+![base16-gruvbox-dark-medium-256.Xresources](./screenshots/base16-gruvbox-dark-medium-256.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-medium.Xresources
+
+![base16-gruvbox-dark-medium.Xresources](./screenshots/base16-gruvbox-dark-medium.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-pale-256.Xresources
+
+![base16-gruvbox-dark-pale-256.Xresources](./screenshots/base16-gruvbox-dark-pale-256.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-pale.Xresources
+
+![base16-gruvbox-dark-pale.Xresources](./screenshots/base16-gruvbox-dark-pale.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-soft-256.Xresources
+
+![base16-gruvbox-dark-soft-256.Xresources](./screenshots/base16-gruvbox-dark-soft-256.Xresources.png?raw=true)
+
+### base16-gruvbox-dark-soft.Xresources
+
+![base16-gruvbox-dark-soft.Xresources](./screenshots/base16-gruvbox-dark-soft.Xresources.png?raw=true)
+
+### base16-gruvbox-light-hard-256.Xresources
+
+![base16-gruvbox-light-hard-256.Xresources](./screenshots/base16-gruvbox-light-hard-256.Xresources.png?raw=true)
+
+### base16-gruvbox-light-hard.Xresources
+
+![base16-gruvbox-light-hard.Xresources](./screenshots/base16-gruvbox-light-hard.Xresources.png?raw=true)
+
+### base16-gruvbox-light-medium-256.Xresources
+
+![base16-gruvbox-light-medium-256.Xresources](./screenshots/base16-gruvbox-light-medium-256.Xresources.png?raw=true)
+
+### base16-gruvbox-light-medium.Xresources
+
+![base16-gruvbox-light-medium.Xresources](./screenshots/base16-gruvbox-light-medium.Xresources.png?raw=true)
+
+### base16-gruvbox-light-soft-256.Xresources
+
+![base16-gruvbox-light-soft-256.Xresources](./screenshots/base16-gruvbox-light-soft-256.Xresources.png?raw=true)
+
+### base16-gruvbox-light-soft.Xresources
+
+![base16-gruvbox-light-soft.Xresources](./screenshots/base16-gruvbox-light-soft.Xresources.png?raw=true)
+
+### base16-harmonic-dark-256.Xresources
+
+![base16-harmonic-dark-256.Xresources](./screenshots/base16-harmonic-dark-256.Xresources.png?raw=true)
+
+### base16-harmonic-dark.Xresources
+
+![base16-harmonic-dark.Xresources](./screenshots/base16-harmonic-dark.Xresources.png?raw=true)
+
+### base16-harmonic-light-256.Xresources
+
+![base16-harmonic-light-256.Xresources](./screenshots/base16-harmonic-light-256.Xresources.png?raw=true)
+
+### base16-harmonic-light.Xresources
+
+![base16-harmonic-light.Xresources](./screenshots/base16-harmonic-light.Xresources.png?raw=true)
+
+### base16-hopscotch-256.Xresources
+
+![base16-hopscotch-256.Xresources](./screenshots/base16-hopscotch-256.Xresources.png?raw=true)
+
+### base16-hopscotch.Xresources
+
+![base16-hopscotch.Xresources](./screenshots/base16-hopscotch.Xresources.png?raw=true)
+
+### base16-irblack-256.Xresources
+
+![base16-irblack-256.Xresources](./screenshots/base16-irblack-256.Xresources.png?raw=true)
+
+### base16-irblack.Xresources
+
+![base16-irblack.Xresources](./screenshots/base16-irblack.Xresources.png?raw=true)
+
+### base16-isotope-256.Xresources
+
+![base16-isotope-256.Xresources](./screenshots/base16-isotope-256.Xresources.png?raw=true)
+
+### base16-isotope.Xresources
+
+![base16-isotope.Xresources](./screenshots/base16-isotope.Xresources.png?raw=true)
+
+### base16-macintosh-256.Xresources
+
+![base16-macintosh-256.Xresources](./screenshots/base16-macintosh-256.Xresources.png?raw=true)
+
+### base16-macintosh.Xresources
+
+![base16-macintosh.Xresources](./screenshots/base16-macintosh.Xresources.png?raw=true)
+
+### base16-marrakesh-256.Xresources
+
+![base16-marrakesh-256.Xresources](./screenshots/base16-marrakesh-256.Xresources.png?raw=true)
+
+### base16-marrakesh.Xresources
+
+![base16-marrakesh.Xresources](./screenshots/base16-marrakesh.Xresources.png?raw=true)
+
+### base16-materia-256.Xresources
+
+![base16-materia-256.Xresources](./screenshots/base16-materia-256.Xresources.png?raw=true)
+
+### base16-material-256.Xresources
+
+![base16-material-256.Xresources](./screenshots/base16-material-256.Xresources.png?raw=true)
+
+### base16-material-darker-256.Xresources
+
+![base16-material-darker-256.Xresources](./screenshots/base16-material-darker-256.Xresources.png?raw=true)
+
+### base16-material-darker.Xresources
+
+![base16-material-darker.Xresources](./screenshots/base16-material-darker.Xresources.png?raw=true)
+
+### base16-material-lighter-256.Xresources
+
+![base16-material-lighter-256.Xresources](./screenshots/base16-material-lighter-256.Xresources.png?raw=true)
+
+### base16-material-lighter.Xresources
+
+![base16-material-lighter.Xresources](./screenshots/base16-material-lighter.Xresources.png?raw=true)
+
+### base16-material-palenight-256.Xresources
+
+![base16-material-palenight-256.Xresources](./screenshots/base16-material-palenight-256.Xresources.png?raw=true)
+
+### base16-material-palenight.Xresources
+
+![base16-material-palenight.Xresources](./screenshots/base16-material-palenight.Xresources.png?raw=true)
+
+### base16-material.Xresources
+
+![base16-material.Xresources](./screenshots/base16-material.Xresources.png?raw=true)
+
+### base16-materia.Xresources
+
+![base16-materia.Xresources](./screenshots/base16-materia.Xresources.png?raw=true)
+
+### base16-mellow-purple-256.Xresources
+
+![base16-mellow-purple-256.Xresources](./screenshots/base16-mellow-purple-256.Xresources.png?raw=true)
+
+### base16-mellow-purple.Xresources
+
+![base16-mellow-purple.Xresources](./screenshots/base16-mellow-purple.Xresources.png?raw=true)
+
+### base16-mexico-light-256.Xresources
+
+![base16-mexico-light-256.Xresources](./screenshots/base16-mexico-light-256.Xresources.png?raw=true)
+
+### base16-mexico-light.Xresources
+
+![base16-mexico-light.Xresources](./screenshots/base16-mexico-light.Xresources.png?raw=true)
+
+### base16-mocha-256.Xresources
+
+![base16-mocha-256.Xresources](./screenshots/base16-mocha-256.Xresources.png?raw=true)
+
+### base16-mocha.Xresources
+
+![base16-mocha.Xresources](./screenshots/base16-mocha.Xresources.png?raw=true)
+
+### base16-monokai-256.Xresources
+
+![base16-monokai-256.Xresources](./screenshots/base16-monokai-256.Xresources.png?raw=true)
+
+### base16-monokai.Xresources
+
+![base16-monokai.Xresources](./screenshots/base16-monokai.Xresources.png?raw=true)
+
+### base16-nord-256.Xresources
+
+![base16-nord-256.Xresources](./screenshots/base16-nord-256.Xresources.png?raw=true)
+
+### base16-nord.Xresources
+
+![base16-nord.Xresources](./screenshots/base16-nord.Xresources.png?raw=true)
+
+### base16-ocean-256.Xresources
+
+![base16-ocean-256.Xresources](./screenshots/base16-ocean-256.Xresources.png?raw=true)
+
+### base16-oceanicnext-256.Xresources
+
+![base16-oceanicnext-256.Xresources](./screenshots/base16-oceanicnext-256.Xresources.png?raw=true)
+
+### base16-oceanicnext.Xresources
+
+![base16-oceanicnext.Xresources](./screenshots/base16-oceanicnext.Xresources.png?raw=true)
+
+### base16-ocean.Xresources
+
+![base16-ocean.Xresources](./screenshots/base16-ocean.Xresources.png?raw=true)
+
+### base16-onedark-256.Xresources
+
+![base16-onedark-256.Xresources](./screenshots/base16-onedark-256.Xresources.png?raw=true)
+
+### base16-onedark.Xresources
+
+![base16-onedark.Xresources](./screenshots/base16-onedark.Xresources.png?raw=true)
+
+### base16-one-light-256.Xresources
+
+![base16-one-light-256.Xresources](./screenshots/base16-one-light-256.Xresources.png?raw=true)
+
+### base16-one-light.Xresources
+
+![base16-one-light.Xresources](./screenshots/base16-one-light.Xresources.png?raw=true)
+
+### base16-paraiso-256.Xresources
+
+![base16-paraiso-256.Xresources](./screenshots/base16-paraiso-256.Xresources.png?raw=true)
+
+### base16-paraiso.Xresources
+
+![base16-paraiso.Xresources](./screenshots/base16-paraiso.Xresources.png?raw=true)
+
+### base16-phd-256.Xresources
+
+![base16-phd-256.Xresources](./screenshots/base16-phd-256.Xresources.png?raw=true)
+
+### base16-phd.Xresources
+
+![base16-phd.Xresources](./screenshots/base16-phd.Xresources.png?raw=true)
+
+### base16-pico-256.Xresources
+
+![base16-pico-256.Xresources](./screenshots/base16-pico-256.Xresources.png?raw=true)
+
+### base16-pico.Xresources
+
+![base16-pico.Xresources](./screenshots/base16-pico.Xresources.png?raw=true)
+
+### base16-pop-256.Xresources
+
+![base16-pop-256.Xresources](./screenshots/base16-pop-256.Xresources.png?raw=true)
+
+### base16-pop.Xresources
+
+![base16-pop.Xresources](./screenshots/base16-pop.Xresources.png?raw=true)
+
+### base16-porple-256.Xresources
+
+![base16-porple-256.Xresources](./screenshots/base16-porple-256.Xresources.png?raw=true)
+
+### base16-porple.Xresources
+
+![base16-porple.Xresources](./screenshots/base16-porple.Xresources.png?raw=true)
+
+### base16-railscasts-256.Xresources
+
+![base16-railscasts-256.Xresources](./screenshots/base16-railscasts-256.Xresources.png?raw=true)
+
+### base16-railscasts.Xresources
+
+![base16-railscasts.Xresources](./screenshots/base16-railscasts.Xresources.png?raw=true)
+
+### base16-rebecca-256.Xresources
+
+![base16-rebecca-256.Xresources](./screenshots/base16-rebecca-256.Xresources.png?raw=true)
+
+### base16-rebecca.Xresources
+
+![base16-rebecca.Xresources](./screenshots/base16-rebecca.Xresources.png?raw=true)
+
+### base16-seti-256.Xresources
+
+![base16-seti-256.Xresources](./screenshots/base16-seti-256.Xresources.png?raw=true)
+
+### base16-seti.Xresources
+
+![base16-seti.Xresources](./screenshots/base16-seti.Xresources.png?raw=true)
+
+### base16-shapeshifter-256.Xresources
+
+![base16-shapeshifter-256.Xresources](./screenshots/base16-shapeshifter-256.Xresources.png?raw=true)
+
+### base16-shapeshifter.Xresources
+
+![base16-shapeshifter.Xresources](./screenshots/base16-shapeshifter.Xresources.png?raw=true)
+
+### base16-solar-flare-256.Xresources
+
+![base16-solar-flare-256.Xresources](./screenshots/base16-solar-flare-256.Xresources.png?raw=true)
+
+### base16-solarflare-256.Xresources
+
+![base16-solarflare-256.Xresources](./screenshots/base16-solarflare-256.Xresources.png?raw=true)
+
+### base16-solar-flare.Xresources
+
+![base16-solar-flare.Xresources](./screenshots/base16-solar-flare.Xresources.png?raw=true)
+
+### base16-solarflare.Xresources
+
+![base16-solarflare.Xresources](./screenshots/base16-solarflare.Xresources.png?raw=true)
+
+### base16-solarized-dark-256.Xresources
+
+![base16-solarized-dark-256.Xresources](./screenshots/base16-solarized-dark-256.Xresources.png?raw=true)
+
+### base16-solarized-dark.Xresources
+
+![base16-solarized-dark.Xresources](./screenshots/base16-solarized-dark.Xresources.png?raw=true)
+
+### base16-solarized-light-256.Xresources
+
+![base16-solarized-light-256.Xresources](./screenshots/base16-solarized-light-256.Xresources.png?raw=true)
+
+### base16-solarized-light.Xresources
+
+![base16-solarized-light.Xresources](./screenshots/base16-solarized-light.Xresources.png?raw=true)
+
+### base16-spacemacs-256.Xresources
+
+![base16-spacemacs-256.Xresources](./screenshots/base16-spacemacs-256.Xresources.png?raw=true)
+
+### base16-spacemacs.Xresources
+
+![base16-spacemacs.Xresources](./screenshots/base16-spacemacs.Xresources.png?raw=true)
+
+### base16-summerfruit-dark-256.Xresources
+
+![base16-summerfruit-dark-256.Xresources](./screenshots/base16-summerfruit-dark-256.Xresources.png?raw=true)
+
+### base16-summerfruit-dark.Xresources
+
+![base16-summerfruit-dark.Xresources](./screenshots/base16-summerfruit-dark.Xresources.png?raw=true)
+
+### base16-summerfruit-light-256.Xresources
+
+![base16-summerfruit-light-256.Xresources](./screenshots/base16-summerfruit-light-256.Xresources.png?raw=true)
+
+### base16-summerfruit-light.Xresources
+
+![base16-summerfruit-light.Xresources](./screenshots/base16-summerfruit-light.Xresources.png?raw=true)
+
+### base16-tomorrow-256.Xresources
+
+![base16-tomorrow-256.Xresources](./screenshots/base16-tomorrow-256.Xresources.png?raw=true)
+
+### base16-tomorrow-night-256.Xresources
+
+![base16-tomorrow-night-256.Xresources](./screenshots/base16-tomorrow-night-256.Xresources.png?raw=true)
+
+### base16-tomorrow-night.Xresources
+
+![base16-tomorrow-night.Xresources](./screenshots/base16-tomorrow-night.Xresources.png?raw=true)
+
+### base16-tomorrow.Xresources
+
+![base16-tomorrow.Xresources](./screenshots/base16-tomorrow.Xresources.png?raw=true)
+
+### base16-tube-256.Xresources
+
+![base16-tube-256.Xresources](./screenshots/base16-tube-256.Xresources.png?raw=true)
+
+### base16-tube.Xresources
+
+![base16-tube.Xresources](./screenshots/base16-tube.Xresources.png?raw=true)
+
+### base16-twilight-256.Xresources
+
+![base16-twilight-256.Xresources](./screenshots/base16-twilight-256.Xresources.png?raw=true)
+
+### base16-twilight.Xresources
+
+![base16-twilight.Xresources](./screenshots/base16-twilight.Xresources.png?raw=true)
+
+### base16-unikitty-dark-256.Xresources
+
+![base16-unikitty-dark-256.Xresources](./screenshots/base16-unikitty-dark-256.Xresources.png?raw=true)
+
+### base16-unikitty-dark.Xresources
+
+![base16-unikitty-dark.Xresources](./screenshots/base16-unikitty-dark.Xresources.png?raw=true)
+
+### base16-unikitty-light-256.Xresources
+
+![base16-unikitty-light-256.Xresources](./screenshots/base16-unikitty-light-256.Xresources.png?raw=true)
+
+### base16-unikitty-light.Xresources
+
+![base16-unikitty-light.Xresources](./screenshots/base16-unikitty-light.Xresources.png?raw=true)
+
+### base16-woodland-256.Xresources
+
+![base16-woodland-256.Xresources](./screenshots/base16-woodland-256.Xresources.png?raw=true)
+
+### base16-woodland.Xresources
+
+![base16-woodland.Xresources](./screenshots/base16-woodland.Xresources.png?raw=true)
+
+### base16-xcode-dusk-256.Xresources
+
+![base16-xcode-dusk-256.Xresources](./screenshots/base16-xcode-dusk-256.Xresources.png?raw=true)
+
+### base16-xcode-dusk.Xresources
+
+![base16-xcode-dusk.Xresources](./screenshots/base16-xcode-dusk.Xresources.png?raw=true)
+
+### base16-zenburn-256.Xresources
+
+![base16-zenburn-256.Xresources](./screenshots/base16-zenburn-256.Xresources.png?raw=true)
+
+### base16-zenburn.Xresources
+
+![base16-zenburn.Xresources](./screenshots/base16-zenburn.Xresources.png?raw=true)
