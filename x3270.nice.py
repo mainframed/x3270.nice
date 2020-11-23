@@ -104,7 +104,6 @@ def main():
     theme_file = Path(sys.argv[1]).name
     print(border)
     print("! .x3270pro file generated using x3270.nice by Soldier of FORTRAN")
-    print("! Original Xresource file: '{}'".format(theme_file))
     print("! Copy and paste this output to ~/.x3270pro")
 
     # xterm/Xresource colors
@@ -203,7 +202,7 @@ def main():
     defines = {}
 
     print(border)
-    print("! {:<23} ".format("Original Xresource file:"))
+    print("! Original Xresource file: '{}'".format(theme_file))
     print(border)
 
     with open(sys.argv[1], 'r') as f:
@@ -212,7 +211,7 @@ def main():
             if l.isspace():
                 continue
             try:
-                name = line.strip().split()[0]
+                name = line.strip().replace(":"," ").split()[0]
                 if "*" in name:
                     #for weird urxvt rules like URxvt*color1
                     name = name[name.find("*"):]
@@ -227,7 +226,7 @@ def main():
                 if name in color_names:
                     print("!", line.replace('!','').strip())
                     try:
-                        color = line.split()[1].replace('[background_opacity]','')
+                        color = line.strip().replace(":"," ").split()[1].replace('[background_opacity]','')
                         if color in defines:
                             color = defines[color]
                         x3270colors[name].append(color)
