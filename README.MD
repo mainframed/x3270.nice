@@ -12,7 +12,7 @@ These themes have been converted using this script from https://github.com/mbado
 
 ### 3024 Day
 
-![3024 Day](.//3024 Day.png?raw=true)
+![3024 Day](screenshots/3024 Day.png?raw=true)
 
 ### 3024 Night
 
