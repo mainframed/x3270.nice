@@ -1,0 +1,164 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'base16-solarized-light-256.Xresources'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 
+! --------------------------------------------------
+! Base16 Solarized Light
+! Scheme: Ethan Schoonover (http://ethanschoonover.com/solarized)
+! #define base00 #fdf6e3
+! #define base01 #eee8d5
+! #define base02 #93a1a1
+! #define base03 #839496
+! #define base04 #657b83
+! #define base05 #586e75
+! #define base06 #073642
+! #define base07 #002b36
+! #define base08 #dc322f
+! #define base09 #cb4b16
+! #define base0A #b58900
+! #define base0B #859900
+! #define base0C #2aa198
+! #define base0D #268bd2
+! #define base0E #6c71c4
+! #define base0F #d33682
+! *foreground:   base05
+! *background:   [background_opacity]base00
+! *background:   base00
+! *color0:       base00
+! *color1:       base08
+! *color2:       base0B
+! *color3:       base0A
+! *color4:       base0D
+! *color5:       base0E
+! *color6:       base0C
+! *color7:       base05
+! *color8:       base03
+! *color9:       base08
+! *color10:      base0B
+! *color11:      base0A
+! *color12:      base0D
+! *color13:      base0E
+! *color14:      base0C
+! *color15:      base07
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  base16-solarized-light-256: base16-solarized-light-256
+! --------------------------------------------------
+! Generating base16-solarized-light-256 .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #586e75
+x3270*dialog*foreground                   : #586e75
+x3270.aboutPopup*icon.foreground          : #586e75
+x3270.keypadForeground                    : #586e75
+x3270*menuBarContainer.foreground         : #586e75
+x3270*fileMenuButton*foreground           : #586e75
+x3270*optionsMenuButton*foreground        : #586e75
+x3270*connectMenuButton*foreground        : #586e75
+x3270*reconnectButton*foreground          : #586e75
+x3270*macrosMenuButton*foreground         : #586e75
+x3270*keypadButton*foreground             : #586e75
+x3270*fileMenu*foreground                 : #586e75
+x3270*exitMenu*foreground                 : #586e75
+x3270*optionsMenu*foreground              : #586e75
+x3270*hostMenu*foreground                 : #586e75
+x3270*reconnect*foreground                : #586e75
+x3270*macrosMenu*foreground               : #586e75
+x3270*togglesMenu*foreground              : #586e75
+x3270*fontsMenu*foreground                : #586e75
+x3270*modelsMenu*foreground               : #586e75
+x3270*colorsMenu*foreground               : #586e75
+x3270*charsetMenu*foreground              : #586e75
+x3270*dialog*value*foreground             : #586e75
+x3270*dialog*foreground                   : #586e75
+x3270*dialog*confirmButton.foreground     : #586e75
+x3270*dialog*confirm2Button.foreground    : #586e75
+3270*dialog*cancelButton.foreground       : #586e75
+x3270.ftProgressPopup*filename.foreground : #586e75
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #dc322f
+x3270*dialog*cancelButton.foreground      : #dc322f
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #fdf6e3
+x3270*menuBarContainer.background         : #fdf6e3
+x3270*fileMenuButton*background           : #fdf6e3
+x3270*optionsMenuButton*background        : #fdf6e3
+x3270*connectMenuButton*background        : #fdf6e3
+x3270*reconnectButton*background          : #fdf6e3
+x3270*macrosMenuButton*background         : #fdf6e3
+x3270*keypadButton*background             : #fdf6e3
+x3270*fileMenu*background                 : #fdf6e3
+x3270*exitMenu*background                 : #fdf6e3
+x3270*optionsMenu*background              : #fdf6e3
+x3270*hostMenu*background                 : #fdf6e3
+x3270*reconnect*background                : #fdf6e3
+x3270*macrosMenu*background               : #fdf6e3
+x3270*togglesMenu*background              : #fdf6e3
+x3270*fontsMenu*background                : #fdf6e3
+x3270*modelsMenu*background               : #fdf6e3
+x3270*colorsMenu*background               : #fdf6e3
+x3270*charsetMenu*background              : #fdf6e3
+x3270*dialog*value*background             : #fdf6e3
+x3270*dialog*background                   : #fdf6e3
+x3270*dialog*confirmButton.background     : #fdf6e3
+x3270*dialog*confirm2Button.background    : #fdf6e3
+3270*dialog*cancelButton.background       : #fdf6e3
+x3270.ftProgressPopup*filename.background : #fdf6e3
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #586e75
+x3270*macrosMenuButton*borderColor        : #586e75
+x3270*fileMenu.borderColor                : #586e75
+x3270*exitMenu.borderColor                : #586e75
+x3270*optionsMenu.borderColor             : #586e75
+x3270*hostMenu.borderColor                : #586e75
+x3270*macrosMenu.borderColor              : #586e75
+x3270*togglesMenu.borderColor             : #586e75
+x3270*fontsMenu.borderColor               : #586e75
+x3270*modelsMenu.borderColor              : #586e75
+x3270*colorsMenu.borderColor              : #586e75
+x3270*charsetMenu.borderColor             : #586e75
+x3270*confirmButton.borderColor           : #586e75
+x3270*confirmButton.borderColor           : #586e75
+x3270*confirm2Button.borderColor          : #586e75
+x3270*cancelButton.borderColor            : #586e75
+x3270.ftProgressPopup*filename.borderColor: #586e75
+x3270*fileMenuButton*borderColor          : #fdf6e3
+x3270*optionsMenuButton*borderColor       : #fdf6e3
+x3270*connectMenuButton*borderColor       : #fdf6e3
+x3270*menuBarContainer.borderColor        : #fdf6e3
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #586e75
+x3270*value.foreground                    : #586e75
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: base16-solarized-light-256
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.base16-solarized-light-256: \
+   #fdf6e3 #268bd2 #dc322f #6c71c4 \
+   #859900 #2aa198 #b58900 #586e75 \
+   #fdf6e3 #268bd2 #b58900 #6c71c4 \
+   #859900 #2aa198 #839496 #586e75 \
+   white #fdf6e3 #839496 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

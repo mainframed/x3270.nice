@@ -1,0 +1,162 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'base16-github.Xresources'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 
+! --------------------------------------------------
+! Base16 Github
+! Scheme: Defman21
+! #define base00 #ffffff
+! #define base01 #f5f5f5
+! #define base02 #c8c8fa
+! #define base03 #969896
+! #define base04 #e8e8e8
+! #define base05 #333333
+! #define base06 #ffffff
+! #define base07 #ffffff
+! #define base08 #ed6a43
+! #define base09 #0086b3
+! #define base0A #795da3
+! #define base0B #183691
+! #define base0C #183691
+! #define base0D #795da3
+! #define base0E #a71d5d
+! #define base0F #333333
+! *foreground:   base05
+! *background:   [background_opacity]base00
+! *background:   base00
+! *color0:       base00
+! *color1:       base08
+! *color2:       base0B
+! *color3:       base0A
+! *color4:       base0D
+! *color5:       base0E
+! *color6:       base0C
+! *color7:       base05
+! *color8:       base03
+! *color9:       base09
+! *color10:      base01
+! *color11:      base02
+! *color12:      base04
+! *color13:      base06
+! *color14:      base0F
+! *color15:      base07
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  base16-github: base16-github
+! --------------------------------------------------
+! Generating base16-github .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #333333
+x3270*dialog*foreground                   : #333333
+x3270.aboutPopup*icon.foreground          : #333333
+x3270.keypadForeground                    : #333333
+x3270*menuBarContainer.foreground         : #333333
+x3270*fileMenuButton*foreground           : #333333
+x3270*optionsMenuButton*foreground        : #333333
+x3270*connectMenuButton*foreground        : #333333
+x3270*reconnectButton*foreground          : #333333
+x3270*macrosMenuButton*foreground         : #333333
+x3270*keypadButton*foreground             : #333333
+x3270*fileMenu*foreground                 : #333333
+x3270*exitMenu*foreground                 : #333333
+x3270*optionsMenu*foreground              : #333333
+x3270*hostMenu*foreground                 : #333333
+x3270*reconnect*foreground                : #333333
+x3270*macrosMenu*foreground               : #333333
+x3270*togglesMenu*foreground              : #333333
+x3270*fontsMenu*foreground                : #333333
+x3270*modelsMenu*foreground               : #333333
+x3270*colorsMenu*foreground               : #333333
+x3270*charsetMenu*foreground              : #333333
+x3270*dialog*value*foreground             : #333333
+x3270*dialog*foreground                   : #333333
+x3270*dialog*confirmButton.foreground     : #333333
+x3270*dialog*confirm2Button.foreground    : #333333
+3270*dialog*cancelButton.foreground       : #333333
+x3270.ftProgressPopup*filename.foreground : #333333
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #0086b3
+x3270*dialog*cancelButton.foreground      : #0086b3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #ffffff
+x3270*menuBarContainer.background         : #ffffff
+x3270*fileMenuButton*background           : #ffffff
+x3270*optionsMenuButton*background        : #ffffff
+x3270*connectMenuButton*background        : #ffffff
+x3270*reconnectButton*background          : #ffffff
+x3270*macrosMenuButton*background         : #ffffff
+x3270*keypadButton*background             : #ffffff
+x3270*fileMenu*background                 : #ffffff
+x3270*exitMenu*background                 : #ffffff
+x3270*optionsMenu*background              : #ffffff
+x3270*hostMenu*background                 : #ffffff
+x3270*reconnect*background                : #ffffff
+x3270*macrosMenu*background               : #ffffff
+x3270*togglesMenu*background              : #ffffff
+x3270*fontsMenu*background                : #ffffff
+x3270*modelsMenu*background               : #ffffff
+x3270*colorsMenu*background               : #ffffff
+x3270*charsetMenu*background              : #ffffff
+x3270*dialog*value*background             : #ffffff
+x3270*dialog*background                   : #ffffff
+x3270*dialog*confirmButton.background     : #ffffff
+x3270*dialog*confirm2Button.background    : #ffffff
+3270*dialog*cancelButton.background       : #ffffff
+x3270.ftProgressPopup*filename.background : #ffffff
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #333333
+x3270*macrosMenuButton*borderColor        : #333333
+x3270*fileMenu.borderColor                : #333333
+x3270*exitMenu.borderColor                : #333333
+x3270*optionsMenu.borderColor             : #333333
+x3270*hostMenu.borderColor                : #333333
+x3270*macrosMenu.borderColor              : #333333
+x3270*togglesMenu.borderColor             : #333333
+x3270*fontsMenu.borderColor               : #333333
+x3270*modelsMenu.borderColor              : #333333
+x3270*colorsMenu.borderColor              : #333333
+x3270*charsetMenu.borderColor             : #333333
+x3270*confirmButton.borderColor           : #333333
+x3270*confirmButton.borderColor           : #333333
+x3270*confirm2Button.borderColor          : #333333
+x3270*cancelButton.borderColor            : #333333
+x3270.ftProgressPopup*filename.borderColor: #333333
+x3270*fileMenuButton*borderColor          : #ffffff
+x3270*optionsMenuButton*borderColor       : #ffffff
+x3270*connectMenuButton*borderColor       : #ffffff
+x3270*menuBarContainer.borderColor        : #ffffff
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #333333
+x3270*value.foreground                    : #333333
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: base16-github
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.base16-github: \
+   #ffffff #e8e8e8 #0086b3 #ffffff \
+   #f5f5f5 #333333 #c8c8fa #333333 \
+   #ffffff #795da3 #795da3 #a71d5d \
+   #183691 #183691 #969896 #333333 \
+   white #ffffff #969896 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------
