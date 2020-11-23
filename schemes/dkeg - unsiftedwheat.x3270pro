@@ -1,0 +1,147 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'dkeg - unsiftedwheat'
+! --------------------------------------------------
+! dkeg - unsiftedwheat
+! *background: #170F0D
+! *background: #170F0D
+! *foreground: #746C48
+! *foreground: #746C48
+! *background: #111111
+! *foreground: #d3d3d3
+! *color0: #382C2F
+! *color1: #48393A
+! *color2: #65534D
+! *color3: #79665A
+! *color4: #836E5E
+! *color5: #8E7766
+! *color6: #917781
+! *color7: #9A846D
+! *color8: #AC9377
+! *color9: #BAA17E
+! *color10: #BCA282
+! *color11: #C1A67E
+! *color12: #CFB48E
+! *color13: #D1BAA3
+! *color14: #DFC39B
+! *color15: #EED8C4
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  dkeg - unsiftedwheat: dkeg-unsiftedwheat
+! --------------------------------------------------
+! Generating dkeg - unsiftedwheat .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #746C48
+x3270*dialog*foreground                   : #746C48
+x3270.aboutPopup*icon.foreground          : #746C48
+x3270.keypadForeground                    : #746C48
+x3270*menuBarContainer.foreground         : #746C48
+x3270*fileMenuButton*foreground           : #746C48
+x3270*optionsMenuButton*foreground        : #746C48
+x3270*connectMenuButton*foreground        : #746C48
+x3270*reconnectButton*foreground          : #746C48
+x3270*macrosMenuButton*foreground         : #746C48
+x3270*keypadButton*foreground             : #746C48
+x3270*fileMenu*foreground                 : #746C48
+x3270*exitMenu*foreground                 : #746C48
+x3270*optionsMenu*foreground              : #746C48
+x3270*hostMenu*foreground                 : #746C48
+x3270*reconnect*foreground                : #746C48
+x3270*macrosMenu*foreground               : #746C48
+x3270*togglesMenu*foreground              : #746C48
+x3270*fontsMenu*foreground                : #746C48
+x3270*modelsMenu*foreground               : #746C48
+x3270*colorsMenu*foreground               : #746C48
+x3270*charsetMenu*foreground              : #746C48
+x3270*dialog*value*foreground             : #746C48
+x3270*dialog*foreground                   : #746C48
+x3270*dialog*confirmButton.foreground     : #746C48
+x3270*dialog*confirm2Button.foreground    : #746C48
+3270*dialog*cancelButton.foreground       : #746C48
+x3270.ftProgressPopup*filename.foreground : #746C48
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #BAA17E
+x3270*dialog*cancelButton.foreground      : #BAA17E
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #170F0D
+x3270*menuBarContainer.background         : #170F0D
+x3270*fileMenuButton*background           : #170F0D
+x3270*optionsMenuButton*background        : #170F0D
+x3270*connectMenuButton*background        : #170F0D
+x3270*reconnectButton*background          : #170F0D
+x3270*macrosMenuButton*background         : #170F0D
+x3270*keypadButton*background             : #170F0D
+x3270*fileMenu*background                 : #170F0D
+x3270*exitMenu*background                 : #170F0D
+x3270*optionsMenu*background              : #170F0D
+x3270*hostMenu*background                 : #170F0D
+x3270*reconnect*background                : #170F0D
+x3270*macrosMenu*background               : #170F0D
+x3270*togglesMenu*background              : #170F0D
+x3270*fontsMenu*background                : #170F0D
+x3270*modelsMenu*background               : #170F0D
+x3270*colorsMenu*background               : #170F0D
+x3270*charsetMenu*background              : #170F0D
+x3270*dialog*value*background             : #170F0D
+x3270*dialog*background                   : #170F0D
+x3270*dialog*confirmButton.background     : #170F0D
+x3270*dialog*confirm2Button.background    : #170F0D
+3270*dialog*cancelButton.background       : #170F0D
+x3270.ftProgressPopup*filename.background : #170F0D
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #746C48
+x3270*macrosMenuButton*borderColor        : #746C48
+x3270*fileMenu.borderColor                : #746C48
+x3270*exitMenu.borderColor                : #746C48
+x3270*optionsMenu.borderColor             : #746C48
+x3270*hostMenu.borderColor                : #746C48
+x3270*macrosMenu.borderColor              : #746C48
+x3270*togglesMenu.borderColor             : #746C48
+x3270*fontsMenu.borderColor               : #746C48
+x3270*modelsMenu.borderColor              : #746C48
+x3270*colorsMenu.borderColor              : #746C48
+x3270*charsetMenu.borderColor             : #746C48
+x3270*confirmButton.borderColor           : #746C48
+x3270*confirmButton.borderColor           : #746C48
+x3270*confirm2Button.borderColor          : #746C48
+x3270*cancelButton.borderColor            : #746C48
+x3270.ftProgressPopup*filename.borderColor: #746C48
+x3270*fileMenuButton*borderColor          : #170F0D
+x3270*optionsMenuButton*borderColor       : #170F0D
+x3270*connectMenuButton*borderColor       : #170F0D
+x3270*menuBarContainer.borderColor        : #170F0D
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #746C48
+x3270*value.foreground                    : #746C48
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: dkeg-unsiftedwheat
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.dkeg-unsiftedwheat: \
+   #382C2F #CFB48E #BAA17E #D1BAA3 \
+   #BCA282 #DFC39B #C1A67E #746C48 \
+   #382C2F #836E5E #79665A #8E7766 \
+   #65534D #917781 #AC9377 #9A846D \
+   white #170F0D #AC9377 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

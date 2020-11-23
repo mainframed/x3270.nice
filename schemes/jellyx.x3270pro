@@ -1,0 +1,145 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'jellyx'
+! --------------------------------------------------
+! :: JellyX :: A delicious collision of Jellybeans and Xoria256
+! heavily based on bubblegum, by Kyla
+! https://bbs.archlinux.org/viewtopic.php?pid=1033513#p1033513
+! *color0: #000000
+! *color1: #d75f5f
+! *color2: #00af87
+! *color3: #afd75f
+! *color4: #5fafd7
+! *color5: #8787af
+! *color6: #00afd7
+! *color7: #ffffff
+! *color8: #0a0a0a
+! *color9: #d787af
+! *color10: #5faf5f
+! *color11: #d7af5f
+! *color12: #87afd7
+! *color13: #8787d7
+! *color14: #87afff
+! *color15: #ffffff
+! *background: #000000
+! *foreground: #a8a8a8
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  jellyx: jellyx
+! --------------------------------------------------
+! Generating jellyx .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #a8a8a8
+x3270*dialog*foreground                   : #a8a8a8
+x3270.aboutPopup*icon.foreground          : #a8a8a8
+x3270.keypadForeground                    : #a8a8a8
+x3270*menuBarContainer.foreground         : #a8a8a8
+x3270*fileMenuButton*foreground           : #a8a8a8
+x3270*optionsMenuButton*foreground        : #a8a8a8
+x3270*connectMenuButton*foreground        : #a8a8a8
+x3270*reconnectButton*foreground          : #a8a8a8
+x3270*macrosMenuButton*foreground         : #a8a8a8
+x3270*keypadButton*foreground             : #a8a8a8
+x3270*fileMenu*foreground                 : #a8a8a8
+x3270*exitMenu*foreground                 : #a8a8a8
+x3270*optionsMenu*foreground              : #a8a8a8
+x3270*hostMenu*foreground                 : #a8a8a8
+x3270*reconnect*foreground                : #a8a8a8
+x3270*macrosMenu*foreground               : #a8a8a8
+x3270*togglesMenu*foreground              : #a8a8a8
+x3270*fontsMenu*foreground                : #a8a8a8
+x3270*modelsMenu*foreground               : #a8a8a8
+x3270*colorsMenu*foreground               : #a8a8a8
+x3270*charsetMenu*foreground              : #a8a8a8
+x3270*dialog*value*foreground             : #a8a8a8
+x3270*dialog*foreground                   : #a8a8a8
+x3270*dialog*confirmButton.foreground     : #a8a8a8
+x3270*dialog*confirm2Button.foreground    : #a8a8a8
+3270*dialog*cancelButton.foreground       : #a8a8a8
+x3270.ftProgressPopup*filename.foreground : #a8a8a8
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #d787af
+x3270*dialog*cancelButton.foreground      : #d787af
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000000
+x3270*menuBarContainer.background         : #000000
+x3270*fileMenuButton*background           : #000000
+x3270*optionsMenuButton*background        : #000000
+x3270*connectMenuButton*background        : #000000
+x3270*reconnectButton*background          : #000000
+x3270*macrosMenuButton*background         : #000000
+x3270*keypadButton*background             : #000000
+x3270*fileMenu*background                 : #000000
+x3270*exitMenu*background                 : #000000
+x3270*optionsMenu*background              : #000000
+x3270*hostMenu*background                 : #000000
+x3270*reconnect*background                : #000000
+x3270*macrosMenu*background               : #000000
+x3270*togglesMenu*background              : #000000
+x3270*fontsMenu*background                : #000000
+x3270*modelsMenu*background               : #000000
+x3270*colorsMenu*background               : #000000
+x3270*charsetMenu*background              : #000000
+x3270*dialog*value*background             : #000000
+x3270*dialog*background                   : #000000
+x3270*dialog*confirmButton.background     : #000000
+x3270*dialog*confirm2Button.background    : #000000
+3270*dialog*cancelButton.background       : #000000
+x3270.ftProgressPopup*filename.background : #000000
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #a8a8a8
+x3270*macrosMenuButton*borderColor        : #a8a8a8
+x3270*fileMenu.borderColor                : #a8a8a8
+x3270*exitMenu.borderColor                : #a8a8a8
+x3270*optionsMenu.borderColor             : #a8a8a8
+x3270*hostMenu.borderColor                : #a8a8a8
+x3270*macrosMenu.borderColor              : #a8a8a8
+x3270*togglesMenu.borderColor             : #a8a8a8
+x3270*fontsMenu.borderColor               : #a8a8a8
+x3270*modelsMenu.borderColor              : #a8a8a8
+x3270*colorsMenu.borderColor              : #a8a8a8
+x3270*charsetMenu.borderColor             : #a8a8a8
+x3270*confirmButton.borderColor           : #a8a8a8
+x3270*confirmButton.borderColor           : #a8a8a8
+x3270*confirm2Button.borderColor          : #a8a8a8
+x3270*cancelButton.borderColor            : #a8a8a8
+x3270.ftProgressPopup*filename.borderColor: #a8a8a8
+x3270*fileMenuButton*borderColor          : #000000
+x3270*optionsMenuButton*borderColor       : #000000
+x3270*connectMenuButton*borderColor       : #000000
+x3270*menuBarContainer.borderColor        : #000000
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #a8a8a8
+x3270*value.foreground                    : #a8a8a8
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: jellyx
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.jellyx: \
+   #000000 #87afd7 #d787af #8787d7 \
+   #5faf5f #87afff #d7af5f #a8a8a8 \
+   #000000 #5fafd7 #afd75f #8787af \
+   #00af87 #00afd7 #0a0a0a #ffffff \
+   white #000000 #0a0a0a 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

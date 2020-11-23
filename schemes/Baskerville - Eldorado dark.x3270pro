@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Baskerville - Eldorado dark'
+! --------------------------------------------------
+! Baskerville - Eldorado dark
+! *background:  #292929
+! *foreground:  #A2A2A2
+! BLACK
+! *color0:      #4E4E4E
+! *color8:      #777777
+! WHITE
+! *color7:      #CFCFCF
+! *color15:     #FFFFFF
+! RED
+! *color1:      #A9635D
+! *color9:      #FFBBB2
+! YELLOW
+! *color3:      #84763D
+! *color11:     #E0CE91
+! GREEN
+! *color2:      #468459
+! *color10:     #9DDEAF
+! CYAN
+! *color6:      #008592
+! *color14:     #79E0ED
+! BLUE
+! *color4:      #5879AF
+! *color12:     #B3D1FF
+! MAGENTA
+! *color5:      #9C6594
+! *color13:     #FABDF0
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Baskerville - Eldorado dark: Baskerville-Eldoradodark
+! --------------------------------------------------
+! Generating Baskerville - Eldorado dark .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #A2A2A2
+x3270*dialog*foreground                   : #A2A2A2
+x3270.aboutPopup*icon.foreground          : #A2A2A2
+x3270.keypadForeground                    : #A2A2A2
+x3270*menuBarContainer.foreground         : #A2A2A2
+x3270*fileMenuButton*foreground           : #A2A2A2
+x3270*optionsMenuButton*foreground        : #A2A2A2
+x3270*connectMenuButton*foreground        : #A2A2A2
+x3270*reconnectButton*foreground          : #A2A2A2
+x3270*macrosMenuButton*foreground         : #A2A2A2
+x3270*keypadButton*foreground             : #A2A2A2
+x3270*fileMenu*foreground                 : #A2A2A2
+x3270*exitMenu*foreground                 : #A2A2A2
+x3270*optionsMenu*foreground              : #A2A2A2
+x3270*hostMenu*foreground                 : #A2A2A2
+x3270*reconnect*foreground                : #A2A2A2
+x3270*macrosMenu*foreground               : #A2A2A2
+x3270*togglesMenu*foreground              : #A2A2A2
+x3270*fontsMenu*foreground                : #A2A2A2
+x3270*modelsMenu*foreground               : #A2A2A2
+x3270*colorsMenu*foreground               : #A2A2A2
+x3270*charsetMenu*foreground              : #A2A2A2
+x3270*dialog*value*foreground             : #A2A2A2
+x3270*dialog*foreground                   : #A2A2A2
+x3270*dialog*confirmButton.foreground     : #A2A2A2
+x3270*dialog*confirm2Button.foreground    : #A2A2A2
+3270*dialog*cancelButton.foreground       : #A2A2A2
+x3270.ftProgressPopup*filename.foreground : #A2A2A2
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #FFBBB2
+x3270*dialog*cancelButton.foreground      : #FFBBB2
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #292929
+x3270*menuBarContainer.background         : #292929
+x3270*fileMenuButton*background           : #292929
+x3270*optionsMenuButton*background        : #292929
+x3270*connectMenuButton*background        : #292929
+x3270*reconnectButton*background          : #292929
+x3270*macrosMenuButton*background         : #292929
+x3270*keypadButton*background             : #292929
+x3270*fileMenu*background                 : #292929
+x3270*exitMenu*background                 : #292929
+x3270*optionsMenu*background              : #292929
+x3270*hostMenu*background                 : #292929
+x3270*reconnect*background                : #292929
+x3270*macrosMenu*background               : #292929
+x3270*togglesMenu*background              : #292929
+x3270*fontsMenu*background                : #292929
+x3270*modelsMenu*background               : #292929
+x3270*colorsMenu*background               : #292929
+x3270*charsetMenu*background              : #292929
+x3270*dialog*value*background             : #292929
+x3270*dialog*background                   : #292929
+x3270*dialog*confirmButton.background     : #292929
+x3270*dialog*confirm2Button.background    : #292929
+3270*dialog*cancelButton.background       : #292929
+x3270.ftProgressPopup*filename.background : #292929
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #A2A2A2
+x3270*macrosMenuButton*borderColor        : #A2A2A2
+x3270*fileMenu.borderColor                : #A2A2A2
+x3270*exitMenu.borderColor                : #A2A2A2
+x3270*optionsMenu.borderColor             : #A2A2A2
+x3270*hostMenu.borderColor                : #A2A2A2
+x3270*macrosMenu.borderColor              : #A2A2A2
+x3270*togglesMenu.borderColor             : #A2A2A2
+x3270*fontsMenu.borderColor               : #A2A2A2
+x3270*modelsMenu.borderColor              : #A2A2A2
+x3270*colorsMenu.borderColor              : #A2A2A2
+x3270*charsetMenu.borderColor             : #A2A2A2
+x3270*confirmButton.borderColor           : #A2A2A2
+x3270*confirmButton.borderColor           : #A2A2A2
+x3270*confirm2Button.borderColor          : #A2A2A2
+x3270*cancelButton.borderColor            : #A2A2A2
+x3270.ftProgressPopup*filename.borderColor: #A2A2A2
+x3270*fileMenuButton*borderColor          : #292929
+x3270*optionsMenuButton*borderColor       : #292929
+x3270*connectMenuButton*borderColor       : #292929
+x3270*menuBarContainer.borderColor        : #292929
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #A2A2A2
+x3270*value.foreground                    : #A2A2A2
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Baskerville-Eldoradodark
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Baskerville-Eldoradodark: \
+   #4E4E4E #B3D1FF #FFBBB2 #FABDF0 \
+   #9DDEAF #79E0ED #E0CE91 #A2A2A2 \
+   #4E4E4E #5879AF #84763D #9C6594 \
+   #468459 #008592 #777777 #CFCFCF \
+   white #292929 #777777 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

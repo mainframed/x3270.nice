@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'light-roast'
+! --------------------------------------------------
+! *.foreground:   #e8daa9
+! *.background:   #442c2c
+! *.color0:       #1f1414
+! *.color8:       #442c2c
+! *.color1:       #aa706e
+! *.color9:       #b99d85
+! *.color2:       #c09b71
+! *.color10:      #d0b081
+! *.color3:       #663e58
+! *.color11:      #996267
+! *.color4:       #bca883
+! *.color12:      #d9ca93
+! *.color5:       #b5876d
+! *.color13:      #cba370
+! *.color6:       #28264d
+! *.color14:      #463f5e
+! *.color7:       #e8daa9
+! *.color15:      #f4edd4
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  light-roast: light-roast
+! --------------------------------------------------
+! Generating light-roast .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #e8daa9
+x3270*dialog*foreground                   : #e8daa9
+x3270.aboutPopup*icon.foreground          : #e8daa9
+x3270.keypadForeground                    : #e8daa9
+x3270*menuBarContainer.foreground         : #e8daa9
+x3270*fileMenuButton*foreground           : #e8daa9
+x3270*optionsMenuButton*foreground        : #e8daa9
+x3270*connectMenuButton*foreground        : #e8daa9
+x3270*reconnectButton*foreground          : #e8daa9
+x3270*macrosMenuButton*foreground         : #e8daa9
+x3270*keypadButton*foreground             : #e8daa9
+x3270*fileMenu*foreground                 : #e8daa9
+x3270*exitMenu*foreground                 : #e8daa9
+x3270*optionsMenu*foreground              : #e8daa9
+x3270*hostMenu*foreground                 : #e8daa9
+x3270*reconnect*foreground                : #e8daa9
+x3270*macrosMenu*foreground               : #e8daa9
+x3270*togglesMenu*foreground              : #e8daa9
+x3270*fontsMenu*foreground                : #e8daa9
+x3270*modelsMenu*foreground               : #e8daa9
+x3270*colorsMenu*foreground               : #e8daa9
+x3270*charsetMenu*foreground              : #e8daa9
+x3270*dialog*value*foreground             : #e8daa9
+x3270*dialog*foreground                   : #e8daa9
+x3270*dialog*confirmButton.foreground     : #e8daa9
+x3270*dialog*confirm2Button.foreground    : #e8daa9
+3270*dialog*cancelButton.foreground       : #e8daa9
+x3270.ftProgressPopup*filename.foreground : #e8daa9
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #b99d85
+x3270*dialog*cancelButton.foreground      : #b99d85
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #442c2c
+x3270*menuBarContainer.background         : #442c2c
+x3270*fileMenuButton*background           : #442c2c
+x3270*optionsMenuButton*background        : #442c2c
+x3270*connectMenuButton*background        : #442c2c
+x3270*reconnectButton*background          : #442c2c
+x3270*macrosMenuButton*background         : #442c2c
+x3270*keypadButton*background             : #442c2c
+x3270*fileMenu*background                 : #442c2c
+x3270*exitMenu*background                 : #442c2c
+x3270*optionsMenu*background              : #442c2c
+x3270*hostMenu*background                 : #442c2c
+x3270*reconnect*background                : #442c2c
+x3270*macrosMenu*background               : #442c2c
+x3270*togglesMenu*background              : #442c2c
+x3270*fontsMenu*background                : #442c2c
+x3270*modelsMenu*background               : #442c2c
+x3270*colorsMenu*background               : #442c2c
+x3270*charsetMenu*background              : #442c2c
+x3270*dialog*value*background             : #442c2c
+x3270*dialog*background                   : #442c2c
+x3270*dialog*confirmButton.background     : #442c2c
+x3270*dialog*confirm2Button.background    : #442c2c
+3270*dialog*cancelButton.background       : #442c2c
+x3270.ftProgressPopup*filename.background : #442c2c
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #e8daa9
+x3270*macrosMenuButton*borderColor        : #e8daa9
+x3270*fileMenu.borderColor                : #e8daa9
+x3270*exitMenu.borderColor                : #e8daa9
+x3270*optionsMenu.borderColor             : #e8daa9
+x3270*hostMenu.borderColor                : #e8daa9
+x3270*macrosMenu.borderColor              : #e8daa9
+x3270*togglesMenu.borderColor             : #e8daa9
+x3270*fontsMenu.borderColor               : #e8daa9
+x3270*modelsMenu.borderColor              : #e8daa9
+x3270*colorsMenu.borderColor              : #e8daa9
+x3270*charsetMenu.borderColor             : #e8daa9
+x3270*confirmButton.borderColor           : #e8daa9
+x3270*confirmButton.borderColor           : #e8daa9
+x3270*confirm2Button.borderColor          : #e8daa9
+x3270*cancelButton.borderColor            : #e8daa9
+x3270.ftProgressPopup*filename.borderColor: #e8daa9
+x3270*fileMenuButton*borderColor          : #442c2c
+x3270*optionsMenuButton*borderColor       : #442c2c
+x3270*connectMenuButton*borderColor       : #442c2c
+x3270*menuBarContainer.borderColor        : #442c2c
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #e8daa9
+x3270*value.foreground                    : #e8daa9
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: light-roast
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.light-roast: \
+   #1f1414 #d9ca93 #b99d85 #cba370 \
+   #d0b081 #463f5e #996267 #e8daa9 \
+   #1f1414 #bca883 #663e58 #b5876d \
+   #c09b71 #28264d #442c2c #e8daa9 \
+   white #442c2c #442c2c 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

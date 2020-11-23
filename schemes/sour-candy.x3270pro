@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'sour-candy'
+! --------------------------------------------------
+! *.foreground:   #c7c8be
+! *.background:   #231d20
+! *.color0:       #231d20
+! *.color8:       #1d171a
+! *.color1:       #c81c61
+! *.color9:       #db0057
+! *.color2:       #1ca6c8
+! *.color10:      #22c8f1
+! *.color3:       #1cc872
+! *.color11:      #21e884
+! *.color4:       #c8681c
+! *.color12:      #e57720
+! *.color5:       #c81ca3
+! *.color13:      #df1fb5
+! *.color6:       #b1c81c
+! *.color14:      #d0eb21
+! *.color7:       #c7c8be
+! *.color15:      #ecede1
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  sour-candy: sour-candy
+! --------------------------------------------------
+! Generating sour-candy .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #c7c8be
+x3270*dialog*foreground                   : #c7c8be
+x3270.aboutPopup*icon.foreground          : #c7c8be
+x3270.keypadForeground                    : #c7c8be
+x3270*menuBarContainer.foreground         : #c7c8be
+x3270*fileMenuButton*foreground           : #c7c8be
+x3270*optionsMenuButton*foreground        : #c7c8be
+x3270*connectMenuButton*foreground        : #c7c8be
+x3270*reconnectButton*foreground          : #c7c8be
+x3270*macrosMenuButton*foreground         : #c7c8be
+x3270*keypadButton*foreground             : #c7c8be
+x3270*fileMenu*foreground                 : #c7c8be
+x3270*exitMenu*foreground                 : #c7c8be
+x3270*optionsMenu*foreground              : #c7c8be
+x3270*hostMenu*foreground                 : #c7c8be
+x3270*reconnect*foreground                : #c7c8be
+x3270*macrosMenu*foreground               : #c7c8be
+x3270*togglesMenu*foreground              : #c7c8be
+x3270*fontsMenu*foreground                : #c7c8be
+x3270*modelsMenu*foreground               : #c7c8be
+x3270*colorsMenu*foreground               : #c7c8be
+x3270*charsetMenu*foreground              : #c7c8be
+x3270*dialog*value*foreground             : #c7c8be
+x3270*dialog*foreground                   : #c7c8be
+x3270*dialog*confirmButton.foreground     : #c7c8be
+x3270*dialog*confirm2Button.foreground    : #c7c8be
+3270*dialog*cancelButton.foreground       : #c7c8be
+x3270.ftProgressPopup*filename.foreground : #c7c8be
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #db0057
+x3270*dialog*cancelButton.foreground      : #db0057
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #231d20
+x3270*menuBarContainer.background         : #231d20
+x3270*fileMenuButton*background           : #231d20
+x3270*optionsMenuButton*background        : #231d20
+x3270*connectMenuButton*background        : #231d20
+x3270*reconnectButton*background          : #231d20
+x3270*macrosMenuButton*background         : #231d20
+x3270*keypadButton*background             : #231d20
+x3270*fileMenu*background                 : #231d20
+x3270*exitMenu*background                 : #231d20
+x3270*optionsMenu*background              : #231d20
+x3270*hostMenu*background                 : #231d20
+x3270*reconnect*background                : #231d20
+x3270*macrosMenu*background               : #231d20
+x3270*togglesMenu*background              : #231d20
+x3270*fontsMenu*background                : #231d20
+x3270*modelsMenu*background               : #231d20
+x3270*colorsMenu*background               : #231d20
+x3270*charsetMenu*background              : #231d20
+x3270*dialog*value*background             : #231d20
+x3270*dialog*background                   : #231d20
+x3270*dialog*confirmButton.background     : #231d20
+x3270*dialog*confirm2Button.background    : #231d20
+3270*dialog*cancelButton.background       : #231d20
+x3270.ftProgressPopup*filename.background : #231d20
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #c7c8be
+x3270*macrosMenuButton*borderColor        : #c7c8be
+x3270*fileMenu.borderColor                : #c7c8be
+x3270*exitMenu.borderColor                : #c7c8be
+x3270*optionsMenu.borderColor             : #c7c8be
+x3270*hostMenu.borderColor                : #c7c8be
+x3270*macrosMenu.borderColor              : #c7c8be
+x3270*togglesMenu.borderColor             : #c7c8be
+x3270*fontsMenu.borderColor               : #c7c8be
+x3270*modelsMenu.borderColor              : #c7c8be
+x3270*colorsMenu.borderColor              : #c7c8be
+x3270*charsetMenu.borderColor             : #c7c8be
+x3270*confirmButton.borderColor           : #c7c8be
+x3270*confirmButton.borderColor           : #c7c8be
+x3270*confirm2Button.borderColor          : #c7c8be
+x3270*cancelButton.borderColor            : #c7c8be
+x3270.ftProgressPopup*filename.borderColor: #c7c8be
+x3270*fileMenuButton*borderColor          : #231d20
+x3270*optionsMenuButton*borderColor       : #231d20
+x3270*connectMenuButton*borderColor       : #231d20
+x3270*menuBarContainer.borderColor        : #231d20
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #c7c8be
+x3270*value.foreground                    : #c7c8be
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: sour-candy
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.sour-candy: \
+   #231d20 #e57720 #db0057 #df1fb5 \
+   #22c8f1 #d0eb21 #21e884 #c7c8be \
+   #231d20 #c8681c #1cc872 #c81ca3 \
+   #1ca6c8 #b1c81c #1d171a #c7c8be \
+   white #231d20 #1d171a 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

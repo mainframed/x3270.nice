@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Muzieca lowcontrast'
+! --------------------------------------------------
+! Muzieca lowcontrast
+! urxvt*background:       #3C3B37
+! urxvt*foreground:       #93a1a1
+! black
+! *color0:  #5F5F5F
+! *color8:  #828282
+! red
+! *color1:  #d96468
+! *color9:  #d98f93
+! green
+! *color2:  #a2d964
+! *color10: #b8d98f
+! yellow
+! *color3:  #d9c964
+! *color11: #d9cf8f
+! blue
+! *color4:  #64a2d9
+! *color12: #8f99d9
+! magenta
+! *color5:  #9a64d9
+! *color13: #b08fd9
+! cyan
+! *color6:  #64d9d5
+! *color14: #8fd9d5
+! white
+! *color7:  #989898
+! *color15: #C5C5C5
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Muzieca lowcontrast: Muziecalowcontrast
+! --------------------------------------------------
+! Generating Muzieca lowcontrast .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #93a1a1
+x3270*dialog*foreground                   : #93a1a1
+x3270.aboutPopup*icon.foreground          : #93a1a1
+x3270.keypadForeground                    : #93a1a1
+x3270*menuBarContainer.foreground         : #93a1a1
+x3270*fileMenuButton*foreground           : #93a1a1
+x3270*optionsMenuButton*foreground        : #93a1a1
+x3270*connectMenuButton*foreground        : #93a1a1
+x3270*reconnectButton*foreground          : #93a1a1
+x3270*macrosMenuButton*foreground         : #93a1a1
+x3270*keypadButton*foreground             : #93a1a1
+x3270*fileMenu*foreground                 : #93a1a1
+x3270*exitMenu*foreground                 : #93a1a1
+x3270*optionsMenu*foreground              : #93a1a1
+x3270*hostMenu*foreground                 : #93a1a1
+x3270*reconnect*foreground                : #93a1a1
+x3270*macrosMenu*foreground               : #93a1a1
+x3270*togglesMenu*foreground              : #93a1a1
+x3270*fontsMenu*foreground                : #93a1a1
+x3270*modelsMenu*foreground               : #93a1a1
+x3270*colorsMenu*foreground               : #93a1a1
+x3270*charsetMenu*foreground              : #93a1a1
+x3270*dialog*value*foreground             : #93a1a1
+x3270*dialog*foreground                   : #93a1a1
+x3270*dialog*confirmButton.foreground     : #93a1a1
+x3270*dialog*confirm2Button.foreground    : #93a1a1
+3270*dialog*cancelButton.foreground       : #93a1a1
+x3270.ftProgressPopup*filename.foreground : #93a1a1
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #d98f93
+x3270*dialog*cancelButton.foreground      : #d98f93
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #3C3B37
+x3270*menuBarContainer.background         : #3C3B37
+x3270*fileMenuButton*background           : #3C3B37
+x3270*optionsMenuButton*background        : #3C3B37
+x3270*connectMenuButton*background        : #3C3B37
+x3270*reconnectButton*background          : #3C3B37
+x3270*macrosMenuButton*background         : #3C3B37
+x3270*keypadButton*background             : #3C3B37
+x3270*fileMenu*background                 : #3C3B37
+x3270*exitMenu*background                 : #3C3B37
+x3270*optionsMenu*background              : #3C3B37
+x3270*hostMenu*background                 : #3C3B37
+x3270*reconnect*background                : #3C3B37
+x3270*macrosMenu*background               : #3C3B37
+x3270*togglesMenu*background              : #3C3B37
+x3270*fontsMenu*background                : #3C3B37
+x3270*modelsMenu*background               : #3C3B37
+x3270*colorsMenu*background               : #3C3B37
+x3270*charsetMenu*background              : #3C3B37
+x3270*dialog*value*background             : #3C3B37
+x3270*dialog*background                   : #3C3B37
+x3270*dialog*confirmButton.background     : #3C3B37
+x3270*dialog*confirm2Button.background    : #3C3B37
+3270*dialog*cancelButton.background       : #3C3B37
+x3270.ftProgressPopup*filename.background : #3C3B37
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #93a1a1
+x3270*macrosMenuButton*borderColor        : #93a1a1
+x3270*fileMenu.borderColor                : #93a1a1
+x3270*exitMenu.borderColor                : #93a1a1
+x3270*optionsMenu.borderColor             : #93a1a1
+x3270*hostMenu.borderColor                : #93a1a1
+x3270*macrosMenu.borderColor              : #93a1a1
+x3270*togglesMenu.borderColor             : #93a1a1
+x3270*fontsMenu.borderColor               : #93a1a1
+x3270*modelsMenu.borderColor              : #93a1a1
+x3270*colorsMenu.borderColor              : #93a1a1
+x3270*charsetMenu.borderColor             : #93a1a1
+x3270*confirmButton.borderColor           : #93a1a1
+x3270*confirmButton.borderColor           : #93a1a1
+x3270*confirm2Button.borderColor          : #93a1a1
+x3270*cancelButton.borderColor            : #93a1a1
+x3270.ftProgressPopup*filename.borderColor: #93a1a1
+x3270*fileMenuButton*borderColor          : #3C3B37
+x3270*optionsMenuButton*borderColor       : #3C3B37
+x3270*connectMenuButton*borderColor       : #3C3B37
+x3270*menuBarContainer.borderColor        : #3C3B37
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #93a1a1
+x3270*value.foreground                    : #93a1a1
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Muziecalowcontrast
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Muziecalowcontrast: \
+   #5F5F5F #8f99d9 #d98f93 #b08fd9 \
+   #b8d98f #8fd9d5 #d9cf8f #93a1a1 \
+   #5F5F5F #64a2d9 #d9c964 #9a64d9 \
+   #a2d964 #64d9d5 #828282 #989898 \
+   white #3C3B37 #828282 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

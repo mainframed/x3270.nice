@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'cinder'
+! --------------------------------------------------
+! *.foreground:   #d7c9c3
+! *.background:   #110e0b
+! *.color0:       #110e0b
+! *.color8:       #1b1714
+! *.color1:       #be5224
+! *.color9:       #a3461f
+! *.color2:       #8d3d1b
+! *.color10:      #5f2912
+! *.color3:       #754029
+! *.color11:      #4c2a1b
+! *.color4:       #84533e
+! *.color12:      #643f2f
+! *.color5:       #a67864
+! *.color13:      #835f4f
+! *.color6:       #c6afa3
+! *.color14:      #9f8c83
+! *.color7:       #e8e1de
+! *.color15:      #d7c9c3
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  cinder: cinder
+! --------------------------------------------------
+! Generating cinder .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #d7c9c3
+x3270*dialog*foreground                   : #d7c9c3
+x3270.aboutPopup*icon.foreground          : #d7c9c3
+x3270.keypadForeground                    : #d7c9c3
+x3270*menuBarContainer.foreground         : #d7c9c3
+x3270*fileMenuButton*foreground           : #d7c9c3
+x3270*optionsMenuButton*foreground        : #d7c9c3
+x3270*connectMenuButton*foreground        : #d7c9c3
+x3270*reconnectButton*foreground          : #d7c9c3
+x3270*macrosMenuButton*foreground         : #d7c9c3
+x3270*keypadButton*foreground             : #d7c9c3
+x3270*fileMenu*foreground                 : #d7c9c3
+x3270*exitMenu*foreground                 : #d7c9c3
+x3270*optionsMenu*foreground              : #d7c9c3
+x3270*hostMenu*foreground                 : #d7c9c3
+x3270*reconnect*foreground                : #d7c9c3
+x3270*macrosMenu*foreground               : #d7c9c3
+x3270*togglesMenu*foreground              : #d7c9c3
+x3270*fontsMenu*foreground                : #d7c9c3
+x3270*modelsMenu*foreground               : #d7c9c3
+x3270*colorsMenu*foreground               : #d7c9c3
+x3270*charsetMenu*foreground              : #d7c9c3
+x3270*dialog*value*foreground             : #d7c9c3
+x3270*dialog*foreground                   : #d7c9c3
+x3270*dialog*confirmButton.foreground     : #d7c9c3
+x3270*dialog*confirm2Button.foreground    : #d7c9c3
+3270*dialog*cancelButton.foreground       : #d7c9c3
+x3270.ftProgressPopup*filename.foreground : #d7c9c3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #a3461f
+x3270*dialog*cancelButton.foreground      : #a3461f
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #110e0b
+x3270*menuBarContainer.background         : #110e0b
+x3270*fileMenuButton*background           : #110e0b
+x3270*optionsMenuButton*background        : #110e0b
+x3270*connectMenuButton*background        : #110e0b
+x3270*reconnectButton*background          : #110e0b
+x3270*macrosMenuButton*background         : #110e0b
+x3270*keypadButton*background             : #110e0b
+x3270*fileMenu*background                 : #110e0b
+x3270*exitMenu*background                 : #110e0b
+x3270*optionsMenu*background              : #110e0b
+x3270*hostMenu*background                 : #110e0b
+x3270*reconnect*background                : #110e0b
+x3270*macrosMenu*background               : #110e0b
+x3270*togglesMenu*background              : #110e0b
+x3270*fontsMenu*background                : #110e0b
+x3270*modelsMenu*background               : #110e0b
+x3270*colorsMenu*background               : #110e0b
+x3270*charsetMenu*background              : #110e0b
+x3270*dialog*value*background             : #110e0b
+x3270*dialog*background                   : #110e0b
+x3270*dialog*confirmButton.background     : #110e0b
+x3270*dialog*confirm2Button.background    : #110e0b
+3270*dialog*cancelButton.background       : #110e0b
+x3270.ftProgressPopup*filename.background : #110e0b
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #d7c9c3
+x3270*macrosMenuButton*borderColor        : #d7c9c3
+x3270*fileMenu.borderColor                : #d7c9c3
+x3270*exitMenu.borderColor                : #d7c9c3
+x3270*optionsMenu.borderColor             : #d7c9c3
+x3270*hostMenu.borderColor                : #d7c9c3
+x3270*macrosMenu.borderColor              : #d7c9c3
+x3270*togglesMenu.borderColor             : #d7c9c3
+x3270*fontsMenu.borderColor               : #d7c9c3
+x3270*modelsMenu.borderColor              : #d7c9c3
+x3270*colorsMenu.borderColor              : #d7c9c3
+x3270*charsetMenu.borderColor             : #d7c9c3
+x3270*confirmButton.borderColor           : #d7c9c3
+x3270*confirmButton.borderColor           : #d7c9c3
+x3270*confirm2Button.borderColor          : #d7c9c3
+x3270*cancelButton.borderColor            : #d7c9c3
+x3270.ftProgressPopup*filename.borderColor: #d7c9c3
+x3270*fileMenuButton*borderColor          : #110e0b
+x3270*optionsMenuButton*borderColor       : #110e0b
+x3270*connectMenuButton*borderColor       : #110e0b
+x3270*menuBarContainer.borderColor        : #110e0b
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #d7c9c3
+x3270*value.foreground                    : #d7c9c3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: cinder
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.cinder: \
+   #110e0b #643f2f #a3461f #835f4f \
+   #5f2912 #9f8c83 #4c2a1b #d7c9c3 \
+   #110e0b #84533e #754029 #a67864 \
+   #8d3d1b #c6afa3 #1b1714 #e8e1de \
+   white #110e0b #1b1714 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

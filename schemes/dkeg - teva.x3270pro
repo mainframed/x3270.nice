@@ -1,0 +1,143 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'dkeg - teva'
+! --------------------------------------------------
+! dkeg - teva
+! *background:       #170F0D
+! *foreground:       #746C48
+! *color0: #191F31
+! *color1: #282E39
+! *color2: #303844
+! *color3: #3B444A
+! *color4: #3C4435
+! *color5: #4E534F
+! *color6: #5D5D35
+! *color7: #66695D
+! *color8: #706D56
+! *color9: #8B7852
+! *color10: #909581
+! *color11: #91703A
+! *color12: #948658
+! *color13: #A19662
+! *color14: #AD9152
+! *color15: #C6A13F
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  dkeg - teva: dkeg-teva
+! --------------------------------------------------
+! Generating dkeg - teva .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #746C48
+x3270*dialog*foreground                   : #746C48
+x3270.aboutPopup*icon.foreground          : #746C48
+x3270.keypadForeground                    : #746C48
+x3270*menuBarContainer.foreground         : #746C48
+x3270*fileMenuButton*foreground           : #746C48
+x3270*optionsMenuButton*foreground        : #746C48
+x3270*connectMenuButton*foreground        : #746C48
+x3270*reconnectButton*foreground          : #746C48
+x3270*macrosMenuButton*foreground         : #746C48
+x3270*keypadButton*foreground             : #746C48
+x3270*fileMenu*foreground                 : #746C48
+x3270*exitMenu*foreground                 : #746C48
+x3270*optionsMenu*foreground              : #746C48
+x3270*hostMenu*foreground                 : #746C48
+x3270*reconnect*foreground                : #746C48
+x3270*macrosMenu*foreground               : #746C48
+x3270*togglesMenu*foreground              : #746C48
+x3270*fontsMenu*foreground                : #746C48
+x3270*modelsMenu*foreground               : #746C48
+x3270*colorsMenu*foreground               : #746C48
+x3270*charsetMenu*foreground              : #746C48
+x3270*dialog*value*foreground             : #746C48
+x3270*dialog*foreground                   : #746C48
+x3270*dialog*confirmButton.foreground     : #746C48
+x3270*dialog*confirm2Button.foreground    : #746C48
+3270*dialog*cancelButton.foreground       : #746C48
+x3270.ftProgressPopup*filename.foreground : #746C48
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #8B7852
+x3270*dialog*cancelButton.foreground      : #8B7852
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #170F0D
+x3270*menuBarContainer.background         : #170F0D
+x3270*fileMenuButton*background           : #170F0D
+x3270*optionsMenuButton*background        : #170F0D
+x3270*connectMenuButton*background        : #170F0D
+x3270*reconnectButton*background          : #170F0D
+x3270*macrosMenuButton*background         : #170F0D
+x3270*keypadButton*background             : #170F0D
+x3270*fileMenu*background                 : #170F0D
+x3270*exitMenu*background                 : #170F0D
+x3270*optionsMenu*background              : #170F0D
+x3270*hostMenu*background                 : #170F0D
+x3270*reconnect*background                : #170F0D
+x3270*macrosMenu*background               : #170F0D
+x3270*togglesMenu*background              : #170F0D
+x3270*fontsMenu*background                : #170F0D
+x3270*modelsMenu*background               : #170F0D
+x3270*colorsMenu*background               : #170F0D
+x3270*charsetMenu*background              : #170F0D
+x3270*dialog*value*background             : #170F0D
+x3270*dialog*background                   : #170F0D
+x3270*dialog*confirmButton.background     : #170F0D
+x3270*dialog*confirm2Button.background    : #170F0D
+3270*dialog*cancelButton.background       : #170F0D
+x3270.ftProgressPopup*filename.background : #170F0D
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #746C48
+x3270*macrosMenuButton*borderColor        : #746C48
+x3270*fileMenu.borderColor                : #746C48
+x3270*exitMenu.borderColor                : #746C48
+x3270*optionsMenu.borderColor             : #746C48
+x3270*hostMenu.borderColor                : #746C48
+x3270*macrosMenu.borderColor              : #746C48
+x3270*togglesMenu.borderColor             : #746C48
+x3270*fontsMenu.borderColor               : #746C48
+x3270*modelsMenu.borderColor              : #746C48
+x3270*colorsMenu.borderColor              : #746C48
+x3270*charsetMenu.borderColor             : #746C48
+x3270*confirmButton.borderColor           : #746C48
+x3270*confirmButton.borderColor           : #746C48
+x3270*confirm2Button.borderColor          : #746C48
+x3270*cancelButton.borderColor            : #746C48
+x3270.ftProgressPopup*filename.borderColor: #746C48
+x3270*fileMenuButton*borderColor          : #170F0D
+x3270*optionsMenuButton*borderColor       : #170F0D
+x3270*connectMenuButton*borderColor       : #170F0D
+x3270*menuBarContainer.borderColor        : #170F0D
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #746C48
+x3270*value.foreground                    : #746C48
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: dkeg-teva
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.dkeg-teva: \
+   #191F31 #948658 #8B7852 #A19662 \
+   #909581 #AD9152 #91703A #746C48 \
+   #191F31 #3C4435 #3B444A #4E534F \
+   #303844 #5D5D35 #706D56 #66695D \
+   white #170F0D #706D56 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

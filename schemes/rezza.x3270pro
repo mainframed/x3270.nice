@@ -1,0 +1,155 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'rezza'
+! --------------------------------------------------
+! ============================
+! colors ripped from rezza
+! http://metawire.org/~rezza/index.php
+! ============================
+! *foreground:     rgb:dd/dd/dd
+! *background:     rgb:22/22/22
+! black
+! *color0:         rgb:19/19/19
+! *color8:         rgb:25/25/25
+! red
+! *color1:         rgb:80/32/32
+! *color9:         rgb:98/2b/2b
+! green
+! *color2:         rgb:5b/76/2f
+! *color10:        rgb:89/b8/3f
+! brown/yellow
+! *color3:         rgb:aa/99/43
+! *color11:        rgb:ef/ef/60
+! blue
+! *color4:         rgb:32/4c/80
+! *color12:        rgb:2b/4f/98
+! magenta
+! *color5:         rgb:70/6c/9a
+! *color13:        rgb:82/6a/b1
+! cyan
+! *color6:         rgb:92/b1/9e
+! *color14:        rgb:a1/cd/cd
+! white
+! *color7:         rgb:ff/ff/ff
+! *color15:        rgb:dd/dd/dd
+! vim: ai:si:et:ts=4:sw=4:ft=xdefaults:
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  rezza: rezza
+! --------------------------------------------------
+! Generating rezza .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : rgb:dd/dd/dd
+x3270*dialog*foreground                   : rgb:dd/dd/dd
+x3270.aboutPopup*icon.foreground          : rgb:dd/dd/dd
+x3270.keypadForeground                    : rgb:dd/dd/dd
+x3270*menuBarContainer.foreground         : rgb:dd/dd/dd
+x3270*fileMenuButton*foreground           : rgb:dd/dd/dd
+x3270*optionsMenuButton*foreground        : rgb:dd/dd/dd
+x3270*connectMenuButton*foreground        : rgb:dd/dd/dd
+x3270*reconnectButton*foreground          : rgb:dd/dd/dd
+x3270*macrosMenuButton*foreground         : rgb:dd/dd/dd
+x3270*keypadButton*foreground             : rgb:dd/dd/dd
+x3270*fileMenu*foreground                 : rgb:dd/dd/dd
+x3270*exitMenu*foreground                 : rgb:dd/dd/dd
+x3270*optionsMenu*foreground              : rgb:dd/dd/dd
+x3270*hostMenu*foreground                 : rgb:dd/dd/dd
+x3270*reconnect*foreground                : rgb:dd/dd/dd
+x3270*macrosMenu*foreground               : rgb:dd/dd/dd
+x3270*togglesMenu*foreground              : rgb:dd/dd/dd
+x3270*fontsMenu*foreground                : rgb:dd/dd/dd
+x3270*modelsMenu*foreground               : rgb:dd/dd/dd
+x3270*colorsMenu*foreground               : rgb:dd/dd/dd
+x3270*charsetMenu*foreground              : rgb:dd/dd/dd
+x3270*dialog*value*foreground             : rgb:dd/dd/dd
+x3270*dialog*foreground                   : rgb:dd/dd/dd
+x3270*dialog*confirmButton.foreground     : rgb:dd/dd/dd
+x3270*dialog*confirm2Button.foreground    : rgb:dd/dd/dd
+3270*dialog*cancelButton.foreground       : rgb:dd/dd/dd
+x3270.ftProgressPopup*filename.foreground : rgb:dd/dd/dd
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : rgb:98/2b/2b
+x3270*dialog*cancelButton.foreground      : rgb:98/2b/2b
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : rgb:22/22/22
+x3270*menuBarContainer.background         : rgb:22/22/22
+x3270*fileMenuButton*background           : rgb:22/22/22
+x3270*optionsMenuButton*background        : rgb:22/22/22
+x3270*connectMenuButton*background        : rgb:22/22/22
+x3270*reconnectButton*background          : rgb:22/22/22
+x3270*macrosMenuButton*background         : rgb:22/22/22
+x3270*keypadButton*background             : rgb:22/22/22
+x3270*fileMenu*background                 : rgb:22/22/22
+x3270*exitMenu*background                 : rgb:22/22/22
+x3270*optionsMenu*background              : rgb:22/22/22
+x3270*hostMenu*background                 : rgb:22/22/22
+x3270*reconnect*background                : rgb:22/22/22
+x3270*macrosMenu*background               : rgb:22/22/22
+x3270*togglesMenu*background              : rgb:22/22/22
+x3270*fontsMenu*background                : rgb:22/22/22
+x3270*modelsMenu*background               : rgb:22/22/22
+x3270*colorsMenu*background               : rgb:22/22/22
+x3270*charsetMenu*background              : rgb:22/22/22
+x3270*dialog*value*background             : rgb:22/22/22
+x3270*dialog*background                   : rgb:22/22/22
+x3270*dialog*confirmButton.background     : rgb:22/22/22
+x3270*dialog*confirm2Button.background    : rgb:22/22/22
+3270*dialog*cancelButton.background       : rgb:22/22/22
+x3270.ftProgressPopup*filename.background : rgb:22/22/22
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : rgb:dd/dd/dd
+x3270*macrosMenuButton*borderColor        : rgb:dd/dd/dd
+x3270*fileMenu.borderColor                : rgb:dd/dd/dd
+x3270*exitMenu.borderColor                : rgb:dd/dd/dd
+x3270*optionsMenu.borderColor             : rgb:dd/dd/dd
+x3270*hostMenu.borderColor                : rgb:dd/dd/dd
+x3270*macrosMenu.borderColor              : rgb:dd/dd/dd
+x3270*togglesMenu.borderColor             : rgb:dd/dd/dd
+x3270*fontsMenu.borderColor               : rgb:dd/dd/dd
+x3270*modelsMenu.borderColor              : rgb:dd/dd/dd
+x3270*colorsMenu.borderColor              : rgb:dd/dd/dd
+x3270*charsetMenu.borderColor             : rgb:dd/dd/dd
+x3270*confirmButton.borderColor           : rgb:dd/dd/dd
+x3270*confirmButton.borderColor           : rgb:dd/dd/dd
+x3270*confirm2Button.borderColor          : rgb:dd/dd/dd
+x3270*cancelButton.borderColor            : rgb:dd/dd/dd
+x3270.ftProgressPopup*filename.borderColor: rgb:dd/dd/dd
+x3270*fileMenuButton*borderColor          : rgb:22/22/22
+x3270*optionsMenuButton*borderColor       : rgb:22/22/22
+x3270*connectMenuButton*borderColor       : rgb:22/22/22
+x3270*menuBarContainer.borderColor        : rgb:22/22/22
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : rgb:dd/dd/dd
+x3270*value.foreground                    : rgb:dd/dd/dd
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: rezza
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.rezza: \
+   rgb:19/19/19 rgb:2b/4f/98 rgb:98/2b/2b rgb:82/6a/b1 \
+   rgb:89/b8/3f rgb:a1/cd/cd rgb:ef/ef/60 rgb:dd/dd/dd \
+   rgb:19/19/19 rgb:32/4c/80 rgb:aa/99/43 rgb:70/6c/9a \
+   rgb:5b/76/2f rgb:92/b1/9e rgb:25/25/25 rgb:ff/ff/ff \
+   white rgb:22/22/22 rgb:25/25/25 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

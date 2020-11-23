@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'paperko'
+! --------------------------------------------------
+! *.foreground:   #c0c0c0
+! *.background:   #1d2325
+! *.color0:       #252525
+! *.color8:       #434343
+! *.color1:       #7c4d72
+! *.color9:       #c758af
+! *.color2:       #727c4d
+! *.color10:      #afc758
+! *.color3:       #7c724d
+! *.color11:      #c7af58
+! *.color4:       #4d727c
+! *.color12:      #58afc7
+! *.color5:       #7d4d5b
+! *.color13:      #c75877
+! *.color6:       #4d5b7d
+! *.color14:      #5877c7
+! *.color7:       #c0c0c0
+! *.color15:      #f3f3f3
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  paperko: paperko
+! --------------------------------------------------
+! Generating paperko .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #c0c0c0
+x3270*dialog*foreground                   : #c0c0c0
+x3270.aboutPopup*icon.foreground          : #c0c0c0
+x3270.keypadForeground                    : #c0c0c0
+x3270*menuBarContainer.foreground         : #c0c0c0
+x3270*fileMenuButton*foreground           : #c0c0c0
+x3270*optionsMenuButton*foreground        : #c0c0c0
+x3270*connectMenuButton*foreground        : #c0c0c0
+x3270*reconnectButton*foreground          : #c0c0c0
+x3270*macrosMenuButton*foreground         : #c0c0c0
+x3270*keypadButton*foreground             : #c0c0c0
+x3270*fileMenu*foreground                 : #c0c0c0
+x3270*exitMenu*foreground                 : #c0c0c0
+x3270*optionsMenu*foreground              : #c0c0c0
+x3270*hostMenu*foreground                 : #c0c0c0
+x3270*reconnect*foreground                : #c0c0c0
+x3270*macrosMenu*foreground               : #c0c0c0
+x3270*togglesMenu*foreground              : #c0c0c0
+x3270*fontsMenu*foreground                : #c0c0c0
+x3270*modelsMenu*foreground               : #c0c0c0
+x3270*colorsMenu*foreground               : #c0c0c0
+x3270*charsetMenu*foreground              : #c0c0c0
+x3270*dialog*value*foreground             : #c0c0c0
+x3270*dialog*foreground                   : #c0c0c0
+x3270*dialog*confirmButton.foreground     : #c0c0c0
+x3270*dialog*confirm2Button.foreground    : #c0c0c0
+3270*dialog*cancelButton.foreground       : #c0c0c0
+x3270.ftProgressPopup*filename.foreground : #c0c0c0
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #c758af
+x3270*dialog*cancelButton.foreground      : #c758af
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #1d2325
+x3270*menuBarContainer.background         : #1d2325
+x3270*fileMenuButton*background           : #1d2325
+x3270*optionsMenuButton*background        : #1d2325
+x3270*connectMenuButton*background        : #1d2325
+x3270*reconnectButton*background          : #1d2325
+x3270*macrosMenuButton*background         : #1d2325
+x3270*keypadButton*background             : #1d2325
+x3270*fileMenu*background                 : #1d2325
+x3270*exitMenu*background                 : #1d2325
+x3270*optionsMenu*background              : #1d2325
+x3270*hostMenu*background                 : #1d2325
+x3270*reconnect*background                : #1d2325
+x3270*macrosMenu*background               : #1d2325
+x3270*togglesMenu*background              : #1d2325
+x3270*fontsMenu*background                : #1d2325
+x3270*modelsMenu*background               : #1d2325
+x3270*colorsMenu*background               : #1d2325
+x3270*charsetMenu*background              : #1d2325
+x3270*dialog*value*background             : #1d2325
+x3270*dialog*background                   : #1d2325
+x3270*dialog*confirmButton.background     : #1d2325
+x3270*dialog*confirm2Button.background    : #1d2325
+3270*dialog*cancelButton.background       : #1d2325
+x3270.ftProgressPopup*filename.background : #1d2325
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #c0c0c0
+x3270*macrosMenuButton*borderColor        : #c0c0c0
+x3270*fileMenu.borderColor                : #c0c0c0
+x3270*exitMenu.borderColor                : #c0c0c0
+x3270*optionsMenu.borderColor             : #c0c0c0
+x3270*hostMenu.borderColor                : #c0c0c0
+x3270*macrosMenu.borderColor              : #c0c0c0
+x3270*togglesMenu.borderColor             : #c0c0c0
+x3270*fontsMenu.borderColor               : #c0c0c0
+x3270*modelsMenu.borderColor              : #c0c0c0
+x3270*colorsMenu.borderColor              : #c0c0c0
+x3270*charsetMenu.borderColor             : #c0c0c0
+x3270*confirmButton.borderColor           : #c0c0c0
+x3270*confirmButton.borderColor           : #c0c0c0
+x3270*confirm2Button.borderColor          : #c0c0c0
+x3270*cancelButton.borderColor            : #c0c0c0
+x3270.ftProgressPopup*filename.borderColor: #c0c0c0
+x3270*fileMenuButton*borderColor          : #1d2325
+x3270*optionsMenuButton*borderColor       : #1d2325
+x3270*connectMenuButton*borderColor       : #1d2325
+x3270*menuBarContainer.borderColor        : #1d2325
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #c0c0c0
+x3270*value.foreground                    : #c0c0c0
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: paperko
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.paperko: \
+   #252525 #58afc7 #c758af #c75877 \
+   #afc758 #5877c7 #c7af58 #c0c0c0 \
+   #252525 #4d727c #7c724d #7d4d5b \
+   #727c4d #4d5b7d #434343 #c0c0c0 \
+   white #1d2325 #434343 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

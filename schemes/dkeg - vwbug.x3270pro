@@ -1,0 +1,143 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'dkeg - vwbug'
+! --------------------------------------------------
+! dkeg - vwbug
+! *background:#170f0d
+! *foreground:#746c48
+! *color0: #261E26
+! *color1: #312C38
+! *color2: #4D353B
+! *color3: #503B43
+! *color4: #57403E
+! *color5: #665453
+! *color6: #6E5450
+! *color7: #8E7266
+! *color8: #906756
+! *color9: #927E7E
+! *color10: #AD6042
+! *color11: #B48B6F
+! *color12: #C4AB98
+! *color13: #D9C9B6
+! *color14: #E7DDD1
+! *color15: #FAF7F2
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  dkeg - vwbug: dkeg-vwbug
+! --------------------------------------------------
+! Generating dkeg - vwbug .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #746c48
+x3270*dialog*foreground                   : #746c48
+x3270.aboutPopup*icon.foreground          : #746c48
+x3270.keypadForeground                    : #746c48
+x3270*menuBarContainer.foreground         : #746c48
+x3270*fileMenuButton*foreground           : #746c48
+x3270*optionsMenuButton*foreground        : #746c48
+x3270*connectMenuButton*foreground        : #746c48
+x3270*reconnectButton*foreground          : #746c48
+x3270*macrosMenuButton*foreground         : #746c48
+x3270*keypadButton*foreground             : #746c48
+x3270*fileMenu*foreground                 : #746c48
+x3270*exitMenu*foreground                 : #746c48
+x3270*optionsMenu*foreground              : #746c48
+x3270*hostMenu*foreground                 : #746c48
+x3270*reconnect*foreground                : #746c48
+x3270*macrosMenu*foreground               : #746c48
+x3270*togglesMenu*foreground              : #746c48
+x3270*fontsMenu*foreground                : #746c48
+x3270*modelsMenu*foreground               : #746c48
+x3270*colorsMenu*foreground               : #746c48
+x3270*charsetMenu*foreground              : #746c48
+x3270*dialog*value*foreground             : #746c48
+x3270*dialog*foreground                   : #746c48
+x3270*dialog*confirmButton.foreground     : #746c48
+x3270*dialog*confirm2Button.foreground    : #746c48
+3270*dialog*cancelButton.foreground       : #746c48
+x3270.ftProgressPopup*filename.foreground : #746c48
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #927E7E
+x3270*dialog*cancelButton.foreground      : #927E7E
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #170f0d
+x3270*menuBarContainer.background         : #170f0d
+x3270*fileMenuButton*background           : #170f0d
+x3270*optionsMenuButton*background        : #170f0d
+x3270*connectMenuButton*background        : #170f0d
+x3270*reconnectButton*background          : #170f0d
+x3270*macrosMenuButton*background         : #170f0d
+x3270*keypadButton*background             : #170f0d
+x3270*fileMenu*background                 : #170f0d
+x3270*exitMenu*background                 : #170f0d
+x3270*optionsMenu*background              : #170f0d
+x3270*hostMenu*background                 : #170f0d
+x3270*reconnect*background                : #170f0d
+x3270*macrosMenu*background               : #170f0d
+x3270*togglesMenu*background              : #170f0d
+x3270*fontsMenu*background                : #170f0d
+x3270*modelsMenu*background               : #170f0d
+x3270*colorsMenu*background               : #170f0d
+x3270*charsetMenu*background              : #170f0d
+x3270*dialog*value*background             : #170f0d
+x3270*dialog*background                   : #170f0d
+x3270*dialog*confirmButton.background     : #170f0d
+x3270*dialog*confirm2Button.background    : #170f0d
+3270*dialog*cancelButton.background       : #170f0d
+x3270.ftProgressPopup*filename.background : #170f0d
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #746c48
+x3270*macrosMenuButton*borderColor        : #746c48
+x3270*fileMenu.borderColor                : #746c48
+x3270*exitMenu.borderColor                : #746c48
+x3270*optionsMenu.borderColor             : #746c48
+x3270*hostMenu.borderColor                : #746c48
+x3270*macrosMenu.borderColor              : #746c48
+x3270*togglesMenu.borderColor             : #746c48
+x3270*fontsMenu.borderColor               : #746c48
+x3270*modelsMenu.borderColor              : #746c48
+x3270*colorsMenu.borderColor              : #746c48
+x3270*charsetMenu.borderColor             : #746c48
+x3270*confirmButton.borderColor           : #746c48
+x3270*confirmButton.borderColor           : #746c48
+x3270*confirm2Button.borderColor          : #746c48
+x3270*cancelButton.borderColor            : #746c48
+x3270.ftProgressPopup*filename.borderColor: #746c48
+x3270*fileMenuButton*borderColor          : #170f0d
+x3270*optionsMenuButton*borderColor       : #170f0d
+x3270*connectMenuButton*borderColor       : #170f0d
+x3270*menuBarContainer.borderColor        : #170f0d
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #746c48
+x3270*value.foreground                    : #746c48
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: dkeg-vwbug
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.dkeg-vwbug: \
+   #261E26 #C4AB98 #927E7E #D9C9B6 \
+   #AD6042 #E7DDD1 #B48B6F #746c48 \
+   #261E26 #57403E #503B43 #665453 \
+   #4D353B #6E5450 #906756 #8E7266 \
+   white #170f0d #906756 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

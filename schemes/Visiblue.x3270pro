@@ -1,0 +1,144 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Visiblue'
+! --------------------------------------------------
+! Gutterslob Visiblue
+! urxvt*background:           #000000
+! urxvt*foreground:           #666699
+! Visiblue
+! urxvt*color0:               #333366
+! urxvt*color8:               #333399
+! urxvt*color1:               #6666CC
+! urxvt*color9:               #9999FF
+! urxvt*color2:               #0099CC
+! urxvt*color10:              #00CCFF
+! urxvt*color3:               #3366CC
+! urxvt*color11:              #6699FF
+! urxvt*color4:               #006699
+! urxvt*color12:              #0099CC
+! urxvt*color5:               #0066FF
+! urxvt*color13:              #0099FF
+! urxvt*color6:               #669999
+! urxvt*color14:              #66CCCC
+! urxvt*color7:               #99CCCC
+! urxvt*color15:              #CCFFFF
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Visiblue: Visiblue
+! --------------------------------------------------
+! Generating Visiblue .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #666699
+x3270*dialog*foreground                   : #666699
+x3270.aboutPopup*icon.foreground          : #666699
+x3270.keypadForeground                    : #666699
+x3270*menuBarContainer.foreground         : #666699
+x3270*fileMenuButton*foreground           : #666699
+x3270*optionsMenuButton*foreground        : #666699
+x3270*connectMenuButton*foreground        : #666699
+x3270*reconnectButton*foreground          : #666699
+x3270*macrosMenuButton*foreground         : #666699
+x3270*keypadButton*foreground             : #666699
+x3270*fileMenu*foreground                 : #666699
+x3270*exitMenu*foreground                 : #666699
+x3270*optionsMenu*foreground              : #666699
+x3270*hostMenu*foreground                 : #666699
+x3270*reconnect*foreground                : #666699
+x3270*macrosMenu*foreground               : #666699
+x3270*togglesMenu*foreground              : #666699
+x3270*fontsMenu*foreground                : #666699
+x3270*modelsMenu*foreground               : #666699
+x3270*colorsMenu*foreground               : #666699
+x3270*charsetMenu*foreground              : #666699
+x3270*dialog*value*foreground             : #666699
+x3270*dialog*foreground                   : #666699
+x3270*dialog*confirmButton.foreground     : #666699
+x3270*dialog*confirm2Button.foreground    : #666699
+3270*dialog*cancelButton.foreground       : #666699
+x3270.ftProgressPopup*filename.foreground : #666699
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #9999FF
+x3270*dialog*cancelButton.foreground      : #9999FF
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000000
+x3270*menuBarContainer.background         : #000000
+x3270*fileMenuButton*background           : #000000
+x3270*optionsMenuButton*background        : #000000
+x3270*connectMenuButton*background        : #000000
+x3270*reconnectButton*background          : #000000
+x3270*macrosMenuButton*background         : #000000
+x3270*keypadButton*background             : #000000
+x3270*fileMenu*background                 : #000000
+x3270*exitMenu*background                 : #000000
+x3270*optionsMenu*background              : #000000
+x3270*hostMenu*background                 : #000000
+x3270*reconnect*background                : #000000
+x3270*macrosMenu*background               : #000000
+x3270*togglesMenu*background              : #000000
+x3270*fontsMenu*background                : #000000
+x3270*modelsMenu*background               : #000000
+x3270*colorsMenu*background               : #000000
+x3270*charsetMenu*background              : #000000
+x3270*dialog*value*background             : #000000
+x3270*dialog*background                   : #000000
+x3270*dialog*confirmButton.background     : #000000
+x3270*dialog*confirm2Button.background    : #000000
+3270*dialog*cancelButton.background       : #000000
+x3270.ftProgressPopup*filename.background : #000000
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #666699
+x3270*macrosMenuButton*borderColor        : #666699
+x3270*fileMenu.borderColor                : #666699
+x3270*exitMenu.borderColor                : #666699
+x3270*optionsMenu.borderColor             : #666699
+x3270*hostMenu.borderColor                : #666699
+x3270*macrosMenu.borderColor              : #666699
+x3270*togglesMenu.borderColor             : #666699
+x3270*fontsMenu.borderColor               : #666699
+x3270*modelsMenu.borderColor              : #666699
+x3270*colorsMenu.borderColor              : #666699
+x3270*charsetMenu.borderColor             : #666699
+x3270*confirmButton.borderColor           : #666699
+x3270*confirmButton.borderColor           : #666699
+x3270*confirm2Button.borderColor          : #666699
+x3270*cancelButton.borderColor            : #666699
+x3270.ftProgressPopup*filename.borderColor: #666699
+x3270*fileMenuButton*borderColor          : #000000
+x3270*optionsMenuButton*borderColor       : #000000
+x3270*connectMenuButton*borderColor       : #000000
+x3270*menuBarContainer.borderColor        : #000000
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #666699
+x3270*value.foreground                    : #666699
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Visiblue
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Visiblue: \
+   #333366 #0099CC #9999FF #0099FF \
+   #00CCFF #66CCCC #6699FF #666699 \
+   #333366 #006699 #3366CC #0066FF \
+   #0099CC #669999 #333399 #99CCCC \
+   white #000000 #333399 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

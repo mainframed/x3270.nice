@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'gutterslob - lumifoo'
+! --------------------------------------------------
+! gutterslob lumifoo
+! URxvt.background: #1e2021
+! URxvt.foreground: #888a8c
+! Black
+! URxvt.color0:     #515151
+! URxvt.color8:     #707172
+! Red
+! URxvt.color1:     #bf6382
+! URxvt.color9:     #eaaec2
+! Green
+! URxvt.color2:     #65a446
+! URxvt.color10:    #aed49b
+! Yellow
+! URxvt.color3:     #ad8a43
+! URxvt.color11:    #d4c3a0
+! Blue
+! URxvt.color4:     #6b85c2
+! URxvt.color12:    #afc4e9
+! Magenta
+! URxvt.color5:     #9e6bb8
+! URxvt.color13:    #d2b1e2
+! Cyan
+! URxvt.color6:     #5c9d88
+! URxvt.color14:    #a4d0c1
+! White
+! URxvt.color7:     #919191
+! URxvt.color15:    #d0d0d0
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  gutterslob - lumifoo: gutterslob-lumifoo
+! --------------------------------------------------
+! Generating gutterslob - lumifoo .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #888a8c
+x3270*dialog*foreground                   : #888a8c
+x3270.aboutPopup*icon.foreground          : #888a8c
+x3270.keypadForeground                    : #888a8c
+x3270*menuBarContainer.foreground         : #888a8c
+x3270*fileMenuButton*foreground           : #888a8c
+x3270*optionsMenuButton*foreground        : #888a8c
+x3270*connectMenuButton*foreground        : #888a8c
+x3270*reconnectButton*foreground          : #888a8c
+x3270*macrosMenuButton*foreground         : #888a8c
+x3270*keypadButton*foreground             : #888a8c
+x3270*fileMenu*foreground                 : #888a8c
+x3270*exitMenu*foreground                 : #888a8c
+x3270*optionsMenu*foreground              : #888a8c
+x3270*hostMenu*foreground                 : #888a8c
+x3270*reconnect*foreground                : #888a8c
+x3270*macrosMenu*foreground               : #888a8c
+x3270*togglesMenu*foreground              : #888a8c
+x3270*fontsMenu*foreground                : #888a8c
+x3270*modelsMenu*foreground               : #888a8c
+x3270*colorsMenu*foreground               : #888a8c
+x3270*charsetMenu*foreground              : #888a8c
+x3270*dialog*value*foreground             : #888a8c
+x3270*dialog*foreground                   : #888a8c
+x3270*dialog*confirmButton.foreground     : #888a8c
+x3270*dialog*confirm2Button.foreground    : #888a8c
+3270*dialog*cancelButton.foreground       : #888a8c
+x3270.ftProgressPopup*filename.foreground : #888a8c
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #eaaec2
+x3270*dialog*cancelButton.foreground      : #eaaec2
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #1e2021
+x3270*menuBarContainer.background         : #1e2021
+x3270*fileMenuButton*background           : #1e2021
+x3270*optionsMenuButton*background        : #1e2021
+x3270*connectMenuButton*background        : #1e2021
+x3270*reconnectButton*background          : #1e2021
+x3270*macrosMenuButton*background         : #1e2021
+x3270*keypadButton*background             : #1e2021
+x3270*fileMenu*background                 : #1e2021
+x3270*exitMenu*background                 : #1e2021
+x3270*optionsMenu*background              : #1e2021
+x3270*hostMenu*background                 : #1e2021
+x3270*reconnect*background                : #1e2021
+x3270*macrosMenu*background               : #1e2021
+x3270*togglesMenu*background              : #1e2021
+x3270*fontsMenu*background                : #1e2021
+x3270*modelsMenu*background               : #1e2021
+x3270*colorsMenu*background               : #1e2021
+x3270*charsetMenu*background              : #1e2021
+x3270*dialog*value*background             : #1e2021
+x3270*dialog*background                   : #1e2021
+x3270*dialog*confirmButton.background     : #1e2021
+x3270*dialog*confirm2Button.background    : #1e2021
+3270*dialog*cancelButton.background       : #1e2021
+x3270.ftProgressPopup*filename.background : #1e2021
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #888a8c
+x3270*macrosMenuButton*borderColor        : #888a8c
+x3270*fileMenu.borderColor                : #888a8c
+x3270*exitMenu.borderColor                : #888a8c
+x3270*optionsMenu.borderColor             : #888a8c
+x3270*hostMenu.borderColor                : #888a8c
+x3270*macrosMenu.borderColor              : #888a8c
+x3270*togglesMenu.borderColor             : #888a8c
+x3270*fontsMenu.borderColor               : #888a8c
+x3270*modelsMenu.borderColor              : #888a8c
+x3270*colorsMenu.borderColor              : #888a8c
+x3270*charsetMenu.borderColor             : #888a8c
+x3270*confirmButton.borderColor           : #888a8c
+x3270*confirmButton.borderColor           : #888a8c
+x3270*confirm2Button.borderColor          : #888a8c
+x3270*cancelButton.borderColor            : #888a8c
+x3270.ftProgressPopup*filename.borderColor: #888a8c
+x3270*fileMenuButton*borderColor          : #1e2021
+x3270*optionsMenuButton*borderColor       : #1e2021
+x3270*connectMenuButton*borderColor       : #1e2021
+x3270*menuBarContainer.borderColor        : #1e2021
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #888a8c
+x3270*value.foreground                    : #888a8c
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: gutterslob-lumifoo
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.gutterslob-lumifoo: \
+   #515151 #afc4e9 #eaaec2 #d2b1e2 \
+   #aed49b #a4d0c1 #d4c3a0 #888a8c \
+   #515151 #6b85c2 #ad8a43 #9e6bb8 \
+   #65a446 #5c9d88 #707172 #919191 \
+   white #1e2021 #707172 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

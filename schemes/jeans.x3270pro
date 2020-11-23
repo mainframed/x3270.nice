@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'jeans'
+! --------------------------------------------------
+! *.foreground:   #d0dada
+! *.background:   #0a0d0d
+! *.color0:       #081a1a
+! *.color8:       #182a2a
+! *.color1:       #905050
+! *.color9:       #c26d6d
+! *.color2:       #507050
+! *.color10:      #74a374
+! *.color3:       #a08050
+! *.color11:      #d4a96a
+! *.color4:       #506070
+! *.color12:      #748ca3
+! *.color5:       #605070
+! *.color13:      #a286bd
+! *.color6:       #706050
+! *.color14:      #a38c74
+! *.color7:       #d0dada
+! *.color15:      #dae0e0
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  jeans: jeans
+! --------------------------------------------------
+! Generating jeans .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #d0dada
+x3270*dialog*foreground                   : #d0dada
+x3270.aboutPopup*icon.foreground          : #d0dada
+x3270.keypadForeground                    : #d0dada
+x3270*menuBarContainer.foreground         : #d0dada
+x3270*fileMenuButton*foreground           : #d0dada
+x3270*optionsMenuButton*foreground        : #d0dada
+x3270*connectMenuButton*foreground        : #d0dada
+x3270*reconnectButton*foreground          : #d0dada
+x3270*macrosMenuButton*foreground         : #d0dada
+x3270*keypadButton*foreground             : #d0dada
+x3270*fileMenu*foreground                 : #d0dada
+x3270*exitMenu*foreground                 : #d0dada
+x3270*optionsMenu*foreground              : #d0dada
+x3270*hostMenu*foreground                 : #d0dada
+x3270*reconnect*foreground                : #d0dada
+x3270*macrosMenu*foreground               : #d0dada
+x3270*togglesMenu*foreground              : #d0dada
+x3270*fontsMenu*foreground                : #d0dada
+x3270*modelsMenu*foreground               : #d0dada
+x3270*colorsMenu*foreground               : #d0dada
+x3270*charsetMenu*foreground              : #d0dada
+x3270*dialog*value*foreground             : #d0dada
+x3270*dialog*foreground                   : #d0dada
+x3270*dialog*confirmButton.foreground     : #d0dada
+x3270*dialog*confirm2Button.foreground    : #d0dada
+3270*dialog*cancelButton.foreground       : #d0dada
+x3270.ftProgressPopup*filename.foreground : #d0dada
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #c26d6d
+x3270*dialog*cancelButton.foreground      : #c26d6d
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #0a0d0d
+x3270*menuBarContainer.background         : #0a0d0d
+x3270*fileMenuButton*background           : #0a0d0d
+x3270*optionsMenuButton*background        : #0a0d0d
+x3270*connectMenuButton*background        : #0a0d0d
+x3270*reconnectButton*background          : #0a0d0d
+x3270*macrosMenuButton*background         : #0a0d0d
+x3270*keypadButton*background             : #0a0d0d
+x3270*fileMenu*background                 : #0a0d0d
+x3270*exitMenu*background                 : #0a0d0d
+x3270*optionsMenu*background              : #0a0d0d
+x3270*hostMenu*background                 : #0a0d0d
+x3270*reconnect*background                : #0a0d0d
+x3270*macrosMenu*background               : #0a0d0d
+x3270*togglesMenu*background              : #0a0d0d
+x3270*fontsMenu*background                : #0a0d0d
+x3270*modelsMenu*background               : #0a0d0d
+x3270*colorsMenu*background               : #0a0d0d
+x3270*charsetMenu*background              : #0a0d0d
+x3270*dialog*value*background             : #0a0d0d
+x3270*dialog*background                   : #0a0d0d
+x3270*dialog*confirmButton.background     : #0a0d0d
+x3270*dialog*confirm2Button.background    : #0a0d0d
+3270*dialog*cancelButton.background       : #0a0d0d
+x3270.ftProgressPopup*filename.background : #0a0d0d
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #d0dada
+x3270*macrosMenuButton*borderColor        : #d0dada
+x3270*fileMenu.borderColor                : #d0dada
+x3270*exitMenu.borderColor                : #d0dada
+x3270*optionsMenu.borderColor             : #d0dada
+x3270*hostMenu.borderColor                : #d0dada
+x3270*macrosMenu.borderColor              : #d0dada
+x3270*togglesMenu.borderColor             : #d0dada
+x3270*fontsMenu.borderColor               : #d0dada
+x3270*modelsMenu.borderColor              : #d0dada
+x3270*colorsMenu.borderColor              : #d0dada
+x3270*charsetMenu.borderColor             : #d0dada
+x3270*confirmButton.borderColor           : #d0dada
+x3270*confirmButton.borderColor           : #d0dada
+x3270*confirm2Button.borderColor          : #d0dada
+x3270*cancelButton.borderColor            : #d0dada
+x3270.ftProgressPopup*filename.borderColor: #d0dada
+x3270*fileMenuButton*borderColor          : #0a0d0d
+x3270*optionsMenuButton*borderColor       : #0a0d0d
+x3270*connectMenuButton*borderColor       : #0a0d0d
+x3270*menuBarContainer.borderColor        : #0a0d0d
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #d0dada
+x3270*value.foreground                    : #d0dada
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: jeans
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.jeans: \
+   #081a1a #748ca3 #c26d6d #a286bd \
+   #74a374 #a38c74 #d4a96a #d0dada \
+   #081a1a #506070 #a08050 #605070 \
+   #507050 #706050 #182a2a #d0dada \
+   white #0a0d0d #182a2a 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

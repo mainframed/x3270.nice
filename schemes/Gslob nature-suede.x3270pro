@@ -1,0 +1,143 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Gslob nature-suede'
+! --------------------------------------------------
+! Gslob nature-suede
+! URxvt*background:       #170F0D
+! URxvt*foreground:       #746C48
+! URxvt*color0:           #392925
+! URxvt*color8:           #544B2E
+! URxvt*color1:           #98724C
+! URxvt*color9:           #AF652F
+! URxvt*color2:           #908F32
+! URxvt*color10:          #C3C13D
+! URxvt*color3:           #AA964C
+! URxvt*color11:          #C8B55B
+! URxvt*color4:           #7B854E
+! URxvt*color12:          #70A16C
+! URxvt*color5:           #6B5644
+! URxvt*color13:          #98724C
+! URxvt*color6:           #5C5142
+! URxvt*color14:          #778725
+! URxvt*color7:           #C8B55B
+! URxvt*color15:          #E4DC8C
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Gslob nature-suede: Gslobnature-suede
+! --------------------------------------------------
+! Generating Gslob nature-suede .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #746C48
+x3270*dialog*foreground                   : #746C48
+x3270.aboutPopup*icon.foreground          : #746C48
+x3270.keypadForeground                    : #746C48
+x3270*menuBarContainer.foreground         : #746C48
+x3270*fileMenuButton*foreground           : #746C48
+x3270*optionsMenuButton*foreground        : #746C48
+x3270*connectMenuButton*foreground        : #746C48
+x3270*reconnectButton*foreground          : #746C48
+x3270*macrosMenuButton*foreground         : #746C48
+x3270*keypadButton*foreground             : #746C48
+x3270*fileMenu*foreground                 : #746C48
+x3270*exitMenu*foreground                 : #746C48
+x3270*optionsMenu*foreground              : #746C48
+x3270*hostMenu*foreground                 : #746C48
+x3270*reconnect*foreground                : #746C48
+x3270*macrosMenu*foreground               : #746C48
+x3270*togglesMenu*foreground              : #746C48
+x3270*fontsMenu*foreground                : #746C48
+x3270*modelsMenu*foreground               : #746C48
+x3270*colorsMenu*foreground               : #746C48
+x3270*charsetMenu*foreground              : #746C48
+x3270*dialog*value*foreground             : #746C48
+x3270*dialog*foreground                   : #746C48
+x3270*dialog*confirmButton.foreground     : #746C48
+x3270*dialog*confirm2Button.foreground    : #746C48
+3270*dialog*cancelButton.foreground       : #746C48
+x3270.ftProgressPopup*filename.foreground : #746C48
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #AF652F
+x3270*dialog*cancelButton.foreground      : #AF652F
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #170F0D
+x3270*menuBarContainer.background         : #170F0D
+x3270*fileMenuButton*background           : #170F0D
+x3270*optionsMenuButton*background        : #170F0D
+x3270*connectMenuButton*background        : #170F0D
+x3270*reconnectButton*background          : #170F0D
+x3270*macrosMenuButton*background         : #170F0D
+x3270*keypadButton*background             : #170F0D
+x3270*fileMenu*background                 : #170F0D
+x3270*exitMenu*background                 : #170F0D
+x3270*optionsMenu*background              : #170F0D
+x3270*hostMenu*background                 : #170F0D
+x3270*reconnect*background                : #170F0D
+x3270*macrosMenu*background               : #170F0D
+x3270*togglesMenu*background              : #170F0D
+x3270*fontsMenu*background                : #170F0D
+x3270*modelsMenu*background               : #170F0D
+x3270*colorsMenu*background               : #170F0D
+x3270*charsetMenu*background              : #170F0D
+x3270*dialog*value*background             : #170F0D
+x3270*dialog*background                   : #170F0D
+x3270*dialog*confirmButton.background     : #170F0D
+x3270*dialog*confirm2Button.background    : #170F0D
+3270*dialog*cancelButton.background       : #170F0D
+x3270.ftProgressPopup*filename.background : #170F0D
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #746C48
+x3270*macrosMenuButton*borderColor        : #746C48
+x3270*fileMenu.borderColor                : #746C48
+x3270*exitMenu.borderColor                : #746C48
+x3270*optionsMenu.borderColor             : #746C48
+x3270*hostMenu.borderColor                : #746C48
+x3270*macrosMenu.borderColor              : #746C48
+x3270*togglesMenu.borderColor             : #746C48
+x3270*fontsMenu.borderColor               : #746C48
+x3270*modelsMenu.borderColor              : #746C48
+x3270*colorsMenu.borderColor              : #746C48
+x3270*charsetMenu.borderColor             : #746C48
+x3270*confirmButton.borderColor           : #746C48
+x3270*confirmButton.borderColor           : #746C48
+x3270*confirm2Button.borderColor          : #746C48
+x3270*cancelButton.borderColor            : #746C48
+x3270.ftProgressPopup*filename.borderColor: #746C48
+x3270*fileMenuButton*borderColor          : #170F0D
+x3270*optionsMenuButton*borderColor       : #170F0D
+x3270*connectMenuButton*borderColor       : #170F0D
+x3270*menuBarContainer.borderColor        : #170F0D
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #746C48
+x3270*value.foreground                    : #746C48
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Gslobnature-suede
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Gslobnature-suede: \
+   #392925 #70A16C #AF652F #98724C \
+   #C3C13D #778725 #C8B55B #746C48 \
+   #392925 #7B854E #AA964C #6B5644 \
+   #908F32 #5C5142 #544B2E #C8B55B \
+   white #170F0D #544B2E 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

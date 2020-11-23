@@ -1,0 +1,150 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'tangoesque'
+! --------------------------------------------------
+! *background:  #000000
+! *foreground:  #aaaaaa
+! Black
+! *color0:      #202020
+! *color8:      #606060
+! Red
+! *color1:      #ff6565
+! *color9:      #ff8d8d
+! Green
+! *color2:      #93d44f
+! *color10:     #c8e7a8
+! Yellow
+! *color3:      #eab93d
+! *color11:     #ffc123
+! Blue
+! *color4:      #204a87
+! *color12:     #3465a4
+! Mangenta
+! *color5:      #ce5c00
+! *color13:     #f57900
+! Cyan
+! *color6:      #89b6e2
+! *color14:     #46a4ff
+! White
+! *color7:      #cccccc
+! *color15:     #ffffff
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  tangoesque: tangoesque
+! --------------------------------------------------
+! Generating tangoesque .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #aaaaaa
+x3270*dialog*foreground                   : #aaaaaa
+x3270.aboutPopup*icon.foreground          : #aaaaaa
+x3270.keypadForeground                    : #aaaaaa
+x3270*menuBarContainer.foreground         : #aaaaaa
+x3270*fileMenuButton*foreground           : #aaaaaa
+x3270*optionsMenuButton*foreground        : #aaaaaa
+x3270*connectMenuButton*foreground        : #aaaaaa
+x3270*reconnectButton*foreground          : #aaaaaa
+x3270*macrosMenuButton*foreground         : #aaaaaa
+x3270*keypadButton*foreground             : #aaaaaa
+x3270*fileMenu*foreground                 : #aaaaaa
+x3270*exitMenu*foreground                 : #aaaaaa
+x3270*optionsMenu*foreground              : #aaaaaa
+x3270*hostMenu*foreground                 : #aaaaaa
+x3270*reconnect*foreground                : #aaaaaa
+x3270*macrosMenu*foreground               : #aaaaaa
+x3270*togglesMenu*foreground              : #aaaaaa
+x3270*fontsMenu*foreground                : #aaaaaa
+x3270*modelsMenu*foreground               : #aaaaaa
+x3270*colorsMenu*foreground               : #aaaaaa
+x3270*charsetMenu*foreground              : #aaaaaa
+x3270*dialog*value*foreground             : #aaaaaa
+x3270*dialog*foreground                   : #aaaaaa
+x3270*dialog*confirmButton.foreground     : #aaaaaa
+x3270*dialog*confirm2Button.foreground    : #aaaaaa
+3270*dialog*cancelButton.foreground       : #aaaaaa
+x3270.ftProgressPopup*filename.foreground : #aaaaaa
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ff8d8d
+x3270*dialog*cancelButton.foreground      : #ff8d8d
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000000
+x3270*menuBarContainer.background         : #000000
+x3270*fileMenuButton*background           : #000000
+x3270*optionsMenuButton*background        : #000000
+x3270*connectMenuButton*background        : #000000
+x3270*reconnectButton*background          : #000000
+x3270*macrosMenuButton*background         : #000000
+x3270*keypadButton*background             : #000000
+x3270*fileMenu*background                 : #000000
+x3270*exitMenu*background                 : #000000
+x3270*optionsMenu*background              : #000000
+x3270*hostMenu*background                 : #000000
+x3270*reconnect*background                : #000000
+x3270*macrosMenu*background               : #000000
+x3270*togglesMenu*background              : #000000
+x3270*fontsMenu*background                : #000000
+x3270*modelsMenu*background               : #000000
+x3270*colorsMenu*background               : #000000
+x3270*charsetMenu*background              : #000000
+x3270*dialog*value*background             : #000000
+x3270*dialog*background                   : #000000
+x3270*dialog*confirmButton.background     : #000000
+x3270*dialog*confirm2Button.background    : #000000
+3270*dialog*cancelButton.background       : #000000
+x3270.ftProgressPopup*filename.background : #000000
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #aaaaaa
+x3270*macrosMenuButton*borderColor        : #aaaaaa
+x3270*fileMenu.borderColor                : #aaaaaa
+x3270*exitMenu.borderColor                : #aaaaaa
+x3270*optionsMenu.borderColor             : #aaaaaa
+x3270*hostMenu.borderColor                : #aaaaaa
+x3270*macrosMenu.borderColor              : #aaaaaa
+x3270*togglesMenu.borderColor             : #aaaaaa
+x3270*fontsMenu.borderColor               : #aaaaaa
+x3270*modelsMenu.borderColor              : #aaaaaa
+x3270*colorsMenu.borderColor              : #aaaaaa
+x3270*charsetMenu.borderColor             : #aaaaaa
+x3270*confirmButton.borderColor           : #aaaaaa
+x3270*confirmButton.borderColor           : #aaaaaa
+x3270*confirm2Button.borderColor          : #aaaaaa
+x3270*cancelButton.borderColor            : #aaaaaa
+x3270.ftProgressPopup*filename.borderColor: #aaaaaa
+x3270*fileMenuButton*borderColor          : #000000
+x3270*optionsMenuButton*borderColor       : #000000
+x3270*connectMenuButton*borderColor       : #000000
+x3270*menuBarContainer.borderColor        : #000000
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #aaaaaa
+x3270*value.foreground                    : #aaaaaa
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: tangoesque
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.tangoesque: \
+   #202020 #3465a4 #ff8d8d #f57900 \
+   #c8e7a8 #46a4ff #ffc123 #aaaaaa \
+   #202020 #204a87 #eab93d #ce5c00 \
+   #93d44f #89b6e2 #606060 #cccccc \
+   white #000000 #606060 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

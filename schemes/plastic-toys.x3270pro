@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'plastic-toys'
+! --------------------------------------------------
+! *.foreground:   #ebebeb
+! *.background:   #222222
+! *.color0:       #222222
+! *.color8:       #111111
+! *.color1:       #eb0000
+! *.color9:       #ab0000
+! *.color2:       #aaeb00
+! *.color10:      #66aa00
+! *.color3:       #eebb00
+! *.color11:      #aa7700
+! *.color4:       #00aaeb
+! *.color12:      #0066aa
+! *.color5:       #ebaaeb
+! *.color13:      #aa66aa
+! *.color6:       #00ebeb
+! *.color14:      #00aaaa
+! *.color7:       #ebebeb
+! *.color15:      #fafafa
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  plastic-toys: plastic-toys
+! --------------------------------------------------
+! Generating plastic-toys .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #ebebeb
+x3270*dialog*foreground                   : #ebebeb
+x3270.aboutPopup*icon.foreground          : #ebebeb
+x3270.keypadForeground                    : #ebebeb
+x3270*menuBarContainer.foreground         : #ebebeb
+x3270*fileMenuButton*foreground           : #ebebeb
+x3270*optionsMenuButton*foreground        : #ebebeb
+x3270*connectMenuButton*foreground        : #ebebeb
+x3270*reconnectButton*foreground          : #ebebeb
+x3270*macrosMenuButton*foreground         : #ebebeb
+x3270*keypadButton*foreground             : #ebebeb
+x3270*fileMenu*foreground                 : #ebebeb
+x3270*exitMenu*foreground                 : #ebebeb
+x3270*optionsMenu*foreground              : #ebebeb
+x3270*hostMenu*foreground                 : #ebebeb
+x3270*reconnect*foreground                : #ebebeb
+x3270*macrosMenu*foreground               : #ebebeb
+x3270*togglesMenu*foreground              : #ebebeb
+x3270*fontsMenu*foreground                : #ebebeb
+x3270*modelsMenu*foreground               : #ebebeb
+x3270*colorsMenu*foreground               : #ebebeb
+x3270*charsetMenu*foreground              : #ebebeb
+x3270*dialog*value*foreground             : #ebebeb
+x3270*dialog*foreground                   : #ebebeb
+x3270*dialog*confirmButton.foreground     : #ebebeb
+x3270*dialog*confirm2Button.foreground    : #ebebeb
+3270*dialog*cancelButton.foreground       : #ebebeb
+x3270.ftProgressPopup*filename.foreground : #ebebeb
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ab0000
+x3270*dialog*cancelButton.foreground      : #ab0000
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #222222
+x3270*menuBarContainer.background         : #222222
+x3270*fileMenuButton*background           : #222222
+x3270*optionsMenuButton*background        : #222222
+x3270*connectMenuButton*background        : #222222
+x3270*reconnectButton*background          : #222222
+x3270*macrosMenuButton*background         : #222222
+x3270*keypadButton*background             : #222222
+x3270*fileMenu*background                 : #222222
+x3270*exitMenu*background                 : #222222
+x3270*optionsMenu*background              : #222222
+x3270*hostMenu*background                 : #222222
+x3270*reconnect*background                : #222222
+x3270*macrosMenu*background               : #222222
+x3270*togglesMenu*background              : #222222
+x3270*fontsMenu*background                : #222222
+x3270*modelsMenu*background               : #222222
+x3270*colorsMenu*background               : #222222
+x3270*charsetMenu*background              : #222222
+x3270*dialog*value*background             : #222222
+x3270*dialog*background                   : #222222
+x3270*dialog*confirmButton.background     : #222222
+x3270*dialog*confirm2Button.background    : #222222
+3270*dialog*cancelButton.background       : #222222
+x3270.ftProgressPopup*filename.background : #222222
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #ebebeb
+x3270*macrosMenuButton*borderColor        : #ebebeb
+x3270*fileMenu.borderColor                : #ebebeb
+x3270*exitMenu.borderColor                : #ebebeb
+x3270*optionsMenu.borderColor             : #ebebeb
+x3270*hostMenu.borderColor                : #ebebeb
+x3270*macrosMenu.borderColor              : #ebebeb
+x3270*togglesMenu.borderColor             : #ebebeb
+x3270*fontsMenu.borderColor               : #ebebeb
+x3270*modelsMenu.borderColor              : #ebebeb
+x3270*colorsMenu.borderColor              : #ebebeb
+x3270*charsetMenu.borderColor             : #ebebeb
+x3270*confirmButton.borderColor           : #ebebeb
+x3270*confirmButton.borderColor           : #ebebeb
+x3270*confirm2Button.borderColor          : #ebebeb
+x3270*cancelButton.borderColor            : #ebebeb
+x3270.ftProgressPopup*filename.borderColor: #ebebeb
+x3270*fileMenuButton*borderColor          : #222222
+x3270*optionsMenuButton*borderColor       : #222222
+x3270*connectMenuButton*borderColor       : #222222
+x3270*menuBarContainer.borderColor        : #222222
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #ebebeb
+x3270*value.foreground                    : #ebebeb
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: plastic-toys
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.plastic-toys: \
+   #222222 #0066aa #ab0000 #aa66aa \
+   #66aa00 #00aaaa #aa7700 #ebebeb \
+   #222222 #00aaeb #eebb00 #ebaaeb \
+   #aaeb00 #00ebeb #111111 #ebebeb \
+   white #222222 #111111 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

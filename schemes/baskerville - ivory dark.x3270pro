@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'baskerville - ivory dark'
+! --------------------------------------------------
+! baskerville - ivory dark
+! *background:  #2D2C28
+! *foreground:  #A4A6AB
+! BLACK
+! *color0:      #5B5955
+! *color8:      #707277
+! WHITE
+! *color7:      #DBDDE2
+! *color15:     #F7F9FF
+! RED
+! *color1:      #C4756E
+! *color9:      #F6A299
+! YELLOW
+! *color3:      #9B8A4B
+! *color11:     #CAB775
+! GREEN
+! *color2:      #559A6A
+! *color10:     #82C896
+! CYAN
+! *color6:      #019BAA
+! *color14:     #53CAD9
+! BLUE
+! *color4:      #6A8DCA
+! *color12:     #98BBFB
+! MAGENTA
+! *color5:      #B577AC
+! *color13:     #E5A4DB
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  baskerville - ivory dark: baskerville-ivorydark
+! --------------------------------------------------
+! Generating baskerville - ivory dark .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #A4A6AB
+x3270*dialog*foreground                   : #A4A6AB
+x3270.aboutPopup*icon.foreground          : #A4A6AB
+x3270.keypadForeground                    : #A4A6AB
+x3270*menuBarContainer.foreground         : #A4A6AB
+x3270*fileMenuButton*foreground           : #A4A6AB
+x3270*optionsMenuButton*foreground        : #A4A6AB
+x3270*connectMenuButton*foreground        : #A4A6AB
+x3270*reconnectButton*foreground          : #A4A6AB
+x3270*macrosMenuButton*foreground         : #A4A6AB
+x3270*keypadButton*foreground             : #A4A6AB
+x3270*fileMenu*foreground                 : #A4A6AB
+x3270*exitMenu*foreground                 : #A4A6AB
+x3270*optionsMenu*foreground              : #A4A6AB
+x3270*hostMenu*foreground                 : #A4A6AB
+x3270*reconnect*foreground                : #A4A6AB
+x3270*macrosMenu*foreground               : #A4A6AB
+x3270*togglesMenu*foreground              : #A4A6AB
+x3270*fontsMenu*foreground                : #A4A6AB
+x3270*modelsMenu*foreground               : #A4A6AB
+x3270*colorsMenu*foreground               : #A4A6AB
+x3270*charsetMenu*foreground              : #A4A6AB
+x3270*dialog*value*foreground             : #A4A6AB
+x3270*dialog*foreground                   : #A4A6AB
+x3270*dialog*confirmButton.foreground     : #A4A6AB
+x3270*dialog*confirm2Button.foreground    : #A4A6AB
+3270*dialog*cancelButton.foreground       : #A4A6AB
+x3270.ftProgressPopup*filename.foreground : #A4A6AB
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #F6A299
+x3270*dialog*cancelButton.foreground      : #F6A299
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #2D2C28
+x3270*menuBarContainer.background         : #2D2C28
+x3270*fileMenuButton*background           : #2D2C28
+x3270*optionsMenuButton*background        : #2D2C28
+x3270*connectMenuButton*background        : #2D2C28
+x3270*reconnectButton*background          : #2D2C28
+x3270*macrosMenuButton*background         : #2D2C28
+x3270*keypadButton*background             : #2D2C28
+x3270*fileMenu*background                 : #2D2C28
+x3270*exitMenu*background                 : #2D2C28
+x3270*optionsMenu*background              : #2D2C28
+x3270*hostMenu*background                 : #2D2C28
+x3270*reconnect*background                : #2D2C28
+x3270*macrosMenu*background               : #2D2C28
+x3270*togglesMenu*background              : #2D2C28
+x3270*fontsMenu*background                : #2D2C28
+x3270*modelsMenu*background               : #2D2C28
+x3270*colorsMenu*background               : #2D2C28
+x3270*charsetMenu*background              : #2D2C28
+x3270*dialog*value*background             : #2D2C28
+x3270*dialog*background                   : #2D2C28
+x3270*dialog*confirmButton.background     : #2D2C28
+x3270*dialog*confirm2Button.background    : #2D2C28
+3270*dialog*cancelButton.background       : #2D2C28
+x3270.ftProgressPopup*filename.background : #2D2C28
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #A4A6AB
+x3270*macrosMenuButton*borderColor        : #A4A6AB
+x3270*fileMenu.borderColor                : #A4A6AB
+x3270*exitMenu.borderColor                : #A4A6AB
+x3270*optionsMenu.borderColor             : #A4A6AB
+x3270*hostMenu.borderColor                : #A4A6AB
+x3270*macrosMenu.borderColor              : #A4A6AB
+x3270*togglesMenu.borderColor             : #A4A6AB
+x3270*fontsMenu.borderColor               : #A4A6AB
+x3270*modelsMenu.borderColor              : #A4A6AB
+x3270*colorsMenu.borderColor              : #A4A6AB
+x3270*charsetMenu.borderColor             : #A4A6AB
+x3270*confirmButton.borderColor           : #A4A6AB
+x3270*confirmButton.borderColor           : #A4A6AB
+x3270*confirm2Button.borderColor          : #A4A6AB
+x3270*cancelButton.borderColor            : #A4A6AB
+x3270.ftProgressPopup*filename.borderColor: #A4A6AB
+x3270*fileMenuButton*borderColor          : #2D2C28
+x3270*optionsMenuButton*borderColor       : #2D2C28
+x3270*connectMenuButton*borderColor       : #2D2C28
+x3270*menuBarContainer.borderColor        : #2D2C28
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #A4A6AB
+x3270*value.foreground                    : #A4A6AB
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: baskerville-ivorydark
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.baskerville-ivorydark: \
+   #5B5955 #98BBFB #F6A299 #E5A4DB \
+   #82C896 #53CAD9 #CAB775 #A4A6AB \
+   #5B5955 #6A8DCA #9B8A4B #B577AC \
+   #559A6A #019BAA #707277 #DBDDE2 \
+   white #2D2C28 #707277 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

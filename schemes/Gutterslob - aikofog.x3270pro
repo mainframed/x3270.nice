@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Gutterslob - aikofog'
+! --------------------------------------------------
+! Gutterslob - aikofog
+! URxvt.background: #f1eee9
+! URxvt.foreground: #b2b3b8
+! Black
+! URxvt.color0:     #757475
+! URxvt.color8:     #4a4a4a
+! Red
+! URxvt.color1:     #936a6f
+! URxvt.color9:     #d76572
+! Green
+! URxvt.color2:     #668462
+! URxvt.color10:    #4fae42
+! Yellow
+! URxvt.color3:     #7f7b62
+! URxvt.color11:    #a8981f
+! Blue
+! URxvt.color4:     #6e7291
+! URxvt.color12:    #7782cf
+! Magenta
+! URxvt.color5:     #846887
+! URxvt.color13:    #b754c4
+! Cyan
+! URxvt.color6:     #637e7b
+! URxvt.color14:    #2ea89a
+! White
+! URxvt.color7:     #9a9a9a
+! URxvt.color15:    #c4c4c4
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Gutterslob - aikofog: Gutterslob-aikofog
+! --------------------------------------------------
+! Generating Gutterslob - aikofog .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #b2b3b8
+x3270*dialog*foreground                   : #b2b3b8
+x3270.aboutPopup*icon.foreground          : #b2b3b8
+x3270.keypadForeground                    : #b2b3b8
+x3270*menuBarContainer.foreground         : #b2b3b8
+x3270*fileMenuButton*foreground           : #b2b3b8
+x3270*optionsMenuButton*foreground        : #b2b3b8
+x3270*connectMenuButton*foreground        : #b2b3b8
+x3270*reconnectButton*foreground          : #b2b3b8
+x3270*macrosMenuButton*foreground         : #b2b3b8
+x3270*keypadButton*foreground             : #b2b3b8
+x3270*fileMenu*foreground                 : #b2b3b8
+x3270*exitMenu*foreground                 : #b2b3b8
+x3270*optionsMenu*foreground              : #b2b3b8
+x3270*hostMenu*foreground                 : #b2b3b8
+x3270*reconnect*foreground                : #b2b3b8
+x3270*macrosMenu*foreground               : #b2b3b8
+x3270*togglesMenu*foreground              : #b2b3b8
+x3270*fontsMenu*foreground                : #b2b3b8
+x3270*modelsMenu*foreground               : #b2b3b8
+x3270*colorsMenu*foreground               : #b2b3b8
+x3270*charsetMenu*foreground              : #b2b3b8
+x3270*dialog*value*foreground             : #b2b3b8
+x3270*dialog*foreground                   : #b2b3b8
+x3270*dialog*confirmButton.foreground     : #b2b3b8
+x3270*dialog*confirm2Button.foreground    : #b2b3b8
+3270*dialog*cancelButton.foreground       : #b2b3b8
+x3270.ftProgressPopup*filename.foreground : #b2b3b8
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #d76572
+x3270*dialog*cancelButton.foreground      : #d76572
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #f1eee9
+x3270*menuBarContainer.background         : #f1eee9
+x3270*fileMenuButton*background           : #f1eee9
+x3270*optionsMenuButton*background        : #f1eee9
+x3270*connectMenuButton*background        : #f1eee9
+x3270*reconnectButton*background          : #f1eee9
+x3270*macrosMenuButton*background         : #f1eee9
+x3270*keypadButton*background             : #f1eee9
+x3270*fileMenu*background                 : #f1eee9
+x3270*exitMenu*background                 : #f1eee9
+x3270*optionsMenu*background              : #f1eee9
+x3270*hostMenu*background                 : #f1eee9
+x3270*reconnect*background                : #f1eee9
+x3270*macrosMenu*background               : #f1eee9
+x3270*togglesMenu*background              : #f1eee9
+x3270*fontsMenu*background                : #f1eee9
+x3270*modelsMenu*background               : #f1eee9
+x3270*colorsMenu*background               : #f1eee9
+x3270*charsetMenu*background              : #f1eee9
+x3270*dialog*value*background             : #f1eee9
+x3270*dialog*background                   : #f1eee9
+x3270*dialog*confirmButton.background     : #f1eee9
+x3270*dialog*confirm2Button.background    : #f1eee9
+3270*dialog*cancelButton.background       : #f1eee9
+x3270.ftProgressPopup*filename.background : #f1eee9
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #b2b3b8
+x3270*macrosMenuButton*borderColor        : #b2b3b8
+x3270*fileMenu.borderColor                : #b2b3b8
+x3270*exitMenu.borderColor                : #b2b3b8
+x3270*optionsMenu.borderColor             : #b2b3b8
+x3270*hostMenu.borderColor                : #b2b3b8
+x3270*macrosMenu.borderColor              : #b2b3b8
+x3270*togglesMenu.borderColor             : #b2b3b8
+x3270*fontsMenu.borderColor               : #b2b3b8
+x3270*modelsMenu.borderColor              : #b2b3b8
+x3270*colorsMenu.borderColor              : #b2b3b8
+x3270*charsetMenu.borderColor             : #b2b3b8
+x3270*confirmButton.borderColor           : #b2b3b8
+x3270*confirmButton.borderColor           : #b2b3b8
+x3270*confirm2Button.borderColor          : #b2b3b8
+x3270*cancelButton.borderColor            : #b2b3b8
+x3270.ftProgressPopup*filename.borderColor: #b2b3b8
+x3270*fileMenuButton*borderColor          : #f1eee9
+x3270*optionsMenuButton*borderColor       : #f1eee9
+x3270*connectMenuButton*borderColor       : #f1eee9
+x3270*menuBarContainer.borderColor        : #f1eee9
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #b2b3b8
+x3270*value.foreground                    : #b2b3b8
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Gutterslob-aikofog
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Gutterslob-aikofog: \
+   #757475 #7782cf #d76572 #b754c4 \
+   #4fae42 #2ea89a #a8981f #b2b3b8 \
+   #757475 #6e7291 #7f7b62 #846887 \
+   #668462 #637e7b #4a4a4a #9a9a9a \
+   white #f1eee9 #4a4a4a 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

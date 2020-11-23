@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'flowers'
+! --------------------------------------------------
+! *.foreground:   #e0ede6
+! *.background:   #170e21
+! *.color0:       #170e21
+! *.color8:       #242120
+! *.color1:       #9c5c5a
+! *.color9:       #ceaead
+! *.color2:       #95ab56
+! *.color10:      #b2baaa
+! *.color3:       #c1d155
+! *.color11:      #c1d155
+! *.color4:       #483f5c
+! *.color12:      #9d92aa
+! *.color5:       #924e65
+! *.color13:      #c9a7b2
+! *.color6:       #aeaaa9
+! *.color14:      #c7cdc1
+! *.color7:       #e0ede6
+! *.color15:      #e6f2e6
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  flowers: flowers
+! --------------------------------------------------
+! Generating flowers .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #e0ede6
+x3270*dialog*foreground                   : #e0ede6
+x3270.aboutPopup*icon.foreground          : #e0ede6
+x3270.keypadForeground                    : #e0ede6
+x3270*menuBarContainer.foreground         : #e0ede6
+x3270*fileMenuButton*foreground           : #e0ede6
+x3270*optionsMenuButton*foreground        : #e0ede6
+x3270*connectMenuButton*foreground        : #e0ede6
+x3270*reconnectButton*foreground          : #e0ede6
+x3270*macrosMenuButton*foreground         : #e0ede6
+x3270*keypadButton*foreground             : #e0ede6
+x3270*fileMenu*foreground                 : #e0ede6
+x3270*exitMenu*foreground                 : #e0ede6
+x3270*optionsMenu*foreground              : #e0ede6
+x3270*hostMenu*foreground                 : #e0ede6
+x3270*reconnect*foreground                : #e0ede6
+x3270*macrosMenu*foreground               : #e0ede6
+x3270*togglesMenu*foreground              : #e0ede6
+x3270*fontsMenu*foreground                : #e0ede6
+x3270*modelsMenu*foreground               : #e0ede6
+x3270*colorsMenu*foreground               : #e0ede6
+x3270*charsetMenu*foreground              : #e0ede6
+x3270*dialog*value*foreground             : #e0ede6
+x3270*dialog*foreground                   : #e0ede6
+x3270*dialog*confirmButton.foreground     : #e0ede6
+x3270*dialog*confirm2Button.foreground    : #e0ede6
+3270*dialog*cancelButton.foreground       : #e0ede6
+x3270.ftProgressPopup*filename.foreground : #e0ede6
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ceaead
+x3270*dialog*cancelButton.foreground      : #ceaead
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #170e21
+x3270*menuBarContainer.background         : #170e21
+x3270*fileMenuButton*background           : #170e21
+x3270*optionsMenuButton*background        : #170e21
+x3270*connectMenuButton*background        : #170e21
+x3270*reconnectButton*background          : #170e21
+x3270*macrosMenuButton*background         : #170e21
+x3270*keypadButton*background             : #170e21
+x3270*fileMenu*background                 : #170e21
+x3270*exitMenu*background                 : #170e21
+x3270*optionsMenu*background              : #170e21
+x3270*hostMenu*background                 : #170e21
+x3270*reconnect*background                : #170e21
+x3270*macrosMenu*background               : #170e21
+x3270*togglesMenu*background              : #170e21
+x3270*fontsMenu*background                : #170e21
+x3270*modelsMenu*background               : #170e21
+x3270*colorsMenu*background               : #170e21
+x3270*charsetMenu*background              : #170e21
+x3270*dialog*value*background             : #170e21
+x3270*dialog*background                   : #170e21
+x3270*dialog*confirmButton.background     : #170e21
+x3270*dialog*confirm2Button.background    : #170e21
+3270*dialog*cancelButton.background       : #170e21
+x3270.ftProgressPopup*filename.background : #170e21
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #e0ede6
+x3270*macrosMenuButton*borderColor        : #e0ede6
+x3270*fileMenu.borderColor                : #e0ede6
+x3270*exitMenu.borderColor                : #e0ede6
+x3270*optionsMenu.borderColor             : #e0ede6
+x3270*hostMenu.borderColor                : #e0ede6
+x3270*macrosMenu.borderColor              : #e0ede6
+x3270*togglesMenu.borderColor             : #e0ede6
+x3270*fontsMenu.borderColor               : #e0ede6
+x3270*modelsMenu.borderColor              : #e0ede6
+x3270*colorsMenu.borderColor              : #e0ede6
+x3270*charsetMenu.borderColor             : #e0ede6
+x3270*confirmButton.borderColor           : #e0ede6
+x3270*confirmButton.borderColor           : #e0ede6
+x3270*confirm2Button.borderColor          : #e0ede6
+x3270*cancelButton.borderColor            : #e0ede6
+x3270.ftProgressPopup*filename.borderColor: #e0ede6
+x3270*fileMenuButton*borderColor          : #170e21
+x3270*optionsMenuButton*borderColor       : #170e21
+x3270*connectMenuButton*borderColor       : #170e21
+x3270*menuBarContainer.borderColor        : #170e21
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #e0ede6
+x3270*value.foreground                    : #e0ede6
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: flowers
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.flowers: \
+   #170e21 #9d92aa #ceaead #c9a7b2 \
+   #b2baaa #c7cdc1 #c1d155 #e0ede6 \
+   #170e21 #483f5c #c1d155 #924e65 \
+   #95ab56 #aeaaa9 #242120 #e0ede6 \
+   white #170e21 #242120 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

@@ -1,0 +1,160 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'euphrasia'
+! --------------------------------------------------
+! vim:ft=xdefaults
+! euphrasia v. 1.0
+! by bohoomil
+! Xresources
+! URxvt*background:  #000C1A
+! URxvt*background:  #000C1A
+! URxvt*foreground:  #ACB4BF
+! URxvt*foreground:  #ACB4BF
+! URxvt*cursorColor: #335A80
+! fg/bg for Xorg apps
+! *background:    #CFCFD9
+! *foreground:    #1C2027
+! black
+! *color0:    #192033
+! *color8:    #666666
+! red
+! *color1:    #A62A3E
+! *color9:    #F04758
+! green
+! *color2:    #38912B
+! *color10:   #93C724
+! yellow
+! *color3:    #B27D12
+! *color11:   #DDB62B
+! blue
+! *color4:    #355C9A
+! *color12:   #45A3E6
+! magenta
+! *color5:    #7C4F9F
+! *color13:   #C953EF
+! cyan
+! *color6:    #258F8F
+! *color14:   #60C6C8
+! white
+! *color7:    #77858C
+! *color15:   #C0C0C0
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  euphrasia: euphrasia
+! --------------------------------------------------
+! Generating euphrasia .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #ACB4BF
+x3270*dialog*foreground                   : #ACB4BF
+x3270.aboutPopup*icon.foreground          : #ACB4BF
+x3270.keypadForeground                    : #ACB4BF
+x3270*menuBarContainer.foreground         : #ACB4BF
+x3270*fileMenuButton*foreground           : #ACB4BF
+x3270*optionsMenuButton*foreground        : #ACB4BF
+x3270*connectMenuButton*foreground        : #ACB4BF
+x3270*reconnectButton*foreground          : #ACB4BF
+x3270*macrosMenuButton*foreground         : #ACB4BF
+x3270*keypadButton*foreground             : #ACB4BF
+x3270*fileMenu*foreground                 : #ACB4BF
+x3270*exitMenu*foreground                 : #ACB4BF
+x3270*optionsMenu*foreground              : #ACB4BF
+x3270*hostMenu*foreground                 : #ACB4BF
+x3270*reconnect*foreground                : #ACB4BF
+x3270*macrosMenu*foreground               : #ACB4BF
+x3270*togglesMenu*foreground              : #ACB4BF
+x3270*fontsMenu*foreground                : #ACB4BF
+x3270*modelsMenu*foreground               : #ACB4BF
+x3270*colorsMenu*foreground               : #ACB4BF
+x3270*charsetMenu*foreground              : #ACB4BF
+x3270*dialog*value*foreground             : #ACB4BF
+x3270*dialog*foreground                   : #ACB4BF
+x3270*dialog*confirmButton.foreground     : #ACB4BF
+x3270*dialog*confirm2Button.foreground    : #ACB4BF
+3270*dialog*cancelButton.foreground       : #ACB4BF
+x3270.ftProgressPopup*filename.foreground : #ACB4BF
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #F04758
+x3270*dialog*cancelButton.foreground      : #F04758
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000C1A
+x3270*menuBarContainer.background         : #000C1A
+x3270*fileMenuButton*background           : #000C1A
+x3270*optionsMenuButton*background        : #000C1A
+x3270*connectMenuButton*background        : #000C1A
+x3270*reconnectButton*background          : #000C1A
+x3270*macrosMenuButton*background         : #000C1A
+x3270*keypadButton*background             : #000C1A
+x3270*fileMenu*background                 : #000C1A
+x3270*exitMenu*background                 : #000C1A
+x3270*optionsMenu*background              : #000C1A
+x3270*hostMenu*background                 : #000C1A
+x3270*reconnect*background                : #000C1A
+x3270*macrosMenu*background               : #000C1A
+x3270*togglesMenu*background              : #000C1A
+x3270*fontsMenu*background                : #000C1A
+x3270*modelsMenu*background               : #000C1A
+x3270*colorsMenu*background               : #000C1A
+x3270*charsetMenu*background              : #000C1A
+x3270*dialog*value*background             : #000C1A
+x3270*dialog*background                   : #000C1A
+x3270*dialog*confirmButton.background     : #000C1A
+x3270*dialog*confirm2Button.background    : #000C1A
+3270*dialog*cancelButton.background       : #000C1A
+x3270.ftProgressPopup*filename.background : #000C1A
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #ACB4BF
+x3270*macrosMenuButton*borderColor        : #ACB4BF
+x3270*fileMenu.borderColor                : #ACB4BF
+x3270*exitMenu.borderColor                : #ACB4BF
+x3270*optionsMenu.borderColor             : #ACB4BF
+x3270*hostMenu.borderColor                : #ACB4BF
+x3270*macrosMenu.borderColor              : #ACB4BF
+x3270*togglesMenu.borderColor             : #ACB4BF
+x3270*fontsMenu.borderColor               : #ACB4BF
+x3270*modelsMenu.borderColor              : #ACB4BF
+x3270*colorsMenu.borderColor              : #ACB4BF
+x3270*charsetMenu.borderColor             : #ACB4BF
+x3270*confirmButton.borderColor           : #ACB4BF
+x3270*confirmButton.borderColor           : #ACB4BF
+x3270*confirm2Button.borderColor          : #ACB4BF
+x3270*cancelButton.borderColor            : #ACB4BF
+x3270.ftProgressPopup*filename.borderColor: #ACB4BF
+x3270*fileMenuButton*borderColor          : #000C1A
+x3270*optionsMenuButton*borderColor       : #000C1A
+x3270*connectMenuButton*borderColor       : #000C1A
+x3270*menuBarContainer.borderColor        : #000C1A
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #ACB4BF
+x3270*value.foreground                    : #ACB4BF
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: euphrasia
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.euphrasia: \
+   #192033 #45A3E6 #F04758 #C953EF \
+   #93C724 #60C6C8 #DDB62B #ACB4BF \
+   #192033 #355C9A #B27D12 #7C4F9F \
+   #38912B #258F8F #666666 #77858C \
+   white #000C1A #666666 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

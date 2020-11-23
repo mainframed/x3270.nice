@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'nvert'
+! --------------------------------------------------
+! *.foreground:   #aaee66
+! *.background:   #101215
+! *.color0:       #101215
+! *.color8:       #101215
+! *.color1:       #ee3366
+! *.color9:       #ee3366
+! *.color2:       #aaee66
+! *.color10:      #aaee66
+! *.color3:       #ddee77
+! *.color11:      #ddee77
+! *.color4:       #4477ee
+! *.color12:      #4477ee
+! *.color5:       #6655ee
+! *.color13:      #6655ee
+! *.color6:       #44ddee
+! *.color14:      #44ddee
+! *.color7:       #feeeee
+! *.color15:      #ffffff
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  nvert: nvert
+! --------------------------------------------------
+! Generating nvert .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #aaee66
+x3270*dialog*foreground                   : #aaee66
+x3270.aboutPopup*icon.foreground          : #aaee66
+x3270.keypadForeground                    : #aaee66
+x3270*menuBarContainer.foreground         : #aaee66
+x3270*fileMenuButton*foreground           : #aaee66
+x3270*optionsMenuButton*foreground        : #aaee66
+x3270*connectMenuButton*foreground        : #aaee66
+x3270*reconnectButton*foreground          : #aaee66
+x3270*macrosMenuButton*foreground         : #aaee66
+x3270*keypadButton*foreground             : #aaee66
+x3270*fileMenu*foreground                 : #aaee66
+x3270*exitMenu*foreground                 : #aaee66
+x3270*optionsMenu*foreground              : #aaee66
+x3270*hostMenu*foreground                 : #aaee66
+x3270*reconnect*foreground                : #aaee66
+x3270*macrosMenu*foreground               : #aaee66
+x3270*togglesMenu*foreground              : #aaee66
+x3270*fontsMenu*foreground                : #aaee66
+x3270*modelsMenu*foreground               : #aaee66
+x3270*colorsMenu*foreground               : #aaee66
+x3270*charsetMenu*foreground              : #aaee66
+x3270*dialog*value*foreground             : #aaee66
+x3270*dialog*foreground                   : #aaee66
+x3270*dialog*confirmButton.foreground     : #aaee66
+x3270*dialog*confirm2Button.foreground    : #aaee66
+3270*dialog*cancelButton.foreground       : #aaee66
+x3270.ftProgressPopup*filename.foreground : #aaee66
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ee3366
+x3270*dialog*cancelButton.foreground      : #ee3366
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #101215
+x3270*menuBarContainer.background         : #101215
+x3270*fileMenuButton*background           : #101215
+x3270*optionsMenuButton*background        : #101215
+x3270*connectMenuButton*background        : #101215
+x3270*reconnectButton*background          : #101215
+x3270*macrosMenuButton*background         : #101215
+x3270*keypadButton*background             : #101215
+x3270*fileMenu*background                 : #101215
+x3270*exitMenu*background                 : #101215
+x3270*optionsMenu*background              : #101215
+x3270*hostMenu*background                 : #101215
+x3270*reconnect*background                : #101215
+x3270*macrosMenu*background               : #101215
+x3270*togglesMenu*background              : #101215
+x3270*fontsMenu*background                : #101215
+x3270*modelsMenu*background               : #101215
+x3270*colorsMenu*background               : #101215
+x3270*charsetMenu*background              : #101215
+x3270*dialog*value*background             : #101215
+x3270*dialog*background                   : #101215
+x3270*dialog*confirmButton.background     : #101215
+x3270*dialog*confirm2Button.background    : #101215
+3270*dialog*cancelButton.background       : #101215
+x3270.ftProgressPopup*filename.background : #101215
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #aaee66
+x3270*macrosMenuButton*borderColor        : #aaee66
+x3270*fileMenu.borderColor                : #aaee66
+x3270*exitMenu.borderColor                : #aaee66
+x3270*optionsMenu.borderColor             : #aaee66
+x3270*hostMenu.borderColor                : #aaee66
+x3270*macrosMenu.borderColor              : #aaee66
+x3270*togglesMenu.borderColor             : #aaee66
+x3270*fontsMenu.borderColor               : #aaee66
+x3270*modelsMenu.borderColor              : #aaee66
+x3270*colorsMenu.borderColor              : #aaee66
+x3270*charsetMenu.borderColor             : #aaee66
+x3270*confirmButton.borderColor           : #aaee66
+x3270*confirmButton.borderColor           : #aaee66
+x3270*confirm2Button.borderColor          : #aaee66
+x3270*cancelButton.borderColor            : #aaee66
+x3270.ftProgressPopup*filename.borderColor: #aaee66
+x3270*fileMenuButton*borderColor          : #101215
+x3270*optionsMenuButton*borderColor       : #101215
+x3270*connectMenuButton*borderColor       : #101215
+x3270*menuBarContainer.borderColor        : #101215
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #aaee66
+x3270*value.foreground                    : #aaee66
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: nvert
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.nvert: \
+   #101215 #4477ee #ee3366 #6655ee \
+   #aaee66 #44ddee #ddee77 #aaee66 \
+   #101215 #4477ee #ddee77 #6655ee \
+   #aaee66 #44ddee #101215 #feeeee \
+   white #101215 #101215 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

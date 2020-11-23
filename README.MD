@@ -1773,3 +1773,455 @@ These themes have been converted using this script from https://github.com/mbado
 ### base16-zenburn.Xresources
 
 ![base16-zenburn.Xresources](./screenshots/base16-zenburn.Xresources.png?raw=true)
+
+### apple-bright
+
+![apple-bright](./screenshots/apple-bright.png?raw=true)
+
+### apple-dark
+
+![apple-dark](./screenshots/apple-dark.png?raw=true)
+
+### astromouse
+
+![astromouse](./screenshots/astromouse.png?raw=true)
+
+### autumn
+
+![autumn](./screenshots/autumn.png?raw=true)
+
+### Baskerville - Count Von Count
+
+![Baskerville - Count Von Count](./screenshots/Baskerville%20-%20Count%20Von%20Count.png?raw=true)
+
+### Baskerville - Eldorado dark
+
+![Baskerville - Eldorado dark](./screenshots/Baskerville%20-%20Eldorado%20dark.png?raw=true)
+
+### baskerville - FarSide
+
+![baskerville - FarSide](./screenshots/baskerville%20-%20FarSide.png?raw=true)
+
+### baskerville - ivory dark
+
+![baskerville - ivory dark](./screenshots/baskerville%20-%20ivory%20dark.png?raw=true)
+
+### baskerville-ivorylight
+
+![baskerville-ivorylight](./screenshots/baskerville-ivorylight.png?raw=true)
+
+### baskerville - lost woods
+
+![baskerville - lost woods](./screenshots/baskerville%20-%20lost%20woods.png?raw=true)
+
+### belge
+
+![belge](./screenshots/belge.png?raw=true)
+
+### bitmute
+
+![bitmute](./screenshots/bitmute.png?raw=true)
+
+### bleh-1
+
+![bleh-1](./screenshots/bleh-1.png?raw=true)
+
+### blizzard-orb
+
+![blizzard-orb](./screenshots/blizzard-orb.png?raw=true)
+
+### brightly
+
+![brightly](./screenshots/brightly.png?raw=true)
+
+### chalk
+
+![chalk](./screenshots/chalk.png?raw=true)
+
+### cheesecake-dark
+
+![cheesecake-dark](./screenshots/cheesecake-dark.png?raw=true)
+
+### cheesecake-light
+
+![cheesecake-light](./screenshots/cheesecake-light.png?raw=true)
+
+### cinder
+
+![cinder](./screenshots/cinder.png?raw=true)
+
+### cloud
+
+![cloud](./screenshots/cloud.png?raw=true)
+
+### cold-bruise
+
+![cold-bruise](./screenshots/cold-bruise.png?raw=true)
+
+### colorfulcolors
+
+![colorfulcolors](./screenshots/colorfulcolors.png?raw=true)
+
+### cool-beans
+
+![cool-beans](./screenshots/cool-beans.png?raw=true)
+
+### cotton-candy
+
+![cotton-candy](./screenshots/cotton-candy.png?raw=true)
+
+### darkly
+
+![darkly](./screenshots/darkly.png?raw=true)
+
+### deafened
+
+![deafened](./screenshots/deafened.png?raw=true)
+
+### derp
+
+![derp](./screenshots/derp.png?raw=true)
+
+### digerati
+
+![digerati](./screenshots/digerati.png?raw=true)
+
+### dkeg - canvasedpastel
+
+![dkeg - canvasedpastel](./screenshots/dkeg%20-%20canvasedpastel.png?raw=true)
+
+### dkeg - catchmeifyoucan
+
+![dkeg - catchmeifyoucan](./screenshots/dkeg%20-%20catchmeifyoucan.png?raw=true)
+
+### dkeg - citystreets
+
+![dkeg - citystreets](./screenshots/dkeg%20-%20citystreets.png?raw=true)
+
+### dkeg - colorstar
+
+![dkeg - colorstar](./screenshots/dkeg%20-%20colorstar.png?raw=true)
+
+### dkeg - panels
+
+![dkeg - panels](./screenshots/dkeg%20-%20panels.png?raw=true)
+
+### dkeg - redphoenix
+
+![dkeg - redphoenix](./screenshots/dkeg%20-%20redphoenix.png?raw=true)
+
+### dkeg - teva
+
+![dkeg - teva](./screenshots/dkeg%20-%20teva.png?raw=true)
+
+### dkeg - unsiftedwheat
+
+![dkeg - unsiftedwheat](./screenshots/dkeg%20-%20unsiftedwheat.png?raw=true)
+
+### dkeg - vwbug
+
+![dkeg - vwbug](./screenshots/dkeg%20-%20vwbug.png?raw=true)
+
+### DOOMICIDE darkocean
+
+![DOOMICIDE darkocean](./screenshots/DOOMICIDE%20darkocean.png?raw=true)
+
+### dotshare
+
+![dotshare](./screenshots/dotshare.png?raw=true)
+
+### dwmrob
+
+![dwmrob](./screenshots/dwmrob.png?raw=true)
+
+### epiphany
+
+![epiphany](./screenshots/epiphany.png?raw=true)
+
+### eqie6
+
+![eqie6](./screenshots/eqie6.png?raw=true)
+
+### erebus
+
+![erebus](./screenshots/erebus.png?raw=true)
+
+### euphrasia
+
+![euphrasia](./screenshots/euphrasia.png?raw=true)
+
+### fishbone
+
+![fishbone](./screenshots/fishbone.png?raw=true)
+
+### flowers
+
+![flowers](./screenshots/flowers.png?raw=true)
+
+### Fulminated-Sunburn
+
+![Fulminated-Sunburn](./screenshots/Fulminated-Sunburn.png?raw=true)
+
+### gjm
+
+![gjm](./screenshots/gjm.png?raw=true)
+
+### gnometerm
+
+![gnometerm](./screenshots/gnometerm.png?raw=true)
+
+### good-pants
+
+![good-pants](./screenshots/good-pants.png?raw=true)
+
+### grandshell
+
+![grandshell](./screenshots/grandshell.png?raw=true)
+
+### Gslob nature-suede
+
+![Gslob nature-suede](./screenshots/Gslob%20nature-suede.png?raw=true)
+
+### Gutterslob - aikofog
+
+![Gutterslob - aikofog](./screenshots/Gutterslob%20-%20aikofog.png?raw=true)
+
+### Gutterslob lightwhite
+
+![Gutterslob lightwhite](./screenshots/Gutterslob%20lightwhite.png?raw=true)
+
+### gutterslob - lumifoo
+
+![gutterslob - lumifoo](./screenshots/gutterslob%20-%20lumifoo.png?raw=true)
+
+### hybrid
+
+![hybrid](./screenshots/hybrid.png?raw=true)
+
+### iiamblack
+
+![iiamblack](./screenshots/iiamblack.png?raw=true)
+
+### insignificato
+
+![insignificato](./screenshots/insignificato.png?raw=true)
+
+### jasonwryan
+
+![jasonwryan](./screenshots/jasonwryan.png?raw=true)
+
+### jeans
+
+![jeans](./screenshots/jeans.png?raw=true)
+
+### jellybeans
+
+![jellybeans](./screenshots/jellybeans.png?raw=true)
+
+### jellyx
+
+![jellyx](./screenshots/jellyx.png?raw=true)
+
+### jwr-dark
+
+![jwr-dark](./screenshots/jwr-dark.png?raw=true)
+
+### leather
+
+![leather](./screenshots/leather.png?raw=true)
+
+### light-roast
+
+![light-roast](./screenshots/light-roast.png?raw=true)
+
+### material
+
+![material](./screenshots/material.png?raw=true)
+
+### medium-roast
+
+![medium-roast](./screenshots/medium-roast.png?raw=true)
+
+### mikado
+
+![mikado](./screenshots/mikado.png?raw=true)
+
+### mikazuki
+
+![mikazuki](./screenshots/mikazuki.png?raw=true)
+
+### monotheme
+
+![monotheme](./screenshots/monotheme.png?raw=true)
+
+### mostly-awful
+
+![mostly-awful](./screenshots/mostly-awful.png?raw=true)
+
+### Muse
+
+![Muse](./screenshots/Muse.png?raw=true)
+
+### Muzieca lowcontrast
+
+![Muzieca lowcontrast](./screenshots/Muzieca%20lowcontrast.png?raw=true)
+
+### Muzieca mono
+
+![Muzieca mono](./screenshots/Muzieca%20mono.png?raw=true)
+
+### Muzieca pastel white
+
+![Muzieca pastel white](./screenshots/Muzieca%20pastel%20white.png?raw=true)
+
+### nancy
+
+![nancy](./screenshots/nancy.png?raw=true)
+
+### neon
+
+![neon](./screenshots/neon.png?raw=true)
+
+### nucolors
+
+![nucolors](./screenshots/nucolors.png?raw=true)
+
+### nudge
+
+![nudge](./screenshots/nudge.png?raw=true)
+
+### NumixDarkest
+
+![NumixDarkest](./screenshots/NumixDarkest.png?raw=true)
+
+### nvert
+
+![nvert](./screenshots/nvert.png?raw=true)
+
+### OK100 - Matrix
+
+![OK100 - Matrix](./screenshots/OK100%20-%20Matrix.png?raw=true)
+
+### orangish
+
+![orangish](./screenshots/orangish.png?raw=true)
+
+### paperko
+
+![paperko](./screenshots/paperko.png?raw=true)
+
+### parker_brothers
+
+![parker_brothers](./screenshots/parker_brothers.png?raw=true)
+
+### petals
+
+![petals](./screenshots/petals.png?raw=true)
+
+### phrak1
+
+![phrak1](./screenshots/phrak1.png?raw=true)
+
+### plastic-toys
+
+![plastic-toys](./screenshots/plastic-toys.png?raw=true)
+
+### pulp
+
+![pulp](./screenshots/pulp.png?raw=true)
+
+### rasi
+
+![rasi](./screenshots/rasi.png?raw=true)
+
+### rezza
+
+![rezza](./screenshots/rezza.png?raw=true)
+
+### Rooster - SOS
+
+![Rooster - SOS](./screenshots/Rooster%20-%20SOS.png?raw=true)
+
+### rosewould
+
+![rosewould](./screenshots/rosewould.png?raw=true)
+
+### rydgel
+
+![rydgel](./screenshots/rydgel.png?raw=true)
+
+### sea-fox
+
+![sea-fox](./screenshots/sea-fox.png?raw=true)
+
+### sexcolors
+
+![sexcolors](./screenshots/sexcolors.png?raw=true)
+
+### shic
+
+![shic](./screenshots/shic.png?raw=true)
+
+### simple_rainbow
+
+![simple_rainbow](./screenshots/simple_rainbow.png?raw=true)
+
+### sour-candy
+
+![sour-candy](./screenshots/sour-candy.png?raw=true)
+
+### sourcerer
+
+![sourcerer](./screenshots/sourcerer.png?raw=true)
+
+### splurge
+
+![splurge](./screenshots/splurge.png?raw=true)
+
+### swayr
+
+![swayr](./screenshots/swayr.png?raw=true)
+
+### tango
+
+![tango](./screenshots/tango.png?raw=true)
+
+### tangoesque
+
+![tangoesque](./screenshots/tangoesque.png?raw=true)
+
+### Tartan
+
+![Tartan](./screenshots/Tartan.png?raw=true)
+
+### theme2
+
+![theme2](./screenshots/theme2.png?raw=true)
+
+### thwump
+
+![thwump](./screenshots/thwump.png?raw=true)
+
+### tlh
+
+![tlh](./screenshots/tlh.png?raw=true)
+
+### user 77 - Mashup colors
+
+![user 77 - Mashup colors](./screenshots/user%2077%20-%20Mashup%20colors.png?raw=true)
+
+### Visiblue
+
+![Visiblue](./screenshots/Visiblue.png?raw=true)
+
+### visibone
+
+![visibone](./screenshots/visibone.png?raw=true)
+
+### woodlands
+
+![woodlands](./screenshots/woodlands.png?raw=true)
+
+### zenburn
+
+![zenburn](./screenshots/zenburn.png?raw=true)

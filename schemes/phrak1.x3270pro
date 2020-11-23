@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'phrak1'
+! --------------------------------------------------
+! *background:  rgb:00/00/00
+! *foreground:  rgb:a8/a8/a8
+! Black
+! *color0:      rgb:00/00/00
+! *color8:      rgb:54/50/54
+! Red
+! *color1:      rgb:a8/00/00
+! *color9:      rgb:f8/54/50
+! Green
+! *color2:      rgb:00/a8/00
+! *color10:     rgb:50/fc/50
+! Yellow
+! *color3:      rgb:a8/54/00
+! *color11:     rgb:f8/fc/50
+! Blue
+! *color4:      rgb:00/00/a8
+! *color12:     rgb:50/54/f8
+! Magneta
+! *color5:      rgb:a8/00/a8
+! *color13:     rgb:f8/54/f8
+! Cyan
+! *color6:      rgb:00/a8/a8
+! *color14:     rgb:50/fc/f8
+! White
+! *color7:      rgb:a8/a8/a8
+! *color15:     rgb:f8/fc/f8
+! vim: et sw=2 syn=xdefaults
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  phrak1: phrak1
+! --------------------------------------------------
+! Generating phrak1 .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : rgb:a8/a8/a8
+x3270*dialog*foreground                   : rgb:a8/a8/a8
+x3270.aboutPopup*icon.foreground          : rgb:a8/a8/a8
+x3270.keypadForeground                    : rgb:a8/a8/a8
+x3270*menuBarContainer.foreground         : rgb:a8/a8/a8
+x3270*fileMenuButton*foreground           : rgb:a8/a8/a8
+x3270*optionsMenuButton*foreground        : rgb:a8/a8/a8
+x3270*connectMenuButton*foreground        : rgb:a8/a8/a8
+x3270*reconnectButton*foreground          : rgb:a8/a8/a8
+x3270*macrosMenuButton*foreground         : rgb:a8/a8/a8
+x3270*keypadButton*foreground             : rgb:a8/a8/a8
+x3270*fileMenu*foreground                 : rgb:a8/a8/a8
+x3270*exitMenu*foreground                 : rgb:a8/a8/a8
+x3270*optionsMenu*foreground              : rgb:a8/a8/a8
+x3270*hostMenu*foreground                 : rgb:a8/a8/a8
+x3270*reconnect*foreground                : rgb:a8/a8/a8
+x3270*macrosMenu*foreground               : rgb:a8/a8/a8
+x3270*togglesMenu*foreground              : rgb:a8/a8/a8
+x3270*fontsMenu*foreground                : rgb:a8/a8/a8
+x3270*modelsMenu*foreground               : rgb:a8/a8/a8
+x3270*colorsMenu*foreground               : rgb:a8/a8/a8
+x3270*charsetMenu*foreground              : rgb:a8/a8/a8
+x3270*dialog*value*foreground             : rgb:a8/a8/a8
+x3270*dialog*foreground                   : rgb:a8/a8/a8
+x3270*dialog*confirmButton.foreground     : rgb:a8/a8/a8
+x3270*dialog*confirm2Button.foreground    : rgb:a8/a8/a8
+3270*dialog*cancelButton.foreground       : rgb:a8/a8/a8
+x3270.ftProgressPopup*filename.foreground : rgb:a8/a8/a8
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : rgb:f8/54/50
+x3270*dialog*cancelButton.foreground      : rgb:f8/54/50
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : rgb:00/00/00
+x3270*menuBarContainer.background         : rgb:00/00/00
+x3270*fileMenuButton*background           : rgb:00/00/00
+x3270*optionsMenuButton*background        : rgb:00/00/00
+x3270*connectMenuButton*background        : rgb:00/00/00
+x3270*reconnectButton*background          : rgb:00/00/00
+x3270*macrosMenuButton*background         : rgb:00/00/00
+x3270*keypadButton*background             : rgb:00/00/00
+x3270*fileMenu*background                 : rgb:00/00/00
+x3270*exitMenu*background                 : rgb:00/00/00
+x3270*optionsMenu*background              : rgb:00/00/00
+x3270*hostMenu*background                 : rgb:00/00/00
+x3270*reconnect*background                : rgb:00/00/00
+x3270*macrosMenu*background               : rgb:00/00/00
+x3270*togglesMenu*background              : rgb:00/00/00
+x3270*fontsMenu*background                : rgb:00/00/00
+x3270*modelsMenu*background               : rgb:00/00/00
+x3270*colorsMenu*background               : rgb:00/00/00
+x3270*charsetMenu*background              : rgb:00/00/00
+x3270*dialog*value*background             : rgb:00/00/00
+x3270*dialog*background                   : rgb:00/00/00
+x3270*dialog*confirmButton.background     : rgb:00/00/00
+x3270*dialog*confirm2Button.background    : rgb:00/00/00
+3270*dialog*cancelButton.background       : rgb:00/00/00
+x3270.ftProgressPopup*filename.background : rgb:00/00/00
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : rgb:a8/a8/a8
+x3270*macrosMenuButton*borderColor        : rgb:a8/a8/a8
+x3270*fileMenu.borderColor                : rgb:a8/a8/a8
+x3270*exitMenu.borderColor                : rgb:a8/a8/a8
+x3270*optionsMenu.borderColor             : rgb:a8/a8/a8
+x3270*hostMenu.borderColor                : rgb:a8/a8/a8
+x3270*macrosMenu.borderColor              : rgb:a8/a8/a8
+x3270*togglesMenu.borderColor             : rgb:a8/a8/a8
+x3270*fontsMenu.borderColor               : rgb:a8/a8/a8
+x3270*modelsMenu.borderColor              : rgb:a8/a8/a8
+x3270*colorsMenu.borderColor              : rgb:a8/a8/a8
+x3270*charsetMenu.borderColor             : rgb:a8/a8/a8
+x3270*confirmButton.borderColor           : rgb:a8/a8/a8
+x3270*confirmButton.borderColor           : rgb:a8/a8/a8
+x3270*confirm2Button.borderColor          : rgb:a8/a8/a8
+x3270*cancelButton.borderColor            : rgb:a8/a8/a8
+x3270.ftProgressPopup*filename.borderColor: rgb:a8/a8/a8
+x3270*fileMenuButton*borderColor          : rgb:00/00/00
+x3270*optionsMenuButton*borderColor       : rgb:00/00/00
+x3270*connectMenuButton*borderColor       : rgb:00/00/00
+x3270*menuBarContainer.borderColor        : rgb:00/00/00
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : rgb:a8/a8/a8
+x3270*value.foreground                    : rgb:a8/a8/a8
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: phrak1
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.phrak1: \
+   rgb:00/00/00 rgb:50/54/f8 rgb:f8/54/50 rgb:f8/54/f8 \
+   rgb:50/fc/50 rgb:50/fc/f8 rgb:f8/fc/50 rgb:a8/a8/a8 \
+   rgb:00/00/00 rgb:00/00/a8 rgb:a8/54/00 rgb:a8/00/a8 \
+   rgb:00/a8/00 rgb:00/a8/a8 rgb:54/50/54 rgb:a8/a8/a8 \
+   white rgb:00/00/00 rgb:54/50/54 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

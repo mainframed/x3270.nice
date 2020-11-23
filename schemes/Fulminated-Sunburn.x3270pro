@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Fulminated-Sunburn'
+! --------------------------------------------------
+! Fulminated - Sunburn
+! *.foreground:   #fe7000
+! *.background:   #110900
+! black
+! *.color0:       #110900
+! *.color8:       #723d02
+! red
+! *.color1:       #fe4400
+! *.color9:       #fe4400
+! green
+! *.color2:       #e77d29
+! *.color10:      #fe4400
+! yellow
+! *.color3:       #e77d29
+! *.color11:      #fe4400
+! blue
+! *.color4:       #814618
+! *.color12:      #814618
+! magenta
+! *.color5:       #fe4400
+! *.color13:      #fe4400
+! cyan
+! *.color6:       #e77d29
+! *.color14:      #fe4400
+! white
+! *.color7:       #e77d29
+! *.color15:      #e77d29
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Fulminated-Sunburn: Fulminated-Sunburn
+! --------------------------------------------------
+! Generating Fulminated-Sunburn .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #fe7000
+x3270*dialog*foreground                   : #fe7000
+x3270.aboutPopup*icon.foreground          : #fe7000
+x3270.keypadForeground                    : #fe7000
+x3270*menuBarContainer.foreground         : #fe7000
+x3270*fileMenuButton*foreground           : #fe7000
+x3270*optionsMenuButton*foreground        : #fe7000
+x3270*connectMenuButton*foreground        : #fe7000
+x3270*reconnectButton*foreground          : #fe7000
+x3270*macrosMenuButton*foreground         : #fe7000
+x3270*keypadButton*foreground             : #fe7000
+x3270*fileMenu*foreground                 : #fe7000
+x3270*exitMenu*foreground                 : #fe7000
+x3270*optionsMenu*foreground              : #fe7000
+x3270*hostMenu*foreground                 : #fe7000
+x3270*reconnect*foreground                : #fe7000
+x3270*macrosMenu*foreground               : #fe7000
+x3270*togglesMenu*foreground              : #fe7000
+x3270*fontsMenu*foreground                : #fe7000
+x3270*modelsMenu*foreground               : #fe7000
+x3270*colorsMenu*foreground               : #fe7000
+x3270*charsetMenu*foreground              : #fe7000
+x3270*dialog*value*foreground             : #fe7000
+x3270*dialog*foreground                   : #fe7000
+x3270*dialog*confirmButton.foreground     : #fe7000
+x3270*dialog*confirm2Button.foreground    : #fe7000
+3270*dialog*cancelButton.foreground       : #fe7000
+x3270.ftProgressPopup*filename.foreground : #fe7000
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #fe4400
+x3270*dialog*cancelButton.foreground      : #fe4400
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #110900
+x3270*menuBarContainer.background         : #110900
+x3270*fileMenuButton*background           : #110900
+x3270*optionsMenuButton*background        : #110900
+x3270*connectMenuButton*background        : #110900
+x3270*reconnectButton*background          : #110900
+x3270*macrosMenuButton*background         : #110900
+x3270*keypadButton*background             : #110900
+x3270*fileMenu*background                 : #110900
+x3270*exitMenu*background                 : #110900
+x3270*optionsMenu*background              : #110900
+x3270*hostMenu*background                 : #110900
+x3270*reconnect*background                : #110900
+x3270*macrosMenu*background               : #110900
+x3270*togglesMenu*background              : #110900
+x3270*fontsMenu*background                : #110900
+x3270*modelsMenu*background               : #110900
+x3270*colorsMenu*background               : #110900
+x3270*charsetMenu*background              : #110900
+x3270*dialog*value*background             : #110900
+x3270*dialog*background                   : #110900
+x3270*dialog*confirmButton.background     : #110900
+x3270*dialog*confirm2Button.background    : #110900
+3270*dialog*cancelButton.background       : #110900
+x3270.ftProgressPopup*filename.background : #110900
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #fe7000
+x3270*macrosMenuButton*borderColor        : #fe7000
+x3270*fileMenu.borderColor                : #fe7000
+x3270*exitMenu.borderColor                : #fe7000
+x3270*optionsMenu.borderColor             : #fe7000
+x3270*hostMenu.borderColor                : #fe7000
+x3270*macrosMenu.borderColor              : #fe7000
+x3270*togglesMenu.borderColor             : #fe7000
+x3270*fontsMenu.borderColor               : #fe7000
+x3270*modelsMenu.borderColor              : #fe7000
+x3270*colorsMenu.borderColor              : #fe7000
+x3270*charsetMenu.borderColor             : #fe7000
+x3270*confirmButton.borderColor           : #fe7000
+x3270*confirmButton.borderColor           : #fe7000
+x3270*confirm2Button.borderColor          : #fe7000
+x3270*cancelButton.borderColor            : #fe7000
+x3270.ftProgressPopup*filename.borderColor: #fe7000
+x3270*fileMenuButton*borderColor          : #110900
+x3270*optionsMenuButton*borderColor       : #110900
+x3270*connectMenuButton*borderColor       : #110900
+x3270*menuBarContainer.borderColor        : #110900
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #fe7000
+x3270*value.foreground                    : #fe7000
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Fulminated-Sunburn
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Fulminated-Sunburn: \
+   #110900 #814618 #fe4400 #fe4400 \
+   #fe4400 #fe4400 #fe4400 #fe7000 \
+   #110900 #814618 #e77d29 #fe4400 \
+   #e77d29 #e77d29 #723d02 #e77d29 \
+   white #110900 #723d02 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'cotton-candy'
+! --------------------------------------------------
+! *.foreground:   #adadad
+! *.background:   #202020
+! *.color0:       #202020
+! *.color8:       #404040
+! *.color1:       #707070
+! *.color9:       #e72d6a
+! *.color2:       #808080
+! *.color10:      #cf275f
+! *.color3:       #909090
+! *.color11:      #b52253
+! *.color4:       #a0a0a0
+! *.color12:      #2cc9e8
+! *.color5:       #505050
+! *.color13:      #27b3cf
+! *.color6:       #606060
+! *.color14:      #229db5
+! *.color7:       #adadad
+! *.color15:      #e7e7e7
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  cotton-candy: cotton-candy
+! --------------------------------------------------
+! Generating cotton-candy .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #adadad
+x3270*dialog*foreground                   : #adadad
+x3270.aboutPopup*icon.foreground          : #adadad
+x3270.keypadForeground                    : #adadad
+x3270*menuBarContainer.foreground         : #adadad
+x3270*fileMenuButton*foreground           : #adadad
+x3270*optionsMenuButton*foreground        : #adadad
+x3270*connectMenuButton*foreground        : #adadad
+x3270*reconnectButton*foreground          : #adadad
+x3270*macrosMenuButton*foreground         : #adadad
+x3270*keypadButton*foreground             : #adadad
+x3270*fileMenu*foreground                 : #adadad
+x3270*exitMenu*foreground                 : #adadad
+x3270*optionsMenu*foreground              : #adadad
+x3270*hostMenu*foreground                 : #adadad
+x3270*reconnect*foreground                : #adadad
+x3270*macrosMenu*foreground               : #adadad
+x3270*togglesMenu*foreground              : #adadad
+x3270*fontsMenu*foreground                : #adadad
+x3270*modelsMenu*foreground               : #adadad
+x3270*colorsMenu*foreground               : #adadad
+x3270*charsetMenu*foreground              : #adadad
+x3270*dialog*value*foreground             : #adadad
+x3270*dialog*foreground                   : #adadad
+x3270*dialog*confirmButton.foreground     : #adadad
+x3270*dialog*confirm2Button.foreground    : #adadad
+3270*dialog*cancelButton.foreground       : #adadad
+x3270.ftProgressPopup*filename.foreground : #adadad
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #e72d6a
+x3270*dialog*cancelButton.foreground      : #e72d6a
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #202020
+x3270*menuBarContainer.background         : #202020
+x3270*fileMenuButton*background           : #202020
+x3270*optionsMenuButton*background        : #202020
+x3270*connectMenuButton*background        : #202020
+x3270*reconnectButton*background          : #202020
+x3270*macrosMenuButton*background         : #202020
+x3270*keypadButton*background             : #202020
+x3270*fileMenu*background                 : #202020
+x3270*exitMenu*background                 : #202020
+x3270*optionsMenu*background              : #202020
+x3270*hostMenu*background                 : #202020
+x3270*reconnect*background                : #202020
+x3270*macrosMenu*background               : #202020
+x3270*togglesMenu*background              : #202020
+x3270*fontsMenu*background                : #202020
+x3270*modelsMenu*background               : #202020
+x3270*colorsMenu*background               : #202020
+x3270*charsetMenu*background              : #202020
+x3270*dialog*value*background             : #202020
+x3270*dialog*background                   : #202020
+x3270*dialog*confirmButton.background     : #202020
+x3270*dialog*confirm2Button.background    : #202020
+3270*dialog*cancelButton.background       : #202020
+x3270.ftProgressPopup*filename.background : #202020
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #adadad
+x3270*macrosMenuButton*borderColor        : #adadad
+x3270*fileMenu.borderColor                : #adadad
+x3270*exitMenu.borderColor                : #adadad
+x3270*optionsMenu.borderColor             : #adadad
+x3270*hostMenu.borderColor                : #adadad
+x3270*macrosMenu.borderColor              : #adadad
+x3270*togglesMenu.borderColor             : #adadad
+x3270*fontsMenu.borderColor               : #adadad
+x3270*modelsMenu.borderColor              : #adadad
+x3270*colorsMenu.borderColor              : #adadad
+x3270*charsetMenu.borderColor             : #adadad
+x3270*confirmButton.borderColor           : #adadad
+x3270*confirmButton.borderColor           : #adadad
+x3270*confirm2Button.borderColor          : #adadad
+x3270*cancelButton.borderColor            : #adadad
+x3270.ftProgressPopup*filename.borderColor: #adadad
+x3270*fileMenuButton*borderColor          : #202020
+x3270*optionsMenuButton*borderColor       : #202020
+x3270*connectMenuButton*borderColor       : #202020
+x3270*menuBarContainer.borderColor        : #202020
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #adadad
+x3270*value.foreground                    : #adadad
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: cotton-candy
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.cotton-candy: \
+   #202020 #2cc9e8 #e72d6a #27b3cf \
+   #cf275f #229db5 #b52253 #adadad \
+   #202020 #a0a0a0 #909090 #505050 \
+   #808080 #606060 #404040 #adadad \
+   white #202020 #404040 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

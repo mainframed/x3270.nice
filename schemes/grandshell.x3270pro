@@ -1,0 +1,153 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'grandshell'
+! --------------------------------------------------
+! grandshell color scheme
+! based on steckerhalter (grandshell-theme for emacs).
+! https://github.com/steckerhalter/grandshell-theme
+! *background: #000000
+! *foreground: #bebebe
+! black + red
+! *color0: #000000
+! *color1: #f25a5a
+! green + yellow
+! *color2: #77bb33
+! *color3: #efc334
+! blue + purple
+! *color4: #5555dd
+! *color5: #C350FF
+! cyan + white
+! *color6: #5af2ee
+! *color7: #bebebe
+! bright-black + bright-red
+! *color8: #222222
+! *color9: #ffbbbb
+! bright-green + bright-yellow
+! *color10: #dcf692
+! *color11: #f6df92
+! bright-blue + bright-purple
+! *color12: #b2baf6
+! *color13: #f09fff
+! bright-cyan + bright-white
+! *color14: #5af2ee
+! *color15: #eeeeee
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  grandshell: grandshell
+! --------------------------------------------------
+! Generating grandshell .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #bebebe
+x3270*dialog*foreground                   : #bebebe
+x3270.aboutPopup*icon.foreground          : #bebebe
+x3270.keypadForeground                    : #bebebe
+x3270*menuBarContainer.foreground         : #bebebe
+x3270*fileMenuButton*foreground           : #bebebe
+x3270*optionsMenuButton*foreground        : #bebebe
+x3270*connectMenuButton*foreground        : #bebebe
+x3270*reconnectButton*foreground          : #bebebe
+x3270*macrosMenuButton*foreground         : #bebebe
+x3270*keypadButton*foreground             : #bebebe
+x3270*fileMenu*foreground                 : #bebebe
+x3270*exitMenu*foreground                 : #bebebe
+x3270*optionsMenu*foreground              : #bebebe
+x3270*hostMenu*foreground                 : #bebebe
+x3270*reconnect*foreground                : #bebebe
+x3270*macrosMenu*foreground               : #bebebe
+x3270*togglesMenu*foreground              : #bebebe
+x3270*fontsMenu*foreground                : #bebebe
+x3270*modelsMenu*foreground               : #bebebe
+x3270*colorsMenu*foreground               : #bebebe
+x3270*charsetMenu*foreground              : #bebebe
+x3270*dialog*value*foreground             : #bebebe
+x3270*dialog*foreground                   : #bebebe
+x3270*dialog*confirmButton.foreground     : #bebebe
+x3270*dialog*confirm2Button.foreground    : #bebebe
+3270*dialog*cancelButton.foreground       : #bebebe
+x3270.ftProgressPopup*filename.foreground : #bebebe
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ffbbbb
+x3270*dialog*cancelButton.foreground      : #ffbbbb
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000000
+x3270*menuBarContainer.background         : #000000
+x3270*fileMenuButton*background           : #000000
+x3270*optionsMenuButton*background        : #000000
+x3270*connectMenuButton*background        : #000000
+x3270*reconnectButton*background          : #000000
+x3270*macrosMenuButton*background         : #000000
+x3270*keypadButton*background             : #000000
+x3270*fileMenu*background                 : #000000
+x3270*exitMenu*background                 : #000000
+x3270*optionsMenu*background              : #000000
+x3270*hostMenu*background                 : #000000
+x3270*reconnect*background                : #000000
+x3270*macrosMenu*background               : #000000
+x3270*togglesMenu*background              : #000000
+x3270*fontsMenu*background                : #000000
+x3270*modelsMenu*background               : #000000
+x3270*colorsMenu*background               : #000000
+x3270*charsetMenu*background              : #000000
+x3270*dialog*value*background             : #000000
+x3270*dialog*background                   : #000000
+x3270*dialog*confirmButton.background     : #000000
+x3270*dialog*confirm2Button.background    : #000000
+3270*dialog*cancelButton.background       : #000000
+x3270.ftProgressPopup*filename.background : #000000
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #bebebe
+x3270*macrosMenuButton*borderColor        : #bebebe
+x3270*fileMenu.borderColor                : #bebebe
+x3270*exitMenu.borderColor                : #bebebe
+x3270*optionsMenu.borderColor             : #bebebe
+x3270*hostMenu.borderColor                : #bebebe
+x3270*macrosMenu.borderColor              : #bebebe
+x3270*togglesMenu.borderColor             : #bebebe
+x3270*fontsMenu.borderColor               : #bebebe
+x3270*modelsMenu.borderColor              : #bebebe
+x3270*colorsMenu.borderColor              : #bebebe
+x3270*charsetMenu.borderColor             : #bebebe
+x3270*confirmButton.borderColor           : #bebebe
+x3270*confirmButton.borderColor           : #bebebe
+x3270*confirm2Button.borderColor          : #bebebe
+x3270*cancelButton.borderColor            : #bebebe
+x3270.ftProgressPopup*filename.borderColor: #bebebe
+x3270*fileMenuButton*borderColor          : #000000
+x3270*optionsMenuButton*borderColor       : #000000
+x3270*connectMenuButton*borderColor       : #000000
+x3270*menuBarContainer.borderColor        : #000000
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #bebebe
+x3270*value.foreground                    : #bebebe
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: grandshell
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.grandshell: \
+   #000000 #b2baf6 #ffbbbb #f09fff \
+   #dcf692 #5af2ee #f6df92 #bebebe \
+   #000000 #5555dd #efc334 #C350FF \
+   #77bb33 #5af2ee #222222 #bebebe \
+   white #000000 #222222 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

@@ -1,0 +1,145 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'dkeg - catchmeifyoucan'
+! --------------------------------------------------
+! dkeg - catchmeifyoucan
+! *background:#170f0d
+! *foreground:#f9f9f9
+! *foreground:#746c48
+! *foreground:#746c48
+! *color0: #130F0C
+! *color1: #604C38
+! *color2: #8D7F85
+! *color3: #907256
+! *color4: #AA8D70
+! *color5: #B9A38D
+! *color6: #C4BFBF
+! *color7: #C4AE99
+! *color8: #C69F77
+! *color9: #CAB9A8
+! *color10: #D5C6B8
+! *color11: #DCD1C7
+! *color12: #E0E0E2
+! *color13: #E4DAD2
+! *color14: #EAE3DC
+! *color15: #F6F2F0
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  dkeg - catchmeifyoucan: dkeg-catchmeifyoucan
+! --------------------------------------------------
+! Generating dkeg - catchmeifyoucan .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #f9f9f9
+x3270*dialog*foreground                   : #f9f9f9
+x3270.aboutPopup*icon.foreground          : #f9f9f9
+x3270.keypadForeground                    : #f9f9f9
+x3270*menuBarContainer.foreground         : #f9f9f9
+x3270*fileMenuButton*foreground           : #f9f9f9
+x3270*optionsMenuButton*foreground        : #f9f9f9
+x3270*connectMenuButton*foreground        : #f9f9f9
+x3270*reconnectButton*foreground          : #f9f9f9
+x3270*macrosMenuButton*foreground         : #f9f9f9
+x3270*keypadButton*foreground             : #f9f9f9
+x3270*fileMenu*foreground                 : #f9f9f9
+x3270*exitMenu*foreground                 : #f9f9f9
+x3270*optionsMenu*foreground              : #f9f9f9
+x3270*hostMenu*foreground                 : #f9f9f9
+x3270*reconnect*foreground                : #f9f9f9
+x3270*macrosMenu*foreground               : #f9f9f9
+x3270*togglesMenu*foreground              : #f9f9f9
+x3270*fontsMenu*foreground                : #f9f9f9
+x3270*modelsMenu*foreground               : #f9f9f9
+x3270*colorsMenu*foreground               : #f9f9f9
+x3270*charsetMenu*foreground              : #f9f9f9
+x3270*dialog*value*foreground             : #f9f9f9
+x3270*dialog*foreground                   : #f9f9f9
+x3270*dialog*confirmButton.foreground     : #f9f9f9
+x3270*dialog*confirm2Button.foreground    : #f9f9f9
+3270*dialog*cancelButton.foreground       : #f9f9f9
+x3270.ftProgressPopup*filename.foreground : #f9f9f9
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #CAB9A8
+x3270*dialog*cancelButton.foreground      : #CAB9A8
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #170f0d
+x3270*menuBarContainer.background         : #170f0d
+x3270*fileMenuButton*background           : #170f0d
+x3270*optionsMenuButton*background        : #170f0d
+x3270*connectMenuButton*background        : #170f0d
+x3270*reconnectButton*background          : #170f0d
+x3270*macrosMenuButton*background         : #170f0d
+x3270*keypadButton*background             : #170f0d
+x3270*fileMenu*background                 : #170f0d
+x3270*exitMenu*background                 : #170f0d
+x3270*optionsMenu*background              : #170f0d
+x3270*hostMenu*background                 : #170f0d
+x3270*reconnect*background                : #170f0d
+x3270*macrosMenu*background               : #170f0d
+x3270*togglesMenu*background              : #170f0d
+x3270*fontsMenu*background                : #170f0d
+x3270*modelsMenu*background               : #170f0d
+x3270*colorsMenu*background               : #170f0d
+x3270*charsetMenu*background              : #170f0d
+x3270*dialog*value*background             : #170f0d
+x3270*dialog*background                   : #170f0d
+x3270*dialog*confirmButton.background     : #170f0d
+x3270*dialog*confirm2Button.background    : #170f0d
+3270*dialog*cancelButton.background       : #170f0d
+x3270.ftProgressPopup*filename.background : #170f0d
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #f9f9f9
+x3270*macrosMenuButton*borderColor        : #f9f9f9
+x3270*fileMenu.borderColor                : #f9f9f9
+x3270*exitMenu.borderColor                : #f9f9f9
+x3270*optionsMenu.borderColor             : #f9f9f9
+x3270*hostMenu.borderColor                : #f9f9f9
+x3270*macrosMenu.borderColor              : #f9f9f9
+x3270*togglesMenu.borderColor             : #f9f9f9
+x3270*fontsMenu.borderColor               : #f9f9f9
+x3270*modelsMenu.borderColor              : #f9f9f9
+x3270*colorsMenu.borderColor              : #f9f9f9
+x3270*charsetMenu.borderColor             : #f9f9f9
+x3270*confirmButton.borderColor           : #f9f9f9
+x3270*confirmButton.borderColor           : #f9f9f9
+x3270*confirm2Button.borderColor          : #f9f9f9
+x3270*cancelButton.borderColor            : #f9f9f9
+x3270.ftProgressPopup*filename.borderColor: #f9f9f9
+x3270*fileMenuButton*borderColor          : #170f0d
+x3270*optionsMenuButton*borderColor       : #170f0d
+x3270*connectMenuButton*borderColor       : #170f0d
+x3270*menuBarContainer.borderColor        : #170f0d
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #f9f9f9
+x3270*value.foreground                    : #f9f9f9
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: dkeg-catchmeifyoucan
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.dkeg-catchmeifyoucan: \
+   #130F0C #E0E0E2 #CAB9A8 #E4DAD2 \
+   #D5C6B8 #EAE3DC #DCD1C7 #f9f9f9 \
+   #130F0C #AA8D70 #907256 #B9A38D \
+   #8D7F85 #C4BFBF #C69F77 #C4AE99 \
+   white #170f0d #C69F77 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

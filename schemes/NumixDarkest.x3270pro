@@ -1,0 +1,152 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'NumixDarkest'
+! --------------------------------------------------
+! NumiX Darkest.
+! BY WuX
+! *background: #282828
+! *foreground: #A2A2A2
+! Black
+! *color0:    #555555
+! *color8:    #888888
+! Red
+! *color1:    #9C3528
+! *color9:    #d64937
+! Green
+! *color2:    #61BC3B
+! *color10:   #86DF5D
+! yellow
+! *color3:    #F3B43A
+! *color11:   #FDD75A
+! blue
+! *color4:    #0D68A8
+! *color12:   #0F75BD
+! Magenta
+! *color5:    #744560
+! *color13:   #9E5E83
+! Cyan
+! *color6:    #288e9c
+! *color14:   #37c3d6
+! White
+! *color7:    #A2A2A2
+! *color15:   #f9f9f9
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  NumixDarkest: NumixDarkest
+! --------------------------------------------------
+! Generating NumixDarkest .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #A2A2A2
+x3270*dialog*foreground                   : #A2A2A2
+x3270.aboutPopup*icon.foreground          : #A2A2A2
+x3270.keypadForeground                    : #A2A2A2
+x3270*menuBarContainer.foreground         : #A2A2A2
+x3270*fileMenuButton*foreground           : #A2A2A2
+x3270*optionsMenuButton*foreground        : #A2A2A2
+x3270*connectMenuButton*foreground        : #A2A2A2
+x3270*reconnectButton*foreground          : #A2A2A2
+x3270*macrosMenuButton*foreground         : #A2A2A2
+x3270*keypadButton*foreground             : #A2A2A2
+x3270*fileMenu*foreground                 : #A2A2A2
+x3270*exitMenu*foreground                 : #A2A2A2
+x3270*optionsMenu*foreground              : #A2A2A2
+x3270*hostMenu*foreground                 : #A2A2A2
+x3270*reconnect*foreground                : #A2A2A2
+x3270*macrosMenu*foreground               : #A2A2A2
+x3270*togglesMenu*foreground              : #A2A2A2
+x3270*fontsMenu*foreground                : #A2A2A2
+x3270*modelsMenu*foreground               : #A2A2A2
+x3270*colorsMenu*foreground               : #A2A2A2
+x3270*charsetMenu*foreground              : #A2A2A2
+x3270*dialog*value*foreground             : #A2A2A2
+x3270*dialog*foreground                   : #A2A2A2
+x3270*dialog*confirmButton.foreground     : #A2A2A2
+x3270*dialog*confirm2Button.foreground    : #A2A2A2
+3270*dialog*cancelButton.foreground       : #A2A2A2
+x3270.ftProgressPopup*filename.foreground : #A2A2A2
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #d64937
+x3270*dialog*cancelButton.foreground      : #d64937
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #282828
+x3270*menuBarContainer.background         : #282828
+x3270*fileMenuButton*background           : #282828
+x3270*optionsMenuButton*background        : #282828
+x3270*connectMenuButton*background        : #282828
+x3270*reconnectButton*background          : #282828
+x3270*macrosMenuButton*background         : #282828
+x3270*keypadButton*background             : #282828
+x3270*fileMenu*background                 : #282828
+x3270*exitMenu*background                 : #282828
+x3270*optionsMenu*background              : #282828
+x3270*hostMenu*background                 : #282828
+x3270*reconnect*background                : #282828
+x3270*macrosMenu*background               : #282828
+x3270*togglesMenu*background              : #282828
+x3270*fontsMenu*background                : #282828
+x3270*modelsMenu*background               : #282828
+x3270*colorsMenu*background               : #282828
+x3270*charsetMenu*background              : #282828
+x3270*dialog*value*background             : #282828
+x3270*dialog*background                   : #282828
+x3270*dialog*confirmButton.background     : #282828
+x3270*dialog*confirm2Button.background    : #282828
+3270*dialog*cancelButton.background       : #282828
+x3270.ftProgressPopup*filename.background : #282828
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #A2A2A2
+x3270*macrosMenuButton*borderColor        : #A2A2A2
+x3270*fileMenu.borderColor                : #A2A2A2
+x3270*exitMenu.borderColor                : #A2A2A2
+x3270*optionsMenu.borderColor             : #A2A2A2
+x3270*hostMenu.borderColor                : #A2A2A2
+x3270*macrosMenu.borderColor              : #A2A2A2
+x3270*togglesMenu.borderColor             : #A2A2A2
+x3270*fontsMenu.borderColor               : #A2A2A2
+x3270*modelsMenu.borderColor              : #A2A2A2
+x3270*colorsMenu.borderColor              : #A2A2A2
+x3270*charsetMenu.borderColor             : #A2A2A2
+x3270*confirmButton.borderColor           : #A2A2A2
+x3270*confirmButton.borderColor           : #A2A2A2
+x3270*confirm2Button.borderColor          : #A2A2A2
+x3270*cancelButton.borderColor            : #A2A2A2
+x3270.ftProgressPopup*filename.borderColor: #A2A2A2
+x3270*fileMenuButton*borderColor          : #282828
+x3270*optionsMenuButton*borderColor       : #282828
+x3270*connectMenuButton*borderColor       : #282828
+x3270*menuBarContainer.borderColor        : #282828
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #A2A2A2
+x3270*value.foreground                    : #A2A2A2
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: NumixDarkest
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.NumixDarkest: \
+   #555555 #0F75BD #d64937 #9E5E83 \
+   #86DF5D #37c3d6 #FDD75A #A2A2A2 \
+   #555555 #0D68A8 #F3B43A #744560 \
+   #61BC3B #288e9c #888888 #A2A2A2 \
+   white #282828 #888888 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'cheesecake-light'
+! --------------------------------------------------
+! *.foreground:   #4c4c4c
+! *.background:   #fcfae1
+! *.color0:       #4c4c4c
+! *.color8:       #353535
+! *.color1:       #b9121b
+! *.color9:       #4c1b1b
+! *.color2:       #bd8d46
+! *.color10:      #9d753a
+! *.color3:       #f6e497
+! *.color11:      #d1c180
+! *.color4:       #f595a7
+! *.color12:      #d1a5ad
+! *.color5:       #d28e2a
+! *.color13:      #b47a24
+! *.color6:       #ebcd4f
+! *.color14:      #b9a659
+! *.color7:       #fcfae1
+! *.color15:      #f3f2e7
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  cheesecake-light: cheesecake-light
+! --------------------------------------------------
+! Generating cheesecake-light .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #4c4c4c
+x3270*dialog*foreground                   : #4c4c4c
+x3270.aboutPopup*icon.foreground          : #4c4c4c
+x3270.keypadForeground                    : #4c4c4c
+x3270*menuBarContainer.foreground         : #4c4c4c
+x3270*fileMenuButton*foreground           : #4c4c4c
+x3270*optionsMenuButton*foreground        : #4c4c4c
+x3270*connectMenuButton*foreground        : #4c4c4c
+x3270*reconnectButton*foreground          : #4c4c4c
+x3270*macrosMenuButton*foreground         : #4c4c4c
+x3270*keypadButton*foreground             : #4c4c4c
+x3270*fileMenu*foreground                 : #4c4c4c
+x3270*exitMenu*foreground                 : #4c4c4c
+x3270*optionsMenu*foreground              : #4c4c4c
+x3270*hostMenu*foreground                 : #4c4c4c
+x3270*reconnect*foreground                : #4c4c4c
+x3270*macrosMenu*foreground               : #4c4c4c
+x3270*togglesMenu*foreground              : #4c4c4c
+x3270*fontsMenu*foreground                : #4c4c4c
+x3270*modelsMenu*foreground               : #4c4c4c
+x3270*colorsMenu*foreground               : #4c4c4c
+x3270*charsetMenu*foreground              : #4c4c4c
+x3270*dialog*value*foreground             : #4c4c4c
+x3270*dialog*foreground                   : #4c4c4c
+x3270*dialog*confirmButton.foreground     : #4c4c4c
+x3270*dialog*confirm2Button.foreground    : #4c4c4c
+3270*dialog*cancelButton.foreground       : #4c4c4c
+x3270.ftProgressPopup*filename.foreground : #4c4c4c
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #4c1b1b
+x3270*dialog*cancelButton.foreground      : #4c1b1b
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #fcfae1
+x3270*menuBarContainer.background         : #fcfae1
+x3270*fileMenuButton*background           : #fcfae1
+x3270*optionsMenuButton*background        : #fcfae1
+x3270*connectMenuButton*background        : #fcfae1
+x3270*reconnectButton*background          : #fcfae1
+x3270*macrosMenuButton*background         : #fcfae1
+x3270*keypadButton*background             : #fcfae1
+x3270*fileMenu*background                 : #fcfae1
+x3270*exitMenu*background                 : #fcfae1
+x3270*optionsMenu*background              : #fcfae1
+x3270*hostMenu*background                 : #fcfae1
+x3270*reconnect*background                : #fcfae1
+x3270*macrosMenu*background               : #fcfae1
+x3270*togglesMenu*background              : #fcfae1
+x3270*fontsMenu*background                : #fcfae1
+x3270*modelsMenu*background               : #fcfae1
+x3270*colorsMenu*background               : #fcfae1
+x3270*charsetMenu*background              : #fcfae1
+x3270*dialog*value*background             : #fcfae1
+x3270*dialog*background                   : #fcfae1
+x3270*dialog*confirmButton.background     : #fcfae1
+x3270*dialog*confirm2Button.background    : #fcfae1
+3270*dialog*cancelButton.background       : #fcfae1
+x3270.ftProgressPopup*filename.background : #fcfae1
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #4c4c4c
+x3270*macrosMenuButton*borderColor        : #4c4c4c
+x3270*fileMenu.borderColor                : #4c4c4c
+x3270*exitMenu.borderColor                : #4c4c4c
+x3270*optionsMenu.borderColor             : #4c4c4c
+x3270*hostMenu.borderColor                : #4c4c4c
+x3270*macrosMenu.borderColor              : #4c4c4c
+x3270*togglesMenu.borderColor             : #4c4c4c
+x3270*fontsMenu.borderColor               : #4c4c4c
+x3270*modelsMenu.borderColor              : #4c4c4c
+x3270*colorsMenu.borderColor              : #4c4c4c
+x3270*charsetMenu.borderColor             : #4c4c4c
+x3270*confirmButton.borderColor           : #4c4c4c
+x3270*confirmButton.borderColor           : #4c4c4c
+x3270*confirm2Button.borderColor          : #4c4c4c
+x3270*cancelButton.borderColor            : #4c4c4c
+x3270.ftProgressPopup*filename.borderColor: #4c4c4c
+x3270*fileMenuButton*borderColor          : #fcfae1
+x3270*optionsMenuButton*borderColor       : #fcfae1
+x3270*connectMenuButton*borderColor       : #fcfae1
+x3270*menuBarContainer.borderColor        : #fcfae1
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #4c4c4c
+x3270*value.foreground                    : #4c4c4c
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: cheesecake-light
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.cheesecake-light: \
+   #4c4c4c #d1a5ad #4c1b1b #b47a24 \
+   #9d753a #b9a659 #d1c180 #4c4c4c \
+   #4c4c4c #f595a7 #f6e497 #d28e2a \
+   #bd8d46 #ebcd4f #353535 #fcfae1 \
+   white #fcfae1 #353535 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'Rooster - SOS'
+! --------------------------------------------------
+! Rooster - SOS
+! urxvt*background:  #373b43
+! urxvt*foreground:  #78796f
+! black
+! urxvt*color0:      #373b43
+! urxvt*color8:      #373b43
+! red
+! urxvt*color1:      #fdcd39
+! urxvt*color9:      #fdcd39
+! green
+! urxvt*color2:      #fbfd59
+! urxvt*color10:     #fbfd59
+! yellow
+! urxvt*color3:      #deac40
+! urxvt*color11:     #deac40
+! blue
+! urxvt*color4:      #afb171
+! urxvt*color12:     #afb171
+! magenta
+! urxvt*color5:      #b387e7
+! urxvt*color13:     #b387e7
+! cyan
+! urxvt*color6:      #63e860
+! urxvt*color14:     #63e860
+! white
+! urxvt*color7:      #efdecb
+! urxvt*color15:     #efdecb
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Rooster - SOS: Rooster-SOS
+! --------------------------------------------------
+! Generating Rooster - SOS .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #78796f
+x3270*dialog*foreground                   : #78796f
+x3270.aboutPopup*icon.foreground          : #78796f
+x3270.keypadForeground                    : #78796f
+x3270*menuBarContainer.foreground         : #78796f
+x3270*fileMenuButton*foreground           : #78796f
+x3270*optionsMenuButton*foreground        : #78796f
+x3270*connectMenuButton*foreground        : #78796f
+x3270*reconnectButton*foreground          : #78796f
+x3270*macrosMenuButton*foreground         : #78796f
+x3270*keypadButton*foreground             : #78796f
+x3270*fileMenu*foreground                 : #78796f
+x3270*exitMenu*foreground                 : #78796f
+x3270*optionsMenu*foreground              : #78796f
+x3270*hostMenu*foreground                 : #78796f
+x3270*reconnect*foreground                : #78796f
+x3270*macrosMenu*foreground               : #78796f
+x3270*togglesMenu*foreground              : #78796f
+x3270*fontsMenu*foreground                : #78796f
+x3270*modelsMenu*foreground               : #78796f
+x3270*colorsMenu*foreground               : #78796f
+x3270*charsetMenu*foreground              : #78796f
+x3270*dialog*value*foreground             : #78796f
+x3270*dialog*foreground                   : #78796f
+x3270*dialog*confirmButton.foreground     : #78796f
+x3270*dialog*confirm2Button.foreground    : #78796f
+3270*dialog*cancelButton.foreground       : #78796f
+x3270.ftProgressPopup*filename.foreground : #78796f
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #fdcd39
+x3270*dialog*cancelButton.foreground      : #fdcd39
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #373b43
+x3270*menuBarContainer.background         : #373b43
+x3270*fileMenuButton*background           : #373b43
+x3270*optionsMenuButton*background        : #373b43
+x3270*connectMenuButton*background        : #373b43
+x3270*reconnectButton*background          : #373b43
+x3270*macrosMenuButton*background         : #373b43
+x3270*keypadButton*background             : #373b43
+x3270*fileMenu*background                 : #373b43
+x3270*exitMenu*background                 : #373b43
+x3270*optionsMenu*background              : #373b43
+x3270*hostMenu*background                 : #373b43
+x3270*reconnect*background                : #373b43
+x3270*macrosMenu*background               : #373b43
+x3270*togglesMenu*background              : #373b43
+x3270*fontsMenu*background                : #373b43
+x3270*modelsMenu*background               : #373b43
+x3270*colorsMenu*background               : #373b43
+x3270*charsetMenu*background              : #373b43
+x3270*dialog*value*background             : #373b43
+x3270*dialog*background                   : #373b43
+x3270*dialog*confirmButton.background     : #373b43
+x3270*dialog*confirm2Button.background    : #373b43
+3270*dialog*cancelButton.background       : #373b43
+x3270.ftProgressPopup*filename.background : #373b43
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #78796f
+x3270*macrosMenuButton*borderColor        : #78796f
+x3270*fileMenu.borderColor                : #78796f
+x3270*exitMenu.borderColor                : #78796f
+x3270*optionsMenu.borderColor             : #78796f
+x3270*hostMenu.borderColor                : #78796f
+x3270*macrosMenu.borderColor              : #78796f
+x3270*togglesMenu.borderColor             : #78796f
+x3270*fontsMenu.borderColor               : #78796f
+x3270*modelsMenu.borderColor              : #78796f
+x3270*colorsMenu.borderColor              : #78796f
+x3270*charsetMenu.borderColor             : #78796f
+x3270*confirmButton.borderColor           : #78796f
+x3270*confirmButton.borderColor           : #78796f
+x3270*confirm2Button.borderColor          : #78796f
+x3270*cancelButton.borderColor            : #78796f
+x3270.ftProgressPopup*filename.borderColor: #78796f
+x3270*fileMenuButton*borderColor          : #373b43
+x3270*optionsMenuButton*borderColor       : #373b43
+x3270*connectMenuButton*borderColor       : #373b43
+x3270*menuBarContainer.borderColor        : #373b43
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #78796f
+x3270*value.foreground                    : #78796f
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Rooster-SOS
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Rooster-SOS: \
+   #373b43 #afb171 #fdcd39 #b387e7 \
+   #fbfd59 #63e860 #deac40 #78796f \
+   #373b43 #afb171 #deac40 #b387e7 \
+   #fbfd59 #63e860 #373b43 #efdecb \
+   white #373b43 #373b43 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

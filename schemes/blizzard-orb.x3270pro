@@ -1,0 +1,161 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'blizzard-orb'
+! --------------------------------------------------
+! ██      ██ ██                                    ██                    ██
+! ░██     ░██░░                                    ░██                   ░██
+! ░██     ░██ ██ ██████ ██████  ██████   ██████    ░██     ██████  ██████░██
+! ░██████ ░██░██░░░░██ ░░░░██  ░░░░░░██ ░░██░░█ ██████    ██░░░░██░░██░░█░██████
+! ░██░░░██░██░██   ██     ██    ███████  ░██ ░ ██░░░██   ░██   ░██ ░██ ░ ░██░░░██
+! ░██  ░██░██░██  ██     ██    ██░░░░██  ░██  ░██  ░██   ░██   ░██ ░██   ░██  ░██
+! ░██████ ███░██ ██████ ██████░░████████░███  ░░██████   ░░██████ ░███   ░██████
+! ░░░░░  ░░░ ░░ ░░░░░░ ░░░░░░  ░░░░░░░░ ░░░    ░░░░░░     ░░░░░░  ░░░    ░░░░░
+! 
+! █▓▒░ blizzard orb colors
+! by xero <http://xero.nu>
+! *.foreground:   #111111
+! *.background:   #fcfcfc
+! black
+! *.color0:       #000000
+! *.color8:       #000000
+! red
+! *.color1:       #6688AA
+! *.color9:       #6688AA
+! green
+! *.color2:       #94B6CC
+! *.color10:      #94B6CC
+! yellow
+! *.color3:       #4C6E84
+! *.color11:      #4C6E84
+! blue
+! *.color4:       #6688AA
+! *.color12:      #6688AA
+! magenta
+! *.color5:       #94B6CC
+! *.color13:      #94B6CC
+! cyan
+! *.color6:       #4C6E84
+! *.color14:      #4C6E84
+! white
+! *.color7:       #87875f
+! *.color15:      #87875f
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  blizzard-orb: blizzard-orb
+! --------------------------------------------------
+! Generating blizzard-orb .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #111111
+x3270*dialog*foreground                   : #111111
+x3270.aboutPopup*icon.foreground          : #111111
+x3270.keypadForeground                    : #111111
+x3270*menuBarContainer.foreground         : #111111
+x3270*fileMenuButton*foreground           : #111111
+x3270*optionsMenuButton*foreground        : #111111
+x3270*connectMenuButton*foreground        : #111111
+x3270*reconnectButton*foreground          : #111111
+x3270*macrosMenuButton*foreground         : #111111
+x3270*keypadButton*foreground             : #111111
+x3270*fileMenu*foreground                 : #111111
+x3270*exitMenu*foreground                 : #111111
+x3270*optionsMenu*foreground              : #111111
+x3270*hostMenu*foreground                 : #111111
+x3270*reconnect*foreground                : #111111
+x3270*macrosMenu*foreground               : #111111
+x3270*togglesMenu*foreground              : #111111
+x3270*fontsMenu*foreground                : #111111
+x3270*modelsMenu*foreground               : #111111
+x3270*colorsMenu*foreground               : #111111
+x3270*charsetMenu*foreground              : #111111
+x3270*dialog*value*foreground             : #111111
+x3270*dialog*foreground                   : #111111
+x3270*dialog*confirmButton.foreground     : #111111
+x3270*dialog*confirm2Button.foreground    : #111111
+3270*dialog*cancelButton.foreground       : #111111
+x3270.ftProgressPopup*filename.foreground : #111111
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #6688AA
+x3270*dialog*cancelButton.foreground      : #6688AA
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #fcfcfc
+x3270*menuBarContainer.background         : #fcfcfc
+x3270*fileMenuButton*background           : #fcfcfc
+x3270*optionsMenuButton*background        : #fcfcfc
+x3270*connectMenuButton*background        : #fcfcfc
+x3270*reconnectButton*background          : #fcfcfc
+x3270*macrosMenuButton*background         : #fcfcfc
+x3270*keypadButton*background             : #fcfcfc
+x3270*fileMenu*background                 : #fcfcfc
+x3270*exitMenu*background                 : #fcfcfc
+x3270*optionsMenu*background              : #fcfcfc
+x3270*hostMenu*background                 : #fcfcfc
+x3270*reconnect*background                : #fcfcfc
+x3270*macrosMenu*background               : #fcfcfc
+x3270*togglesMenu*background              : #fcfcfc
+x3270*fontsMenu*background                : #fcfcfc
+x3270*modelsMenu*background               : #fcfcfc
+x3270*colorsMenu*background               : #fcfcfc
+x3270*charsetMenu*background              : #fcfcfc
+x3270*dialog*value*background             : #fcfcfc
+x3270*dialog*background                   : #fcfcfc
+x3270*dialog*confirmButton.background     : #fcfcfc
+x3270*dialog*confirm2Button.background    : #fcfcfc
+3270*dialog*cancelButton.background       : #fcfcfc
+x3270.ftProgressPopup*filename.background : #fcfcfc
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #111111
+x3270*macrosMenuButton*borderColor        : #111111
+x3270*fileMenu.borderColor                : #111111
+x3270*exitMenu.borderColor                : #111111
+x3270*optionsMenu.borderColor             : #111111
+x3270*hostMenu.borderColor                : #111111
+x3270*macrosMenu.borderColor              : #111111
+x3270*togglesMenu.borderColor             : #111111
+x3270*fontsMenu.borderColor               : #111111
+x3270*modelsMenu.borderColor              : #111111
+x3270*colorsMenu.borderColor              : #111111
+x3270*charsetMenu.borderColor             : #111111
+x3270*confirmButton.borderColor           : #111111
+x3270*confirmButton.borderColor           : #111111
+x3270*confirm2Button.borderColor          : #111111
+x3270*cancelButton.borderColor            : #111111
+x3270.ftProgressPopup*filename.borderColor: #111111
+x3270*fileMenuButton*borderColor          : #fcfcfc
+x3270*optionsMenuButton*borderColor       : #fcfcfc
+x3270*connectMenuButton*borderColor       : #fcfcfc
+x3270*menuBarContainer.borderColor        : #fcfcfc
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #111111
+x3270*value.foreground                    : #111111
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: blizzard-orb
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.blizzard-orb: \
+   #000000 #6688AA #6688AA #94B6CC \
+   #94B6CC #4C6E84 #4C6E84 #111111 \
+   #000000 #6688AA #4C6E84 #94B6CC \
+   #94B6CC #4C6E84 #000000 #87875f \
+   white #fcfcfc #000000 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

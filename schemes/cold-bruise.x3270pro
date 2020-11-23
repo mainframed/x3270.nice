@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'cold-bruise'
+! --------------------------------------------------
+! *.foreground:   #545855
+! *.background:   #f0f4f5
+! *.color0:       #3c3e3c
+! *.color8:       #545855
+! *.color1:       #ac4c64
+! *.color9:       #ac4c64
+! *.color2:       #5acc77
+! *.color10:      #4cac64
+! *.color3:       #ac8b4c
+! *.color11:      #ab894b
+! *.color4:       #5a77cc
+! *.color12:      #4c64ac
+! *.color5:       #a14cac
+! *.color13:      #a04bab
+! *.color6:       #5ab3cc
+! *.color14:      #4b96ab
+! *.color7:       #eff3f0
+! *.color15:      #f2f6f3
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  cold-bruise: cold-bruise
+! --------------------------------------------------
+! Generating cold-bruise .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #545855
+x3270*dialog*foreground                   : #545855
+x3270.aboutPopup*icon.foreground          : #545855
+x3270.keypadForeground                    : #545855
+x3270*menuBarContainer.foreground         : #545855
+x3270*fileMenuButton*foreground           : #545855
+x3270*optionsMenuButton*foreground        : #545855
+x3270*connectMenuButton*foreground        : #545855
+x3270*reconnectButton*foreground          : #545855
+x3270*macrosMenuButton*foreground         : #545855
+x3270*keypadButton*foreground             : #545855
+x3270*fileMenu*foreground                 : #545855
+x3270*exitMenu*foreground                 : #545855
+x3270*optionsMenu*foreground              : #545855
+x3270*hostMenu*foreground                 : #545855
+x3270*reconnect*foreground                : #545855
+x3270*macrosMenu*foreground               : #545855
+x3270*togglesMenu*foreground              : #545855
+x3270*fontsMenu*foreground                : #545855
+x3270*modelsMenu*foreground               : #545855
+x3270*colorsMenu*foreground               : #545855
+x3270*charsetMenu*foreground              : #545855
+x3270*dialog*value*foreground             : #545855
+x3270*dialog*foreground                   : #545855
+x3270*dialog*confirmButton.foreground     : #545855
+x3270*dialog*confirm2Button.foreground    : #545855
+3270*dialog*cancelButton.foreground       : #545855
+x3270.ftProgressPopup*filename.foreground : #545855
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ac4c64
+x3270*dialog*cancelButton.foreground      : #ac4c64
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #f0f4f5
+x3270*menuBarContainer.background         : #f0f4f5
+x3270*fileMenuButton*background           : #f0f4f5
+x3270*optionsMenuButton*background        : #f0f4f5
+x3270*connectMenuButton*background        : #f0f4f5
+x3270*reconnectButton*background          : #f0f4f5
+x3270*macrosMenuButton*background         : #f0f4f5
+x3270*keypadButton*background             : #f0f4f5
+x3270*fileMenu*background                 : #f0f4f5
+x3270*exitMenu*background                 : #f0f4f5
+x3270*optionsMenu*background              : #f0f4f5
+x3270*hostMenu*background                 : #f0f4f5
+x3270*reconnect*background                : #f0f4f5
+x3270*macrosMenu*background               : #f0f4f5
+x3270*togglesMenu*background              : #f0f4f5
+x3270*fontsMenu*background                : #f0f4f5
+x3270*modelsMenu*background               : #f0f4f5
+x3270*colorsMenu*background               : #f0f4f5
+x3270*charsetMenu*background              : #f0f4f5
+x3270*dialog*value*background             : #f0f4f5
+x3270*dialog*background                   : #f0f4f5
+x3270*dialog*confirmButton.background     : #f0f4f5
+x3270*dialog*confirm2Button.background    : #f0f4f5
+3270*dialog*cancelButton.background       : #f0f4f5
+x3270.ftProgressPopup*filename.background : #f0f4f5
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #545855
+x3270*macrosMenuButton*borderColor        : #545855
+x3270*fileMenu.borderColor                : #545855
+x3270*exitMenu.borderColor                : #545855
+x3270*optionsMenu.borderColor             : #545855
+x3270*hostMenu.borderColor                : #545855
+x3270*macrosMenu.borderColor              : #545855
+x3270*togglesMenu.borderColor             : #545855
+x3270*fontsMenu.borderColor               : #545855
+x3270*modelsMenu.borderColor              : #545855
+x3270*colorsMenu.borderColor              : #545855
+x3270*charsetMenu.borderColor             : #545855
+x3270*confirmButton.borderColor           : #545855
+x3270*confirmButton.borderColor           : #545855
+x3270*confirm2Button.borderColor          : #545855
+x3270*cancelButton.borderColor            : #545855
+x3270.ftProgressPopup*filename.borderColor: #545855
+x3270*fileMenuButton*borderColor          : #f0f4f5
+x3270*optionsMenuButton*borderColor       : #f0f4f5
+x3270*connectMenuButton*borderColor       : #f0f4f5
+x3270*menuBarContainer.borderColor        : #f0f4f5
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #545855
+x3270*value.foreground                    : #545855
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: cold-bruise
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.cold-bruise: \
+   #3c3e3c #4c64ac #ac4c64 #a04bab \
+   #4cac64 #4b96ab #ab894b #545855 \
+   #3c3e3c #5a77cc #ac8b4c #a14cac \
+   #5acc77 #5ab3cc #545855 #eff3f0 \
+   white #f0f4f5 #545855 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

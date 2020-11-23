@@ -1,0 +1,146 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'dkeg - redphoenix'
+! --------------------------------------------------
+! dkeg - redphoenix
+! *background:#000000
+! *background:#000000
+! *background:#111111
+! *foreground:#d3d3d3
+! *foreground:#d3d3d3
+! *color0: #131313
+! *color1: #2D2D2D
+! *color2: #4C3A3D
+! *color3: #4E4E4E
+! *color4: #6F6F6F
+! *color5: #909090
+! *color6: #AAA998
+! *color7: #B1B1B1
+! *color8: #D1D1D1
+! *color9: #D2C3AD
+! *color10: #DF9767
+! *color11: #E1E1E1
+! *color12: #EDEDED
+! *color13: #ED4B19
+! *color14: #F2361E
+! *color15: #FA390F
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  dkeg - redphoenix: dkeg-redphoenix
+! --------------------------------------------------
+! Generating dkeg - redphoenix .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #d3d3d3
+x3270*dialog*foreground                   : #d3d3d3
+x3270.aboutPopup*icon.foreground          : #d3d3d3
+x3270.keypadForeground                    : #d3d3d3
+x3270*menuBarContainer.foreground         : #d3d3d3
+x3270*fileMenuButton*foreground           : #d3d3d3
+x3270*optionsMenuButton*foreground        : #d3d3d3
+x3270*connectMenuButton*foreground        : #d3d3d3
+x3270*reconnectButton*foreground          : #d3d3d3
+x3270*macrosMenuButton*foreground         : #d3d3d3
+x3270*keypadButton*foreground             : #d3d3d3
+x3270*fileMenu*foreground                 : #d3d3d3
+x3270*exitMenu*foreground                 : #d3d3d3
+x3270*optionsMenu*foreground              : #d3d3d3
+x3270*hostMenu*foreground                 : #d3d3d3
+x3270*reconnect*foreground                : #d3d3d3
+x3270*macrosMenu*foreground               : #d3d3d3
+x3270*togglesMenu*foreground              : #d3d3d3
+x3270*fontsMenu*foreground                : #d3d3d3
+x3270*modelsMenu*foreground               : #d3d3d3
+x3270*colorsMenu*foreground               : #d3d3d3
+x3270*charsetMenu*foreground              : #d3d3d3
+x3270*dialog*value*foreground             : #d3d3d3
+x3270*dialog*foreground                   : #d3d3d3
+x3270*dialog*confirmButton.foreground     : #d3d3d3
+x3270*dialog*confirm2Button.foreground    : #d3d3d3
+3270*dialog*cancelButton.foreground       : #d3d3d3
+x3270.ftProgressPopup*filename.foreground : #d3d3d3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #D2C3AD
+x3270*dialog*cancelButton.foreground      : #D2C3AD
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000000
+x3270*menuBarContainer.background         : #000000
+x3270*fileMenuButton*background           : #000000
+x3270*optionsMenuButton*background        : #000000
+x3270*connectMenuButton*background        : #000000
+x3270*reconnectButton*background          : #000000
+x3270*macrosMenuButton*background         : #000000
+x3270*keypadButton*background             : #000000
+x3270*fileMenu*background                 : #000000
+x3270*exitMenu*background                 : #000000
+x3270*optionsMenu*background              : #000000
+x3270*hostMenu*background                 : #000000
+x3270*reconnect*background                : #000000
+x3270*macrosMenu*background               : #000000
+x3270*togglesMenu*background              : #000000
+x3270*fontsMenu*background                : #000000
+x3270*modelsMenu*background               : #000000
+x3270*colorsMenu*background               : #000000
+x3270*charsetMenu*background              : #000000
+x3270*dialog*value*background             : #000000
+x3270*dialog*background                   : #000000
+x3270*dialog*confirmButton.background     : #000000
+x3270*dialog*confirm2Button.background    : #000000
+3270*dialog*cancelButton.background       : #000000
+x3270.ftProgressPopup*filename.background : #000000
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #d3d3d3
+x3270*macrosMenuButton*borderColor        : #d3d3d3
+x3270*fileMenu.borderColor                : #d3d3d3
+x3270*exitMenu.borderColor                : #d3d3d3
+x3270*optionsMenu.borderColor             : #d3d3d3
+x3270*hostMenu.borderColor                : #d3d3d3
+x3270*macrosMenu.borderColor              : #d3d3d3
+x3270*togglesMenu.borderColor             : #d3d3d3
+x3270*fontsMenu.borderColor               : #d3d3d3
+x3270*modelsMenu.borderColor              : #d3d3d3
+x3270*colorsMenu.borderColor              : #d3d3d3
+x3270*charsetMenu.borderColor             : #d3d3d3
+x3270*confirmButton.borderColor           : #d3d3d3
+x3270*confirmButton.borderColor           : #d3d3d3
+x3270*confirm2Button.borderColor          : #d3d3d3
+x3270*cancelButton.borderColor            : #d3d3d3
+x3270.ftProgressPopup*filename.borderColor: #d3d3d3
+x3270*fileMenuButton*borderColor          : #000000
+x3270*optionsMenuButton*borderColor       : #000000
+x3270*connectMenuButton*borderColor       : #000000
+x3270*menuBarContainer.borderColor        : #000000
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #d3d3d3
+x3270*value.foreground                    : #d3d3d3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: dkeg-redphoenix
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.dkeg-redphoenix: \
+   #131313 #EDEDED #D2C3AD #ED4B19 \
+   #DF9767 #F2361E #E1E1E1 #d3d3d3 \
+   #131313 #6F6F6F #4E4E4E #909090 \
+   #4C3A3D #AAA998 #D1D1D1 #B1B1B1 \
+   white #000000 #D1D1D1 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

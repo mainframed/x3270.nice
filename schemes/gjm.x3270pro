@@ -1,0 +1,153 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'gjm'
+! --------------------------------------------------
+! vim: set filetype=xdefaults :
+! gjm scheme
+! *background: rgba:0000/0000/0000/dddd
+! *background:    #1C1C1C
+! *foreground:    #c5c5c5
+! black
+! *color0:        #1C1C1C
+! *color8:        #666666
+! red
+! *color1:        #ff005b
+! *color9:        #ff00a0
+! green
+! *color2:        #cee318
+! *color10:       #ccff00
+! yellow
+! *color3:        #ffe755
+! *color11:       #ff9f00
+! blue
+! *color4:        #048ac7
+! *color12:       #48c6ff
+! magenta
+! *color5:        #833c9f
+! *color13:       #be67e1
+! cyan
+! *color6:        #0ac1cd
+! *color14:       #63e7f0
+! white
+! *color7:        #e5e5e5
+! *color15:       #f3f3f3
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  gjm: gjm
+! --------------------------------------------------
+! Generating gjm .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #c5c5c5
+x3270*dialog*foreground                   : #c5c5c5
+x3270.aboutPopup*icon.foreground          : #c5c5c5
+x3270.keypadForeground                    : #c5c5c5
+x3270*menuBarContainer.foreground         : #c5c5c5
+x3270*fileMenuButton*foreground           : #c5c5c5
+x3270*optionsMenuButton*foreground        : #c5c5c5
+x3270*connectMenuButton*foreground        : #c5c5c5
+x3270*reconnectButton*foreground          : #c5c5c5
+x3270*macrosMenuButton*foreground         : #c5c5c5
+x3270*keypadButton*foreground             : #c5c5c5
+x3270*fileMenu*foreground                 : #c5c5c5
+x3270*exitMenu*foreground                 : #c5c5c5
+x3270*optionsMenu*foreground              : #c5c5c5
+x3270*hostMenu*foreground                 : #c5c5c5
+x3270*reconnect*foreground                : #c5c5c5
+x3270*macrosMenu*foreground               : #c5c5c5
+x3270*togglesMenu*foreground              : #c5c5c5
+x3270*fontsMenu*foreground                : #c5c5c5
+x3270*modelsMenu*foreground               : #c5c5c5
+x3270*colorsMenu*foreground               : #c5c5c5
+x3270*charsetMenu*foreground              : #c5c5c5
+x3270*dialog*value*foreground             : #c5c5c5
+x3270*dialog*foreground                   : #c5c5c5
+x3270*dialog*confirmButton.foreground     : #c5c5c5
+x3270*dialog*confirm2Button.foreground    : #c5c5c5
+3270*dialog*cancelButton.foreground       : #c5c5c5
+x3270.ftProgressPopup*filename.foreground : #c5c5c5
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ff00a0
+x3270*dialog*cancelButton.foreground      : #ff00a0
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #1C1C1C
+x3270*menuBarContainer.background         : #1C1C1C
+x3270*fileMenuButton*background           : #1C1C1C
+x3270*optionsMenuButton*background        : #1C1C1C
+x3270*connectMenuButton*background        : #1C1C1C
+x3270*reconnectButton*background          : #1C1C1C
+x3270*macrosMenuButton*background         : #1C1C1C
+x3270*keypadButton*background             : #1C1C1C
+x3270*fileMenu*background                 : #1C1C1C
+x3270*exitMenu*background                 : #1C1C1C
+x3270*optionsMenu*background              : #1C1C1C
+x3270*hostMenu*background                 : #1C1C1C
+x3270*reconnect*background                : #1C1C1C
+x3270*macrosMenu*background               : #1C1C1C
+x3270*togglesMenu*background              : #1C1C1C
+x3270*fontsMenu*background                : #1C1C1C
+x3270*modelsMenu*background               : #1C1C1C
+x3270*colorsMenu*background               : #1C1C1C
+x3270*charsetMenu*background              : #1C1C1C
+x3270*dialog*value*background             : #1C1C1C
+x3270*dialog*background                   : #1C1C1C
+x3270*dialog*confirmButton.background     : #1C1C1C
+x3270*dialog*confirm2Button.background    : #1C1C1C
+3270*dialog*cancelButton.background       : #1C1C1C
+x3270.ftProgressPopup*filename.background : #1C1C1C
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #c5c5c5
+x3270*macrosMenuButton*borderColor        : #c5c5c5
+x3270*fileMenu.borderColor                : #c5c5c5
+x3270*exitMenu.borderColor                : #c5c5c5
+x3270*optionsMenu.borderColor             : #c5c5c5
+x3270*hostMenu.borderColor                : #c5c5c5
+x3270*macrosMenu.borderColor              : #c5c5c5
+x3270*togglesMenu.borderColor             : #c5c5c5
+x3270*fontsMenu.borderColor               : #c5c5c5
+x3270*modelsMenu.borderColor              : #c5c5c5
+x3270*colorsMenu.borderColor              : #c5c5c5
+x3270*charsetMenu.borderColor             : #c5c5c5
+x3270*confirmButton.borderColor           : #c5c5c5
+x3270*confirmButton.borderColor           : #c5c5c5
+x3270*confirm2Button.borderColor          : #c5c5c5
+x3270*cancelButton.borderColor            : #c5c5c5
+x3270.ftProgressPopup*filename.borderColor: #c5c5c5
+x3270*fileMenuButton*borderColor          : #1C1C1C
+x3270*optionsMenuButton*borderColor       : #1C1C1C
+x3270*connectMenuButton*borderColor       : #1C1C1C
+x3270*menuBarContainer.borderColor        : #1C1C1C
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #c5c5c5
+x3270*value.foreground                    : #c5c5c5
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: gjm
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.gjm: \
+   #1C1C1C #48c6ff #ff00a0 #be67e1 \
+   #ccff00 #63e7f0 #ff9f00 #c5c5c5 \
+   #1C1C1C #048ac7 #ffe755 #833c9f \
+   #cee318 #0ac1cd #666666 #e5e5e5 \
+   white #1C1C1C #666666 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

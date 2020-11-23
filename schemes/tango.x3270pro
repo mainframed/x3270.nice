@@ -1,0 +1,146 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'tango'
+! --------------------------------------------------
+! ================================
+! tango theme
+! ================================
+! *background:              #000000
+! *foreground:              #babdb6
+! *color0:                  #2e3436
+! *color1:                  #cc0000
+! *color2:                  #4e9a06
+! *color3:                  #c4a000
+! *color4:                  #3465a4
+! *color5:                  #75507b
+! *color6:                  #06989a
+! *color7:                  #d3d7cf
+! *color8:                  #555753
+! *color9:                  #ef2929
+! *color10:                 #8ae234
+! *color11:                 #fce94f
+! *color12:                 #729fcf
+! *color13:                 #ad7fa8
+! *color14:                 #34e2e2
+! *color15:                 #eeeeec
+! vim: ai:si:et:ts=4:sw=4:ft=xdefaults:
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  tango: tango
+! --------------------------------------------------
+! Generating tango .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #babdb6
+x3270*dialog*foreground                   : #babdb6
+x3270.aboutPopup*icon.foreground          : #babdb6
+x3270.keypadForeground                    : #babdb6
+x3270*menuBarContainer.foreground         : #babdb6
+x3270*fileMenuButton*foreground           : #babdb6
+x3270*optionsMenuButton*foreground        : #babdb6
+x3270*connectMenuButton*foreground        : #babdb6
+x3270*reconnectButton*foreground          : #babdb6
+x3270*macrosMenuButton*foreground         : #babdb6
+x3270*keypadButton*foreground             : #babdb6
+x3270*fileMenu*foreground                 : #babdb6
+x3270*exitMenu*foreground                 : #babdb6
+x3270*optionsMenu*foreground              : #babdb6
+x3270*hostMenu*foreground                 : #babdb6
+x3270*reconnect*foreground                : #babdb6
+x3270*macrosMenu*foreground               : #babdb6
+x3270*togglesMenu*foreground              : #babdb6
+x3270*fontsMenu*foreground                : #babdb6
+x3270*modelsMenu*foreground               : #babdb6
+x3270*colorsMenu*foreground               : #babdb6
+x3270*charsetMenu*foreground              : #babdb6
+x3270*dialog*value*foreground             : #babdb6
+x3270*dialog*foreground                   : #babdb6
+x3270*dialog*confirmButton.foreground     : #babdb6
+x3270*dialog*confirm2Button.foreground    : #babdb6
+3270*dialog*cancelButton.foreground       : #babdb6
+x3270.ftProgressPopup*filename.foreground : #babdb6
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ef2929
+x3270*dialog*cancelButton.foreground      : #ef2929
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #000000
+x3270*menuBarContainer.background         : #000000
+x3270*fileMenuButton*background           : #000000
+x3270*optionsMenuButton*background        : #000000
+x3270*connectMenuButton*background        : #000000
+x3270*reconnectButton*background          : #000000
+x3270*macrosMenuButton*background         : #000000
+x3270*keypadButton*background             : #000000
+x3270*fileMenu*background                 : #000000
+x3270*exitMenu*background                 : #000000
+x3270*optionsMenu*background              : #000000
+x3270*hostMenu*background                 : #000000
+x3270*reconnect*background                : #000000
+x3270*macrosMenu*background               : #000000
+x3270*togglesMenu*background              : #000000
+x3270*fontsMenu*background                : #000000
+x3270*modelsMenu*background               : #000000
+x3270*colorsMenu*background               : #000000
+x3270*charsetMenu*background              : #000000
+x3270*dialog*value*background             : #000000
+x3270*dialog*background                   : #000000
+x3270*dialog*confirmButton.background     : #000000
+x3270*dialog*confirm2Button.background    : #000000
+3270*dialog*cancelButton.background       : #000000
+x3270.ftProgressPopup*filename.background : #000000
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #babdb6
+x3270*macrosMenuButton*borderColor        : #babdb6
+x3270*fileMenu.borderColor                : #babdb6
+x3270*exitMenu.borderColor                : #babdb6
+x3270*optionsMenu.borderColor             : #babdb6
+x3270*hostMenu.borderColor                : #babdb6
+x3270*macrosMenu.borderColor              : #babdb6
+x3270*togglesMenu.borderColor             : #babdb6
+x3270*fontsMenu.borderColor               : #babdb6
+x3270*modelsMenu.borderColor              : #babdb6
+x3270*colorsMenu.borderColor              : #babdb6
+x3270*charsetMenu.borderColor             : #babdb6
+x3270*confirmButton.borderColor           : #babdb6
+x3270*confirmButton.borderColor           : #babdb6
+x3270*confirm2Button.borderColor          : #babdb6
+x3270*cancelButton.borderColor            : #babdb6
+x3270.ftProgressPopup*filename.borderColor: #babdb6
+x3270*fileMenuButton*borderColor          : #000000
+x3270*optionsMenuButton*borderColor       : #000000
+x3270*connectMenuButton*borderColor       : #000000
+x3270*menuBarContainer.borderColor        : #000000
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #babdb6
+x3270*value.foreground                    : #babdb6
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: tango
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.tango: \
+   #2e3436 #729fcf #ef2929 #ad7fa8 \
+   #8ae234 #34e2e2 #fce94f #babdb6 \
+   #2e3436 #3465a4 #c4a000 #75507b \
+   #4e9a06 #06989a #555753 #d3d7cf \
+   white #000000 #555753 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

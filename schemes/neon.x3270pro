@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'neon'
+! --------------------------------------------------
+! Neon Colors
+! *background 		: #171717
+! *foreground 		: #F8F8F8
+! black
+! *color0  			: #171717
+! *color8  			: #38252C
+! red
+! *color1  			: #D81765
+! *color9  			: #FF0000
+! green
+! *color2  			: #97D01A
+! *color10 			: #76B639
+! yellow
+! *color3  			: #FFA800
+! *color11 			: #E1A126
+! blue
+! *color4  			: #16B1FB
+! *color12 			: #289CD5
+! magenta
+! *color5  			: #FF2491
+! *color13 			: #FF2491
+! cyan
+! *color6  			: #0FDCB6
+! *color14 			: #0A9B81
+! white
+! *color7  			: #EBEBEB
+! *color15 			: #F8F8F8
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  neon: neon
+! --------------------------------------------------
+! Generating neon .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #F8F8F8
+x3270*dialog*foreground                   : #F8F8F8
+x3270.aboutPopup*icon.foreground          : #F8F8F8
+x3270.keypadForeground                    : #F8F8F8
+x3270*menuBarContainer.foreground         : #F8F8F8
+x3270*fileMenuButton*foreground           : #F8F8F8
+x3270*optionsMenuButton*foreground        : #F8F8F8
+x3270*connectMenuButton*foreground        : #F8F8F8
+x3270*reconnectButton*foreground          : #F8F8F8
+x3270*macrosMenuButton*foreground         : #F8F8F8
+x3270*keypadButton*foreground             : #F8F8F8
+x3270*fileMenu*foreground                 : #F8F8F8
+x3270*exitMenu*foreground                 : #F8F8F8
+x3270*optionsMenu*foreground              : #F8F8F8
+x3270*hostMenu*foreground                 : #F8F8F8
+x3270*reconnect*foreground                : #F8F8F8
+x3270*macrosMenu*foreground               : #F8F8F8
+x3270*togglesMenu*foreground              : #F8F8F8
+x3270*fontsMenu*foreground                : #F8F8F8
+x3270*modelsMenu*foreground               : #F8F8F8
+x3270*colorsMenu*foreground               : #F8F8F8
+x3270*charsetMenu*foreground              : #F8F8F8
+x3270*dialog*value*foreground             : #F8F8F8
+x3270*dialog*foreground                   : #F8F8F8
+x3270*dialog*confirmButton.foreground     : #F8F8F8
+x3270*dialog*confirm2Button.foreground    : #F8F8F8
+3270*dialog*cancelButton.foreground       : #F8F8F8
+x3270.ftProgressPopup*filename.foreground : #F8F8F8
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #FF0000
+x3270*dialog*cancelButton.foreground      : #FF0000
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #171717
+x3270*menuBarContainer.background         : #171717
+x3270*fileMenuButton*background           : #171717
+x3270*optionsMenuButton*background        : #171717
+x3270*connectMenuButton*background        : #171717
+x3270*reconnectButton*background          : #171717
+x3270*macrosMenuButton*background         : #171717
+x3270*keypadButton*background             : #171717
+x3270*fileMenu*background                 : #171717
+x3270*exitMenu*background                 : #171717
+x3270*optionsMenu*background              : #171717
+x3270*hostMenu*background                 : #171717
+x3270*reconnect*background                : #171717
+x3270*macrosMenu*background               : #171717
+x3270*togglesMenu*background              : #171717
+x3270*fontsMenu*background                : #171717
+x3270*modelsMenu*background               : #171717
+x3270*colorsMenu*background               : #171717
+x3270*charsetMenu*background              : #171717
+x3270*dialog*value*background             : #171717
+x3270*dialog*background                   : #171717
+x3270*dialog*confirmButton.background     : #171717
+x3270*dialog*confirm2Button.background    : #171717
+3270*dialog*cancelButton.background       : #171717
+x3270.ftProgressPopup*filename.background : #171717
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #F8F8F8
+x3270*macrosMenuButton*borderColor        : #F8F8F8
+x3270*fileMenu.borderColor                : #F8F8F8
+x3270*exitMenu.borderColor                : #F8F8F8
+x3270*optionsMenu.borderColor             : #F8F8F8
+x3270*hostMenu.borderColor                : #F8F8F8
+x3270*macrosMenu.borderColor              : #F8F8F8
+x3270*togglesMenu.borderColor             : #F8F8F8
+x3270*fontsMenu.borderColor               : #F8F8F8
+x3270*modelsMenu.borderColor              : #F8F8F8
+x3270*colorsMenu.borderColor              : #F8F8F8
+x3270*charsetMenu.borderColor             : #F8F8F8
+x3270*confirmButton.borderColor           : #F8F8F8
+x3270*confirmButton.borderColor           : #F8F8F8
+x3270*confirm2Button.borderColor          : #F8F8F8
+x3270*cancelButton.borderColor            : #F8F8F8
+x3270.ftProgressPopup*filename.borderColor: #F8F8F8
+x3270*fileMenuButton*borderColor          : #171717
+x3270*optionsMenuButton*borderColor       : #171717
+x3270*connectMenuButton*borderColor       : #171717
+x3270*menuBarContainer.borderColor        : #171717
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #F8F8F8
+x3270*value.foreground                    : #F8F8F8
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: neon
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.neon: \
+   #171717 #289CD5 #FF0000 #FF2491 \
+   #76B639 #0A9B81 #E1A126 #F8F8F8 \
+   #171717 #16B1FB #FFA800 #FF2491 \
+   #97D01A #0FDCB6 #38252C #EBEBEB \
+   white #171717 #38252C 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

@@ -1,0 +1,151 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'user 77 - Mashup colors'
+! --------------------------------------------------
+! user 77 - Mashup colors
+! *foreground:        #B2A191
+! *background:        #171717
+! black
+! *color0:            #202020
+! *color8:            #404040
+! red
+! *color1:            #BF3F34
+! *color9:            #FF6C5F
+! green
+! *color2:            #707D22
+! *color10:           #B8CA4B
+! yellow
+! *color3:            #BF7A29
+! *color11:           #C7A551
+! blue
+! *color4:            #627A92
+! *color12:           #95B9DE
+! magenta
+! *color5:            #75507B
+! *color13:           #AD7FA8
+! cyan
+! *color6:            #757978
+! *color14:           #9FA590
+! white
+! *color7:            #B2A191
+! *color15:           #E8D0C3
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  user 77 - Mashup colors: user77-Mashupcolors
+! --------------------------------------------------
+! Generating user 77 - Mashup colors .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #B2A191
+x3270*dialog*foreground                   : #B2A191
+x3270.aboutPopup*icon.foreground          : #B2A191
+x3270.keypadForeground                    : #B2A191
+x3270*menuBarContainer.foreground         : #B2A191
+x3270*fileMenuButton*foreground           : #B2A191
+x3270*optionsMenuButton*foreground        : #B2A191
+x3270*connectMenuButton*foreground        : #B2A191
+x3270*reconnectButton*foreground          : #B2A191
+x3270*macrosMenuButton*foreground         : #B2A191
+x3270*keypadButton*foreground             : #B2A191
+x3270*fileMenu*foreground                 : #B2A191
+x3270*exitMenu*foreground                 : #B2A191
+x3270*optionsMenu*foreground              : #B2A191
+x3270*hostMenu*foreground                 : #B2A191
+x3270*reconnect*foreground                : #B2A191
+x3270*macrosMenu*foreground               : #B2A191
+x3270*togglesMenu*foreground              : #B2A191
+x3270*fontsMenu*foreground                : #B2A191
+x3270*modelsMenu*foreground               : #B2A191
+x3270*colorsMenu*foreground               : #B2A191
+x3270*charsetMenu*foreground              : #B2A191
+x3270*dialog*value*foreground             : #B2A191
+x3270*dialog*foreground                   : #B2A191
+x3270*dialog*confirmButton.foreground     : #B2A191
+x3270*dialog*confirm2Button.foreground    : #B2A191
+3270*dialog*cancelButton.foreground       : #B2A191
+x3270.ftProgressPopup*filename.foreground : #B2A191
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #FF6C5F
+x3270*dialog*cancelButton.foreground      : #FF6C5F
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #171717
+x3270*menuBarContainer.background         : #171717
+x3270*fileMenuButton*background           : #171717
+x3270*optionsMenuButton*background        : #171717
+x3270*connectMenuButton*background        : #171717
+x3270*reconnectButton*background          : #171717
+x3270*macrosMenuButton*background         : #171717
+x3270*keypadButton*background             : #171717
+x3270*fileMenu*background                 : #171717
+x3270*exitMenu*background                 : #171717
+x3270*optionsMenu*background              : #171717
+x3270*hostMenu*background                 : #171717
+x3270*reconnect*background                : #171717
+x3270*macrosMenu*background               : #171717
+x3270*togglesMenu*background              : #171717
+x3270*fontsMenu*background                : #171717
+x3270*modelsMenu*background               : #171717
+x3270*colorsMenu*background               : #171717
+x3270*charsetMenu*background              : #171717
+x3270*dialog*value*background             : #171717
+x3270*dialog*background                   : #171717
+x3270*dialog*confirmButton.background     : #171717
+x3270*dialog*confirm2Button.background    : #171717
+3270*dialog*cancelButton.background       : #171717
+x3270.ftProgressPopup*filename.background : #171717
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #B2A191
+x3270*macrosMenuButton*borderColor        : #B2A191
+x3270*fileMenu.borderColor                : #B2A191
+x3270*exitMenu.borderColor                : #B2A191
+x3270*optionsMenu.borderColor             : #B2A191
+x3270*hostMenu.borderColor                : #B2A191
+x3270*macrosMenu.borderColor              : #B2A191
+x3270*togglesMenu.borderColor             : #B2A191
+x3270*fontsMenu.borderColor               : #B2A191
+x3270*modelsMenu.borderColor              : #B2A191
+x3270*colorsMenu.borderColor              : #B2A191
+x3270*charsetMenu.borderColor             : #B2A191
+x3270*confirmButton.borderColor           : #B2A191
+x3270*confirmButton.borderColor           : #B2A191
+x3270*confirm2Button.borderColor          : #B2A191
+x3270*cancelButton.borderColor            : #B2A191
+x3270.ftProgressPopup*filename.borderColor: #B2A191
+x3270*fileMenuButton*borderColor          : #171717
+x3270*optionsMenuButton*borderColor       : #171717
+x3270*connectMenuButton*borderColor       : #171717
+x3270*menuBarContainer.borderColor        : #171717
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #B2A191
+x3270*value.foreground                    : #B2A191
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: user77-Mashupcolors
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.user77-Mashupcolors: \
+   #202020 #95B9DE #FF6C5F #AD7FA8 \
+   #B8CA4B #9FA590 #C7A551 #B2A191 \
+   #202020 #627A92 #BF7A29 #75507B \
+   #707D22 #757978 #404040 #B2A191 \
+   white #171717 #404040 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------

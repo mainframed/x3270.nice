@@ -1,0 +1,142 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file: 'nancy'
+! --------------------------------------------------
+! *foreground:     #fff
+! *background:     #010101
+! *color0:         #1b1d1e
+! *color1:         #f92672
+! *color2:         #82b414
+! *color3:         #fd971f
+! *color4:         #4e82aa
+! *color5:         #8c54fe
+! *color6:         #465457
+! *color7:         #ccccc6
+! *color8:         #505354
+! *color9:         #ff5995
+! *color10:        #b6e354
+! *color11:        #feed6c
+! *color12:        #0c73c2
+! *color13:        #9e6ffe
+! *color14:        #899ca1
+! *color15:        #f8f8f2
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  nancy: nancy
+! --------------------------------------------------
+! Generating nancy .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : #fff
+x3270*dialog*foreground                   : #fff
+x3270.aboutPopup*icon.foreground          : #fff
+x3270.keypadForeground                    : #fff
+x3270*menuBarContainer.foreground         : #fff
+x3270*fileMenuButton*foreground           : #fff
+x3270*optionsMenuButton*foreground        : #fff
+x3270*connectMenuButton*foreground        : #fff
+x3270*reconnectButton*foreground          : #fff
+x3270*macrosMenuButton*foreground         : #fff
+x3270*keypadButton*foreground             : #fff
+x3270*fileMenu*foreground                 : #fff
+x3270*exitMenu*foreground                 : #fff
+x3270*optionsMenu*foreground              : #fff
+x3270*hostMenu*foreground                 : #fff
+x3270*reconnect*foreground                : #fff
+x3270*macrosMenu*foreground               : #fff
+x3270*togglesMenu*foreground              : #fff
+x3270*fontsMenu*foreground                : #fff
+x3270*modelsMenu*foreground               : #fff
+x3270*colorsMenu*foreground               : #fff
+x3270*charsetMenu*foreground              : #fff
+x3270*dialog*value*foreground             : #fff
+x3270*dialog*foreground                   : #fff
+x3270*dialog*confirmButton.foreground     : #fff
+x3270*dialog*confirm2Button.foreground    : #fff
+3270*dialog*cancelButton.foreground       : #fff
+x3270.ftProgressPopup*filename.foreground : #fff
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : #ff5995
+x3270*dialog*cancelButton.foreground      : #ff5995
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : #010101
+x3270*menuBarContainer.background         : #010101
+x3270*fileMenuButton*background           : #010101
+x3270*optionsMenuButton*background        : #010101
+x3270*connectMenuButton*background        : #010101
+x3270*reconnectButton*background          : #010101
+x3270*macrosMenuButton*background         : #010101
+x3270*keypadButton*background             : #010101
+x3270*fileMenu*background                 : #010101
+x3270*exitMenu*background                 : #010101
+x3270*optionsMenu*background              : #010101
+x3270*hostMenu*background                 : #010101
+x3270*reconnect*background                : #010101
+x3270*macrosMenu*background               : #010101
+x3270*togglesMenu*background              : #010101
+x3270*fontsMenu*background                : #010101
+x3270*modelsMenu*background               : #010101
+x3270*colorsMenu*background               : #010101
+x3270*charsetMenu*background              : #010101
+x3270*dialog*value*background             : #010101
+x3270*dialog*background                   : #010101
+x3270*dialog*confirmButton.background     : #010101
+x3270*dialog*confirm2Button.background    : #010101
+3270*dialog*cancelButton.background       : #010101
+x3270.ftProgressPopup*filename.background : #010101
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : #fff
+x3270*macrosMenuButton*borderColor        : #fff
+x3270*fileMenu.borderColor                : #fff
+x3270*exitMenu.borderColor                : #fff
+x3270*optionsMenu.borderColor             : #fff
+x3270*hostMenu.borderColor                : #fff
+x3270*macrosMenu.borderColor              : #fff
+x3270*togglesMenu.borderColor             : #fff
+x3270*fontsMenu.borderColor               : #fff
+x3270*modelsMenu.borderColor              : #fff
+x3270*colorsMenu.borderColor              : #fff
+x3270*charsetMenu.borderColor             : #fff
+x3270*confirmButton.borderColor           : #fff
+x3270*confirmButton.borderColor           : #fff
+x3270*confirm2Button.borderColor          : #fff
+x3270*cancelButton.borderColor            : #fff
+x3270.ftProgressPopup*filename.borderColor: #fff
+x3270*fileMenuButton*borderColor          : #010101
+x3270*optionsMenuButton*borderColor       : #010101
+x3270*connectMenuButton*borderColor       : #010101
+x3270*menuBarContainer.borderColor        : #010101
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : #fff
+x3270*value.foreground                    : #fff
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: nancy
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.nancy: \
+   #1b1d1e #0c73c2 #ff5995 #9e6ffe \
+   #b6e354 #899ca1 #feed6c #fff \
+   #1b1d1e #4e82aa #fd971f #8c54fe \
+   #82b414 #465457 #505354 #ccccc6 \
+   white #010101 #505354 4 \
+   2 1 15 
+! --------------------------------------------------
+! x3270.nice done
+! --------------------------------------------------
