@@ -200,6 +200,7 @@ def main():
     mapc[21] = 1
     mapc[22] = 15
     mapc[16] = "white"
+    defines = {}
 
     print(border)
     print("! {:<23} ".format("Original Xresource file:"))
@@ -208,20 +209,34 @@ def main():
     with open(sys.argv[1], 'r') as f:
         for line in f.readlines():
             l = line.replace('!','').strip()
-            if line[0] == '!' and len(l) > 0:
-                print("!", l)
-            for color in color_names:
-                if re.findall('\\b'+color[1:]+'\\b', line):
+            if l.isspace():
+                continue
+            try:
+                name = line.strip().split()[0].replace('.','').replace(':','')
+                if line[0] == '!': # skip empty comments
+                    print("!", l)
+                if name in color_names:
                     print("!", line.replace('!','').strip())
                     try:
-                        x3270colors[color].append(line.split()[1])
+                        color = line.split()[1].replace('[background_opacity]','')
+                        if color in defines:
+                            color = defines[color]
+                        x3270colors[name].append(color)
                     except KeyError:
                         continue
+                if line.strip().split()[0].replace('.','').replace(':','').lower() == "#define":
+                    print("!", line.strip())
+                    defines[line.strip().split()[1]] = line.strip().split()[2]
+            except:
+                continue
+
+
 
     mapc[18] = x3270colors['*color8'][1]
     for i in x3270colors:
         xcolors[int(x3270colors[i][0])] =  x3270colors[i][1]
     xcolors[8] = x3270colors["*color0"][1]
+
 
     print(border)
     print("! Adding theme to Options -> Color Scheme")
