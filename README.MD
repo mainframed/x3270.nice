@@ -1,6 +1,6 @@
 # x3270 themes!
 
-No longer does your x3270 screen need to use the default colors that come with it! This repo contains all the themes from terminal.sexy in `.x3270pro` format, *over 157 themes!* Take your favorite theme and put it in your `.x3270pro` file: `cat schemes/<x3270pro> >> ~/.x3270pro`
+No longer does your x3270 screen need to use the default colors that come with it! This repo contains all the themes from terminal.sexy in `.x3270pro` format, ***over 550 themes!*** To use these themes take your favorite theme and put it in your `.x3270pro` file: `cat schemes/<x3270pro> >> ~/.x3270pro`
 
 ## Make Your Own
 
@@ -8,7 +8,10 @@ Don't like the themes included here? Just go to [terminal.sexy](http://terminal.
 
 ## Color Schemes
 
-These themes have been converted using this script from https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/Xresources
+Themes included in this repo converted from:
+* https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/Xresources
+* https://github.com/base16-templates/base16-xresources
+* https://github.com/tlatsas/xcolors
 
 ### 3024 Day
 
