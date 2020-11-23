@@ -12,948 +12,948 @@ These themes have been converted using this script from https://github.com/mbado
 
 ### 3024 Day
 
-![3024 Day](.//3024 Day.png?raw=true)
+![3024 Day](./screenshots/3024%20Day.png?raw=true)
 
 ### 3024 Night
 
-![3024 Night](.//3024 Night.png?raw=true)
+![3024 Night](./screenshots/3024%20Night.png?raw=true)
 
 ### Adventure
 
-![Adventure](.//Adventure.png?raw=true)
+![Adventure](./screenshots/Adventure.png?raw=true)
 
 ### AdventureTime
 
-![AdventureTime](.//AdventureTime.png?raw=true)
+![AdventureTime](./screenshots/AdventureTime.png?raw=true)
 
 ### Afterglow
 
-![Afterglow](.//Afterglow.png?raw=true)
+![Afterglow](./screenshots/Afterglow.png?raw=true)
 
 ### AlienBlood
 
-![AlienBlood](.//AlienBlood.png?raw=true)
+![AlienBlood](./screenshots/AlienBlood.png?raw=true)
 
 ### Andromeda
 
-![Andromeda](.//Andromeda.png?raw=true)
+![Andromeda](./screenshots/Andromeda.png?raw=true)
 
 ### Argonaut
 
-![Argonaut](.//Argonaut.png?raw=true)
+![Argonaut](./screenshots/Argonaut.png?raw=true)
 
 ### Arthur
 
-![Arthur](.//Arthur.png?raw=true)
+![Arthur](./screenshots/Arthur.png?raw=true)
 
 ### AtelierSulphurpool
 
-![AtelierSulphurpool](.//AtelierSulphurpool.png?raw=true)
+![AtelierSulphurpool](./screenshots/AtelierSulphurpool.png?raw=true)
 
 ### Atom
 
-![Atom](.//Atom.png?raw=true)
+![Atom](./screenshots/Atom.png?raw=true)
 
 ### AtomOneLight
 
-![AtomOneLight](.//AtomOneLight.png?raw=true)
+![AtomOneLight](./screenshots/AtomOneLight.png?raw=true)
 
 ### ayu
 
-![ayu](.//ayu.png?raw=true)
+![ayu](./screenshots/ayu.png?raw=true)
 
 ### ayu_light
 
-![ayu_light](.//ayu_light.png?raw=true)
+![ayu_light](./screenshots/ayu_light.png?raw=true)
 
 ### Banana Blueberry
 
-![Banana Blueberry](.//Banana Blueberry.png?raw=true)
+![Banana Blueberry](./screenshots/Banana%20Blueberry.png?raw=true)
 
 ### Batman
 
-![Batman](.//Batman.png?raw=true)
+![Batman](./screenshots/Batman.png?raw=true)
 
 ### Belafonte Day
 
-![Belafonte Day](.//Belafonte Day.png?raw=true)
+![Belafonte Day](./screenshots/Belafonte%20Day.png?raw=true)
 
 ### Belafonte Night
 
-![Belafonte Night](.//Belafonte Night.png?raw=true)
+![Belafonte Night](./screenshots/Belafonte%20Night.png?raw=true)
 
 ### BirdsOfParadise
 
-![BirdsOfParadise](.//BirdsOfParadise.png?raw=true)
+![BirdsOfParadise](./screenshots/BirdsOfParadise.png?raw=true)
 
 ### Blazer
 
-![Blazer](.//Blazer.png?raw=true)
+![Blazer](./screenshots/Blazer.png?raw=true)
 
 ### BlueBerryPie
 
-![BlueBerryPie](.//BlueBerryPie.png?raw=true)
+![BlueBerryPie](./screenshots/BlueBerryPie.png?raw=true)
 
 ### Blue Matrix
 
-![Blue Matrix](.//Blue Matrix.png?raw=true)
+![Blue Matrix](./screenshots/Blue%20Matrix.png?raw=true)
 
 ### BlulocoDark
 
-![BlulocoDark](.//BlulocoDark.png?raw=true)
+![BlulocoDark](./screenshots/BlulocoDark.png?raw=true)
 
 ### BlulocoLight
 
-![BlulocoLight](.//BlulocoLight.png?raw=true)
+![BlulocoLight](./screenshots/BlulocoLight.png?raw=true)
 
 ### Borland
 
-![Borland](.//Borland.png?raw=true)
+![Borland](./screenshots/Borland.png?raw=true)
 
 ### Breeze
 
-![Breeze](.//Breeze.png?raw=true)
+![Breeze](./screenshots/Breeze.png?raw=true)
 
 ### Bright Lights
 
-![Bright Lights](.//Bright Lights.png?raw=true)
+![Bright Lights](./screenshots/Bright%20Lights.png?raw=true)
 
 ### Broadcast
 
-![Broadcast](.//Broadcast.png?raw=true)
+![Broadcast](./screenshots/Broadcast.png?raw=true)
 
 ### Brogrammer
 
-![Brogrammer](.//Brogrammer.png?raw=true)
+![Brogrammer](./screenshots/Brogrammer.png?raw=true)
 
 ### Builtin Dark
 
-![Builtin Dark](.//Builtin Dark.png?raw=true)
+![Builtin Dark](./screenshots/Builtin%20Dark.png?raw=true)
 
 ### Builtin Light
 
-![Builtin Light](.//Builtin Light.png?raw=true)
+![Builtin Light](./screenshots/Builtin%20Light.png?raw=true)
 
 ### Builtin Pastel Dark
 
-![Builtin Pastel Dark](.//Builtin Pastel Dark.png?raw=true)
+![Builtin Pastel Dark](./screenshots/Builtin%20Pastel%20Dark.png?raw=true)
 
 ### Builtin Solarized Dark
 
-![Builtin Solarized Dark](.//Builtin Solarized Dark.png?raw=true)
+![Builtin Solarized Dark](./screenshots/Builtin%20Solarized%20Dark.png?raw=true)
 
 ### Builtin Solarized Light
 
-![Builtin Solarized Light](.//Builtin Solarized Light.png?raw=true)
+![Builtin Solarized Light](./screenshots/Builtin%20Solarized%20Light.png?raw=true)
 
 ### Builtin Tango Dark
 
-![Builtin Tango Dark](.//Builtin Tango Dark.png?raw=true)
+![Builtin Tango Dark](./screenshots/Builtin%20Tango%20Dark.png?raw=true)
 
 ### Builtin Tango Light
 
-![Builtin Tango Light](.//Builtin Tango Light.png?raw=true)
+![Builtin Tango Light](./screenshots/Builtin%20Tango%20Light.png?raw=true)
 
 ### C64
 
-![C64](.//C64.png?raw=true)
+![C64](./screenshots/C64.png?raw=true)
 
 ### Calamity
 
-![Calamity](.//Calamity.png?raw=true)
+![Calamity](./screenshots/Calamity.png?raw=true)
 
 ### Chalk
 
-![Chalk](.//Chalk.png?raw=true)
+![Chalk](./screenshots/Chalk.png?raw=true)
 
 ### Chalkboard
 
-![Chalkboard](.//Chalkboard.png?raw=true)
+![Chalkboard](./screenshots/Chalkboard.png?raw=true)
 
 ### ChallengerDeep
 
-![ChallengerDeep](.//ChallengerDeep.png?raw=true)
+![ChallengerDeep](./screenshots/ChallengerDeep.png?raw=true)
 
 ### Chester
 
-![Chester](.//Chester.png?raw=true)
+![Chester](./screenshots/Chester.png?raw=true)
 
 ### Ciapre
 
-![Ciapre](.//Ciapre.png?raw=true)
+![Ciapre](./screenshots/Ciapre.png?raw=true)
 
 ### CLRS
 
-![CLRS](.//CLRS.png?raw=true)
+![CLRS](./screenshots/CLRS.png?raw=true)
 
 ### Cobalt2
 
-![Cobalt2](.//Cobalt2.png?raw=true)
+![Cobalt2](./screenshots/Cobalt2.png?raw=true)
 
 ### Cobalt Neon
 
-![Cobalt Neon](.//Cobalt Neon.png?raw=true)
+![Cobalt Neon](./screenshots/Cobalt%20Neon.png?raw=true)
 
 ### coffee_theme
 
-![coffee_theme](.//coffee_theme.png?raw=true)
+![coffee_theme](./screenshots/coffee_theme.png?raw=true)
 
 ### CrayonPonyFish
 
-![CrayonPonyFish](.//CrayonPonyFish.png?raw=true)
+![CrayonPonyFish](./screenshots/CrayonPonyFish.png?raw=true)
 
 ### Cyberdyne
 
-![Cyberdyne](.//Cyberdyne.png?raw=true)
+![Cyberdyne](./screenshots/Cyberdyne.png?raw=true)
 
 ### cyberpunk
 
-![cyberpunk](.//cyberpunk.png?raw=true)
+![cyberpunk](./screenshots/cyberpunk.png?raw=true)
 
 ### Dark+
 
-![Dark+](.//Dark+.png?raw=true)
+![Dark+](./screenshots/Dark+.png?raw=true)
 
 ### Dark Pastel
 
-![Dark Pastel](.//Dark Pastel.png?raw=true)
+![Dark Pastel](./screenshots/Dark%20Pastel.png?raw=true)
 
 ### Darkside
 
-![Darkside](.//Darkside.png?raw=true)
+![Darkside](./screenshots/Darkside.png?raw=true)
 
 ### deep
 
-![deep](.//deep.png?raw=true)
+![deep](./screenshots/deep.png?raw=true)
 
 ### Desert
 
-![Desert](.//Desert.png?raw=true)
+![Desert](./screenshots/Desert.png?raw=true)
 
 ### DimmedMonokai
 
-![DimmedMonokai](.//DimmedMonokai.png?raw=true)
+![DimmedMonokai](./screenshots/DimmedMonokai.png?raw=true)
 
 ### Django
 
-![Django](.//Django.png?raw=true)
+![Django](./screenshots/Django.png?raw=true)
 
 ### DjangoRebornAgain
 
-![DjangoRebornAgain](.//DjangoRebornAgain.png?raw=true)
+![DjangoRebornAgain](./screenshots/DjangoRebornAgain.png?raw=true)
 
 ### DjangoSmooth
 
-![DjangoSmooth](.//DjangoSmooth.png?raw=true)
+![DjangoSmooth](./screenshots/DjangoSmooth.png?raw=true)
 
 ### DoomOne
 
-![DoomOne](.//DoomOne.png?raw=true)
+![DoomOne](./screenshots/DoomOne.png?raw=true)
 
 ### DotGov
 
-![DotGov](.//DotGov.png?raw=true)
+![DotGov](./screenshots/DotGov.png?raw=true)
 
 ### Dracula
 
-![Dracula](.//Dracula.png?raw=true)
+![Dracula](./screenshots/Dracula.png?raw=true)
 
 ### Dracula+
 
-![Dracula+](.//Dracula+.png?raw=true)
+![Dracula+](./screenshots/Dracula+.png?raw=true)
 
 ### Duotone Dark
 
-![Duotone Dark](.//Duotone Dark.png?raw=true)
+![Duotone Dark](./screenshots/Duotone%20Dark.png?raw=true)
 
 ### Earthsong
 
-![Earthsong](.//Earthsong.png?raw=true)
+![Earthsong](./screenshots/Earthsong.png?raw=true)
 
 ### Elemental
 
-![Elemental](.//Elemental.png?raw=true)
+![Elemental](./screenshots/Elemental.png?raw=true)
 
 ### Elementary
 
-![Elementary](.//Elementary.png?raw=true)
+![Elementary](./screenshots/Elementary.png?raw=true)
 
 ### ENCOM
 
-![ENCOM](.//ENCOM.png?raw=true)
+![ENCOM](./screenshots/ENCOM.png?raw=true)
 
 ### Espresso
 
-![Espresso](.//Espresso.png?raw=true)
+![Espresso](./screenshots/Espresso.png?raw=true)
 
 ### Espresso Libre
 
-![Espresso Libre](.//Espresso Libre.png?raw=true)
+![Espresso Libre](./screenshots/Espresso%20Libre.png?raw=true)
 
 ### Fahrenheit
 
-![Fahrenheit](.//Fahrenheit.png?raw=true)
+![Fahrenheit](./screenshots/Fahrenheit.png?raw=true)
 
 ### Fideloper
 
-![Fideloper](.//Fideloper.png?raw=true)
+![Fideloper](./screenshots/Fideloper.png?raw=true)
 
 ### FirefoxDev
 
-![FirefoxDev](.//FirefoxDev.png?raw=true)
+![FirefoxDev](./screenshots/FirefoxDev.png?raw=true)
 
 ### Firewatch
 
-![Firewatch](.//Firewatch.png?raw=true)
+![Firewatch](./screenshots/Firewatch.png?raw=true)
 
 ### FishTank
 
-![FishTank](.//FishTank.png?raw=true)
+![FishTank](./screenshots/FishTank.png?raw=true)
 
 ### Flat
 
-![Flat](.//Flat.png?raw=true)
+![Flat](./screenshots/Flat.png?raw=true)
 
 ### Flatland
 
-![Flatland](.//Flatland.png?raw=true)
+![Flatland](./screenshots/Flatland.png?raw=true)
 
 ### Floraverse
 
-![Floraverse](.//Floraverse.png?raw=true)
+![Floraverse](./screenshots/Floraverse.png?raw=true)
 
 ### ForestBlue
 
-![ForestBlue](.//ForestBlue.png?raw=true)
+![ForestBlue](./screenshots/ForestBlue.png?raw=true)
 
 ### Framer
 
-![Framer](.//Framer.png?raw=true)
+![Framer](./screenshots/Framer.png?raw=true)
 
 ### FrontEndDelight
 
-![FrontEndDelight](.//FrontEndDelight.png?raw=true)
+![FrontEndDelight](./screenshots/FrontEndDelight.png?raw=true)
 
 ### FunForrest
 
-![FunForrest](.//FunForrest.png?raw=true)
+![FunForrest](./screenshots/FunForrest.png?raw=true)
 
 ### Galaxy
 
-![Galaxy](.//Galaxy.png?raw=true)
+![Galaxy](./screenshots/Galaxy.png?raw=true)
 
 ### Github
 
-![Github](.//Github.png?raw=true)
+![Github](./screenshots/Github.png?raw=true)
 
 ### Glacier
 
-![Glacier](.//Glacier.png?raw=true)
+![Glacier](./screenshots/Glacier.png?raw=true)
 
 ### Grape
 
-![Grape](.//Grape.png?raw=true)
+![Grape](./screenshots/Grape.png?raw=true)
 
 ### Grass
 
-![Grass](.//Grass.png?raw=true)
+![Grass](./screenshots/Grass.png?raw=true)
 
 ### Gruvbox Dark
 
-![Gruvbox Dark](.//Gruvbox Dark.png?raw=true)
+![Gruvbox Dark](./screenshots/Gruvbox%20Dark.png?raw=true)
 
 ### Gruvbox Light
 
-![Gruvbox Light](.//Gruvbox Light.png?raw=true)
+![Gruvbox Light](./screenshots/Gruvbox%20Light.png?raw=true)
 
 ### Hacktober
 
-![Hacktober](.//Hacktober.png?raw=true)
+![Hacktober](./screenshots/Hacktober.png?raw=true)
 
 ### Hardcore
 
-![Hardcore](.//Hardcore.png?raw=true)
+![Hardcore](./screenshots/Hardcore.png?raw=true)
 
 ### Harper
 
-![Harper](.//Harper.png?raw=true)
+![Harper](./screenshots/Harper.png?raw=true)
 
 ### Highway
 
-![Highway](.//Highway.png?raw=true)
+![Highway](./screenshots/Highway.png?raw=true)
 
 ### Hipster Green
 
-![Hipster Green](.//Hipster Green.png?raw=true)
+![Hipster Green](./screenshots/Hipster%20Green.png?raw=true)
 
 ### Hivacruz
 
-![Hivacruz](.//Hivacruz.png?raw=true)
+![Hivacruz](./screenshots/Hivacruz.png?raw=true)
 
 ### Homebrew
 
-![Homebrew](.//Homebrew.png?raw=true)
+![Homebrew](./screenshots/Homebrew.png?raw=true)
 
 ### Hopscotch
 
-![Hopscotch](.//Hopscotch.png?raw=true)
+![Hopscotch](./screenshots/Hopscotch.png?raw=true)
 
 ### Hopscotch.256
 
-![Hopscotch.256](.//Hopscotch.256.png?raw=true)
+![Hopscotch.256](./screenshots/Hopscotch.256.png?raw=true)
 
 ### Hurtado
 
-![Hurtado](.//Hurtado.png?raw=true)
+![Hurtado](./screenshots/Hurtado.png?raw=true)
 
 ### Hybrid
 
-![Hybrid](.//Hybrid.png?raw=true)
+![Hybrid](./screenshots/Hybrid.png?raw=true)
 
 ### IC_Green_PPL
 
-![IC_Green_PPL](.//IC_Green_PPL.png?raw=true)
+![IC_Green_PPL](./screenshots/IC_Green_PPL.png?raw=true)
 
 ### IC_Orange_PPL
 
-![IC_Orange_PPL](.//IC_Orange_PPL.png?raw=true)
+![IC_Orange_PPL](./screenshots/IC_Orange_PPL.png?raw=true)
 
 ### idea
 
-![idea](.//idea.png?raw=true)
+![idea](./screenshots/idea.png?raw=true)
 
 ### idleToes
 
-![idleToes](.//idleToes.png?raw=true)
+![idleToes](./screenshots/idleToes.png?raw=true)
 
 ### IR_Black
 
-![IR_Black](.//IR_Black.png?raw=true)
+![IR_Black](./screenshots/IR_Black.png?raw=true)
 
 ### Jackie Brown
 
-![Jackie Brown](.//Jackie Brown.png?raw=true)
+![Jackie Brown](./screenshots/Jackie%20Brown.png?raw=true)
 
 ### Japanesque
 
-![Japanesque](.//Japanesque.png?raw=true)
+![Japanesque](./screenshots/Japanesque.png?raw=true)
 
 ### Jellybeans
 
-![Jellybeans](.//Jellybeans.png?raw=true)
+![Jellybeans](./screenshots/Jellybeans.png?raw=true)
 
 ### JetBrains Darcula
 
-![JetBrains Darcula](.//JetBrains Darcula.png?raw=true)
+![JetBrains Darcula](./screenshots/JetBrains%20Darcula.png?raw=true)
 
 ### jubi
 
-![jubi](.//jubi.png?raw=true)
+![jubi](./screenshots/jubi.png?raw=true)
 
 ### Kibble
 
-![Kibble](.//Kibble.png?raw=true)
+![Kibble](./screenshots/Kibble.png?raw=true)
 
 ### Kolorit
 
-![Kolorit](.//Kolorit.png?raw=true)
+![Kolorit](./screenshots/Kolorit.png?raw=true)
 
 ### Konsolas
 
-![Konsolas](.//Konsolas.png?raw=true)
+![Konsolas](./screenshots/Konsolas.png?raw=true)
 
 ### Lab Fox
 
-![Lab Fox](.//Lab Fox.png?raw=true)
+![Lab Fox](./screenshots/Lab%20Fox.png?raw=true)
 
 ### Laser
 
-![Laser](.//Laser.png?raw=true)
+![Laser](./screenshots/Laser.png?raw=true)
 
 ### Later This Evening
 
-![Later This Evening](.//Later This Evening.png?raw=true)
+![Later This Evening](./screenshots/Later%20This%20Evening.png?raw=true)
 
 ### Lavandula
 
-![Lavandula](.//Lavandula.png?raw=true)
+![Lavandula](./screenshots/Lavandula.png?raw=true)
 
 ### LiquidCarbon
 
-![LiquidCarbon](.//LiquidCarbon.png?raw=true)
+![LiquidCarbon](./screenshots/LiquidCarbon.png?raw=true)
 
 ### LiquidCarbonTransparent
 
-![LiquidCarbonTransparent](.//LiquidCarbonTransparent.png?raw=true)
+![LiquidCarbonTransparent](./screenshots/LiquidCarbonTransparent.png?raw=true)
 
 ### LiquidCarbonTransparentInverse
 
-![LiquidCarbonTransparentInverse](.//LiquidCarbonTransparentInverse.png?raw=true)
+![LiquidCarbonTransparentInverse](./screenshots/LiquidCarbonTransparentInverse.png?raw=true)
 
 ### lovelace
 
-![lovelace](.//lovelace.png?raw=true)
+![lovelace](./screenshots/lovelace.png?raw=true)
 
 ### Man Page
 
-![Man Page](.//Man Page.png?raw=true)
+![Man Page](./screenshots/Man%20Page.png?raw=true)
 
 ### Material
 
-![Material](.//Material.png?raw=true)
+![Material](./screenshots/Material.png?raw=true)
 
 ### MaterialDark
 
-![MaterialDark](.//MaterialDark.png?raw=true)
+![MaterialDark](./screenshots/MaterialDark.png?raw=true)
 
 ### MaterialDarker
 
-![MaterialDarker](.//MaterialDarker.png?raw=true)
+![MaterialDarker](./screenshots/MaterialDarker.png?raw=true)
 
 ### MaterialOcean
 
-![MaterialOcean](.//MaterialOcean.png?raw=true)
+![MaterialOcean](./screenshots/MaterialOcean.png?raw=true)
 
 ### Mathias
 
-![Mathias](.//Mathias.png?raw=true)
+![Mathias](./screenshots/Mathias.png?raw=true)
 
 ### Medallion
 
-![Medallion](.//Medallion.png?raw=true)
+![Medallion](./screenshots/Medallion.png?raw=true)
 
 ### midnight-in-mojave
 
-![midnight-in-mojave](.//midnight-in-mojave.png?raw=true)
+![midnight-in-mojave](./screenshots/midnight-in-mojave.png?raw=true)
 
 ### Mirage
 
-![Mirage](.//Mirage.png?raw=true)
+![Mirage](./screenshots/Mirage.png?raw=true)
 
 ### Misterioso
 
-![Misterioso](.//Misterioso.png?raw=true)
+![Misterioso](./screenshots/Misterioso.png?raw=true)
 
 ### Molokai
 
-![Molokai](.//Molokai.png?raw=true)
+![Molokai](./screenshots/Molokai.png?raw=true)
 
 ### MonaLisa
 
-![MonaLisa](.//MonaLisa.png?raw=true)
+![MonaLisa](./screenshots/MonaLisa.png?raw=true)
 
 ### Monokai Remastered
 
-![Monokai Remastered](.//Monokai Remastered.png?raw=true)
+![Monokai Remastered](./screenshots/Monokai%20Remastered.png?raw=true)
 
 ### Monokai Soda
 
-![Monokai Soda](.//Monokai Soda.png?raw=true)
+![Monokai Soda](./screenshots/Monokai%20Soda.png?raw=true)
 
 ### Monokai Vivid
 
-![Monokai Vivid](.//Monokai Vivid.png?raw=true)
+![Monokai Vivid](./screenshots/Monokai%20Vivid.png?raw=true)
 
 ### N0tch2k
 
-![N0tch2k](.//N0tch2k.png?raw=true)
+![N0tch2k](./screenshots/N0tch2k.png?raw=true)
 
 ### Neopolitan
 
-![Neopolitan](.//Neopolitan.png?raw=true)
+![Neopolitan](./screenshots/Neopolitan.png?raw=true)
 
 ### Neutron
 
-![Neutron](.//Neutron.png?raw=true)
+![Neutron](./screenshots/Neutron.png?raw=true)
 
 ### NightLion v1
 
-![NightLion v1](.//NightLion v1.png?raw=true)
+![NightLion v1](./screenshots/NightLion%20v1.png?raw=true)
 
 ### NightLion v2
 
-![NightLion v2](.//NightLion v2.png?raw=true)
+![NightLion v2](./screenshots/NightLion%20v2.png?raw=true)
 
 ### Night Owlish Light
 
-![Night Owlish Light](.//Night Owlish Light.png?raw=true)
+![Night Owlish Light](./screenshots/Night%20Owlish%20Light.png?raw=true)
 
 ### Nocturnal Winter
 
-![Nocturnal Winter](.//Nocturnal Winter.png?raw=true)
+![Nocturnal Winter](./screenshots/Nocturnal%20Winter.png?raw=true)
 
 ### nord
 
-![nord](.//nord.png?raw=true)
+![nord](./screenshots/nord.png?raw=true)
 
 ### Novel
 
-![Novel](.//Novel.png?raw=true)
+![Novel](./screenshots/Novel.png?raw=true)
 
 ### Obsidian
 
-![Obsidian](.//Obsidian.png?raw=true)
+![Obsidian](./screenshots/Obsidian.png?raw=true)
 
 ### Ocean
 
-![Ocean](.//Ocean.png?raw=true)
+![Ocean](./screenshots/Ocean.png?raw=true)
 
 ### OceanicMaterial
 
-![OceanicMaterial](.//OceanicMaterial.png?raw=true)
+![OceanicMaterial](./screenshots/OceanicMaterial.png?raw=true)
 
 ### Ollie
 
-![Ollie](.//Ollie.png?raw=true)
+![Ollie](./screenshots/Ollie.png?raw=true)
 
 ### OneHalfDark
 
-![OneHalfDark](.//OneHalfDark.png?raw=true)
+![OneHalfDark](./screenshots/OneHalfDark.png?raw=true)
 
 ### OneHalfLight
 
-![OneHalfLight](.//OneHalfLight.png?raw=true)
+![OneHalfLight](./screenshots/OneHalfLight.png?raw=true)
 
 ### Operator Mono Dark
 
-![Operator Mono Dark](.//Operator Mono Dark.png?raw=true)
+![Operator Mono Dark](./screenshots/Operator%20Mono%20Dark.png?raw=true)
 
 ### Overnight Slumber
 
-![Overnight Slumber](.//Overnight Slumber.png?raw=true)
+![Overnight Slumber](./screenshots/Overnight%20Slumber.png?raw=true)
 
 ### Pandora
 
-![Pandora](.//Pandora.png?raw=true)
+![Pandora](./screenshots/Pandora.png?raw=true)
 
 ### Paraiso Dark
 
-![Paraiso Dark](.//Paraiso Dark.png?raw=true)
+![Paraiso Dark](./screenshots/Paraiso%20Dark.png?raw=true)
 
 ### Parasio Dark
 
-![Parasio Dark](.//Parasio Dark.png?raw=true)
+![Parasio Dark](./screenshots/Parasio%20Dark.png?raw=true)
 
 ### PaulMillr
 
-![PaulMillr](.//PaulMillr.png?raw=true)
+![PaulMillr](./screenshots/PaulMillr.png?raw=true)
 
 ### PencilDark
 
-![PencilDark](.//PencilDark.png?raw=true)
+![PencilDark](./screenshots/PencilDark.png?raw=true)
 
 ### PencilLight
 
-![PencilLight](.//PencilLight.png?raw=true)
+![PencilLight](./screenshots/PencilLight.png?raw=true)
 
 ### Piatto Light
 
-![Piatto Light](.//Piatto Light.png?raw=true)
+![Piatto Light](./screenshots/Piatto%20Light.png?raw=true)
 
 ### Pnevma
 
-![Pnevma](.//Pnevma.png?raw=true)
+![Pnevma](./screenshots/Pnevma.png?raw=true)
 
 ### Popping and Locking
 
-![Popping and Locking](.//Popping and Locking.png?raw=true)
+![Popping and Locking](./screenshots/Popping%20and%20Locking.png?raw=true)
 
 ### primary
 
-![primary](.//primary.png?raw=true)
+![primary](./screenshots/primary.png?raw=true)
 
 ### Pro
 
-![Pro](.//Pro.png?raw=true)
+![Pro](./screenshots/Pro.png?raw=true)
 
 ### Pro Light
 
-![Pro Light](.//Pro Light.png?raw=true)
+![Pro Light](./screenshots/Pro%20Light.png?raw=true)
 
 ### purplepeter
 
-![purplepeter](.//purplepeter.png?raw=true)
+![purplepeter](./screenshots/purplepeter.png?raw=true)
 
 ### Purple Rain
 
-![Purple Rain](.//Purple Rain.png?raw=true)
+![Purple Rain](./screenshots/Purple%20Rain.png?raw=true)
 
 ### Rapture
 
-![Rapture](.//Rapture.png?raw=true)
+![Rapture](./screenshots/Rapture.png?raw=true)
 
 ### rebecca
 
-![rebecca](.//rebecca.png?raw=true)
+![rebecca](./screenshots/rebecca.png?raw=true)
 
 ### Red Alert
 
-![Red Alert](.//Red Alert.png?raw=true)
+![Red Alert](./screenshots/Red%20Alert.png?raw=true)
 
 ### Red Planet
 
-![Red Planet](.//Red Planet.png?raw=true)
+![Red Planet](./screenshots/Red%20Planet.png?raw=true)
 
 ### Red Sands
 
-![Red Sands](.//Red Sands.png?raw=true)
+![Red Sands](./screenshots/Red%20Sands.png?raw=true)
 
 ### Relaxed
 
-![Relaxed](.//Relaxed.png?raw=true)
+![Relaxed](./screenshots/Relaxed.png?raw=true)
 
 ### Rippedcasts
 
-![Rippedcasts](.//Rippedcasts.png?raw=true)
+![Rippedcasts](./screenshots/Rippedcasts.png?raw=true)
 
 ### Rouge 2
 
-![Rouge 2](.//Rouge 2.png?raw=true)
+![Rouge 2](./screenshots/Rouge%202.png?raw=true)
 
 ### Royal
 
-![Royal](.//Royal.png?raw=true)
+![Royal](./screenshots/Royal.png?raw=true)
 
 ### Ryuuko
 
-![Ryuuko](.//Ryuuko.png?raw=true)
+![Ryuuko](./screenshots/Ryuuko.png?raw=true)
 
 ### Sakura
 
-![Sakura](.//Sakura.png?raw=true)
+![Sakura](./screenshots/Sakura.png?raw=true)
 
 ### Scarlet Protocol
 
-![Scarlet Protocol](.//Scarlet Protocol.png?raw=true)
+![Scarlet Protocol](./screenshots/Scarlet%20Protocol.png?raw=true)
 
 ### Seafoam Pastel
 
-![Seafoam Pastel](.//Seafoam Pastel.png?raw=true)
+![Seafoam Pastel](./screenshots/Seafoam%20Pastel.png?raw=true)
 
 ### SeaShells
 
-![SeaShells](.//SeaShells.png?raw=true)
+![SeaShells](./screenshots/SeaShells.png?raw=true)
 
 ### Seti
 
-![Seti](.//Seti.png?raw=true)
+![Seti](./screenshots/Seti.png?raw=true)
 
 ### shades-of-purple
 
-![shades-of-purple](.//shades-of-purple.png?raw=true)
+![shades-of-purple](./screenshots/shades-of-purple.png?raw=true)
 
 ### Shaman
 
-![Shaman](.//Shaman.png?raw=true)
+![Shaman](./screenshots/Shaman.png?raw=true)
 
 ### Slate
 
-![Slate](.//Slate.png?raw=true)
+![Slate](./screenshots/Slate.png?raw=true)
 
 ### SleepyHollow
 
-![SleepyHollow](.//SleepyHollow.png?raw=true)
+![SleepyHollow](./screenshots/SleepyHollow.png?raw=true)
 
 ### Smyck
 
-![Smyck](.//Smyck.png?raw=true)
+![Smyck](./screenshots/Smyck.png?raw=true)
 
 ### Snazzy
 
-![Snazzy](.//Snazzy.png?raw=true)
+![Snazzy](./screenshots/Snazzy.png?raw=true)
 
 ### SoftServer
 
-![SoftServer](.//SoftServer.png?raw=true)
+![SoftServer](./screenshots/SoftServer.png?raw=true)
 
 ### Solarized Darcula
 
-![Solarized Darcula](.//Solarized Darcula.png?raw=true)
+![Solarized Darcula](./screenshots/Solarized%20Darcula.png?raw=true)
 
 ### Solarized Dark Higher Contrast
 
-![Solarized Dark Higher Contrast](.//Solarized Dark Higher Contrast.png?raw=true)
+![Solarized Dark Higher Contrast](./screenshots/Solarized%20Dark%20Higher%20Contrast.png?raw=true)
 
 ### Solarized Dark - Patched
 
-![Solarized Dark - Patched](.//Solarized Dark - Patched.png?raw=true)
+![Solarized Dark - Patched](./screenshots/Solarized%20Dark%20-%20Patched.png?raw=true)
 
 ### Spacedust
 
-![Spacedust](.//Spacedust.png?raw=true)
+![Spacedust](./screenshots/Spacedust.png?raw=true)
 
 ### SpaceGray
 
-![SpaceGray](.//SpaceGray.png?raw=true)
+![SpaceGray](./screenshots/SpaceGray.png?raw=true)
 
 ### SpaceGray Eighties
 
-![SpaceGray Eighties](.//SpaceGray Eighties.png?raw=true)
+![SpaceGray Eighties](./screenshots/SpaceGray%20Eighties.png?raw=true)
 
 ### SpaceGray Eighties Dull
 
-![SpaceGray Eighties Dull](.//SpaceGray Eighties Dull.png?raw=true)
+![SpaceGray Eighties Dull](./screenshots/SpaceGray%20Eighties%20Dull.png?raw=true)
 
 ### Spiderman
 
-![Spiderman](.//Spiderman.png?raw=true)
+![Spiderman](./screenshots/Spiderman.png?raw=true)
 
 ### Spring
 
-![Spring](.//Spring.png?raw=true)
+![Spring](./screenshots/Spring.png?raw=true)
 
 ### Square
 
-![Square](.//Square.png?raw=true)
+![Square](./screenshots/Square.png?raw=true)
 
 ### Subliminal
 
-![Subliminal](.//Subliminal.png?raw=true)
+![Subliminal](./screenshots/Subliminal.png?raw=true)
 
 ### Sundried
 
-![Sundried](.//Sundried.png?raw=true)
+![Sundried](./screenshots/Sundried.png?raw=true)
 
 ### Symfonic
 
-![Symfonic](.//Symfonic.png?raw=true)
+![Symfonic](./screenshots/Symfonic.png?raw=true)
 
 ### synthwave
 
-![synthwave](.//synthwave.png?raw=true)
+![synthwave](./screenshots/synthwave.png?raw=true)
 
 ### synthwave-everything
 
-![synthwave-everything](.//synthwave-everything.png?raw=true)
+![synthwave-everything](./screenshots/synthwave-everything.png?raw=true)
 
 ### Tango Adapted
 
-![Tango Adapted](.//Tango Adapted.png?raw=true)
+![Tango Adapted](./screenshots/Tango%20Adapted.png?raw=true)
 
 ### Tango Half Adapted
 
-![Tango Half Adapted](.//Tango Half Adapted.png?raw=true)
+![Tango Half Adapted](./screenshots/Tango%20Half%20Adapted.png?raw=true)
 
 ### Teerb
 
-![Teerb](.//Teerb.png?raw=true)
+![Teerb](./screenshots/Teerb.png?raw=true)
 
 ### Terminal Basic
 
-![Terminal Basic](.//Terminal Basic.png?raw=true)
+![Terminal Basic](./screenshots/Terminal%20Basic.png?raw=true)
 
 ### Thayer Bright
 
-![Thayer Bright](.//Thayer Bright.png?raw=true)
+![Thayer Bright](./screenshots/Thayer%20Bright.png?raw=true)
 
 ### The Hulk
 
-![The Hulk](.//The Hulk.png?raw=true)
+![The Hulk](./screenshots/The%20Hulk.png?raw=true)
 
 ### Tinacious Design (Dark)
 
-![Tinacious Design (Dark)](.//Tinacious Design (Dark).png?raw=true)
+![Tinacious Design (Dark)](./screenshots/Tinacious%20Design%20(Dark).png?raw=true)
 
 ### Tinacious Design (Light)
 
-![Tinacious Design (Light)](.//Tinacious Design (Light).png?raw=true)
+![Tinacious Design (Light)](./screenshots/Tinacious%20Design%20(Light).png?raw=true)
 
 ### Tomorrow
 
-![Tomorrow](.//Tomorrow.png?raw=true)
+![Tomorrow](./screenshots/Tomorrow.png?raw=true)
 
 ### Tomorrow Night
 
-![Tomorrow Night](.//Tomorrow Night.png?raw=true)
+![Tomorrow Night](./screenshots/Tomorrow%20Night.png?raw=true)
 
 ### Tomorrow Night Blue
 
-![Tomorrow Night Blue](.//Tomorrow Night Blue.png?raw=true)
+![Tomorrow Night Blue](./screenshots/Tomorrow%20Night%20Blue.png?raw=true)
 
 ### Tomorrow Night Bright
 
-![Tomorrow Night Bright](.//Tomorrow Night Bright.png?raw=true)
+![Tomorrow Night Bright](./screenshots/Tomorrow%20Night%20Bright.png?raw=true)
 
 ### Tomorrow Night Burns
 
-![Tomorrow Night Burns](.//Tomorrow Night Burns.png?raw=true)
+![Tomorrow Night Burns](./screenshots/Tomorrow%20Night%20Burns.png?raw=true)
 
 ### Tomorrow Night Eighties
 
-![Tomorrow Night Eighties](.//Tomorrow Night Eighties.png?raw=true)
+![Tomorrow Night Eighties](./screenshots/Tomorrow%20Night%20Eighties.png?raw=true)
 
 ### ToyChest
 
-![ToyChest](.//ToyChest.png?raw=true)
+![ToyChest](./screenshots/ToyChest.png?raw=true)
 
 ### Treehouse
 
-![Treehouse](.//Treehouse.png?raw=true)
+![Treehouse](./screenshots/Treehouse.png?raw=true)
 
 ### Twilight
 
-![Twilight](.//Twilight.png?raw=true)
+![Twilight](./screenshots/Twilight.png?raw=true)
 
 ### Ubuntu
 
-![Ubuntu](.//Ubuntu.png?raw=true)
+![Ubuntu](./screenshots/Ubuntu.png?raw=true)
 
 ### UltraViolent
 
-![UltraViolent](.//UltraViolent.png?raw=true)
+![UltraViolent](./screenshots/UltraViolent.png?raw=true)
 
 ### UnderTheSea
 
-![UnderTheSea](.//UnderTheSea.png?raw=true)
+![UnderTheSea](./screenshots/UnderTheSea.png?raw=true)
 
 ### Unikitty
 
-![Unikitty](.//Unikitty.png?raw=true)
+![Unikitty](./screenshots/Unikitty.png?raw=true)
 
 ### Urple
 
-![Urple](.//Urple.png?raw=true)
+![Urple](./screenshots/Urple.png?raw=true)
 
 ### Vaughn
 
-![Vaughn](.//Vaughn.png?raw=true)
+![Vaughn](./screenshots/Vaughn.png?raw=true)
 
 ### VibrantInk
 
-![VibrantInk](.//VibrantInk.png?raw=true)
+![VibrantInk](./screenshots/VibrantInk.png?raw=true)
 
 ### Violet Dark
 
-![Violet Dark](.//Violet Dark.png?raw=true)
+![Violet Dark](./screenshots/Violet%20Dark.png?raw=true)
 
 ### Violet Light
 
-![Violet Light](.//Violet Light.png?raw=true)
+![Violet Light](./screenshots/Violet%20Light.png?raw=true)
 
 ### WarmNeon
 
-![WarmNeon](.//WarmNeon.png?raw=true)
+![WarmNeon](./screenshots/WarmNeon.png?raw=true)
 
 ### Wez
 
-![Wez](.//Wez.png?raw=true)
+![Wez](./screenshots/Wez.png?raw=true)
 
 ### Whimsy
 
-![Whimsy](.//Whimsy.png?raw=true)
+![Whimsy](./screenshots/Whimsy.png?raw=true)
 
 ### WildCherry
 
-![WildCherry](.//WildCherry.png?raw=true)
+![WildCherry](./screenshots/WildCherry.png?raw=true)
 
 ### Wombat
 
-![Wombat](.//Wombat.png?raw=true)
+![Wombat](./screenshots/Wombat.png?raw=true)
 
 ### Wryan
 
-![Wryan](.//Wryan.png?raw=true)
+![Wryan](./screenshots/Wryan.png?raw=true)
 
 ### Zenburn
 
-![Zenburn](.//Zenburn.png?raw=true)
+![Zenburn](./screenshots/Zenburn.png?raw=true)
