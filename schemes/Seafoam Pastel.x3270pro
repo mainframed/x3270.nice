@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Seafoam Pastel'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #d4e7d4  | Grey85 
+! *.background:  #243435  | Grey19 
+! *.color0:      #757575  | Grey46 
+! *.color8:      #8a8a8a  | Grey54 
+! *.color1:      #825d4d  | LightPink4 
+! *.color9:      #cf937a  | LightPink3 
+! *.color2:      #728c62  | DarkSeaGreen4 
+! *.color10:     #98d9aa  | DarkSeaGreen3 
+! *.color3:      #ada16d  | DarkKhaki 
+! *.color11:     #fae79d  | NavajoWhite1 
+! *.color4:      #4d7b82  | PaleTurquoise4 
+! *.color12:     #7ac3cf  | LightSkyBlue3 
+! *.color5:      #8a7267  | LightPink4 
+! *.color13:     #d6b2a1  | MistyRose3 
+! *.color6:      #729494  | PaleTurquoise4 
+! *.color14:     #ade0e0  | LightCyan3 
+! *.color7:      #e0e0e0  | Grey89 
+! *.color15:     #e0e0e0  | Grey89 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Seafoam Pastel: SeafoamPastel
+! --------------------------------------------------
+! Generating Seafoam Pastel .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey85
+x3270*dialog*foreground                   : Grey85
+x3270.aboutPopup*icon.foreground          : Grey85
+x3270.keypadForeground                    : Grey85
+x3270*menuBarContainer.foreground         : Grey85
+x3270*fileMenuButton*foreground           : Grey85
+x3270*optionsMenuButton*foreground        : Grey85
+x3270*connectMenuButton*foreground        : Grey85
+x3270*reconnectButton*foreground          : Grey85
+x3270*macrosMenuButton*foreground         : Grey85
+x3270*keypadButton*foreground             : Grey85
+x3270*fileMenu*foreground                 : Grey85
+x3270*exitMenu*foreground                 : Grey85
+x3270*optionsMenu*foreground              : Grey85
+x3270*hostMenu*foreground                 : Grey85
+x3270*reconnect*foreground                : Grey85
+x3270*macrosMenu*foreground               : Grey85
+x3270*togglesMenu*foreground              : Grey85
+x3270*fontsMenu*foreground                : Grey85
+x3270*modelsMenu*foreground               : Grey85
+x3270*colorsMenu*foreground               : Grey85
+x3270*charsetMenu*foreground              : Grey85
+x3270*dialog*value*foreground             : Grey85
+x3270*dialog*foreground                   : Grey85
+x3270*dialog*confirmButton.foreground     : Grey85
+x3270*dialog*confirm2Button.foreground    : Grey85
+3270*dialog*cancelButton.foreground       : Grey85
+x3270.ftProgressPopup*filename.foreground : Grey85
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : LightPink3
+x3270*dialog*cancelButton.foreground      : LightPink3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey19
+x3270*menuBarContainer.background         : Grey19
+x3270*fileMenuButton*background           : Grey19
+x3270*optionsMenuButton*background        : Grey19
+x3270*connectMenuButton*background        : Grey19
+x3270*reconnectButton*background          : Grey19
+x3270*macrosMenuButton*background         : Grey19
+x3270*keypadButton*background             : Grey19
+x3270*fileMenu*background                 : Grey19
+x3270*exitMenu*background                 : Grey19
+x3270*optionsMenu*background              : Grey19
+x3270*hostMenu*background                 : Grey19
+x3270*reconnect*background                : Grey19
+x3270*macrosMenu*background               : Grey19
+x3270*togglesMenu*background              : Grey19
+x3270*fontsMenu*background                : Grey19
+x3270*modelsMenu*background               : Grey19
+x3270*colorsMenu*background               : Grey19
+x3270*charsetMenu*background              : Grey19
+x3270*dialog*value*background             : Grey19
+x3270*dialog*background                   : Grey19
+x3270*dialog*confirmButton.background     : Grey19
+x3270*dialog*confirm2Button.background    : Grey19
+3270*dialog*cancelButton.background       : Grey19
+x3270.ftProgressPopup*filename.background : Grey19
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey85
+x3270*macrosMenuButton*borderColor        : Grey85
+x3270*fileMenu.borderColor                : Grey85
+x3270*exitMenu.borderColor                : Grey85
+x3270*optionsMenu.borderColor             : Grey85
+x3270*hostMenu.borderColor                : Grey85
+x3270*macrosMenu.borderColor              : Grey85
+x3270*togglesMenu.borderColor             : Grey85
+x3270*fontsMenu.borderColor               : Grey85
+x3270*modelsMenu.borderColor              : Grey85
+x3270*colorsMenu.borderColor              : Grey85
+x3270*charsetMenu.borderColor             : Grey85
+x3270*confirmButton.borderColor           : Grey85
+x3270*confirmButton.borderColor           : Grey85
+x3270*confirm2Button.borderColor          : Grey85
+x3270*cancelButton.borderColor            : Grey85
+x3270.ftProgressPopup*filename.borderColor: Grey85
+x3270*fileMenuButton*borderColor          : Grey19
+x3270*optionsMenuButton*borderColor       : Grey19
+x3270*connectMenuButton*borderColor       : Grey19
+x3270*menuBarContainer.borderColor        : Grey19
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey85
+x3270*value.foreground                    : Grey85
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: SeafoamPastel
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.SeafoamPastel: \
+   Grey46 LightSkyBlue3 LightPink3 MistyRose3 \
+   DarkSeaGreen3 LightCyan3 NavajoWhite1 Grey85 \
+   Grey46 PaleTurquoise4 DarkKhaki LightPink4 \
+   DarkSeaGreen4 PaleTurquoise4 Grey54 Grey89 \
+   white Grey19 Grey54 4 \
+   2 1 15 

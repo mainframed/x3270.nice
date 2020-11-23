@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Flat'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #2cc55d  | SpringGreen3 
+! *.background:  #002240  | Grey11 
+! *.color0:      #222d3f  | Grey19 
+! *.color8:      #212c3c  | Grey19 
+! *.color1:      #a82320  | Red3 
+! *.color9:      #d4312e  | DarkOrange3 
+! *.color2:      #32a548  | DarkSeaGreen4 
+! *.color10:     #2d9440  | SpringGreen4 
+! *.color3:      #e58d11  | Orange3 
+! *.color11:     #e5be0c  | Gold3 
+! *.color4:      #3167ac  | SlateBlue3 
+! *.color12:     #3c7dd2  | SteelBlue3 
+! *.color5:      #781aa0  | DarkMagenta 
+! *.color13:     #8230a7  | MediumPurple3 
+! *.color6:      #2c9370  | SpringGreen4 
+! *.color14:     #35b387  | CadetBlue 
+! *.color7:      #b0b6ba  | Grey70 
+! *.color15:     #e7eced  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Flat: Flat
+! --------------------------------------------------
+! Generating Flat .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : SpringGreen3
+x3270*dialog*foreground                   : SpringGreen3
+x3270.aboutPopup*icon.foreground          : SpringGreen3
+x3270.keypadForeground                    : SpringGreen3
+x3270*menuBarContainer.foreground         : SpringGreen3
+x3270*fileMenuButton*foreground           : SpringGreen3
+x3270*optionsMenuButton*foreground        : SpringGreen3
+x3270*connectMenuButton*foreground        : SpringGreen3
+x3270*reconnectButton*foreground          : SpringGreen3
+x3270*macrosMenuButton*foreground         : SpringGreen3
+x3270*keypadButton*foreground             : SpringGreen3
+x3270*fileMenu*foreground                 : SpringGreen3
+x3270*exitMenu*foreground                 : SpringGreen3
+x3270*optionsMenu*foreground              : SpringGreen3
+x3270*hostMenu*foreground                 : SpringGreen3
+x3270*reconnect*foreground                : SpringGreen3
+x3270*macrosMenu*foreground               : SpringGreen3
+x3270*togglesMenu*foreground              : SpringGreen3
+x3270*fontsMenu*foreground                : SpringGreen3
+x3270*modelsMenu*foreground               : SpringGreen3
+x3270*colorsMenu*foreground               : SpringGreen3
+x3270*charsetMenu*foreground              : SpringGreen3
+x3270*dialog*value*foreground             : SpringGreen3
+x3270*dialog*foreground                   : SpringGreen3
+x3270*dialog*confirmButton.foreground     : SpringGreen3
+x3270*dialog*confirm2Button.foreground    : SpringGreen3
+3270*dialog*cancelButton.foreground       : SpringGreen3
+x3270.ftProgressPopup*filename.foreground : SpringGreen3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DarkOrange3
+x3270*dialog*cancelButton.foreground      : DarkOrange3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : SpringGreen3
+x3270*macrosMenuButton*borderColor        : SpringGreen3
+x3270*fileMenu.borderColor                : SpringGreen3
+x3270*exitMenu.borderColor                : SpringGreen3
+x3270*optionsMenu.borderColor             : SpringGreen3
+x3270*hostMenu.borderColor                : SpringGreen3
+x3270*macrosMenu.borderColor              : SpringGreen3
+x3270*togglesMenu.borderColor             : SpringGreen3
+x3270*fontsMenu.borderColor               : SpringGreen3
+x3270*modelsMenu.borderColor              : SpringGreen3
+x3270*colorsMenu.borderColor              : SpringGreen3
+x3270*charsetMenu.borderColor             : SpringGreen3
+x3270*confirmButton.borderColor           : SpringGreen3
+x3270*confirmButton.borderColor           : SpringGreen3
+x3270*confirm2Button.borderColor          : SpringGreen3
+x3270*cancelButton.borderColor            : SpringGreen3
+x3270.ftProgressPopup*filename.borderColor: SpringGreen3
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : SpringGreen3
+x3270*value.foreground                    : SpringGreen3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Flat
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Flat: \
+   Grey19 SteelBlue3 DarkOrange3 MediumPurple3 \
+   SpringGreen4 CadetBlue Gold3 SpringGreen3 \
+   Grey19 SlateBlue3 Orange3 DarkMagenta \
+   DarkSeaGreen4 SpringGreen4 Grey19 Grey70 \
+   white Grey11 Grey19 4 \
+   2 1 15 

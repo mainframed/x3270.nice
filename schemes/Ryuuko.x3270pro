@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Ryuuko'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #ececec  | Grey93 
+! *.background:  #2c3941  | Grey23 
+! *.color0:      #2c3941  | Grey23 
+! *.color8:      #5d7079  | Grey42 
+! *.color1:      #865f5b  | LightPink4 
+! *.color9:      #865f5b  | LightPink4 
+! *.color2:      #66907d  | PaleTurquoise4 
+! *.color10:     #66907d  | PaleTurquoise4 
+! *.color3:      #b1a990  | NavajoWhite3 
+! *.color11:     #b1a990  | NavajoWhite3 
+! *.color4:      #6a8e95  | PaleTurquoise4 
+! *.color12:     #6a8e95  | PaleTurquoise4 
+! *.color5:      #b18a73  | LightSalmon3 
+! *.color13:     #b18a73  | LightSalmon3 
+! *.color6:      #88b2ac  | LightSkyBlue3 
+! *.color14:     #88b2ac  | LightSkyBlue3 
+! *.color7:      #ececec  | Grey93 
+! *.color15:     #ececec  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Ryuuko: Ryuuko
+! --------------------------------------------------
+! Generating Ryuuko .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey93
+x3270*dialog*foreground                   : Grey93
+x3270.aboutPopup*icon.foreground          : Grey93
+x3270.keypadForeground                    : Grey93
+x3270*menuBarContainer.foreground         : Grey93
+x3270*fileMenuButton*foreground           : Grey93
+x3270*optionsMenuButton*foreground        : Grey93
+x3270*connectMenuButton*foreground        : Grey93
+x3270*reconnectButton*foreground          : Grey93
+x3270*macrosMenuButton*foreground         : Grey93
+x3270*keypadButton*foreground             : Grey93
+x3270*fileMenu*foreground                 : Grey93
+x3270*exitMenu*foreground                 : Grey93
+x3270*optionsMenu*foreground              : Grey93
+x3270*hostMenu*foreground                 : Grey93
+x3270*reconnect*foreground                : Grey93
+x3270*macrosMenu*foreground               : Grey93
+x3270*togglesMenu*foreground              : Grey93
+x3270*fontsMenu*foreground                : Grey93
+x3270*modelsMenu*foreground               : Grey93
+x3270*colorsMenu*foreground               : Grey93
+x3270*charsetMenu*foreground              : Grey93
+x3270*dialog*value*foreground             : Grey93
+x3270*dialog*foreground                   : Grey93
+x3270*dialog*confirmButton.foreground     : Grey93
+x3270*dialog*confirm2Button.foreground    : Grey93
+3270*dialog*cancelButton.foreground       : Grey93
+x3270.ftProgressPopup*filename.foreground : Grey93
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : LightPink4
+x3270*dialog*cancelButton.foreground      : LightPink4
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey23
+x3270*menuBarContainer.background         : Grey23
+x3270*fileMenuButton*background           : Grey23
+x3270*optionsMenuButton*background        : Grey23
+x3270*connectMenuButton*background        : Grey23
+x3270*reconnectButton*background          : Grey23
+x3270*macrosMenuButton*background         : Grey23
+x3270*keypadButton*background             : Grey23
+x3270*fileMenu*background                 : Grey23
+x3270*exitMenu*background                 : Grey23
+x3270*optionsMenu*background              : Grey23
+x3270*hostMenu*background                 : Grey23
+x3270*reconnect*background                : Grey23
+x3270*macrosMenu*background               : Grey23
+x3270*togglesMenu*background              : Grey23
+x3270*fontsMenu*background                : Grey23
+x3270*modelsMenu*background               : Grey23
+x3270*colorsMenu*background               : Grey23
+x3270*charsetMenu*background              : Grey23
+x3270*dialog*value*background             : Grey23
+x3270*dialog*background                   : Grey23
+x3270*dialog*confirmButton.background     : Grey23
+x3270*dialog*confirm2Button.background    : Grey23
+3270*dialog*cancelButton.background       : Grey23
+x3270.ftProgressPopup*filename.background : Grey23
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey93
+x3270*macrosMenuButton*borderColor        : Grey93
+x3270*fileMenu.borderColor                : Grey93
+x3270*exitMenu.borderColor                : Grey93
+x3270*optionsMenu.borderColor             : Grey93
+x3270*hostMenu.borderColor                : Grey93
+x3270*macrosMenu.borderColor              : Grey93
+x3270*togglesMenu.borderColor             : Grey93
+x3270*fontsMenu.borderColor               : Grey93
+x3270*modelsMenu.borderColor              : Grey93
+x3270*colorsMenu.borderColor              : Grey93
+x3270*charsetMenu.borderColor             : Grey93
+x3270*confirmButton.borderColor           : Grey93
+x3270*confirmButton.borderColor           : Grey93
+x3270*confirm2Button.borderColor          : Grey93
+x3270*cancelButton.borderColor            : Grey93
+x3270.ftProgressPopup*filename.borderColor: Grey93
+x3270*fileMenuButton*borderColor          : Grey23
+x3270*optionsMenuButton*borderColor       : Grey23
+x3270*connectMenuButton*borderColor       : Grey23
+x3270*menuBarContainer.borderColor        : Grey23
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey93
+x3270*value.foreground                    : Grey93
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Ryuuko
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Ryuuko: \
+   Grey23 PaleTurquoise4 LightPink4 LightSalmon3 \
+   PaleTurquoise4 LightSkyBlue3 NavajoWhite3 Grey93 \
+   Grey23 PaleTurquoise4 NavajoWhite3 LightSalmon3 \
+   PaleTurquoise4 LightSkyBlue3 Grey42 Grey93 \
+   white Grey23 Grey42 4 \
+   2 1 15 

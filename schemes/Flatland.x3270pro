@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Flatland'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #b8dbef  | LightSkyBlue1 
+! *.background:  #1d1f21  | Grey11 
+! *.color0:      #1d1d19  | Grey11 
+! *.color8:      #1d1d19  | Grey11 
+! *.color1:      #f18339  | Salmon1 
+! *.color9:      #d22a24  | Red3 
+! *.color2:      #9fd364  | DarkOliveGreen3 
+! *.color10:     #a7d42c  | Yellow3 
+! *.color3:      #f4ef6d  | LightGoldenrod1 
+! *.color11:     #ff8949  | Salmon1 
+! *.color4:      #5096be  | SteelBlue 
+! *.color12:     #61b9d0  | SkyBlue3 
+! *.color5:      #695abc  | SlateBlue3 
+! *.color13:     #695abc  | SlateBlue3 
+! *.color6:      #d63865  | IndianRed 
+! *.color14:     #d63865  | IndianRed 
+! *.color7:      #ffffff  | Grey100 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Flatland: Flatland
+! --------------------------------------------------
+! Generating Flatland .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : LightSkyBlue1
+x3270*dialog*foreground                   : LightSkyBlue1
+x3270.aboutPopup*icon.foreground          : LightSkyBlue1
+x3270.keypadForeground                    : LightSkyBlue1
+x3270*menuBarContainer.foreground         : LightSkyBlue1
+x3270*fileMenuButton*foreground           : LightSkyBlue1
+x3270*optionsMenuButton*foreground        : LightSkyBlue1
+x3270*connectMenuButton*foreground        : LightSkyBlue1
+x3270*reconnectButton*foreground          : LightSkyBlue1
+x3270*macrosMenuButton*foreground         : LightSkyBlue1
+x3270*keypadButton*foreground             : LightSkyBlue1
+x3270*fileMenu*foreground                 : LightSkyBlue1
+x3270*exitMenu*foreground                 : LightSkyBlue1
+x3270*optionsMenu*foreground              : LightSkyBlue1
+x3270*hostMenu*foreground                 : LightSkyBlue1
+x3270*reconnect*foreground                : LightSkyBlue1
+x3270*macrosMenu*foreground               : LightSkyBlue1
+x3270*togglesMenu*foreground              : LightSkyBlue1
+x3270*fontsMenu*foreground                : LightSkyBlue1
+x3270*modelsMenu*foreground               : LightSkyBlue1
+x3270*colorsMenu*foreground               : LightSkyBlue1
+x3270*charsetMenu*foreground              : LightSkyBlue1
+x3270*dialog*value*foreground             : LightSkyBlue1
+x3270*dialog*foreground                   : LightSkyBlue1
+x3270*dialog*confirmButton.foreground     : LightSkyBlue1
+x3270*dialog*confirm2Button.foreground    : LightSkyBlue1
+3270*dialog*cancelButton.foreground       : LightSkyBlue1
+x3270.ftProgressPopup*filename.foreground : LightSkyBlue1
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Red3
+x3270*dialog*cancelButton.foreground      : Red3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : LightSkyBlue1
+x3270*macrosMenuButton*borderColor        : LightSkyBlue1
+x3270*fileMenu.borderColor                : LightSkyBlue1
+x3270*exitMenu.borderColor                : LightSkyBlue1
+x3270*optionsMenu.borderColor             : LightSkyBlue1
+x3270*hostMenu.borderColor                : LightSkyBlue1
+x3270*macrosMenu.borderColor              : LightSkyBlue1
+x3270*togglesMenu.borderColor             : LightSkyBlue1
+x3270*fontsMenu.borderColor               : LightSkyBlue1
+x3270*modelsMenu.borderColor              : LightSkyBlue1
+x3270*colorsMenu.borderColor              : LightSkyBlue1
+x3270*charsetMenu.borderColor             : LightSkyBlue1
+x3270*confirmButton.borderColor           : LightSkyBlue1
+x3270*confirmButton.borderColor           : LightSkyBlue1
+x3270*confirm2Button.borderColor          : LightSkyBlue1
+x3270*cancelButton.borderColor            : LightSkyBlue1
+x3270.ftProgressPopup*filename.borderColor: LightSkyBlue1
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : LightSkyBlue1
+x3270*value.foreground                    : LightSkyBlue1
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Flatland
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Flatland: \
+   Grey11 SkyBlue3 Red3 SlateBlue3 \
+   Yellow3 IndianRed Salmon1 LightSkyBlue1 \
+   Grey11 SteelBlue LightGoldenrod1 SlateBlue3 \
+   DarkOliveGreen3 IndianRed Grey11 Grey100 \
+   white Grey11 Grey11 4 \
+   2 1 15 

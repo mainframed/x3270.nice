@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Adventure'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #feffff  | Grey100 
+! *.background:  #040404  | Grey0 
+! *.color0:      #040404  | Grey0 
+! *.color8:      #685656  | Grey37 
+! *.color1:      #d84a33  | IndianRed 
+! *.color9:      #d76b42  | IndianRed 
+! *.color2:      #5da602  | Chartreuse3 
+! *.color10:     #99b52c  | Yellow4 
+! *.color3:      #eebb6e  | SandyBrown 
+! *.color11:     #ffb670  | SandyBrown 
+! *.color4:      #417ab3  | SteelBlue 
+! *.color12:     #97d7ef  | SkyBlue1 
+! *.color5:      #e5c499  | LightGoldenrod2 
+! *.color13:     #aa7900  | DarkGoldenrod 
+! *.color6:      #bdcfe5  | LightCyan3 
+! *.color14:     #bdcfe5  | LightCyan3 
+! *.color7:      #dbded8  | Grey85 
+! *.color15:     #e4d5c7  | Grey84 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Adventure: Adventure
+! --------------------------------------------------
+! Generating Adventure .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270.aboutPopup*icon.foreground          : Grey100
+x3270.keypadForeground                    : Grey100
+x3270*menuBarContainer.foreground         : Grey100
+x3270*fileMenuButton*foreground           : Grey100
+x3270*optionsMenuButton*foreground        : Grey100
+x3270*connectMenuButton*foreground        : Grey100
+x3270*reconnectButton*foreground          : Grey100
+x3270*macrosMenuButton*foreground         : Grey100
+x3270*keypadButton*foreground             : Grey100
+x3270*fileMenu*foreground                 : Grey100
+x3270*exitMenu*foreground                 : Grey100
+x3270*optionsMenu*foreground              : Grey100
+x3270*hostMenu*foreground                 : Grey100
+x3270*reconnect*foreground                : Grey100
+x3270*macrosMenu*foreground               : Grey100
+x3270*togglesMenu*foreground              : Grey100
+x3270*fontsMenu*foreground                : Grey100
+x3270*modelsMenu*foreground               : Grey100
+x3270*colorsMenu*foreground               : Grey100
+x3270*charsetMenu*foreground              : Grey100
+x3270*dialog*value*foreground             : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*confirm2Button.foreground    : Grey100
+3270*dialog*cancelButton.foreground       : Grey100
+x3270.ftProgressPopup*filename.foreground : Grey100
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed
+x3270*dialog*cancelButton.foreground      : IndianRed
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey0
+x3270*menuBarContainer.background         : Grey0
+x3270*fileMenuButton*background           : Grey0
+x3270*optionsMenuButton*background        : Grey0
+x3270*connectMenuButton*background        : Grey0
+x3270*reconnectButton*background          : Grey0
+x3270*macrosMenuButton*background         : Grey0
+x3270*keypadButton*background             : Grey0
+x3270*fileMenu*background                 : Grey0
+x3270*exitMenu*background                 : Grey0
+x3270*optionsMenu*background              : Grey0
+x3270*hostMenu*background                 : Grey0
+x3270*reconnect*background                : Grey0
+x3270*macrosMenu*background               : Grey0
+x3270*togglesMenu*background              : Grey0
+x3270*fontsMenu*background                : Grey0
+x3270*modelsMenu*background               : Grey0
+x3270*colorsMenu*background               : Grey0
+x3270*charsetMenu*background              : Grey0
+x3270*dialog*value*background             : Grey0
+x3270*dialog*background                   : Grey0
+x3270*dialog*confirmButton.background     : Grey0
+x3270*dialog*confirm2Button.background    : Grey0
+3270*dialog*cancelButton.background       : Grey0
+x3270.ftProgressPopup*filename.background : Grey0
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey100
+x3270*macrosMenuButton*borderColor        : Grey100
+x3270*fileMenu.borderColor                : Grey100
+x3270*exitMenu.borderColor                : Grey100
+x3270*optionsMenu.borderColor             : Grey100
+x3270*hostMenu.borderColor                : Grey100
+x3270*macrosMenu.borderColor              : Grey100
+x3270*togglesMenu.borderColor             : Grey100
+x3270*fontsMenu.borderColor               : Grey100
+x3270*modelsMenu.borderColor              : Grey100
+x3270*colorsMenu.borderColor              : Grey100
+x3270*charsetMenu.borderColor             : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirm2Button.borderColor          : Grey100
+x3270*cancelButton.borderColor            : Grey100
+x3270.ftProgressPopup*filename.borderColor: Grey100
+x3270*fileMenuButton*borderColor          : Grey0
+x3270*optionsMenuButton*borderColor       : Grey0
+x3270*connectMenuButton*borderColor       : Grey0
+x3270*menuBarContainer.borderColor        : Grey0
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey100
+x3270*value.foreground                    : Grey100
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Adventure
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Adventure: \
+   Grey0 SkyBlue1 IndianRed DarkGoldenrod \
+   Yellow4 LightCyan3 SandyBrown Grey100 \
+   Grey0 SteelBlue SandyBrown LightGoldenrod2 \
+   Chartreuse3 LightCyan3 Grey37 Grey85 \
+   white Grey0 Grey37 4 \
+   2 1 15 

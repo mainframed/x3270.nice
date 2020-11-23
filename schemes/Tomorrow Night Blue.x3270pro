@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Tomorrow Night Blue'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #ffffff  | Grey100 
+! *.background:  #002451  | NavyBlue 
+! *.color0:      #000000  | Grey0 
+! *.color8:      #000000  | Grey0 
+! *.color1:      #ff9da4  | LightPink1 
+! *.color9:      #ff9da4  | LightPink1 
+! *.color2:      #d1f1a9  | DarkSeaGreen1 
+! *.color10:     #d1f1a9  | DarkSeaGreen1 
+! *.color3:      #ffeead  | Wheat1 
+! *.color11:     #ffeead  | Wheat1 
+! *.color4:      #bbdaff  | LightSkyBlue1 
+! *.color12:     #bbdaff  | LightSkyBlue1 
+! *.color5:      #ebbbff  | Plum2 
+! *.color13:     #ebbbff  | Plum2 
+! *.color6:      #99ffff  | DarkSlateGray1 
+! *.color14:     #99ffff  | DarkSlateGray1 
+! *.color7:      #ffffff  | Grey100 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Tomorrow Night Blue: TomorrowNightBlue
+! --------------------------------------------------
+! Generating Tomorrow Night Blue .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270.aboutPopup*icon.foreground          : Grey100
+x3270.keypadForeground                    : Grey100
+x3270*menuBarContainer.foreground         : Grey100
+x3270*fileMenuButton*foreground           : Grey100
+x3270*optionsMenuButton*foreground        : Grey100
+x3270*connectMenuButton*foreground        : Grey100
+x3270*reconnectButton*foreground          : Grey100
+x3270*macrosMenuButton*foreground         : Grey100
+x3270*keypadButton*foreground             : Grey100
+x3270*fileMenu*foreground                 : Grey100
+x3270*exitMenu*foreground                 : Grey100
+x3270*optionsMenu*foreground              : Grey100
+x3270*hostMenu*foreground                 : Grey100
+x3270*reconnect*foreground                : Grey100
+x3270*macrosMenu*foreground               : Grey100
+x3270*togglesMenu*foreground              : Grey100
+x3270*fontsMenu*foreground                : Grey100
+x3270*modelsMenu*foreground               : Grey100
+x3270*colorsMenu*foreground               : Grey100
+x3270*charsetMenu*foreground              : Grey100
+x3270*dialog*value*foreground             : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*confirm2Button.foreground    : Grey100
+3270*dialog*cancelButton.foreground       : Grey100
+x3270.ftProgressPopup*filename.foreground : Grey100
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : LightPink1
+x3270*dialog*cancelButton.foreground      : LightPink1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : NavyBlue
+x3270*menuBarContainer.background         : NavyBlue
+x3270*fileMenuButton*background           : NavyBlue
+x3270*optionsMenuButton*background        : NavyBlue
+x3270*connectMenuButton*background        : NavyBlue
+x3270*reconnectButton*background          : NavyBlue
+x3270*macrosMenuButton*background         : NavyBlue
+x3270*keypadButton*background             : NavyBlue
+x3270*fileMenu*background                 : NavyBlue
+x3270*exitMenu*background                 : NavyBlue
+x3270*optionsMenu*background              : NavyBlue
+x3270*hostMenu*background                 : NavyBlue
+x3270*reconnect*background                : NavyBlue
+x3270*macrosMenu*background               : NavyBlue
+x3270*togglesMenu*background              : NavyBlue
+x3270*fontsMenu*background                : NavyBlue
+x3270*modelsMenu*background               : NavyBlue
+x3270*colorsMenu*background               : NavyBlue
+x3270*charsetMenu*background              : NavyBlue
+x3270*dialog*value*background             : NavyBlue
+x3270*dialog*background                   : NavyBlue
+x3270*dialog*confirmButton.background     : NavyBlue
+x3270*dialog*confirm2Button.background    : NavyBlue
+3270*dialog*cancelButton.background       : NavyBlue
+x3270.ftProgressPopup*filename.background : NavyBlue
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey100
+x3270*macrosMenuButton*borderColor        : Grey100
+x3270*fileMenu.borderColor                : Grey100
+x3270*exitMenu.borderColor                : Grey100
+x3270*optionsMenu.borderColor             : Grey100
+x3270*hostMenu.borderColor                : Grey100
+x3270*macrosMenu.borderColor              : Grey100
+x3270*togglesMenu.borderColor             : Grey100
+x3270*fontsMenu.borderColor               : Grey100
+x3270*modelsMenu.borderColor              : Grey100
+x3270*colorsMenu.borderColor              : Grey100
+x3270*charsetMenu.borderColor             : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirm2Button.borderColor          : Grey100
+x3270*cancelButton.borderColor            : Grey100
+x3270.ftProgressPopup*filename.borderColor: Grey100
+x3270*fileMenuButton*borderColor          : NavyBlue
+x3270*optionsMenuButton*borderColor       : NavyBlue
+x3270*connectMenuButton*borderColor       : NavyBlue
+x3270*menuBarContainer.borderColor        : NavyBlue
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey100
+x3270*value.foreground                    : Grey100
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: TomorrowNightBlue
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.TomorrowNightBlue: \
+   Grey0 LightSkyBlue1 LightPink1 Plum2 \
+   DarkSeaGreen1 DarkSlateGray1 Wheat1 Grey100 \
+   Grey0 LightSkyBlue1 Wheat1 Plum2 \
+   DarkSeaGreen1 DarkSlateGray1 Grey0 Grey100 \
+   white NavyBlue Grey0 4 \
+   2 1 15 

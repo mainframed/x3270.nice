@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Ciapre'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #aea47a  | NavajoWhite3 
+! *.background:  #191c27  | Grey11 
+! *.color0:      #181818  | Grey11 
+! *.color8:      #555555  | Grey35 
+! *.color1:      #810009  | DarkRed 
+! *.color9:      #ac3835  | IndianRed 
+! *.color2:      #48513b  | Grey27 
+! *.color10:     #a6a75d  | DarkKhaki 
+! *.color3:      #cc8b3f  | LightSalmon3 
+! *.color11:     #dcdf7c  | LightGoldenrod2 
+! *.color4:      #576d8c  | MediumPurple4 
+! *.color12:     #3097c6  | SteelBlue3 
+! *.color5:      #724d7c  | MediumPurple4 
+! *.color13:     #d33061  | IndianRed 
+! *.color6:      #5c4f4b  | Grey30 
+! *.color14:     #f3dbb2  | NavajoWhite1 
+! *.color7:      #aea47f  | NavajoWhite3 
+! *.color15:     #f4f4f4  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Ciapre: Ciapre
+! --------------------------------------------------
+! Generating Ciapre .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : NavajoWhite3
+x3270*dialog*foreground                   : NavajoWhite3
+x3270.aboutPopup*icon.foreground          : NavajoWhite3
+x3270.keypadForeground                    : NavajoWhite3
+x3270*menuBarContainer.foreground         : NavajoWhite3
+x3270*fileMenuButton*foreground           : NavajoWhite3
+x3270*optionsMenuButton*foreground        : NavajoWhite3
+x3270*connectMenuButton*foreground        : NavajoWhite3
+x3270*reconnectButton*foreground          : NavajoWhite3
+x3270*macrosMenuButton*foreground         : NavajoWhite3
+x3270*keypadButton*foreground             : NavajoWhite3
+x3270*fileMenu*foreground                 : NavajoWhite3
+x3270*exitMenu*foreground                 : NavajoWhite3
+x3270*optionsMenu*foreground              : NavajoWhite3
+x3270*hostMenu*foreground                 : NavajoWhite3
+x3270*reconnect*foreground                : NavajoWhite3
+x3270*macrosMenu*foreground               : NavajoWhite3
+x3270*togglesMenu*foreground              : NavajoWhite3
+x3270*fontsMenu*foreground                : NavajoWhite3
+x3270*modelsMenu*foreground               : NavajoWhite3
+x3270*colorsMenu*foreground               : NavajoWhite3
+x3270*charsetMenu*foreground              : NavajoWhite3
+x3270*dialog*value*foreground             : NavajoWhite3
+x3270*dialog*foreground                   : NavajoWhite3
+x3270*dialog*confirmButton.foreground     : NavajoWhite3
+x3270*dialog*confirm2Button.foreground    : NavajoWhite3
+3270*dialog*cancelButton.foreground       : NavajoWhite3
+x3270.ftProgressPopup*filename.foreground : NavajoWhite3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed
+x3270*dialog*cancelButton.foreground      : IndianRed
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : NavajoWhite3
+x3270*macrosMenuButton*borderColor        : NavajoWhite3
+x3270*fileMenu.borderColor                : NavajoWhite3
+x3270*exitMenu.borderColor                : NavajoWhite3
+x3270*optionsMenu.borderColor             : NavajoWhite3
+x3270*hostMenu.borderColor                : NavajoWhite3
+x3270*macrosMenu.borderColor              : NavajoWhite3
+x3270*togglesMenu.borderColor             : NavajoWhite3
+x3270*fontsMenu.borderColor               : NavajoWhite3
+x3270*modelsMenu.borderColor              : NavajoWhite3
+x3270*colorsMenu.borderColor              : NavajoWhite3
+x3270*charsetMenu.borderColor             : NavajoWhite3
+x3270*confirmButton.borderColor           : NavajoWhite3
+x3270*confirmButton.borderColor           : NavajoWhite3
+x3270*confirm2Button.borderColor          : NavajoWhite3
+x3270*cancelButton.borderColor            : NavajoWhite3
+x3270.ftProgressPopup*filename.borderColor: NavajoWhite3
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : NavajoWhite3
+x3270*value.foreground                    : NavajoWhite3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Ciapre
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Ciapre: \
+   Grey11 SteelBlue3 IndianRed IndianRed \
+   DarkKhaki NavajoWhite1 LightGoldenrod2 NavajoWhite3 \
+   Grey11 MediumPurple4 LightSalmon3 MediumPurple4 \
+   Grey27 Grey30 Grey35 NavajoWhite3 \
+   white Grey11 Grey35 4 \
+   2 1 15 

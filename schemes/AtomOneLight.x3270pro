@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'AtomOneLight'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #2a2c33  | Grey19 
+! *.background:  #f9f9f9  | Grey100 
+! *.color0:      #000000  | Grey0 
+! *.color8:      #000000  | Grey0 
+! *.color1:      #de3e35  | IndianRed 
+! *.color9:      #de3e35  | IndianRed 
+! *.color2:      #3f953a  | DarkSeaGreen4 
+! *.color10:     #3f953a  | DarkSeaGreen4 
+! *.color3:      #d2b67c  | Tan 
+! *.color11:     #d2b67c  | Tan 
+! *.color4:      #2f5af3  | DodgerBlue2 
+! *.color12:     #2f5af3  | DodgerBlue2 
+! *.color5:      #950095  | DarkMagenta 
+! *.color13:     #a00095  | MediumVioletRed 
+! *.color6:      #3f953a  | DarkSeaGreen4 
+! *.color14:     #3f953a  | DarkSeaGreen4 
+! *.color7:      #bbbbbb  | Grey74 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  AtomOneLight: AtomOneLight
+! --------------------------------------------------
+! Generating AtomOneLight .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey19
+x3270*dialog*foreground                   : Grey19
+x3270.aboutPopup*icon.foreground          : Grey19
+x3270.keypadForeground                    : Grey19
+x3270*menuBarContainer.foreground         : Grey19
+x3270*fileMenuButton*foreground           : Grey19
+x3270*optionsMenuButton*foreground        : Grey19
+x3270*connectMenuButton*foreground        : Grey19
+x3270*reconnectButton*foreground          : Grey19
+x3270*macrosMenuButton*foreground         : Grey19
+x3270*keypadButton*foreground             : Grey19
+x3270*fileMenu*foreground                 : Grey19
+x3270*exitMenu*foreground                 : Grey19
+x3270*optionsMenu*foreground              : Grey19
+x3270*hostMenu*foreground                 : Grey19
+x3270*reconnect*foreground                : Grey19
+x3270*macrosMenu*foreground               : Grey19
+x3270*togglesMenu*foreground              : Grey19
+x3270*fontsMenu*foreground                : Grey19
+x3270*modelsMenu*foreground               : Grey19
+x3270*colorsMenu*foreground               : Grey19
+x3270*charsetMenu*foreground              : Grey19
+x3270*dialog*value*foreground             : Grey19
+x3270*dialog*foreground                   : Grey19
+x3270*dialog*confirmButton.foreground     : Grey19
+x3270*dialog*confirm2Button.foreground    : Grey19
+3270*dialog*cancelButton.foreground       : Grey19
+x3270.ftProgressPopup*filename.foreground : Grey19
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed
+x3270*dialog*cancelButton.foreground      : IndianRed
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey100
+x3270*menuBarContainer.background         : Grey100
+x3270*fileMenuButton*background           : Grey100
+x3270*optionsMenuButton*background        : Grey100
+x3270*connectMenuButton*background        : Grey100
+x3270*reconnectButton*background          : Grey100
+x3270*macrosMenuButton*background         : Grey100
+x3270*keypadButton*background             : Grey100
+x3270*fileMenu*background                 : Grey100
+x3270*exitMenu*background                 : Grey100
+x3270*optionsMenu*background              : Grey100
+x3270*hostMenu*background                 : Grey100
+x3270*reconnect*background                : Grey100
+x3270*macrosMenu*background               : Grey100
+x3270*togglesMenu*background              : Grey100
+x3270*fontsMenu*background                : Grey100
+x3270*modelsMenu*background               : Grey100
+x3270*colorsMenu*background               : Grey100
+x3270*charsetMenu*background              : Grey100
+x3270*dialog*value*background             : Grey100
+x3270*dialog*background                   : Grey100
+x3270*dialog*confirmButton.background     : Grey100
+x3270*dialog*confirm2Button.background    : Grey100
+3270*dialog*cancelButton.background       : Grey100
+x3270.ftProgressPopup*filename.background : Grey100
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey19
+x3270*macrosMenuButton*borderColor        : Grey19
+x3270*fileMenu.borderColor                : Grey19
+x3270*exitMenu.borderColor                : Grey19
+x3270*optionsMenu.borderColor             : Grey19
+x3270*hostMenu.borderColor                : Grey19
+x3270*macrosMenu.borderColor              : Grey19
+x3270*togglesMenu.borderColor             : Grey19
+x3270*fontsMenu.borderColor               : Grey19
+x3270*modelsMenu.borderColor              : Grey19
+x3270*colorsMenu.borderColor              : Grey19
+x3270*charsetMenu.borderColor             : Grey19
+x3270*confirmButton.borderColor           : Grey19
+x3270*confirmButton.borderColor           : Grey19
+x3270*confirm2Button.borderColor          : Grey19
+x3270*cancelButton.borderColor            : Grey19
+x3270.ftProgressPopup*filename.borderColor: Grey19
+x3270*fileMenuButton*borderColor          : Grey100
+x3270*optionsMenuButton*borderColor       : Grey100
+x3270*connectMenuButton*borderColor       : Grey100
+x3270*menuBarContainer.borderColor        : Grey100
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey19
+x3270*value.foreground                    : Grey19
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: AtomOneLight
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.AtomOneLight: \
+   Grey0 DodgerBlue2 IndianRed MediumVioletRed \
+   DarkSeaGreen4 DarkSeaGreen4 Tan Grey19 \
+   Grey0 DodgerBlue2 Tan DarkMagenta \
+   DarkSeaGreen4 DarkSeaGreen4 Grey0 Grey74 \
+   white Grey100 Grey0 4 \
+   2 1 15 

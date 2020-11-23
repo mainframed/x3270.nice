@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Batman'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #6f6f6f  | Grey42 
+! *.background:  #1b1d1e  | Grey11 
+! *.color0:      #1b1d1e  | Grey11 
+! *.color8:      #505354  | Grey30 
+! *.color1:      #e6dc44  | Khaki3 
+! *.color9:      #fff78e  | Khaki1 
+! *.color2:      #c8be46  | LightGoldenrod3 
+! *.color10:     #fff27d  | Khaki1 
+! *.color3:      #f4fd22  | Yellow1 
+! *.color11:     #feed6c  | LightGoldenrod1 
+! *.color4:      #737174  | Grey46 
+! *.color12:     #919495  | Grey58 
+! *.color5:      #747271  | Grey46 
+! *.color13:     #9a9a9d  | Grey62 
+! *.color6:      #62605f  | Grey37 
+! *.color14:     #a3a3a6  | Grey66 
+! *.color7:      #c6c5bf  | Grey78 
+! *.color15:     #dadbd6  | Grey85 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Batman: Batman
+! --------------------------------------------------
+! Generating Batman .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey42
+x3270*dialog*foreground                   : Grey42
+x3270.aboutPopup*icon.foreground          : Grey42
+x3270.keypadForeground                    : Grey42
+x3270*menuBarContainer.foreground         : Grey42
+x3270*fileMenuButton*foreground           : Grey42
+x3270*optionsMenuButton*foreground        : Grey42
+x3270*connectMenuButton*foreground        : Grey42
+x3270*reconnectButton*foreground          : Grey42
+x3270*macrosMenuButton*foreground         : Grey42
+x3270*keypadButton*foreground             : Grey42
+x3270*fileMenu*foreground                 : Grey42
+x3270*exitMenu*foreground                 : Grey42
+x3270*optionsMenu*foreground              : Grey42
+x3270*hostMenu*foreground                 : Grey42
+x3270*reconnect*foreground                : Grey42
+x3270*macrosMenu*foreground               : Grey42
+x3270*togglesMenu*foreground              : Grey42
+x3270*fontsMenu*foreground                : Grey42
+x3270*modelsMenu*foreground               : Grey42
+x3270*colorsMenu*foreground               : Grey42
+x3270*charsetMenu*foreground              : Grey42
+x3270*dialog*value*foreground             : Grey42
+x3270*dialog*foreground                   : Grey42
+x3270*dialog*confirmButton.foreground     : Grey42
+x3270*dialog*confirm2Button.foreground    : Grey42
+3270*dialog*cancelButton.foreground       : Grey42
+x3270.ftProgressPopup*filename.foreground : Grey42
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Khaki1
+x3270*dialog*cancelButton.foreground      : Khaki1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey42
+x3270*macrosMenuButton*borderColor        : Grey42
+x3270*fileMenu.borderColor                : Grey42
+x3270*exitMenu.borderColor                : Grey42
+x3270*optionsMenu.borderColor             : Grey42
+x3270*hostMenu.borderColor                : Grey42
+x3270*macrosMenu.borderColor              : Grey42
+x3270*togglesMenu.borderColor             : Grey42
+x3270*fontsMenu.borderColor               : Grey42
+x3270*modelsMenu.borderColor              : Grey42
+x3270*colorsMenu.borderColor              : Grey42
+x3270*charsetMenu.borderColor             : Grey42
+x3270*confirmButton.borderColor           : Grey42
+x3270*confirmButton.borderColor           : Grey42
+x3270*confirm2Button.borderColor          : Grey42
+x3270*cancelButton.borderColor            : Grey42
+x3270.ftProgressPopup*filename.borderColor: Grey42
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey42
+x3270*value.foreground                    : Grey42
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Batman
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Batman: \
+   Grey11 Grey58 Khaki1 Grey62 \
+   Khaki1 Grey66 LightGoldenrod1 Grey42 \
+   Grey11 Grey46 Yellow1 Grey46 \
+   LightGoldenrod3 Grey37 Grey30 Grey78 \
+   white Grey11 Grey30 4 \
+   2 1 15 

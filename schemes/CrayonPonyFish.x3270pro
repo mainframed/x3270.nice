@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'CrayonPonyFish'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #68525a  | Grey37 
+! *.background:  #150707  | Grey3 
+! *.color0:      #2b1b1d  | Grey11 
+! *.color8:      #3d2b2e  | Grey19 
+! *.color1:      #91002b  | DarkRed 
+! *.color9:      #c5255d  | DeepPink3 
+! *.color2:      #579524  | Chartreuse4 
+! *.color10:     #8dff57  | LightGreen 
+! *.color3:      #ab311b  | DarkOrange3 
+! *.color11:     #c8381d  | DarkOrange3 
+! *.color4:      #8c87b0  | LightSlateGrey 
+! *.color12:     #cfc9ff  | LightSteelBlue1 
+! *.color5:      #692f50  | Grey30 
+! *.color13:     #fc6cba  | HotPink 
+! *.color6:      #e8a866  | LightGoldenrod3 
+! *.color14:     #ffceaf  | NavajoWhite1 
+! *.color7:      #68525a  | Grey37 
+! *.color15:     #b0949d  | Grey62 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  CrayonPonyFish: CrayonPonyFish
+! --------------------------------------------------
+! Generating CrayonPonyFish .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey37
+x3270*dialog*foreground                   : Grey37
+x3270.aboutPopup*icon.foreground          : Grey37
+x3270.keypadForeground                    : Grey37
+x3270*menuBarContainer.foreground         : Grey37
+x3270*fileMenuButton*foreground           : Grey37
+x3270*optionsMenuButton*foreground        : Grey37
+x3270*connectMenuButton*foreground        : Grey37
+x3270*reconnectButton*foreground          : Grey37
+x3270*macrosMenuButton*foreground         : Grey37
+x3270*keypadButton*foreground             : Grey37
+x3270*fileMenu*foreground                 : Grey37
+x3270*exitMenu*foreground                 : Grey37
+x3270*optionsMenu*foreground              : Grey37
+x3270*hostMenu*foreground                 : Grey37
+x3270*reconnect*foreground                : Grey37
+x3270*macrosMenu*foreground               : Grey37
+x3270*togglesMenu*foreground              : Grey37
+x3270*fontsMenu*foreground                : Grey37
+x3270*modelsMenu*foreground               : Grey37
+x3270*colorsMenu*foreground               : Grey37
+x3270*charsetMenu*foreground              : Grey37
+x3270*dialog*value*foreground             : Grey37
+x3270*dialog*foreground                   : Grey37
+x3270*dialog*confirmButton.foreground     : Grey37
+x3270*dialog*confirm2Button.foreground    : Grey37
+3270*dialog*cancelButton.foreground       : Grey37
+x3270.ftProgressPopup*filename.foreground : Grey37
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DeepPink3
+x3270*dialog*cancelButton.foreground      : DeepPink3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey3
+x3270*menuBarContainer.background         : Grey3
+x3270*fileMenuButton*background           : Grey3
+x3270*optionsMenuButton*background        : Grey3
+x3270*connectMenuButton*background        : Grey3
+x3270*reconnectButton*background          : Grey3
+x3270*macrosMenuButton*background         : Grey3
+x3270*keypadButton*background             : Grey3
+x3270*fileMenu*background                 : Grey3
+x3270*exitMenu*background                 : Grey3
+x3270*optionsMenu*background              : Grey3
+x3270*hostMenu*background                 : Grey3
+x3270*reconnect*background                : Grey3
+x3270*macrosMenu*background               : Grey3
+x3270*togglesMenu*background              : Grey3
+x3270*fontsMenu*background                : Grey3
+x3270*modelsMenu*background               : Grey3
+x3270*colorsMenu*background               : Grey3
+x3270*charsetMenu*background              : Grey3
+x3270*dialog*value*background             : Grey3
+x3270*dialog*background                   : Grey3
+x3270*dialog*confirmButton.background     : Grey3
+x3270*dialog*confirm2Button.background    : Grey3
+3270*dialog*cancelButton.background       : Grey3
+x3270.ftProgressPopup*filename.background : Grey3
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey37
+x3270*macrosMenuButton*borderColor        : Grey37
+x3270*fileMenu.borderColor                : Grey37
+x3270*exitMenu.borderColor                : Grey37
+x3270*optionsMenu.borderColor             : Grey37
+x3270*hostMenu.borderColor                : Grey37
+x3270*macrosMenu.borderColor              : Grey37
+x3270*togglesMenu.borderColor             : Grey37
+x3270*fontsMenu.borderColor               : Grey37
+x3270*modelsMenu.borderColor              : Grey37
+x3270*colorsMenu.borderColor              : Grey37
+x3270*charsetMenu.borderColor             : Grey37
+x3270*confirmButton.borderColor           : Grey37
+x3270*confirmButton.borderColor           : Grey37
+x3270*confirm2Button.borderColor          : Grey37
+x3270*cancelButton.borderColor            : Grey37
+x3270.ftProgressPopup*filename.borderColor: Grey37
+x3270*fileMenuButton*borderColor          : Grey3
+x3270*optionsMenuButton*borderColor       : Grey3
+x3270*connectMenuButton*borderColor       : Grey3
+x3270*menuBarContainer.borderColor        : Grey3
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey37
+x3270*value.foreground                    : Grey37
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: CrayonPonyFish
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.CrayonPonyFish: \
+   Grey11 LightSteelBlue1 DeepPink3 HotPink \
+   LightGreen NavajoWhite1 DarkOrange3 Grey37 \
+   Grey11 LightSlateGrey DarkOrange3 Grey30 \
+   Chartreuse4 LightGoldenrod3 Grey19 Grey37 \
+   white Grey3 Grey19 4 \
+   2 1 15 

@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Blue Matrix'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #00a2ff  | DeepSkyBlue1 
+! *.background:  #101116  | Grey7 
+! *.color0:      #101116  | Grey7 
+! *.color8:      #686868  | Grey42 
+! *.color1:      #ff5680  | IndianRed1 
+! *.color9:      #ff6e67  | IndianRed1 
+! *.color2:      #00ff9c  | MediumSpringGreen 
+! *.color10:     #5ffa68  | SeaGreen2 
+! *.color3:      #fffc58  | LightGoldenrod1 
+! *.color11:     #fffc67  | LightGoldenrod1 
+! *.color4:      #00b0ff  | DeepSkyBlue1 
+! *.color12:     #6871ff  | RoyalBlue1 
+! *.color5:      #d57bff  | Violet 
+! *.color13:     #d682ec  | Violet 
+! *.color6:      #76c1ff  | SkyBlue2 
+! *.color14:     #60fdff  | DarkSlateGray2 
+! *.color7:      #c7c7c7  | Grey78 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Blue Matrix: BlueMatrix
+! --------------------------------------------------
+! Generating Blue Matrix .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : DeepSkyBlue1
+x3270*dialog*foreground                   : DeepSkyBlue1
+x3270.aboutPopup*icon.foreground          : DeepSkyBlue1
+x3270.keypadForeground                    : DeepSkyBlue1
+x3270*menuBarContainer.foreground         : DeepSkyBlue1
+x3270*fileMenuButton*foreground           : DeepSkyBlue1
+x3270*optionsMenuButton*foreground        : DeepSkyBlue1
+x3270*connectMenuButton*foreground        : DeepSkyBlue1
+x3270*reconnectButton*foreground          : DeepSkyBlue1
+x3270*macrosMenuButton*foreground         : DeepSkyBlue1
+x3270*keypadButton*foreground             : DeepSkyBlue1
+x3270*fileMenu*foreground                 : DeepSkyBlue1
+x3270*exitMenu*foreground                 : DeepSkyBlue1
+x3270*optionsMenu*foreground              : DeepSkyBlue1
+x3270*hostMenu*foreground                 : DeepSkyBlue1
+x3270*reconnect*foreground                : DeepSkyBlue1
+x3270*macrosMenu*foreground               : DeepSkyBlue1
+x3270*togglesMenu*foreground              : DeepSkyBlue1
+x3270*fontsMenu*foreground                : DeepSkyBlue1
+x3270*modelsMenu*foreground               : DeepSkyBlue1
+x3270*colorsMenu*foreground               : DeepSkyBlue1
+x3270*charsetMenu*foreground              : DeepSkyBlue1
+x3270*dialog*value*foreground             : DeepSkyBlue1
+x3270*dialog*foreground                   : DeepSkyBlue1
+x3270*dialog*confirmButton.foreground     : DeepSkyBlue1
+x3270*dialog*confirm2Button.foreground    : DeepSkyBlue1
+3270*dialog*cancelButton.foreground       : DeepSkyBlue1
+x3270.ftProgressPopup*filename.foreground : DeepSkyBlue1
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed1
+x3270*dialog*cancelButton.foreground      : IndianRed1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : DeepSkyBlue1
+x3270*macrosMenuButton*borderColor        : DeepSkyBlue1
+x3270*fileMenu.borderColor                : DeepSkyBlue1
+x3270*exitMenu.borderColor                : DeepSkyBlue1
+x3270*optionsMenu.borderColor             : DeepSkyBlue1
+x3270*hostMenu.borderColor                : DeepSkyBlue1
+x3270*macrosMenu.borderColor              : DeepSkyBlue1
+x3270*togglesMenu.borderColor             : DeepSkyBlue1
+x3270*fontsMenu.borderColor               : DeepSkyBlue1
+x3270*modelsMenu.borderColor              : DeepSkyBlue1
+x3270*colorsMenu.borderColor              : DeepSkyBlue1
+x3270*charsetMenu.borderColor             : DeepSkyBlue1
+x3270*confirmButton.borderColor           : DeepSkyBlue1
+x3270*confirmButton.borderColor           : DeepSkyBlue1
+x3270*confirm2Button.borderColor          : DeepSkyBlue1
+x3270*cancelButton.borderColor            : DeepSkyBlue1
+x3270.ftProgressPopup*filename.borderColor: DeepSkyBlue1
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : DeepSkyBlue1
+x3270*value.foreground                    : DeepSkyBlue1
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: BlueMatrix
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.BlueMatrix: \
+   Grey7 RoyalBlue1 IndianRed1 Violet \
+   SeaGreen2 DarkSlateGray2 LightGoldenrod1 DeepSkyBlue1 \
+   Grey7 DeepSkyBlue1 LightGoldenrod1 Violet \
+   MediumSpringGreen SkyBlue2 Grey42 Grey78 \
+   white Grey7 Grey42 4 \
+   2 1 15 

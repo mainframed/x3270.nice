@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Tomorrow Night Burns'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #a1b0b8  | Grey69 
+! *.background:  #151515  | Grey7 
+! *.color0:      #252525  | Grey15 
+! *.color8:      #5d6f71  | Grey42 
+! *.color1:      #832e31  | DeepPink4 
+! *.color9:      #832e31  | DeepPink4 
+! *.color2:      #a63c40  | IndianRed 
+! *.color10:     #a63c40  | IndianRed 
+! *.color3:      #d3494e  | IndianRed 
+! *.color11:     #d2494e  | IndianRed 
+! *.color4:      #fc595f  | IndianRed1 
+! *.color12:     #fc595f  | IndianRed1 
+! *.color5:      #df9395  | LightPink3 
+! *.color13:     #df9395  | LightPink3 
+! *.color6:      #ba8586  | RosyBrown 
+! *.color14:     #ba8586  | RosyBrown 
+! *.color7:      #f5f5f5  | Grey93 
+! *.color15:     #f5f5f5  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Tomorrow Night Burns: TomorrowNightBurns
+! --------------------------------------------------
+! Generating Tomorrow Night Burns .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey69
+x3270*dialog*foreground                   : Grey69
+x3270.aboutPopup*icon.foreground          : Grey69
+x3270.keypadForeground                    : Grey69
+x3270*menuBarContainer.foreground         : Grey69
+x3270*fileMenuButton*foreground           : Grey69
+x3270*optionsMenuButton*foreground        : Grey69
+x3270*connectMenuButton*foreground        : Grey69
+x3270*reconnectButton*foreground          : Grey69
+x3270*macrosMenuButton*foreground         : Grey69
+x3270*keypadButton*foreground             : Grey69
+x3270*fileMenu*foreground                 : Grey69
+x3270*exitMenu*foreground                 : Grey69
+x3270*optionsMenu*foreground              : Grey69
+x3270*hostMenu*foreground                 : Grey69
+x3270*reconnect*foreground                : Grey69
+x3270*macrosMenu*foreground               : Grey69
+x3270*togglesMenu*foreground              : Grey69
+x3270*fontsMenu*foreground                : Grey69
+x3270*modelsMenu*foreground               : Grey69
+x3270*colorsMenu*foreground               : Grey69
+x3270*charsetMenu*foreground              : Grey69
+x3270*dialog*value*foreground             : Grey69
+x3270*dialog*foreground                   : Grey69
+x3270*dialog*confirmButton.foreground     : Grey69
+x3270*dialog*confirm2Button.foreground    : Grey69
+3270*dialog*cancelButton.foreground       : Grey69
+x3270.ftProgressPopup*filename.foreground : Grey69
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DeepPink4
+x3270*dialog*cancelButton.foreground      : DeepPink4
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey69
+x3270*macrosMenuButton*borderColor        : Grey69
+x3270*fileMenu.borderColor                : Grey69
+x3270*exitMenu.borderColor                : Grey69
+x3270*optionsMenu.borderColor             : Grey69
+x3270*hostMenu.borderColor                : Grey69
+x3270*macrosMenu.borderColor              : Grey69
+x3270*togglesMenu.borderColor             : Grey69
+x3270*fontsMenu.borderColor               : Grey69
+x3270*modelsMenu.borderColor              : Grey69
+x3270*colorsMenu.borderColor              : Grey69
+x3270*charsetMenu.borderColor             : Grey69
+x3270*confirmButton.borderColor           : Grey69
+x3270*confirmButton.borderColor           : Grey69
+x3270*confirm2Button.borderColor          : Grey69
+x3270*cancelButton.borderColor            : Grey69
+x3270.ftProgressPopup*filename.borderColor: Grey69
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey69
+x3270*value.foreground                    : Grey69
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: TomorrowNightBurns
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.TomorrowNightBurns: \
+   Grey15 IndianRed1 DeepPink4 LightPink3 \
+   IndianRed RosyBrown IndianRed Grey69 \
+   Grey15 IndianRed1 IndianRed LightPink3 \
+   IndianRed RosyBrown Grey42 Grey93 \
+   white Grey7 Grey42 4 \
+   2 1 15 

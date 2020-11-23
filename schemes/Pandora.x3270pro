@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Pandora'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #e1e1e1  | Grey89 
+! *.background:  #141e43  | Grey15 
+! *.color0:      #000000  | Grey0 
+! *.color8:      #3f5648  | Grey30 
+! *.color1:      #ff4242  | IndianRed1 
+! *.color9:      #ff3242  | IndianRed1 
+! *.color2:      #74af68  | DarkOliveGreen3 
+! *.color10:     #74cd68  | DarkOliveGreen3 
+! *.color3:      #ffad29  | Orange1 
+! *.color11:     #ffb929  | Orange1 
+! *.color4:      #338f86  | PaleTurquoise4 
+! *.color12:     #23d7d7  | DarkTurquoise 
+! *.color5:      #9414e6  | DarkViolet 
+! *.color13:     #ff37ff  | MediumOrchid1 
+! *.color6:      #23d7d7  | DarkTurquoise 
+! *.color14:     #00ede1  | Cyan2 
+! *.color7:      #e2e2e2  | Grey89 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Pandora: Pandora
+! --------------------------------------------------
+! Generating Pandora .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey89
+x3270*dialog*foreground                   : Grey89
+x3270.aboutPopup*icon.foreground          : Grey89
+x3270.keypadForeground                    : Grey89
+x3270*menuBarContainer.foreground         : Grey89
+x3270*fileMenuButton*foreground           : Grey89
+x3270*optionsMenuButton*foreground        : Grey89
+x3270*connectMenuButton*foreground        : Grey89
+x3270*reconnectButton*foreground          : Grey89
+x3270*macrosMenuButton*foreground         : Grey89
+x3270*keypadButton*foreground             : Grey89
+x3270*fileMenu*foreground                 : Grey89
+x3270*exitMenu*foreground                 : Grey89
+x3270*optionsMenu*foreground              : Grey89
+x3270*hostMenu*foreground                 : Grey89
+x3270*reconnect*foreground                : Grey89
+x3270*macrosMenu*foreground               : Grey89
+x3270*togglesMenu*foreground              : Grey89
+x3270*fontsMenu*foreground                : Grey89
+x3270*modelsMenu*foreground               : Grey89
+x3270*colorsMenu*foreground               : Grey89
+x3270*charsetMenu*foreground              : Grey89
+x3270*dialog*value*foreground             : Grey89
+x3270*dialog*foreground                   : Grey89
+x3270*dialog*confirmButton.foreground     : Grey89
+x3270*dialog*confirm2Button.foreground    : Grey89
+3270*dialog*cancelButton.foreground       : Grey89
+x3270.ftProgressPopup*filename.foreground : Grey89
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed1
+x3270*dialog*cancelButton.foreground      : IndianRed1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey15
+x3270*menuBarContainer.background         : Grey15
+x3270*fileMenuButton*background           : Grey15
+x3270*optionsMenuButton*background        : Grey15
+x3270*connectMenuButton*background        : Grey15
+x3270*reconnectButton*background          : Grey15
+x3270*macrosMenuButton*background         : Grey15
+x3270*keypadButton*background             : Grey15
+x3270*fileMenu*background                 : Grey15
+x3270*exitMenu*background                 : Grey15
+x3270*optionsMenu*background              : Grey15
+x3270*hostMenu*background                 : Grey15
+x3270*reconnect*background                : Grey15
+x3270*macrosMenu*background               : Grey15
+x3270*togglesMenu*background              : Grey15
+x3270*fontsMenu*background                : Grey15
+x3270*modelsMenu*background               : Grey15
+x3270*colorsMenu*background               : Grey15
+x3270*charsetMenu*background              : Grey15
+x3270*dialog*value*background             : Grey15
+x3270*dialog*background                   : Grey15
+x3270*dialog*confirmButton.background     : Grey15
+x3270*dialog*confirm2Button.background    : Grey15
+3270*dialog*cancelButton.background       : Grey15
+x3270.ftProgressPopup*filename.background : Grey15
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey89
+x3270*macrosMenuButton*borderColor        : Grey89
+x3270*fileMenu.borderColor                : Grey89
+x3270*exitMenu.borderColor                : Grey89
+x3270*optionsMenu.borderColor             : Grey89
+x3270*hostMenu.borderColor                : Grey89
+x3270*macrosMenu.borderColor              : Grey89
+x3270*togglesMenu.borderColor             : Grey89
+x3270*fontsMenu.borderColor               : Grey89
+x3270*modelsMenu.borderColor              : Grey89
+x3270*colorsMenu.borderColor              : Grey89
+x3270*charsetMenu.borderColor             : Grey89
+x3270*confirmButton.borderColor           : Grey89
+x3270*confirmButton.borderColor           : Grey89
+x3270*confirm2Button.borderColor          : Grey89
+x3270*cancelButton.borderColor            : Grey89
+x3270.ftProgressPopup*filename.borderColor: Grey89
+x3270*fileMenuButton*borderColor          : Grey15
+x3270*optionsMenuButton*borderColor       : Grey15
+x3270*connectMenuButton*borderColor       : Grey15
+x3270*menuBarContainer.borderColor        : Grey15
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey89
+x3270*value.foreground                    : Grey89
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Pandora
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Pandora: \
+   Grey0 DarkTurquoise IndianRed1 MediumOrchid1 \
+   DarkOliveGreen3 Cyan2 Orange1 Grey89 \
+   Grey0 PaleTurquoise4 Orange1 DarkViolet \
+   DarkOliveGreen3 DarkTurquoise Grey30 Grey89 \
+   white Grey15 Grey30 4 \
+   2 1 15 

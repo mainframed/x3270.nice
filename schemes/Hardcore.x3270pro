@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Hardcore'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #a0a0a0  | Grey62 
+! *.background:  #121212  | Grey7 
+! *.color0:      #1b1d1e  | Grey11 
+! *.color8:      #505354  | Grey30 
+! *.color1:      #f92672  | DeepPink2 
+! *.color9:      #ff669d  | HotPink 
+! *.color2:      #a6e22e  | Yellow3 
+! *.color10:     #beed5f  | DarkOliveGreen2 
+! *.color3:      #fd971f  | DarkOrange 
+! *.color11:     #e6db74  | LightGoldenrod2 
+! *.color4:      #66d9ef  | SteelBlue1 
+! *.color12:     #66d9ef  | SteelBlue1 
+! *.color5:      #9e6ffe  | MediumPurple2 
+! *.color13:     #9e6ffe  | MediumPurple2 
+! *.color6:      #5e7175  | Grey42 
+! *.color14:     #a3babf  | Grey70 
+! *.color7:      #ccccc6  | Grey78 
+! *.color15:     #f8f8f2  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Hardcore: Hardcore
+! --------------------------------------------------
+! Generating Hardcore .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey62
+x3270*dialog*foreground                   : Grey62
+x3270.aboutPopup*icon.foreground          : Grey62
+x3270.keypadForeground                    : Grey62
+x3270*menuBarContainer.foreground         : Grey62
+x3270*fileMenuButton*foreground           : Grey62
+x3270*optionsMenuButton*foreground        : Grey62
+x3270*connectMenuButton*foreground        : Grey62
+x3270*reconnectButton*foreground          : Grey62
+x3270*macrosMenuButton*foreground         : Grey62
+x3270*keypadButton*foreground             : Grey62
+x3270*fileMenu*foreground                 : Grey62
+x3270*exitMenu*foreground                 : Grey62
+x3270*optionsMenu*foreground              : Grey62
+x3270*hostMenu*foreground                 : Grey62
+x3270*reconnect*foreground                : Grey62
+x3270*macrosMenu*foreground               : Grey62
+x3270*togglesMenu*foreground              : Grey62
+x3270*fontsMenu*foreground                : Grey62
+x3270*modelsMenu*foreground               : Grey62
+x3270*colorsMenu*foreground               : Grey62
+x3270*charsetMenu*foreground              : Grey62
+x3270*dialog*value*foreground             : Grey62
+x3270*dialog*foreground                   : Grey62
+x3270*dialog*confirmButton.foreground     : Grey62
+x3270*dialog*confirm2Button.foreground    : Grey62
+3270*dialog*cancelButton.foreground       : Grey62
+x3270.ftProgressPopup*filename.foreground : Grey62
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : HotPink
+x3270*dialog*cancelButton.foreground      : HotPink
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey62
+x3270*macrosMenuButton*borderColor        : Grey62
+x3270*fileMenu.borderColor                : Grey62
+x3270*exitMenu.borderColor                : Grey62
+x3270*optionsMenu.borderColor             : Grey62
+x3270*hostMenu.borderColor                : Grey62
+x3270*macrosMenu.borderColor              : Grey62
+x3270*togglesMenu.borderColor             : Grey62
+x3270*fontsMenu.borderColor               : Grey62
+x3270*modelsMenu.borderColor              : Grey62
+x3270*colorsMenu.borderColor              : Grey62
+x3270*charsetMenu.borderColor             : Grey62
+x3270*confirmButton.borderColor           : Grey62
+x3270*confirmButton.borderColor           : Grey62
+x3270*confirm2Button.borderColor          : Grey62
+x3270*cancelButton.borderColor            : Grey62
+x3270.ftProgressPopup*filename.borderColor: Grey62
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey62
+x3270*value.foreground                    : Grey62
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Hardcore
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Hardcore: \
+   Grey11 SteelBlue1 HotPink MediumPurple2 \
+   DarkOliveGreen2 Grey70 LightGoldenrod2 Grey62 \
+   Grey11 SteelBlue1 DarkOrange MediumPurple2 \
+   Yellow3 Grey42 Grey30 Grey78 \
+   white Grey7 Grey30 4 \
+   2 1 15 

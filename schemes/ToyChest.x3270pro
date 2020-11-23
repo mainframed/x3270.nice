@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'ToyChest'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #31d07b  | SeaGreen3 
+! *.background:  #24364b  | Grey23 
+! *.color0:      #2c3f58  | Grey27 
+! *.color8:      #336889  | MediumPurple4 
+! *.color1:      #be2d26  | Red3 
+! *.color9:      #dd5944  | IndianRed 
+! *.color2:      #1a9172  | SpringGreen4 
+! *.color10:     #31d07b  | SeaGreen3 
+! *.color3:      #db8e27  | Orange3 
+! *.color11:     #e7d84b  | Khaki3 
+! *.color4:      #325d96  | MediumPurple4 
+! *.color12:     #34a6da  | SkyBlue3 
+! *.color5:      #8a5edc  | MediumPurple3 
+! *.color13:     #ae6bdc  | MediumOrchid 
+! *.color6:      #35a08f  | CadetBlue 
+! *.color14:     #42c3ae  | CadetBlue 
+! *.color7:      #23d183  | SpringGreen2 
+! *.color15:     #d5d5d5  | Grey84 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  ToyChest: ToyChest
+! --------------------------------------------------
+! Generating ToyChest .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : SeaGreen3
+x3270*dialog*foreground                   : SeaGreen3
+x3270.aboutPopup*icon.foreground          : SeaGreen3
+x3270.keypadForeground                    : SeaGreen3
+x3270*menuBarContainer.foreground         : SeaGreen3
+x3270*fileMenuButton*foreground           : SeaGreen3
+x3270*optionsMenuButton*foreground        : SeaGreen3
+x3270*connectMenuButton*foreground        : SeaGreen3
+x3270*reconnectButton*foreground          : SeaGreen3
+x3270*macrosMenuButton*foreground         : SeaGreen3
+x3270*keypadButton*foreground             : SeaGreen3
+x3270*fileMenu*foreground                 : SeaGreen3
+x3270*exitMenu*foreground                 : SeaGreen3
+x3270*optionsMenu*foreground              : SeaGreen3
+x3270*hostMenu*foreground                 : SeaGreen3
+x3270*reconnect*foreground                : SeaGreen3
+x3270*macrosMenu*foreground               : SeaGreen3
+x3270*togglesMenu*foreground              : SeaGreen3
+x3270*fontsMenu*foreground                : SeaGreen3
+x3270*modelsMenu*foreground               : SeaGreen3
+x3270*colorsMenu*foreground               : SeaGreen3
+x3270*charsetMenu*foreground              : SeaGreen3
+x3270*dialog*value*foreground             : SeaGreen3
+x3270*dialog*foreground                   : SeaGreen3
+x3270*dialog*confirmButton.foreground     : SeaGreen3
+x3270*dialog*confirm2Button.foreground    : SeaGreen3
+3270*dialog*cancelButton.foreground       : SeaGreen3
+x3270.ftProgressPopup*filename.foreground : SeaGreen3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed
+x3270*dialog*cancelButton.foreground      : IndianRed
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey23
+x3270*menuBarContainer.background         : Grey23
+x3270*fileMenuButton*background           : Grey23
+x3270*optionsMenuButton*background        : Grey23
+x3270*connectMenuButton*background        : Grey23
+x3270*reconnectButton*background          : Grey23
+x3270*macrosMenuButton*background         : Grey23
+x3270*keypadButton*background             : Grey23
+x3270*fileMenu*background                 : Grey23
+x3270*exitMenu*background                 : Grey23
+x3270*optionsMenu*background              : Grey23
+x3270*hostMenu*background                 : Grey23
+x3270*reconnect*background                : Grey23
+x3270*macrosMenu*background               : Grey23
+x3270*togglesMenu*background              : Grey23
+x3270*fontsMenu*background                : Grey23
+x3270*modelsMenu*background               : Grey23
+x3270*colorsMenu*background               : Grey23
+x3270*charsetMenu*background              : Grey23
+x3270*dialog*value*background             : Grey23
+x3270*dialog*background                   : Grey23
+x3270*dialog*confirmButton.background     : Grey23
+x3270*dialog*confirm2Button.background    : Grey23
+3270*dialog*cancelButton.background       : Grey23
+x3270.ftProgressPopup*filename.background : Grey23
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : SeaGreen3
+x3270*macrosMenuButton*borderColor        : SeaGreen3
+x3270*fileMenu.borderColor                : SeaGreen3
+x3270*exitMenu.borderColor                : SeaGreen3
+x3270*optionsMenu.borderColor             : SeaGreen3
+x3270*hostMenu.borderColor                : SeaGreen3
+x3270*macrosMenu.borderColor              : SeaGreen3
+x3270*togglesMenu.borderColor             : SeaGreen3
+x3270*fontsMenu.borderColor               : SeaGreen3
+x3270*modelsMenu.borderColor              : SeaGreen3
+x3270*colorsMenu.borderColor              : SeaGreen3
+x3270*charsetMenu.borderColor             : SeaGreen3
+x3270*confirmButton.borderColor           : SeaGreen3
+x3270*confirmButton.borderColor           : SeaGreen3
+x3270*confirm2Button.borderColor          : SeaGreen3
+x3270*cancelButton.borderColor            : SeaGreen3
+x3270.ftProgressPopup*filename.borderColor: SeaGreen3
+x3270*fileMenuButton*borderColor          : Grey23
+x3270*optionsMenuButton*borderColor       : Grey23
+x3270*connectMenuButton*borderColor       : Grey23
+x3270*menuBarContainer.borderColor        : Grey23
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : SeaGreen3
+x3270*value.foreground                    : SeaGreen3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: ToyChest
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.ToyChest: \
+   Grey27 SkyBlue3 IndianRed MediumOrchid \
+   SeaGreen3 CadetBlue Khaki3 SeaGreen3 \
+   Grey27 MediumPurple4 Orange3 MediumPurple3 \
+   SpringGreen4 CadetBlue MediumPurple4 SpringGreen2 \
+   white Grey23 MediumPurple4 4 \
+   2 1 15 

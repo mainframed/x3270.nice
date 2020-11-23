@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Slate'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #35b1d2  | SkyBlue3 
+! *.background:  #222222  | Grey15 
+! *.color0:      #222222  | Grey15 
+! *.color8:      #ffffff  | Grey100 
+! *.color1:      #e2a8bf  | MistyRose3 
+! *.color9:      #ffcdd9  | MistyRose1 
+! *.color2:      #81d778  | PaleGreen3 
+! *.color10:     #beffa8  | DarkSeaGreen2 
+! *.color3:      #c4c9c0  | Grey78 
+! *.color11:     #d0ccca  | Grey82 
+! *.color4:      #264b49  | Grey23 
+! *.color12:     #7ab0d2  | LightSkyBlue3 
+! *.color5:      #a481d3  | MediumPurple2 
+! *.color13:     #c5a7d9  | Thistle3 
+! *.color6:      #15ab9c  | LightSeaGreen 
+! *.color14:     #8cdfe0  | DarkSlateGray3 
+! *.color7:      #02c5e0  | DarkTurquoise 
+! *.color15:     #e0e0e0  | Grey89 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Slate: Slate
+! --------------------------------------------------
+! Generating Slate .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : SkyBlue3
+x3270*dialog*foreground                   : SkyBlue3
+x3270.aboutPopup*icon.foreground          : SkyBlue3
+x3270.keypadForeground                    : SkyBlue3
+x3270*menuBarContainer.foreground         : SkyBlue3
+x3270*fileMenuButton*foreground           : SkyBlue3
+x3270*optionsMenuButton*foreground        : SkyBlue3
+x3270*connectMenuButton*foreground        : SkyBlue3
+x3270*reconnectButton*foreground          : SkyBlue3
+x3270*macrosMenuButton*foreground         : SkyBlue3
+x3270*keypadButton*foreground             : SkyBlue3
+x3270*fileMenu*foreground                 : SkyBlue3
+x3270*exitMenu*foreground                 : SkyBlue3
+x3270*optionsMenu*foreground              : SkyBlue3
+x3270*hostMenu*foreground                 : SkyBlue3
+x3270*reconnect*foreground                : SkyBlue3
+x3270*macrosMenu*foreground               : SkyBlue3
+x3270*togglesMenu*foreground              : SkyBlue3
+x3270*fontsMenu*foreground                : SkyBlue3
+x3270*modelsMenu*foreground               : SkyBlue3
+x3270*colorsMenu*foreground               : SkyBlue3
+x3270*charsetMenu*foreground              : SkyBlue3
+x3270*dialog*value*foreground             : SkyBlue3
+x3270*dialog*foreground                   : SkyBlue3
+x3270*dialog*confirmButton.foreground     : SkyBlue3
+x3270*dialog*confirm2Button.foreground    : SkyBlue3
+3270*dialog*cancelButton.foreground       : SkyBlue3
+x3270.ftProgressPopup*filename.foreground : SkyBlue3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : MistyRose1
+x3270*dialog*cancelButton.foreground      : MistyRose1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey15
+x3270*menuBarContainer.background         : Grey15
+x3270*fileMenuButton*background           : Grey15
+x3270*optionsMenuButton*background        : Grey15
+x3270*connectMenuButton*background        : Grey15
+x3270*reconnectButton*background          : Grey15
+x3270*macrosMenuButton*background         : Grey15
+x3270*keypadButton*background             : Grey15
+x3270*fileMenu*background                 : Grey15
+x3270*exitMenu*background                 : Grey15
+x3270*optionsMenu*background              : Grey15
+x3270*hostMenu*background                 : Grey15
+x3270*reconnect*background                : Grey15
+x3270*macrosMenu*background               : Grey15
+x3270*togglesMenu*background              : Grey15
+x3270*fontsMenu*background                : Grey15
+x3270*modelsMenu*background               : Grey15
+x3270*colorsMenu*background               : Grey15
+x3270*charsetMenu*background              : Grey15
+x3270*dialog*value*background             : Grey15
+x3270*dialog*background                   : Grey15
+x3270*dialog*confirmButton.background     : Grey15
+x3270*dialog*confirm2Button.background    : Grey15
+3270*dialog*cancelButton.background       : Grey15
+x3270.ftProgressPopup*filename.background : Grey15
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : SkyBlue3
+x3270*macrosMenuButton*borderColor        : SkyBlue3
+x3270*fileMenu.borderColor                : SkyBlue3
+x3270*exitMenu.borderColor                : SkyBlue3
+x3270*optionsMenu.borderColor             : SkyBlue3
+x3270*hostMenu.borderColor                : SkyBlue3
+x3270*macrosMenu.borderColor              : SkyBlue3
+x3270*togglesMenu.borderColor             : SkyBlue3
+x3270*fontsMenu.borderColor               : SkyBlue3
+x3270*modelsMenu.borderColor              : SkyBlue3
+x3270*colorsMenu.borderColor              : SkyBlue3
+x3270*charsetMenu.borderColor             : SkyBlue3
+x3270*confirmButton.borderColor           : SkyBlue3
+x3270*confirmButton.borderColor           : SkyBlue3
+x3270*confirm2Button.borderColor          : SkyBlue3
+x3270*cancelButton.borderColor            : SkyBlue3
+x3270.ftProgressPopup*filename.borderColor: SkyBlue3
+x3270*fileMenuButton*borderColor          : Grey15
+x3270*optionsMenuButton*borderColor       : Grey15
+x3270*connectMenuButton*borderColor       : Grey15
+x3270*menuBarContainer.borderColor        : Grey15
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : SkyBlue3
+x3270*value.foreground                    : SkyBlue3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Slate
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Slate: \
+   Grey15 LightSkyBlue3 MistyRose1 Thistle3 \
+   DarkSeaGreen2 DarkSlateGray3 Grey82 SkyBlue3 \
+   Grey15 Grey23 Grey78 MediumPurple2 \
+   PaleGreen3 LightSeaGreen Grey100 DarkTurquoise \
+   white Grey15 Grey100 4 \
+   2 1 15 

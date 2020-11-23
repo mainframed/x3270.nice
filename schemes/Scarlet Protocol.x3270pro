@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Scarlet Protocol'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #e41951  | DeepPink3 
+! *.background:  #1c153d  | Grey15 
+! *.color0:      #101116  | Grey7 
+! *.color8:      #686868  | Grey42 
+! *.color1:      #ff0051  | DeepPink2 
+! *.color9:      #ff6e67  | IndianRed1 
+! *.color2:      #00dc84  | SpringGreen2 
+! *.color10:     #5ffa68  | SeaGreen2 
+! *.color3:      #faf945  | LightGoldenrod1 
+! *.color11:     #fffc67  | LightGoldenrod1 
+! *.color4:      #0271b6  | DeepSkyBlue4 
+! *.color12:     #6871ff  | RoyalBlue1 
+! *.color5:      #ca30c7  | Orchid 
+! *.color13:     #bd35ec  | MediumPurple2 
+! *.color6:      #00c5c7  | DarkTurquoise 
+! *.color14:     #60fdff  | DarkSlateGray2 
+! *.color7:      #c7c7c7  | Grey78 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Scarlet Protocol: ScarletProtocol
+! --------------------------------------------------
+! Generating Scarlet Protocol .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : DeepPink3
+x3270*dialog*foreground                   : DeepPink3
+x3270.aboutPopup*icon.foreground          : DeepPink3
+x3270.keypadForeground                    : DeepPink3
+x3270*menuBarContainer.foreground         : DeepPink3
+x3270*fileMenuButton*foreground           : DeepPink3
+x3270*optionsMenuButton*foreground        : DeepPink3
+x3270*connectMenuButton*foreground        : DeepPink3
+x3270*reconnectButton*foreground          : DeepPink3
+x3270*macrosMenuButton*foreground         : DeepPink3
+x3270*keypadButton*foreground             : DeepPink3
+x3270*fileMenu*foreground                 : DeepPink3
+x3270*exitMenu*foreground                 : DeepPink3
+x3270*optionsMenu*foreground              : DeepPink3
+x3270*hostMenu*foreground                 : DeepPink3
+x3270*reconnect*foreground                : DeepPink3
+x3270*macrosMenu*foreground               : DeepPink3
+x3270*togglesMenu*foreground              : DeepPink3
+x3270*fontsMenu*foreground                : DeepPink3
+x3270*modelsMenu*foreground               : DeepPink3
+x3270*colorsMenu*foreground               : DeepPink3
+x3270*charsetMenu*foreground              : DeepPink3
+x3270*dialog*value*foreground             : DeepPink3
+x3270*dialog*foreground                   : DeepPink3
+x3270*dialog*confirmButton.foreground     : DeepPink3
+x3270*dialog*confirm2Button.foreground    : DeepPink3
+3270*dialog*cancelButton.foreground       : DeepPink3
+x3270.ftProgressPopup*filename.foreground : DeepPink3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed1
+x3270*dialog*cancelButton.foreground      : IndianRed1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey15
+x3270*menuBarContainer.background         : Grey15
+x3270*fileMenuButton*background           : Grey15
+x3270*optionsMenuButton*background        : Grey15
+x3270*connectMenuButton*background        : Grey15
+x3270*reconnectButton*background          : Grey15
+x3270*macrosMenuButton*background         : Grey15
+x3270*keypadButton*background             : Grey15
+x3270*fileMenu*background                 : Grey15
+x3270*exitMenu*background                 : Grey15
+x3270*optionsMenu*background              : Grey15
+x3270*hostMenu*background                 : Grey15
+x3270*reconnect*background                : Grey15
+x3270*macrosMenu*background               : Grey15
+x3270*togglesMenu*background              : Grey15
+x3270*fontsMenu*background                : Grey15
+x3270*modelsMenu*background               : Grey15
+x3270*colorsMenu*background               : Grey15
+x3270*charsetMenu*background              : Grey15
+x3270*dialog*value*background             : Grey15
+x3270*dialog*background                   : Grey15
+x3270*dialog*confirmButton.background     : Grey15
+x3270*dialog*confirm2Button.background    : Grey15
+3270*dialog*cancelButton.background       : Grey15
+x3270.ftProgressPopup*filename.background : Grey15
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : DeepPink3
+x3270*macrosMenuButton*borderColor        : DeepPink3
+x3270*fileMenu.borderColor                : DeepPink3
+x3270*exitMenu.borderColor                : DeepPink3
+x3270*optionsMenu.borderColor             : DeepPink3
+x3270*hostMenu.borderColor                : DeepPink3
+x3270*macrosMenu.borderColor              : DeepPink3
+x3270*togglesMenu.borderColor             : DeepPink3
+x3270*fontsMenu.borderColor               : DeepPink3
+x3270*modelsMenu.borderColor              : DeepPink3
+x3270*colorsMenu.borderColor              : DeepPink3
+x3270*charsetMenu.borderColor             : DeepPink3
+x3270*confirmButton.borderColor           : DeepPink3
+x3270*confirmButton.borderColor           : DeepPink3
+x3270*confirm2Button.borderColor          : DeepPink3
+x3270*cancelButton.borderColor            : DeepPink3
+x3270.ftProgressPopup*filename.borderColor: DeepPink3
+x3270*fileMenuButton*borderColor          : Grey15
+x3270*optionsMenuButton*borderColor       : Grey15
+x3270*connectMenuButton*borderColor       : Grey15
+x3270*menuBarContainer.borderColor        : Grey15
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : DeepPink3
+x3270*value.foreground                    : DeepPink3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: ScarletProtocol
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.ScarletProtocol: \
+   Grey7 RoyalBlue1 IndianRed1 MediumPurple2 \
+   SeaGreen2 DarkSlateGray2 LightGoldenrod1 DeepPink3 \
+   Grey7 DeepSkyBlue4 LightGoldenrod1 Orchid \
+   SpringGreen2 DarkTurquoise Grey42 Grey78 \
+   white Grey15 Grey42 4 \
+   2 1 15 

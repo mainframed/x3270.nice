@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Builtin Solarized Light'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #657b83  | PaleTurquoise4 
+! *.background:  #fdf6e3  | Cornsilk1 
+! *.color0:      #073642  | Grey15 
+! *.color8:      #002b36  | Grey11 
+! *.color1:      #dc322f  | DarkOrange3 
+! *.color9:      #cb4b16  | DarkOrange3 
+! *.color2:      #859900  | Yellow4 
+! *.color10:     #586e75  | Grey42 
+! *.color3:      #b58900  | DarkGoldenrod 
+! *.color11:     #657b83  | PaleTurquoise4 
+! *.color4:      #268bd2  | DeepSkyBlue3 
+! *.color12:     #839496  | Grey54 
+! *.color5:      #d33682  | HotPink3 
+! *.color13:     #6c71c4  | SlateBlue3 
+! *.color6:      #2aa198  | DarkCyan 
+! *.color14:     #93a1a1  | Grey62 
+! *.color7:      #eee8d5  | Grey89 
+! *.color15:     #fdf6e3  | Cornsilk1 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Builtin Solarized Light: BuiltinSolarizedLight
+! --------------------------------------------------
+! Generating Builtin Solarized Light .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : PaleTurquoise4
+x3270*dialog*foreground                   : PaleTurquoise4
+x3270.aboutPopup*icon.foreground          : PaleTurquoise4
+x3270.keypadForeground                    : PaleTurquoise4
+x3270*menuBarContainer.foreground         : PaleTurquoise4
+x3270*fileMenuButton*foreground           : PaleTurquoise4
+x3270*optionsMenuButton*foreground        : PaleTurquoise4
+x3270*connectMenuButton*foreground        : PaleTurquoise4
+x3270*reconnectButton*foreground          : PaleTurquoise4
+x3270*macrosMenuButton*foreground         : PaleTurquoise4
+x3270*keypadButton*foreground             : PaleTurquoise4
+x3270*fileMenu*foreground                 : PaleTurquoise4
+x3270*exitMenu*foreground                 : PaleTurquoise4
+x3270*optionsMenu*foreground              : PaleTurquoise4
+x3270*hostMenu*foreground                 : PaleTurquoise4
+x3270*reconnect*foreground                : PaleTurquoise4
+x3270*macrosMenu*foreground               : PaleTurquoise4
+x3270*togglesMenu*foreground              : PaleTurquoise4
+x3270*fontsMenu*foreground                : PaleTurquoise4
+x3270*modelsMenu*foreground               : PaleTurquoise4
+x3270*colorsMenu*foreground               : PaleTurquoise4
+x3270*charsetMenu*foreground              : PaleTurquoise4
+x3270*dialog*value*foreground             : PaleTurquoise4
+x3270*dialog*foreground                   : PaleTurquoise4
+x3270*dialog*confirmButton.foreground     : PaleTurquoise4
+x3270*dialog*confirm2Button.foreground    : PaleTurquoise4
+3270*dialog*cancelButton.foreground       : PaleTurquoise4
+x3270.ftProgressPopup*filename.foreground : PaleTurquoise4
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DarkOrange3
+x3270*dialog*cancelButton.foreground      : DarkOrange3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Cornsilk1
+x3270*menuBarContainer.background         : Cornsilk1
+x3270*fileMenuButton*background           : Cornsilk1
+x3270*optionsMenuButton*background        : Cornsilk1
+x3270*connectMenuButton*background        : Cornsilk1
+x3270*reconnectButton*background          : Cornsilk1
+x3270*macrosMenuButton*background         : Cornsilk1
+x3270*keypadButton*background             : Cornsilk1
+x3270*fileMenu*background                 : Cornsilk1
+x3270*exitMenu*background                 : Cornsilk1
+x3270*optionsMenu*background              : Cornsilk1
+x3270*hostMenu*background                 : Cornsilk1
+x3270*reconnect*background                : Cornsilk1
+x3270*macrosMenu*background               : Cornsilk1
+x3270*togglesMenu*background              : Cornsilk1
+x3270*fontsMenu*background                : Cornsilk1
+x3270*modelsMenu*background               : Cornsilk1
+x3270*colorsMenu*background               : Cornsilk1
+x3270*charsetMenu*background              : Cornsilk1
+x3270*dialog*value*background             : Cornsilk1
+x3270*dialog*background                   : Cornsilk1
+x3270*dialog*confirmButton.background     : Cornsilk1
+x3270*dialog*confirm2Button.background    : Cornsilk1
+3270*dialog*cancelButton.background       : Cornsilk1
+x3270.ftProgressPopup*filename.background : Cornsilk1
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : PaleTurquoise4
+x3270*macrosMenuButton*borderColor        : PaleTurquoise4
+x3270*fileMenu.borderColor                : PaleTurquoise4
+x3270*exitMenu.borderColor                : PaleTurquoise4
+x3270*optionsMenu.borderColor             : PaleTurquoise4
+x3270*hostMenu.borderColor                : PaleTurquoise4
+x3270*macrosMenu.borderColor              : PaleTurquoise4
+x3270*togglesMenu.borderColor             : PaleTurquoise4
+x3270*fontsMenu.borderColor               : PaleTurquoise4
+x3270*modelsMenu.borderColor              : PaleTurquoise4
+x3270*colorsMenu.borderColor              : PaleTurquoise4
+x3270*charsetMenu.borderColor             : PaleTurquoise4
+x3270*confirmButton.borderColor           : PaleTurquoise4
+x3270*confirmButton.borderColor           : PaleTurquoise4
+x3270*confirm2Button.borderColor          : PaleTurquoise4
+x3270*cancelButton.borderColor            : PaleTurquoise4
+x3270.ftProgressPopup*filename.borderColor: PaleTurquoise4
+x3270*fileMenuButton*borderColor          : Cornsilk1
+x3270*optionsMenuButton*borderColor       : Cornsilk1
+x3270*connectMenuButton*borderColor       : Cornsilk1
+x3270*menuBarContainer.borderColor        : Cornsilk1
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : PaleTurquoise4
+x3270*value.foreground                    : PaleTurquoise4
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: BuiltinSolarizedLight
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.BuiltinSolarizedLight: \
+   Grey15 Grey54 DarkOrange3 SlateBlue3 \
+   Grey42 Grey62 PaleTurquoise4 PaleTurquoise4 \
+   Grey15 DeepSkyBlue3 DarkGoldenrod HotPink3 \
+   Yellow4 DarkCyan Grey11 Grey89 \
+   white Cornsilk1 Grey11 4 \
+   2 1 15 

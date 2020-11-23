@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Monokai Soda'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #c4c5b5  | Grey74 
+! *.background:  #1a1a1a  | Grey11 
+! *.color0:      #1a1a1a  | Grey11 
+! *.color8:      #625e4c  | Grey35 
+! *.color1:      #f4005f  | DeepPink2 
+! *.color9:      #f4005f  | DeepPink2 
+! *.color2:      #98e024  | Chartreuse2 
+! *.color10:     #98e024  | Chartreuse2 
+! *.color3:      #fa8419  | DarkOrange 
+! *.color11:     #e0d561  | Khaki3 
+! *.color4:      #9d65ff  | MediumPurple2 
+! *.color12:     #9d65ff  | MediumPurple2 
+! *.color5:      #f4005f  | DeepPink2 
+! *.color13:     #f4005f  | DeepPink2 
+! *.color6:      #58d1eb  | MediumTurquoise 
+! *.color14:     #58d1eb  | MediumTurquoise 
+! *.color7:      #c4c5b5  | Grey74 
+! *.color15:     #f6f6ef  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Monokai Soda: MonokaiSoda
+! --------------------------------------------------
+! Generating Monokai Soda .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey74
+x3270*dialog*foreground                   : Grey74
+x3270.aboutPopup*icon.foreground          : Grey74
+x3270.keypadForeground                    : Grey74
+x3270*menuBarContainer.foreground         : Grey74
+x3270*fileMenuButton*foreground           : Grey74
+x3270*optionsMenuButton*foreground        : Grey74
+x3270*connectMenuButton*foreground        : Grey74
+x3270*reconnectButton*foreground          : Grey74
+x3270*macrosMenuButton*foreground         : Grey74
+x3270*keypadButton*foreground             : Grey74
+x3270*fileMenu*foreground                 : Grey74
+x3270*exitMenu*foreground                 : Grey74
+x3270*optionsMenu*foreground              : Grey74
+x3270*hostMenu*foreground                 : Grey74
+x3270*reconnect*foreground                : Grey74
+x3270*macrosMenu*foreground               : Grey74
+x3270*togglesMenu*foreground              : Grey74
+x3270*fontsMenu*foreground                : Grey74
+x3270*modelsMenu*foreground               : Grey74
+x3270*colorsMenu*foreground               : Grey74
+x3270*charsetMenu*foreground              : Grey74
+x3270*dialog*value*foreground             : Grey74
+x3270*dialog*foreground                   : Grey74
+x3270*dialog*confirmButton.foreground     : Grey74
+x3270*dialog*confirm2Button.foreground    : Grey74
+3270*dialog*cancelButton.foreground       : Grey74
+x3270.ftProgressPopup*filename.foreground : Grey74
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DeepPink2
+x3270*dialog*cancelButton.foreground      : DeepPink2
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey74
+x3270*macrosMenuButton*borderColor        : Grey74
+x3270*fileMenu.borderColor                : Grey74
+x3270*exitMenu.borderColor                : Grey74
+x3270*optionsMenu.borderColor             : Grey74
+x3270*hostMenu.borderColor                : Grey74
+x3270*macrosMenu.borderColor              : Grey74
+x3270*togglesMenu.borderColor             : Grey74
+x3270*fontsMenu.borderColor               : Grey74
+x3270*modelsMenu.borderColor              : Grey74
+x3270*colorsMenu.borderColor              : Grey74
+x3270*charsetMenu.borderColor             : Grey74
+x3270*confirmButton.borderColor           : Grey74
+x3270*confirmButton.borderColor           : Grey74
+x3270*confirm2Button.borderColor          : Grey74
+x3270*cancelButton.borderColor            : Grey74
+x3270.ftProgressPopup*filename.borderColor: Grey74
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey74
+x3270*value.foreground                    : Grey74
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: MonokaiSoda
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.MonokaiSoda: \
+   Grey11 MediumPurple2 DeepPink2 DeepPink2 \
+   Chartreuse2 MediumTurquoise Khaki3 Grey74 \
+   Grey11 MediumPurple2 DarkOrange DeepPink2 \
+   Chartreuse2 MediumTurquoise Grey35 Grey74 \
+   white Grey11 Grey35 4 \
+   2 1 15 

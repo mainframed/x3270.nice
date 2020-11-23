@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Cobalt Neon'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #8ff586  | LightGreen 
+! *.background:  #142838  | Grey15 
+! *.color0:      #142631  | Grey15 
+! *.color8:      #fff688  | Khaki1 
+! *.color1:      #ff2320  | Red1 
+! *.color9:      #d4312e  | DarkOrange3 
+! *.color2:      #3ba5ff  | SteelBlue1 
+! *.color10:     #8ff586  | LightGreen 
+! *.color3:      #e9e75c  | Khaki3 
+! *.color11:     #e9f06d  | DarkOliveGreen1 
+! *.color4:      #8ff586  | LightGreen 
+! *.color12:     #3c7dd2  | SteelBlue3 
+! *.color5:      #781aa0  | DarkMagenta 
+! *.color13:     #8230a7  | MediumPurple3 
+! *.color6:      #8ff586  | LightGreen 
+! *.color14:     #6cbc67  | DarkSeaGreen4 
+! *.color7:      #ba46b2  | MediumOrchid3 
+! *.color15:     #8ff586  | LightGreen 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Cobalt Neon: CobaltNeon
+! --------------------------------------------------
+! Generating Cobalt Neon .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : LightGreen
+x3270*dialog*foreground                   : LightGreen
+x3270.aboutPopup*icon.foreground          : LightGreen
+x3270.keypadForeground                    : LightGreen
+x3270*menuBarContainer.foreground         : LightGreen
+x3270*fileMenuButton*foreground           : LightGreen
+x3270*optionsMenuButton*foreground        : LightGreen
+x3270*connectMenuButton*foreground        : LightGreen
+x3270*reconnectButton*foreground          : LightGreen
+x3270*macrosMenuButton*foreground         : LightGreen
+x3270*keypadButton*foreground             : LightGreen
+x3270*fileMenu*foreground                 : LightGreen
+x3270*exitMenu*foreground                 : LightGreen
+x3270*optionsMenu*foreground              : LightGreen
+x3270*hostMenu*foreground                 : LightGreen
+x3270*reconnect*foreground                : LightGreen
+x3270*macrosMenu*foreground               : LightGreen
+x3270*togglesMenu*foreground              : LightGreen
+x3270*fontsMenu*foreground                : LightGreen
+x3270*modelsMenu*foreground               : LightGreen
+x3270*colorsMenu*foreground               : LightGreen
+x3270*charsetMenu*foreground              : LightGreen
+x3270*dialog*value*foreground             : LightGreen
+x3270*dialog*foreground                   : LightGreen
+x3270*dialog*confirmButton.foreground     : LightGreen
+x3270*dialog*confirm2Button.foreground    : LightGreen
+3270*dialog*cancelButton.foreground       : LightGreen
+x3270.ftProgressPopup*filename.foreground : LightGreen
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DarkOrange3
+x3270*dialog*cancelButton.foreground      : DarkOrange3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey15
+x3270*menuBarContainer.background         : Grey15
+x3270*fileMenuButton*background           : Grey15
+x3270*optionsMenuButton*background        : Grey15
+x3270*connectMenuButton*background        : Grey15
+x3270*reconnectButton*background          : Grey15
+x3270*macrosMenuButton*background         : Grey15
+x3270*keypadButton*background             : Grey15
+x3270*fileMenu*background                 : Grey15
+x3270*exitMenu*background                 : Grey15
+x3270*optionsMenu*background              : Grey15
+x3270*hostMenu*background                 : Grey15
+x3270*reconnect*background                : Grey15
+x3270*macrosMenu*background               : Grey15
+x3270*togglesMenu*background              : Grey15
+x3270*fontsMenu*background                : Grey15
+x3270*modelsMenu*background               : Grey15
+x3270*colorsMenu*background               : Grey15
+x3270*charsetMenu*background              : Grey15
+x3270*dialog*value*background             : Grey15
+x3270*dialog*background                   : Grey15
+x3270*dialog*confirmButton.background     : Grey15
+x3270*dialog*confirm2Button.background    : Grey15
+3270*dialog*cancelButton.background       : Grey15
+x3270.ftProgressPopup*filename.background : Grey15
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : LightGreen
+x3270*macrosMenuButton*borderColor        : LightGreen
+x3270*fileMenu.borderColor                : LightGreen
+x3270*exitMenu.borderColor                : LightGreen
+x3270*optionsMenu.borderColor             : LightGreen
+x3270*hostMenu.borderColor                : LightGreen
+x3270*macrosMenu.borderColor              : LightGreen
+x3270*togglesMenu.borderColor             : LightGreen
+x3270*fontsMenu.borderColor               : LightGreen
+x3270*modelsMenu.borderColor              : LightGreen
+x3270*colorsMenu.borderColor              : LightGreen
+x3270*charsetMenu.borderColor             : LightGreen
+x3270*confirmButton.borderColor           : LightGreen
+x3270*confirmButton.borderColor           : LightGreen
+x3270*confirm2Button.borderColor          : LightGreen
+x3270*cancelButton.borderColor            : LightGreen
+x3270.ftProgressPopup*filename.borderColor: LightGreen
+x3270*fileMenuButton*borderColor          : Grey15
+x3270*optionsMenuButton*borderColor       : Grey15
+x3270*connectMenuButton*borderColor       : Grey15
+x3270*menuBarContainer.borderColor        : Grey15
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : LightGreen
+x3270*value.foreground                    : LightGreen
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: CobaltNeon
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.CobaltNeon: \
+   Grey15 SteelBlue3 DarkOrange3 MediumPurple3 \
+   LightGreen DarkSeaGreen4 DarkOliveGreen1 LightGreen \
+   Grey15 LightGreen Khaki3 DarkMagenta \
+   SteelBlue1 LightGreen Khaki1 MediumOrchid3 \
+   white Grey15 Khaki1 4 \
+   2 1 15 

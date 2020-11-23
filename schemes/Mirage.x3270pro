@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Mirage'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #a6b2c0  | Grey70 
+! *.background:  #1b2738  | Grey15 
+! *.color0:      #011627  | Grey7 
+! *.color8:      #575656  | Grey35 
+! *.color1:      #ff9999  | LightCoral 
+! *.color9:      #ff9999  | LightCoral 
+! *.color2:      #85cc95  | PaleGreen3 
+! *.color10:     #85cc95  | PaleGreen3 
+! *.color3:      #ffd700  | Gold1 
+! *.color11:     #ffd700  | Gold1 
+! *.color4:      #7fb5ff  | SkyBlue2 
+! *.color12:     #7fb5ff  | SkyBlue2 
+! *.color5:      #ddb3ff  | Plum2 
+! *.color13:     #ddb3ff  | Plum2 
+! *.color6:      #21c7a8  | Cyan3 
+! *.color14:     #85cc95  | PaleGreen3 
+! *.color7:      #ffffff  | Grey100 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Mirage: Mirage
+! --------------------------------------------------
+! Generating Mirage .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey70
+x3270*dialog*foreground                   : Grey70
+x3270.aboutPopup*icon.foreground          : Grey70
+x3270.keypadForeground                    : Grey70
+x3270*menuBarContainer.foreground         : Grey70
+x3270*fileMenuButton*foreground           : Grey70
+x3270*optionsMenuButton*foreground        : Grey70
+x3270*connectMenuButton*foreground        : Grey70
+x3270*reconnectButton*foreground          : Grey70
+x3270*macrosMenuButton*foreground         : Grey70
+x3270*keypadButton*foreground             : Grey70
+x3270*fileMenu*foreground                 : Grey70
+x3270*exitMenu*foreground                 : Grey70
+x3270*optionsMenu*foreground              : Grey70
+x3270*hostMenu*foreground                 : Grey70
+x3270*reconnect*foreground                : Grey70
+x3270*macrosMenu*foreground               : Grey70
+x3270*togglesMenu*foreground              : Grey70
+x3270*fontsMenu*foreground                : Grey70
+x3270*modelsMenu*foreground               : Grey70
+x3270*colorsMenu*foreground               : Grey70
+x3270*charsetMenu*foreground              : Grey70
+x3270*dialog*value*foreground             : Grey70
+x3270*dialog*foreground                   : Grey70
+x3270*dialog*confirmButton.foreground     : Grey70
+x3270*dialog*confirm2Button.foreground    : Grey70
+3270*dialog*cancelButton.foreground       : Grey70
+x3270.ftProgressPopup*filename.foreground : Grey70
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : LightCoral
+x3270*dialog*cancelButton.foreground      : LightCoral
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey15
+x3270*menuBarContainer.background         : Grey15
+x3270*fileMenuButton*background           : Grey15
+x3270*optionsMenuButton*background        : Grey15
+x3270*connectMenuButton*background        : Grey15
+x3270*reconnectButton*background          : Grey15
+x3270*macrosMenuButton*background         : Grey15
+x3270*keypadButton*background             : Grey15
+x3270*fileMenu*background                 : Grey15
+x3270*exitMenu*background                 : Grey15
+x3270*optionsMenu*background              : Grey15
+x3270*hostMenu*background                 : Grey15
+x3270*reconnect*background                : Grey15
+x3270*macrosMenu*background               : Grey15
+x3270*togglesMenu*background              : Grey15
+x3270*fontsMenu*background                : Grey15
+x3270*modelsMenu*background               : Grey15
+x3270*colorsMenu*background               : Grey15
+x3270*charsetMenu*background              : Grey15
+x3270*dialog*value*background             : Grey15
+x3270*dialog*background                   : Grey15
+x3270*dialog*confirmButton.background     : Grey15
+x3270*dialog*confirm2Button.background    : Grey15
+3270*dialog*cancelButton.background       : Grey15
+x3270.ftProgressPopup*filename.background : Grey15
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey70
+x3270*macrosMenuButton*borderColor        : Grey70
+x3270*fileMenu.borderColor                : Grey70
+x3270*exitMenu.borderColor                : Grey70
+x3270*optionsMenu.borderColor             : Grey70
+x3270*hostMenu.borderColor                : Grey70
+x3270*macrosMenu.borderColor              : Grey70
+x3270*togglesMenu.borderColor             : Grey70
+x3270*fontsMenu.borderColor               : Grey70
+x3270*modelsMenu.borderColor              : Grey70
+x3270*colorsMenu.borderColor              : Grey70
+x3270*charsetMenu.borderColor             : Grey70
+x3270*confirmButton.borderColor           : Grey70
+x3270*confirmButton.borderColor           : Grey70
+x3270*confirm2Button.borderColor          : Grey70
+x3270*cancelButton.borderColor            : Grey70
+x3270.ftProgressPopup*filename.borderColor: Grey70
+x3270*fileMenuButton*borderColor          : Grey15
+x3270*optionsMenuButton*borderColor       : Grey15
+x3270*connectMenuButton*borderColor       : Grey15
+x3270*menuBarContainer.borderColor        : Grey15
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey70
+x3270*value.foreground                    : Grey70
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Mirage
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Mirage: \
+   Grey7 SkyBlue2 LightCoral Plum2 \
+   PaleGreen3 PaleGreen3 Gold1 Grey70 \
+   Grey7 SkyBlue2 Gold1 Plum2 \
+   PaleGreen3 Cyan3 Grey35 Grey100 \
+   white Grey15 Grey35 4 \
+   2 1 15 

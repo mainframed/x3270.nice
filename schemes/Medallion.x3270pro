@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Medallion'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #cac296  | Tan 
+! *.background:  #1d1908  | Grey7 
+! *.color0:      #000000  | Grey0 
+! *.color8:      #5e5219  | Orange4 
+! *.color1:      #b64c00  | DarkOrange3 
+! *.color9:      #ff9149  | Salmon1 
+! *.color2:      #7c8b16  | Yellow4 
+! *.color10:     #b2ca3b  | DarkOliveGreen3 
+! *.color3:      #d3bd26  | Gold3 
+! *.color11:     #ffe54a  | LightGoldenrod2 
+! *.color4:      #616bb0  | SlateBlue3 
+! *.color12:     #acb8ff  | LightSteelBlue 
+! *.color5:      #8c5a90  | Plum4 
+! *.color13:     #ffa0ff  | Plum1 
+! *.color6:      #916c25  | Orange4 
+! *.color14:     #ffbc51  | SandyBrown 
+! *.color7:      #cac29a  | Tan 
+! *.color15:     #fed698  | LightGoldenrod2 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Medallion: Medallion
+! --------------------------------------------------
+! Generating Medallion .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Tan
+x3270*dialog*foreground                   : Tan
+x3270.aboutPopup*icon.foreground          : Tan
+x3270.keypadForeground                    : Tan
+x3270*menuBarContainer.foreground         : Tan
+x3270*fileMenuButton*foreground           : Tan
+x3270*optionsMenuButton*foreground        : Tan
+x3270*connectMenuButton*foreground        : Tan
+x3270*reconnectButton*foreground          : Tan
+x3270*macrosMenuButton*foreground         : Tan
+x3270*keypadButton*foreground             : Tan
+x3270*fileMenu*foreground                 : Tan
+x3270*exitMenu*foreground                 : Tan
+x3270*optionsMenu*foreground              : Tan
+x3270*hostMenu*foreground                 : Tan
+x3270*reconnect*foreground                : Tan
+x3270*macrosMenu*foreground               : Tan
+x3270*togglesMenu*foreground              : Tan
+x3270*fontsMenu*foreground                : Tan
+x3270*modelsMenu*foreground               : Tan
+x3270*colorsMenu*foreground               : Tan
+x3270*charsetMenu*foreground              : Tan
+x3270*dialog*value*foreground             : Tan
+x3270*dialog*foreground                   : Tan
+x3270*dialog*confirmButton.foreground     : Tan
+x3270*dialog*confirm2Button.foreground    : Tan
+3270*dialog*cancelButton.foreground       : Tan
+x3270.ftProgressPopup*filename.foreground : Tan
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Salmon1
+x3270*dialog*cancelButton.foreground      : Salmon1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Tan
+x3270*macrosMenuButton*borderColor        : Tan
+x3270*fileMenu.borderColor                : Tan
+x3270*exitMenu.borderColor                : Tan
+x3270*optionsMenu.borderColor             : Tan
+x3270*hostMenu.borderColor                : Tan
+x3270*macrosMenu.borderColor              : Tan
+x3270*togglesMenu.borderColor             : Tan
+x3270*fontsMenu.borderColor               : Tan
+x3270*modelsMenu.borderColor              : Tan
+x3270*colorsMenu.borderColor              : Tan
+x3270*charsetMenu.borderColor             : Tan
+x3270*confirmButton.borderColor           : Tan
+x3270*confirmButton.borderColor           : Tan
+x3270*confirm2Button.borderColor          : Tan
+x3270*cancelButton.borderColor            : Tan
+x3270.ftProgressPopup*filename.borderColor: Tan
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Tan
+x3270*value.foreground                    : Tan
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Medallion
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Medallion: \
+   Grey0 LightSteelBlue Salmon1 Plum1 \
+   DarkOliveGreen3 SandyBrown LightGoldenrod2 Tan \
+   Grey0 SlateBlue3 Gold3 Plum4 \
+   Yellow4 Orange4 Orange4 Tan \
+   white Grey7 Orange4 4 \
+   2 1 15 

@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Glacier'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #ffffff  | Grey100 
+! *.background:  #0c1115  | Grey7 
+! *.color0:      #2e343c  | Grey19 
+! *.color8:      #404a55  | Grey30 
+! *.color1:      #bd0f2f  | Red3 
+! *.color9:      #bd0f2f  | Red3 
+! *.color2:      #35a770  | DarkSeaGreen4 
+! *.color10:     #49e998  | SeaGreen3 
+! *.color3:      #fb9435  | Salmon1 
+! *.color11:     #fddf6e  | LightGoldenrod2 
+! *.color4:      #1f5872  | DeepSkyBlue4 
+! *.color12:     #2a8bc1  | DeepSkyBlue3 
+! *.color5:      #bd2523  | Red3 
+! *.color13:     #ea4727  | DarkOrange3 
+! *.color6:      #778397  | Grey53 
+! *.color14:     #a0b6d3  | LightSteelBlue3 
+! *.color7:      #ffffff  | Grey100 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Glacier: Glacier
+! --------------------------------------------------
+! Generating Glacier .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270.aboutPopup*icon.foreground          : Grey100
+x3270.keypadForeground                    : Grey100
+x3270*menuBarContainer.foreground         : Grey100
+x3270*fileMenuButton*foreground           : Grey100
+x3270*optionsMenuButton*foreground        : Grey100
+x3270*connectMenuButton*foreground        : Grey100
+x3270*reconnectButton*foreground          : Grey100
+x3270*macrosMenuButton*foreground         : Grey100
+x3270*keypadButton*foreground             : Grey100
+x3270*fileMenu*foreground                 : Grey100
+x3270*exitMenu*foreground                 : Grey100
+x3270*optionsMenu*foreground              : Grey100
+x3270*hostMenu*foreground                 : Grey100
+x3270*reconnect*foreground                : Grey100
+x3270*macrosMenu*foreground               : Grey100
+x3270*togglesMenu*foreground              : Grey100
+x3270*fontsMenu*foreground                : Grey100
+x3270*modelsMenu*foreground               : Grey100
+x3270*colorsMenu*foreground               : Grey100
+x3270*charsetMenu*foreground              : Grey100
+x3270*dialog*value*foreground             : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*confirm2Button.foreground    : Grey100
+3270*dialog*cancelButton.foreground       : Grey100
+x3270.ftProgressPopup*filename.foreground : Grey100
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Red3
+x3270*dialog*cancelButton.foreground      : Red3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey100
+x3270*macrosMenuButton*borderColor        : Grey100
+x3270*fileMenu.borderColor                : Grey100
+x3270*exitMenu.borderColor                : Grey100
+x3270*optionsMenu.borderColor             : Grey100
+x3270*hostMenu.borderColor                : Grey100
+x3270*macrosMenu.borderColor              : Grey100
+x3270*togglesMenu.borderColor             : Grey100
+x3270*fontsMenu.borderColor               : Grey100
+x3270*modelsMenu.borderColor              : Grey100
+x3270*colorsMenu.borderColor              : Grey100
+x3270*charsetMenu.borderColor             : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirm2Button.borderColor          : Grey100
+x3270*cancelButton.borderColor            : Grey100
+x3270.ftProgressPopup*filename.borderColor: Grey100
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey100
+x3270*value.foreground                    : Grey100
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Glacier
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Glacier: \
+   Grey19 DeepSkyBlue3 Red3 DarkOrange3 \
+   SeaGreen3 LightSteelBlue3 LightGoldenrod2 Grey100 \
+   Grey19 DeepSkyBlue4 Salmon1 Red3 \
+   DarkSeaGreen4 Grey53 Grey30 Grey100 \
+   white Grey7 Grey30 4 \
+   2 1 15 

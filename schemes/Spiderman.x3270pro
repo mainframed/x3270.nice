@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Spiderman'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #e3e3e3  | Grey89 
+! *.background:  #1b1d1e  | Grey11 
+! *.color0:      #1b1d1e  | Grey11 
+! *.color8:      #505354  | Grey30 
+! *.color1:      #e60813  | Red3 
+! *.color9:      #ff0325  | Red1 
+! *.color2:      #e22928  | Red3 
+! *.color10:     #ff3338  | IndianRed1 
+! *.color3:      #e24756  | IndianRed 
+! *.color11:     #fe3a35  | IndianRed1 
+! *.color4:      #2c3fff  | DodgerBlue2 
+! *.color12:     #1d50ff  | DodgerBlue2 
+! *.color5:      #2435db  | DodgerBlue3 
+! *.color13:     #747cff  | LightSlateBlue 
+! *.color6:      #3256ff  | RoyalBlue1 
+! *.color14:     #6184ff  | CornflowerBlue 
+! *.color7:      #fffef6  | Grey100 
+! *.color15:     #fffff9  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Spiderman: Spiderman
+! --------------------------------------------------
+! Generating Spiderman .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey89
+x3270*dialog*foreground                   : Grey89
+x3270.aboutPopup*icon.foreground          : Grey89
+x3270.keypadForeground                    : Grey89
+x3270*menuBarContainer.foreground         : Grey89
+x3270*fileMenuButton*foreground           : Grey89
+x3270*optionsMenuButton*foreground        : Grey89
+x3270*connectMenuButton*foreground        : Grey89
+x3270*reconnectButton*foreground          : Grey89
+x3270*macrosMenuButton*foreground         : Grey89
+x3270*keypadButton*foreground             : Grey89
+x3270*fileMenu*foreground                 : Grey89
+x3270*exitMenu*foreground                 : Grey89
+x3270*optionsMenu*foreground              : Grey89
+x3270*hostMenu*foreground                 : Grey89
+x3270*reconnect*foreground                : Grey89
+x3270*macrosMenu*foreground               : Grey89
+x3270*togglesMenu*foreground              : Grey89
+x3270*fontsMenu*foreground                : Grey89
+x3270*modelsMenu*foreground               : Grey89
+x3270*colorsMenu*foreground               : Grey89
+x3270*charsetMenu*foreground              : Grey89
+x3270*dialog*value*foreground             : Grey89
+x3270*dialog*foreground                   : Grey89
+x3270*dialog*confirmButton.foreground     : Grey89
+x3270*dialog*confirm2Button.foreground    : Grey89
+3270*dialog*cancelButton.foreground       : Grey89
+x3270.ftProgressPopup*filename.foreground : Grey89
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Red1
+x3270*dialog*cancelButton.foreground      : Red1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey89
+x3270*macrosMenuButton*borderColor        : Grey89
+x3270*fileMenu.borderColor                : Grey89
+x3270*exitMenu.borderColor                : Grey89
+x3270*optionsMenu.borderColor             : Grey89
+x3270*hostMenu.borderColor                : Grey89
+x3270*macrosMenu.borderColor              : Grey89
+x3270*togglesMenu.borderColor             : Grey89
+x3270*fontsMenu.borderColor               : Grey89
+x3270*modelsMenu.borderColor              : Grey89
+x3270*colorsMenu.borderColor              : Grey89
+x3270*charsetMenu.borderColor             : Grey89
+x3270*confirmButton.borderColor           : Grey89
+x3270*confirmButton.borderColor           : Grey89
+x3270*confirm2Button.borderColor          : Grey89
+x3270*cancelButton.borderColor            : Grey89
+x3270.ftProgressPopup*filename.borderColor: Grey89
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey89
+x3270*value.foreground                    : Grey89
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Spiderman
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Spiderman: \
+   Grey11 DodgerBlue2 Red1 LightSlateBlue \
+   IndianRed1 CornflowerBlue IndianRed1 Grey89 \
+   Grey11 DodgerBlue2 IndianRed DodgerBlue3 \
+   Red3 RoyalBlue1 Grey30 Grey100 \
+   white Grey11 Grey30 4 \
+   2 1 15 

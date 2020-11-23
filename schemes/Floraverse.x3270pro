@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Floraverse'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #dbd1b9  | LightYellow3 
+! *.background:  #0e0d15  | Grey7 
+! *.color0:      #08002e  | Grey7 
+! *.color8:      #331e4d  | Grey19 
+! *.color1:      #64002c  | DarkRed 
+! *.color9:      #d02063  | DeepPink3 
+! *.color2:      #5d731a  | Orange4 
+! *.color10:     #b4ce59  | DarkOliveGreen3 
+! *.color3:      #cd751c  | Orange3 
+! *.color11:     #fac357  | SandyBrown 
+! *.color4:      #1d6da1  | DeepSkyBlue4 
+! *.color12:     #40a4cf  | SkyBlue3 
+! *.color5:      #b7077e  | MediumVioletRed 
+! *.color13:     #f12aae  | DeepPink1 
+! *.color6:      #42a38c  | CadetBlue 
+! *.color14:     #62caa8  | Aquamarine3 
+! *.color7:      #f3e0b8  | NavajoWhite1 
+! *.color15:     #fff5db  | Cornsilk1 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Floraverse: Floraverse
+! --------------------------------------------------
+! Generating Floraverse .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : LightYellow3
+x3270*dialog*foreground                   : LightYellow3
+x3270.aboutPopup*icon.foreground          : LightYellow3
+x3270.keypadForeground                    : LightYellow3
+x3270*menuBarContainer.foreground         : LightYellow3
+x3270*fileMenuButton*foreground           : LightYellow3
+x3270*optionsMenuButton*foreground        : LightYellow3
+x3270*connectMenuButton*foreground        : LightYellow3
+x3270*reconnectButton*foreground          : LightYellow3
+x3270*macrosMenuButton*foreground         : LightYellow3
+x3270*keypadButton*foreground             : LightYellow3
+x3270*fileMenu*foreground                 : LightYellow3
+x3270*exitMenu*foreground                 : LightYellow3
+x3270*optionsMenu*foreground              : LightYellow3
+x3270*hostMenu*foreground                 : LightYellow3
+x3270*reconnect*foreground                : LightYellow3
+x3270*macrosMenu*foreground               : LightYellow3
+x3270*togglesMenu*foreground              : LightYellow3
+x3270*fontsMenu*foreground                : LightYellow3
+x3270*modelsMenu*foreground               : LightYellow3
+x3270*colorsMenu*foreground               : LightYellow3
+x3270*charsetMenu*foreground              : LightYellow3
+x3270*dialog*value*foreground             : LightYellow3
+x3270*dialog*foreground                   : LightYellow3
+x3270*dialog*confirmButton.foreground     : LightYellow3
+x3270*dialog*confirm2Button.foreground    : LightYellow3
+3270*dialog*cancelButton.foreground       : LightYellow3
+x3270.ftProgressPopup*filename.foreground : LightYellow3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DeepPink3
+x3270*dialog*cancelButton.foreground      : DeepPink3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : LightYellow3
+x3270*macrosMenuButton*borderColor        : LightYellow3
+x3270*fileMenu.borderColor                : LightYellow3
+x3270*exitMenu.borderColor                : LightYellow3
+x3270*optionsMenu.borderColor             : LightYellow3
+x3270*hostMenu.borderColor                : LightYellow3
+x3270*macrosMenu.borderColor              : LightYellow3
+x3270*togglesMenu.borderColor             : LightYellow3
+x3270*fontsMenu.borderColor               : LightYellow3
+x3270*modelsMenu.borderColor              : LightYellow3
+x3270*colorsMenu.borderColor              : LightYellow3
+x3270*charsetMenu.borderColor             : LightYellow3
+x3270*confirmButton.borderColor           : LightYellow3
+x3270*confirmButton.borderColor           : LightYellow3
+x3270*confirm2Button.borderColor          : LightYellow3
+x3270*cancelButton.borderColor            : LightYellow3
+x3270.ftProgressPopup*filename.borderColor: LightYellow3
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : LightYellow3
+x3270*value.foreground                    : LightYellow3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Floraverse
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Floraverse: \
+   Grey7 SkyBlue3 DeepPink3 DeepPink1 \
+   DarkOliveGreen3 Aquamarine3 SandyBrown LightYellow3 \
+   Grey7 DeepSkyBlue4 Orange3 MediumVioletRed \
+   Orange4 CadetBlue Grey19 NavajoWhite1 \
+   white Grey7 Grey19 4 \
+   2 1 15 

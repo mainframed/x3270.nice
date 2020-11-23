@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Hurtado'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #dbdbdb  | Grey85 
+! *.background:  #000000  | Grey0 
+! *.color0:      #575757  | Grey35 
+! *.color8:      #262626  | Grey15 
+! *.color1:      #ff1b00  | Red1 
+! *.color9:      #d51d00  | Red3 
+! *.color2:      #a5e055  | DarkOliveGreen3 
+! *.color10:     #a5df55  | DarkOliveGreen3 
+! *.color3:      #fbe74a  | LightGoldenrod2 
+! *.color11:     #fbe84a  | LightGoldenrod2 
+! *.color4:      #496487  | MediumPurple4 
+! *.color12:     #89beff  | SkyBlue2 
+! *.color5:      #fd5ff1  | MediumOrchid1 
+! *.color13:     #c001c1  | Magenta3 
+! *.color6:      #86e9fe  | SkyBlue1 
+! *.color14:     #86eafe  | SkyBlue1 
+! *.color7:      #cbcccb  | Grey82 
+! *.color15:     #dbdbdb  | Grey85 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Hurtado: Hurtado
+! --------------------------------------------------
+! Generating Hurtado .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey85
+x3270*dialog*foreground                   : Grey85
+x3270.aboutPopup*icon.foreground          : Grey85
+x3270.keypadForeground                    : Grey85
+x3270*menuBarContainer.foreground         : Grey85
+x3270*fileMenuButton*foreground           : Grey85
+x3270*optionsMenuButton*foreground        : Grey85
+x3270*connectMenuButton*foreground        : Grey85
+x3270*reconnectButton*foreground          : Grey85
+x3270*macrosMenuButton*foreground         : Grey85
+x3270*keypadButton*foreground             : Grey85
+x3270*fileMenu*foreground                 : Grey85
+x3270*exitMenu*foreground                 : Grey85
+x3270*optionsMenu*foreground              : Grey85
+x3270*hostMenu*foreground                 : Grey85
+x3270*reconnect*foreground                : Grey85
+x3270*macrosMenu*foreground               : Grey85
+x3270*togglesMenu*foreground              : Grey85
+x3270*fontsMenu*foreground                : Grey85
+x3270*modelsMenu*foreground               : Grey85
+x3270*colorsMenu*foreground               : Grey85
+x3270*charsetMenu*foreground              : Grey85
+x3270*dialog*value*foreground             : Grey85
+x3270*dialog*foreground                   : Grey85
+x3270*dialog*confirmButton.foreground     : Grey85
+x3270*dialog*confirm2Button.foreground    : Grey85
+3270*dialog*cancelButton.foreground       : Grey85
+x3270.ftProgressPopup*filename.foreground : Grey85
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Red3
+x3270*dialog*cancelButton.foreground      : Red3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey0
+x3270*menuBarContainer.background         : Grey0
+x3270*fileMenuButton*background           : Grey0
+x3270*optionsMenuButton*background        : Grey0
+x3270*connectMenuButton*background        : Grey0
+x3270*reconnectButton*background          : Grey0
+x3270*macrosMenuButton*background         : Grey0
+x3270*keypadButton*background             : Grey0
+x3270*fileMenu*background                 : Grey0
+x3270*exitMenu*background                 : Grey0
+x3270*optionsMenu*background              : Grey0
+x3270*hostMenu*background                 : Grey0
+x3270*reconnect*background                : Grey0
+x3270*macrosMenu*background               : Grey0
+x3270*togglesMenu*background              : Grey0
+x3270*fontsMenu*background                : Grey0
+x3270*modelsMenu*background               : Grey0
+x3270*colorsMenu*background               : Grey0
+x3270*charsetMenu*background              : Grey0
+x3270*dialog*value*background             : Grey0
+x3270*dialog*background                   : Grey0
+x3270*dialog*confirmButton.background     : Grey0
+x3270*dialog*confirm2Button.background    : Grey0
+3270*dialog*cancelButton.background       : Grey0
+x3270.ftProgressPopup*filename.background : Grey0
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey85
+x3270*macrosMenuButton*borderColor        : Grey85
+x3270*fileMenu.borderColor                : Grey85
+x3270*exitMenu.borderColor                : Grey85
+x3270*optionsMenu.borderColor             : Grey85
+x3270*hostMenu.borderColor                : Grey85
+x3270*macrosMenu.borderColor              : Grey85
+x3270*togglesMenu.borderColor             : Grey85
+x3270*fontsMenu.borderColor               : Grey85
+x3270*modelsMenu.borderColor              : Grey85
+x3270*colorsMenu.borderColor              : Grey85
+x3270*charsetMenu.borderColor             : Grey85
+x3270*confirmButton.borderColor           : Grey85
+x3270*confirmButton.borderColor           : Grey85
+x3270*confirm2Button.borderColor          : Grey85
+x3270*cancelButton.borderColor            : Grey85
+x3270.ftProgressPopup*filename.borderColor: Grey85
+x3270*fileMenuButton*borderColor          : Grey0
+x3270*optionsMenuButton*borderColor       : Grey0
+x3270*connectMenuButton*borderColor       : Grey0
+x3270*menuBarContainer.borderColor        : Grey0
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey85
+x3270*value.foreground                    : Grey85
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Hurtado
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Hurtado: \
+   Grey35 SkyBlue2 Red3 Magenta3 \
+   DarkOliveGreen3 SkyBlue1 LightGoldenrod2 Grey85 \
+   Grey35 MediumPurple4 LightGoldenrod2 MediumOrchid1 \
+   DarkOliveGreen3 SkyBlue1 Grey15 Grey82 \
+   white Grey0 Grey15 4 \
+   2 1 15 

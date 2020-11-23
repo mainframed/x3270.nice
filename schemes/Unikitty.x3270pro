@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Unikitty'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #0b0b0b  | Grey3 
+! *.background:  #ff8cd9  | Orchid2 
+! *.color0:      #0c0c0c  | Grey3 
+! *.color8:      #434343  | Grey27 
+! *.color1:      #a80f20  | Red3 
+! *.color9:      #d91329  | Red3 
+! *.color2:      #bafc8b  | PaleGreen1 
+! *.color10:     #d3ffaf  | DarkSeaGreen1 
+! *.color3:      #eedf4b  | LightGoldenrod2 
+! *.color11:     #ffef50  | LightGoldenrod1 
+! *.color4:      #145fcd  | DodgerBlue3 
+! *.color12:     #0075ea  | DeepSkyBlue3 
+! *.color5:      #ff36a2  | HotPink 
+! *.color13:     #fdd5e5  | MistyRose1 
+! *.color6:      #6bd1bc  | Aquamarine3 
+! *.color14:     #79ecd5  | Aquamarine1 
+! *.color7:      #e2d7e1  | Grey85 
+! *.color15:     #fff3fe  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Unikitty: Unikitty
+! --------------------------------------------------
+! Generating Unikitty .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey3
+x3270*dialog*foreground                   : Grey3
+x3270.aboutPopup*icon.foreground          : Grey3
+x3270.keypadForeground                    : Grey3
+x3270*menuBarContainer.foreground         : Grey3
+x3270*fileMenuButton*foreground           : Grey3
+x3270*optionsMenuButton*foreground        : Grey3
+x3270*connectMenuButton*foreground        : Grey3
+x3270*reconnectButton*foreground          : Grey3
+x3270*macrosMenuButton*foreground         : Grey3
+x3270*keypadButton*foreground             : Grey3
+x3270*fileMenu*foreground                 : Grey3
+x3270*exitMenu*foreground                 : Grey3
+x3270*optionsMenu*foreground              : Grey3
+x3270*hostMenu*foreground                 : Grey3
+x3270*reconnect*foreground                : Grey3
+x3270*macrosMenu*foreground               : Grey3
+x3270*togglesMenu*foreground              : Grey3
+x3270*fontsMenu*foreground                : Grey3
+x3270*modelsMenu*foreground               : Grey3
+x3270*colorsMenu*foreground               : Grey3
+x3270*charsetMenu*foreground              : Grey3
+x3270*dialog*value*foreground             : Grey3
+x3270*dialog*foreground                   : Grey3
+x3270*dialog*confirmButton.foreground     : Grey3
+x3270*dialog*confirm2Button.foreground    : Grey3
+3270*dialog*cancelButton.foreground       : Grey3
+x3270.ftProgressPopup*filename.foreground : Grey3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Red3
+x3270*dialog*cancelButton.foreground      : Red3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Orchid2
+x3270*menuBarContainer.background         : Orchid2
+x3270*fileMenuButton*background           : Orchid2
+x3270*optionsMenuButton*background        : Orchid2
+x3270*connectMenuButton*background        : Orchid2
+x3270*reconnectButton*background          : Orchid2
+x3270*macrosMenuButton*background         : Orchid2
+x3270*keypadButton*background             : Orchid2
+x3270*fileMenu*background                 : Orchid2
+x3270*exitMenu*background                 : Orchid2
+x3270*optionsMenu*background              : Orchid2
+x3270*hostMenu*background                 : Orchid2
+x3270*reconnect*background                : Orchid2
+x3270*macrosMenu*background               : Orchid2
+x3270*togglesMenu*background              : Orchid2
+x3270*fontsMenu*background                : Orchid2
+x3270*modelsMenu*background               : Orchid2
+x3270*colorsMenu*background               : Orchid2
+x3270*charsetMenu*background              : Orchid2
+x3270*dialog*value*background             : Orchid2
+x3270*dialog*background                   : Orchid2
+x3270*dialog*confirmButton.background     : Orchid2
+x3270*dialog*confirm2Button.background    : Orchid2
+3270*dialog*cancelButton.background       : Orchid2
+x3270.ftProgressPopup*filename.background : Orchid2
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey3
+x3270*macrosMenuButton*borderColor        : Grey3
+x3270*fileMenu.borderColor                : Grey3
+x3270*exitMenu.borderColor                : Grey3
+x3270*optionsMenu.borderColor             : Grey3
+x3270*hostMenu.borderColor                : Grey3
+x3270*macrosMenu.borderColor              : Grey3
+x3270*togglesMenu.borderColor             : Grey3
+x3270*fontsMenu.borderColor               : Grey3
+x3270*modelsMenu.borderColor              : Grey3
+x3270*colorsMenu.borderColor              : Grey3
+x3270*charsetMenu.borderColor             : Grey3
+x3270*confirmButton.borderColor           : Grey3
+x3270*confirmButton.borderColor           : Grey3
+x3270*confirm2Button.borderColor          : Grey3
+x3270*cancelButton.borderColor            : Grey3
+x3270.ftProgressPopup*filename.borderColor: Grey3
+x3270*fileMenuButton*borderColor          : Orchid2
+x3270*optionsMenuButton*borderColor       : Orchid2
+x3270*connectMenuButton*borderColor       : Orchid2
+x3270*menuBarContainer.borderColor        : Orchid2
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey3
+x3270*value.foreground                    : Grey3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Unikitty
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Unikitty: \
+   Grey3 DeepSkyBlue3 Red3 MistyRose1 \
+   DarkSeaGreen1 Aquamarine1 LightGoldenrod1 Grey3 \
+   Grey3 DodgerBlue3 LightGoldenrod2 HotPink \
+   PaleGreen1 Aquamarine3 Grey27 Grey85 \
+   white Orchid2 Grey27 4 \
+   2 1 15 

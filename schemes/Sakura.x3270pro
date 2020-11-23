@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Sakura'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #dd7bdc  | Plum3 
+! *.background:  #18131e  | Grey11 
+! *.color0:      #000000  | Grey0 
+! *.color8:      #786d69  | Grey42 
+! *.color1:      #d52370  | DeepPink3 
+! *.color9:      #f41d99  | DeepPink1 
+! *.color2:      #41af1a  | Chartreuse3 
+! *.color10:     #22e529  | Green3 
+! *.color3:      #bc7053  | IndianRed 
+! *.color11:     #f59574  | LightCoral 
+! *.color4:      #6964ab  | SlateBlue3 
+! *.color12:     #9892f1  | LightSlateBlue 
+! *.color5:      #c71fbf  | Magenta3 
+! *.color13:     #e90cdd  | Magenta3 
+! *.color6:      #939393  | Grey58 
+! *.color14:     #eeeeee  | Grey93 
+! *.color7:      #998eac  | LightSlateGrey 
+! *.color15:     #cbb6ff  | Plum2 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Sakura: Sakura
+! --------------------------------------------------
+! Generating Sakura .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Plum3
+x3270*dialog*foreground                   : Plum3
+x3270.aboutPopup*icon.foreground          : Plum3
+x3270.keypadForeground                    : Plum3
+x3270*menuBarContainer.foreground         : Plum3
+x3270*fileMenuButton*foreground           : Plum3
+x3270*optionsMenuButton*foreground        : Plum3
+x3270*connectMenuButton*foreground        : Plum3
+x3270*reconnectButton*foreground          : Plum3
+x3270*macrosMenuButton*foreground         : Plum3
+x3270*keypadButton*foreground             : Plum3
+x3270*fileMenu*foreground                 : Plum3
+x3270*exitMenu*foreground                 : Plum3
+x3270*optionsMenu*foreground              : Plum3
+x3270*hostMenu*foreground                 : Plum3
+x3270*reconnect*foreground                : Plum3
+x3270*macrosMenu*foreground               : Plum3
+x3270*togglesMenu*foreground              : Plum3
+x3270*fontsMenu*foreground                : Plum3
+x3270*modelsMenu*foreground               : Plum3
+x3270*colorsMenu*foreground               : Plum3
+x3270*charsetMenu*foreground              : Plum3
+x3270*dialog*value*foreground             : Plum3
+x3270*dialog*foreground                   : Plum3
+x3270*dialog*confirmButton.foreground     : Plum3
+x3270*dialog*confirm2Button.foreground    : Plum3
+3270*dialog*cancelButton.foreground       : Plum3
+x3270.ftProgressPopup*filename.foreground : Plum3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DeepPink1
+x3270*dialog*cancelButton.foreground      : DeepPink1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Plum3
+x3270*macrosMenuButton*borderColor        : Plum3
+x3270*fileMenu.borderColor                : Plum3
+x3270*exitMenu.borderColor                : Plum3
+x3270*optionsMenu.borderColor             : Plum3
+x3270*hostMenu.borderColor                : Plum3
+x3270*macrosMenu.borderColor              : Plum3
+x3270*togglesMenu.borderColor             : Plum3
+x3270*fontsMenu.borderColor               : Plum3
+x3270*modelsMenu.borderColor              : Plum3
+x3270*colorsMenu.borderColor              : Plum3
+x3270*charsetMenu.borderColor             : Plum3
+x3270*confirmButton.borderColor           : Plum3
+x3270*confirmButton.borderColor           : Plum3
+x3270*confirm2Button.borderColor          : Plum3
+x3270*cancelButton.borderColor            : Plum3
+x3270.ftProgressPopup*filename.borderColor: Plum3
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Plum3
+x3270*value.foreground                    : Plum3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: Sakura
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.Sakura: \
+   Grey0 LightSlateBlue DeepPink1 Magenta3 \
+   Green3 Grey93 LightCoral Plum3 \
+   Grey0 SlateBlue3 IndianRed Magenta3 \
+   Chartreuse3 Grey58 Grey42 LightSlateGrey \
+   white Grey11 Grey42 4 \
+   2 1 15 

@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Builtin Solarized Dark'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #839496  | Grey54 
+! *.background:  #002b36  | Grey11 
+! *.color0:      #073642  | Grey15 
+! *.color8:      #002b36  | Grey11 
+! *.color1:      #dc322f  | DarkOrange3 
+! *.color9:      #cb4b16  | DarkOrange3 
+! *.color2:      #859900  | Yellow4 
+! *.color10:     #586e75  | Grey42 
+! *.color3:      #b58900  | DarkGoldenrod 
+! *.color11:     #657b83  | PaleTurquoise4 
+! *.color4:      #268bd2  | DeepSkyBlue3 
+! *.color12:     #839496  | Grey54 
+! *.color5:      #d33682  | HotPink3 
+! *.color13:     #6c71c4  | SlateBlue3 
+! *.color6:      #2aa198  | DarkCyan 
+! *.color14:     #93a1a1  | Grey62 
+! *.color7:      #eee8d5  | Grey89 
+! *.color15:     #fdf6e3  | Cornsilk1 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Builtin Solarized Dark: BuiltinSolarizedDark
+! --------------------------------------------------
+! Generating Builtin Solarized Dark .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey54
+x3270*dialog*foreground                   : Grey54
+x3270.aboutPopup*icon.foreground          : Grey54
+x3270.keypadForeground                    : Grey54
+x3270*menuBarContainer.foreground         : Grey54
+x3270*fileMenuButton*foreground           : Grey54
+x3270*optionsMenuButton*foreground        : Grey54
+x3270*connectMenuButton*foreground        : Grey54
+x3270*reconnectButton*foreground          : Grey54
+x3270*macrosMenuButton*foreground         : Grey54
+x3270*keypadButton*foreground             : Grey54
+x3270*fileMenu*foreground                 : Grey54
+x3270*exitMenu*foreground                 : Grey54
+x3270*optionsMenu*foreground              : Grey54
+x3270*hostMenu*foreground                 : Grey54
+x3270*reconnect*foreground                : Grey54
+x3270*macrosMenu*foreground               : Grey54
+x3270*togglesMenu*foreground              : Grey54
+x3270*fontsMenu*foreground                : Grey54
+x3270*modelsMenu*foreground               : Grey54
+x3270*colorsMenu*foreground               : Grey54
+x3270*charsetMenu*foreground              : Grey54
+x3270*dialog*value*foreground             : Grey54
+x3270*dialog*foreground                   : Grey54
+x3270*dialog*confirmButton.foreground     : Grey54
+x3270*dialog*confirm2Button.foreground    : Grey54
+3270*dialog*cancelButton.foreground       : Grey54
+x3270.ftProgressPopup*filename.foreground : Grey54
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DarkOrange3
+x3270*dialog*cancelButton.foreground      : DarkOrange3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey54
+x3270*macrosMenuButton*borderColor        : Grey54
+x3270*fileMenu.borderColor                : Grey54
+x3270*exitMenu.borderColor                : Grey54
+x3270*optionsMenu.borderColor             : Grey54
+x3270*hostMenu.borderColor                : Grey54
+x3270*macrosMenu.borderColor              : Grey54
+x3270*togglesMenu.borderColor             : Grey54
+x3270*fontsMenu.borderColor               : Grey54
+x3270*modelsMenu.borderColor              : Grey54
+x3270*colorsMenu.borderColor              : Grey54
+x3270*charsetMenu.borderColor             : Grey54
+x3270*confirmButton.borderColor           : Grey54
+x3270*confirmButton.borderColor           : Grey54
+x3270*confirm2Button.borderColor          : Grey54
+x3270*cancelButton.borderColor            : Grey54
+x3270.ftProgressPopup*filename.borderColor: Grey54
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey54
+x3270*value.foreground                    : Grey54
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: BuiltinSolarizedDark
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.BuiltinSolarizedDark: \
+   Grey15 Grey54 DarkOrange3 SlateBlue3 \
+   Grey42 Grey62 PaleTurquoise4 Grey54 \
+   Grey15 DeepSkyBlue3 DarkGoldenrod HotPink3 \
+   Yellow4 DarkCyan Grey11 Grey89 \
+   white Grey11 Grey11 4 \
+   2 1 15 

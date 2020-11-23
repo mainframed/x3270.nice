@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'DjangoSmooth'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #f8f8f8  | Grey100 
+! *.background:  #245032  | Grey23 
+! *.color0:      #000000  | Grey0 
+! *.color8:      #323232  | Grey19 
+! *.color1:      #fd6209  | OrangeRed1 
+! *.color9:      #ff943b  | Salmon1 
+! *.color2:      #41a83e  | DarkSeaGreen4 
+! *.color10:     #73da70  | PaleGreen3 
+! *.color3:      #ffe862  | LightGoldenrod2 
+! *.color11:     #ffff94  | Khaki1 
+! *.color4:      #989898  | Grey58 
+! *.color12:     #cacaca  | Grey78 
+! *.color5:      #f8f8f8  | Grey100 
+! *.color13:     #ffffff  | Grey100 
+! *.color6:      #9df39f  | DarkSeaGreen2 
+! *.color14:     #cfffd1  | Honeydew2 
+! *.color7:      #e8e8e7  | Grey89 
+! *.color15:     #ffffff  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  DjangoSmooth: DjangoSmooth
+! --------------------------------------------------
+! Generating DjangoSmooth .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270.aboutPopup*icon.foreground          : Grey100
+x3270.keypadForeground                    : Grey100
+x3270*menuBarContainer.foreground         : Grey100
+x3270*fileMenuButton*foreground           : Grey100
+x3270*optionsMenuButton*foreground        : Grey100
+x3270*connectMenuButton*foreground        : Grey100
+x3270*reconnectButton*foreground          : Grey100
+x3270*macrosMenuButton*foreground         : Grey100
+x3270*keypadButton*foreground             : Grey100
+x3270*fileMenu*foreground                 : Grey100
+x3270*exitMenu*foreground                 : Grey100
+x3270*optionsMenu*foreground              : Grey100
+x3270*hostMenu*foreground                 : Grey100
+x3270*reconnect*foreground                : Grey100
+x3270*macrosMenu*foreground               : Grey100
+x3270*togglesMenu*foreground              : Grey100
+x3270*fontsMenu*foreground                : Grey100
+x3270*modelsMenu*foreground               : Grey100
+x3270*colorsMenu*foreground               : Grey100
+x3270*charsetMenu*foreground              : Grey100
+x3270*dialog*value*foreground             : Grey100
+x3270*dialog*foreground                   : Grey100
+x3270*dialog*confirmButton.foreground     : Grey100
+x3270*dialog*confirm2Button.foreground    : Grey100
+3270*dialog*cancelButton.foreground       : Grey100
+x3270.ftProgressPopup*filename.foreground : Grey100
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : Salmon1
+x3270*dialog*cancelButton.foreground      : Salmon1
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey23
+x3270*menuBarContainer.background         : Grey23
+x3270*fileMenuButton*background           : Grey23
+x3270*optionsMenuButton*background        : Grey23
+x3270*connectMenuButton*background        : Grey23
+x3270*reconnectButton*background          : Grey23
+x3270*macrosMenuButton*background         : Grey23
+x3270*keypadButton*background             : Grey23
+x3270*fileMenu*background                 : Grey23
+x3270*exitMenu*background                 : Grey23
+x3270*optionsMenu*background              : Grey23
+x3270*hostMenu*background                 : Grey23
+x3270*reconnect*background                : Grey23
+x3270*macrosMenu*background               : Grey23
+x3270*togglesMenu*background              : Grey23
+x3270*fontsMenu*background                : Grey23
+x3270*modelsMenu*background               : Grey23
+x3270*colorsMenu*background               : Grey23
+x3270*charsetMenu*background              : Grey23
+x3270*dialog*value*background             : Grey23
+x3270*dialog*background                   : Grey23
+x3270*dialog*confirmButton.background     : Grey23
+x3270*dialog*confirm2Button.background    : Grey23
+3270*dialog*cancelButton.background       : Grey23
+x3270.ftProgressPopup*filename.background : Grey23
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey100
+x3270*macrosMenuButton*borderColor        : Grey100
+x3270*fileMenu.borderColor                : Grey100
+x3270*exitMenu.borderColor                : Grey100
+x3270*optionsMenu.borderColor             : Grey100
+x3270*hostMenu.borderColor                : Grey100
+x3270*macrosMenu.borderColor              : Grey100
+x3270*togglesMenu.borderColor             : Grey100
+x3270*fontsMenu.borderColor               : Grey100
+x3270*modelsMenu.borderColor              : Grey100
+x3270*colorsMenu.borderColor              : Grey100
+x3270*charsetMenu.borderColor             : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirmButton.borderColor           : Grey100
+x3270*confirm2Button.borderColor          : Grey100
+x3270*cancelButton.borderColor            : Grey100
+x3270.ftProgressPopup*filename.borderColor: Grey100
+x3270*fileMenuButton*borderColor          : Grey23
+x3270*optionsMenuButton*borderColor       : Grey23
+x3270*connectMenuButton*borderColor       : Grey23
+x3270*menuBarContainer.borderColor        : Grey23
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey100
+x3270*value.foreground                    : Grey100
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: DjangoSmooth
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.DjangoSmooth: \
+   Grey0 Grey78 Salmon1 Grey100 \
+   PaleGreen3 Honeydew2 Khaki1 Grey100 \
+   Grey0 Grey58 LightGoldenrod2 Grey100 \
+   DarkSeaGreen4 DarkSeaGreen2 Grey19 Grey89 \
+   white Grey23 Grey19 4 \
+   2 1 15 

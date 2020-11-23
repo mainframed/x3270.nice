@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'C64'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #7869c4  | MediumPurple3 
+! *.background:  #40318d  | MediumPurple4 
+! *.color0:      #090300  | Grey0 
+! *.color8:      #000000  | Grey0 
+! *.color1:      #883932  | LightPink4 
+! *.color9:      #883932  | LightPink4 
+! *.color2:      #55a049  | DarkSeaGreen4 
+! *.color10:     #55a049  | DarkSeaGreen4 
+! *.color3:      #bfce72  | DarkOliveGreen3 
+! *.color11:     #bfce72  | DarkOliveGreen3 
+! *.color4:      #40318d  | MediumPurple4 
+! *.color12:     #40318d  | MediumPurple4 
+! *.color5:      #8b3f96  | Plum4 
+! *.color13:     #8b3f96  | Plum4 
+! *.color6:      #67b6bd  | CadetBlue 
+! *.color14:     #67b6bd  | CadetBlue 
+! *.color7:      #ffffff  | Grey100 
+! *.color15:     #f7f7f7  | Grey100 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  C64: C64
+! --------------------------------------------------
+! Generating C64 .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : MediumPurple3
+x3270*dialog*foreground                   : MediumPurple3
+x3270.aboutPopup*icon.foreground          : MediumPurple3
+x3270.keypadForeground                    : MediumPurple3
+x3270*menuBarContainer.foreground         : MediumPurple3
+x3270*fileMenuButton*foreground           : MediumPurple3
+x3270*optionsMenuButton*foreground        : MediumPurple3
+x3270*connectMenuButton*foreground        : MediumPurple3
+x3270*reconnectButton*foreground          : MediumPurple3
+x3270*macrosMenuButton*foreground         : MediumPurple3
+x3270*keypadButton*foreground             : MediumPurple3
+x3270*fileMenu*foreground                 : MediumPurple3
+x3270*exitMenu*foreground                 : MediumPurple3
+x3270*optionsMenu*foreground              : MediumPurple3
+x3270*hostMenu*foreground                 : MediumPurple3
+x3270*reconnect*foreground                : MediumPurple3
+x3270*macrosMenu*foreground               : MediumPurple3
+x3270*togglesMenu*foreground              : MediumPurple3
+x3270*fontsMenu*foreground                : MediumPurple3
+x3270*modelsMenu*foreground               : MediumPurple3
+x3270*colorsMenu*foreground               : MediumPurple3
+x3270*charsetMenu*foreground              : MediumPurple3
+x3270*dialog*value*foreground             : MediumPurple3
+x3270*dialog*foreground                   : MediumPurple3
+x3270*dialog*confirmButton.foreground     : MediumPurple3
+x3270*dialog*confirm2Button.foreground    : MediumPurple3
+3270*dialog*cancelButton.foreground       : MediumPurple3
+x3270.ftProgressPopup*filename.foreground : MediumPurple3
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : LightPink4
+x3270*dialog*cancelButton.foreground      : LightPink4
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : MediumPurple4
+x3270*menuBarContainer.background         : MediumPurple4
+x3270*fileMenuButton*background           : MediumPurple4
+x3270*optionsMenuButton*background        : MediumPurple4
+x3270*connectMenuButton*background        : MediumPurple4
+x3270*reconnectButton*background          : MediumPurple4
+x3270*macrosMenuButton*background         : MediumPurple4
+x3270*keypadButton*background             : MediumPurple4
+x3270*fileMenu*background                 : MediumPurple4
+x3270*exitMenu*background                 : MediumPurple4
+x3270*optionsMenu*background              : MediumPurple4
+x3270*hostMenu*background                 : MediumPurple4
+x3270*reconnect*background                : MediumPurple4
+x3270*macrosMenu*background               : MediumPurple4
+x3270*togglesMenu*background              : MediumPurple4
+x3270*fontsMenu*background                : MediumPurple4
+x3270*modelsMenu*background               : MediumPurple4
+x3270*colorsMenu*background               : MediumPurple4
+x3270*charsetMenu*background              : MediumPurple4
+x3270*dialog*value*background             : MediumPurple4
+x3270*dialog*background                   : MediumPurple4
+x3270*dialog*confirmButton.background     : MediumPurple4
+x3270*dialog*confirm2Button.background    : MediumPurple4
+3270*dialog*cancelButton.background       : MediumPurple4
+x3270.ftProgressPopup*filename.background : MediumPurple4
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : MediumPurple3
+x3270*macrosMenuButton*borderColor        : MediumPurple3
+x3270*fileMenu.borderColor                : MediumPurple3
+x3270*exitMenu.borderColor                : MediumPurple3
+x3270*optionsMenu.borderColor             : MediumPurple3
+x3270*hostMenu.borderColor                : MediumPurple3
+x3270*macrosMenu.borderColor              : MediumPurple3
+x3270*togglesMenu.borderColor             : MediumPurple3
+x3270*fontsMenu.borderColor               : MediumPurple3
+x3270*modelsMenu.borderColor              : MediumPurple3
+x3270*colorsMenu.borderColor              : MediumPurple3
+x3270*charsetMenu.borderColor             : MediumPurple3
+x3270*confirmButton.borderColor           : MediumPurple3
+x3270*confirmButton.borderColor           : MediumPurple3
+x3270*confirm2Button.borderColor          : MediumPurple3
+x3270*cancelButton.borderColor            : MediumPurple3
+x3270.ftProgressPopup*filename.borderColor: MediumPurple3
+x3270*fileMenuButton*borderColor          : MediumPurple4
+x3270*optionsMenuButton*borderColor       : MediumPurple4
+x3270*connectMenuButton*borderColor       : MediumPurple4
+x3270*menuBarContainer.borderColor        : MediumPurple4
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : MediumPurple3
+x3270*value.foreground                    : MediumPurple3
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: C64
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.C64: \
+   Grey0 MediumPurple4 LightPink4 Plum4 \
+   DarkSeaGreen4 CadetBlue DarkOliveGreen3 MediumPurple3 \
+   Grey0 MediumPurple4 DarkOliveGreen3 Plum4 \
+   DarkSeaGreen4 CadetBlue Grey0 Grey100 \
+   white MediumPurple4 Grey0 4 \
+   2 1 15 

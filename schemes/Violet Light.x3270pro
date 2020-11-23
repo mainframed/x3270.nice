@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Violet Light'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #536870  | Grey39 
+! *.background:  #fcf4dc  | Cornsilk1 
+! *.color0:      #56595c  | Grey35 
+! *.color8:      #45484b  | Grey27 
+! *.color1:      #c94c22  | DarkOrange3 
+! *.color9:      #bd3613  | DarkOrange3 
+! *.color2:      #85981c  | Yellow4 
+! *.color10:     #738a04  | Chartreuse4 
+! *.color3:      #b4881d  | DarkGoldenrod 
+! *.color11:     #a57705  | DarkGoldenrod 
+! *.color4:      #2e8bce  | DeepSkyBlue3 
+! *.color12:     #2176c7  | DeepSkyBlue3 
+! *.color5:      #d13a82  | HotPink3 
+! *.color13:     #c61c6f  | DeepPink3 
+! *.color6:      #32a198  | CadetBlue 
+! *.color14:     #259286  | Turquoise4 
+! *.color7:      #d3d0c9  | Grey82 
+! *.color15:     #c9c6bd  | Grey78 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Violet Light: VioletLight
+! --------------------------------------------------
+! Generating Violet Light .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : Grey39
+x3270*dialog*foreground                   : Grey39
+x3270.aboutPopup*icon.foreground          : Grey39
+x3270.keypadForeground                    : Grey39
+x3270*menuBarContainer.foreground         : Grey39
+x3270*fileMenuButton*foreground           : Grey39
+x3270*optionsMenuButton*foreground        : Grey39
+x3270*connectMenuButton*foreground        : Grey39
+x3270*reconnectButton*foreground          : Grey39
+x3270*macrosMenuButton*foreground         : Grey39
+x3270*keypadButton*foreground             : Grey39
+x3270*fileMenu*foreground                 : Grey39
+x3270*exitMenu*foreground                 : Grey39
+x3270*optionsMenu*foreground              : Grey39
+x3270*hostMenu*foreground                 : Grey39
+x3270*reconnect*foreground                : Grey39
+x3270*macrosMenu*foreground               : Grey39
+x3270*togglesMenu*foreground              : Grey39
+x3270*fontsMenu*foreground                : Grey39
+x3270*modelsMenu*foreground               : Grey39
+x3270*colorsMenu*foreground               : Grey39
+x3270*charsetMenu*foreground              : Grey39
+x3270*dialog*value*foreground             : Grey39
+x3270*dialog*foreground                   : Grey39
+x3270*dialog*confirmButton.foreground     : Grey39
+x3270*dialog*confirm2Button.foreground    : Grey39
+3270*dialog*cancelButton.foreground       : Grey39
+x3270.ftProgressPopup*filename.foreground : Grey39
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DarkOrange3
+x3270*dialog*cancelButton.foreground      : DarkOrange3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Cornsilk1
+x3270*menuBarContainer.background         : Cornsilk1
+x3270*fileMenuButton*background           : Cornsilk1
+x3270*optionsMenuButton*background        : Cornsilk1
+x3270*connectMenuButton*background        : Cornsilk1
+x3270*reconnectButton*background          : Cornsilk1
+x3270*macrosMenuButton*background         : Cornsilk1
+x3270*keypadButton*background             : Cornsilk1
+x3270*fileMenu*background                 : Cornsilk1
+x3270*exitMenu*background                 : Cornsilk1
+x3270*optionsMenu*background              : Cornsilk1
+x3270*hostMenu*background                 : Cornsilk1
+x3270*reconnect*background                : Cornsilk1
+x3270*macrosMenu*background               : Cornsilk1
+x3270*togglesMenu*background              : Cornsilk1
+x3270*fontsMenu*background                : Cornsilk1
+x3270*modelsMenu*background               : Cornsilk1
+x3270*colorsMenu*background               : Cornsilk1
+x3270*charsetMenu*background              : Cornsilk1
+x3270*dialog*value*background             : Cornsilk1
+x3270*dialog*background                   : Cornsilk1
+x3270*dialog*confirmButton.background     : Cornsilk1
+x3270*dialog*confirm2Button.background    : Cornsilk1
+3270*dialog*cancelButton.background       : Cornsilk1
+x3270.ftProgressPopup*filename.background : Cornsilk1
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : Grey39
+x3270*macrosMenuButton*borderColor        : Grey39
+x3270*fileMenu.borderColor                : Grey39
+x3270*exitMenu.borderColor                : Grey39
+x3270*optionsMenu.borderColor             : Grey39
+x3270*hostMenu.borderColor                : Grey39
+x3270*macrosMenu.borderColor              : Grey39
+x3270*togglesMenu.borderColor             : Grey39
+x3270*fontsMenu.borderColor               : Grey39
+x3270*modelsMenu.borderColor              : Grey39
+x3270*colorsMenu.borderColor              : Grey39
+x3270*charsetMenu.borderColor             : Grey39
+x3270*confirmButton.borderColor           : Grey39
+x3270*confirmButton.borderColor           : Grey39
+x3270*confirm2Button.borderColor          : Grey39
+x3270*cancelButton.borderColor            : Grey39
+x3270.ftProgressPopup*filename.borderColor: Grey39
+x3270*fileMenuButton*borderColor          : Cornsilk1
+x3270*optionsMenuButton*borderColor       : Cornsilk1
+x3270*connectMenuButton*borderColor       : Cornsilk1
+x3270*menuBarContainer.borderColor        : Cornsilk1
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : Grey39
+x3270*value.foreground                    : Grey39
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: VioletLight
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.VioletLight: \
+   Grey35 DeepSkyBlue3 DarkOrange3 DeepPink3 \
+   Chartreuse4 Turquoise4 DarkGoldenrod Grey39 \
+   Grey35 DeepSkyBlue3 DarkGoldenrod HotPink3 \
+   Yellow4 CadetBlue Grey27 Grey82 \
+   white Cornsilk1 Grey27 4 \
+   2 1 15 

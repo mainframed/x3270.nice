@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'Duotone Dark'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #b7a1ff  | LightSteelBlue 
+! *.background:  #1f1d27  | Grey11 
+! *.color0:      #1f1d27  | Grey11 
+! *.color8:      #353147  | Grey23 
+! *.color1:      #d9393e  | IndianRed 
+! *.color9:      #d9393e  | IndianRed 
+! *.color2:      #2dcd73  | SpringGreen3 
+! *.color10:     #2dcd73  | SpringGreen3 
+! *.color3:      #d9b76e  | LightGoldenrod3 
+! *.color11:     #d9b76e  | LightGoldenrod3 
+! *.color4:      #ffc284  | LightSalmon1 
+! *.color12:     #ffc284  | LightSalmon1 
+! *.color5:      #de8d40  | LightSalmon3 
+! *.color13:     #de8d40  | LightSalmon3 
+! *.color6:      #2488ff  | DodgerBlue1 
+! *.color14:     #2488ff  | DodgerBlue1 
+! *.color7:      #b7a1ff  | LightSteelBlue 
+! *.color15:     #eae5ff  | Grey93 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  Duotone Dark: DuotoneDark
+! --------------------------------------------------
+! Generating Duotone Dark .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : LightSteelBlue
+x3270*dialog*foreground                   : LightSteelBlue
+x3270.aboutPopup*icon.foreground          : LightSteelBlue
+x3270.keypadForeground                    : LightSteelBlue
+x3270*menuBarContainer.foreground         : LightSteelBlue
+x3270*fileMenuButton*foreground           : LightSteelBlue
+x3270*optionsMenuButton*foreground        : LightSteelBlue
+x3270*connectMenuButton*foreground        : LightSteelBlue
+x3270*reconnectButton*foreground          : LightSteelBlue
+x3270*macrosMenuButton*foreground         : LightSteelBlue
+x3270*keypadButton*foreground             : LightSteelBlue
+x3270*fileMenu*foreground                 : LightSteelBlue
+x3270*exitMenu*foreground                 : LightSteelBlue
+x3270*optionsMenu*foreground              : LightSteelBlue
+x3270*hostMenu*foreground                 : LightSteelBlue
+x3270*reconnect*foreground                : LightSteelBlue
+x3270*macrosMenu*foreground               : LightSteelBlue
+x3270*togglesMenu*foreground              : LightSteelBlue
+x3270*fontsMenu*foreground                : LightSteelBlue
+x3270*modelsMenu*foreground               : LightSteelBlue
+x3270*colorsMenu*foreground               : LightSteelBlue
+x3270*charsetMenu*foreground              : LightSteelBlue
+x3270*dialog*value*foreground             : LightSteelBlue
+x3270*dialog*foreground                   : LightSteelBlue
+x3270*dialog*confirmButton.foreground     : LightSteelBlue
+x3270*dialog*confirm2Button.foreground    : LightSteelBlue
+3270*dialog*cancelButton.foreground       : LightSteelBlue
+x3270.ftProgressPopup*filename.foreground : LightSteelBlue
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : IndianRed
+x3270*dialog*cancelButton.foreground      : IndianRed
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey11
+x3270*menuBarContainer.background         : Grey11
+x3270*fileMenuButton*background           : Grey11
+x3270*optionsMenuButton*background        : Grey11
+x3270*connectMenuButton*background        : Grey11
+x3270*reconnectButton*background          : Grey11
+x3270*macrosMenuButton*background         : Grey11
+x3270*keypadButton*background             : Grey11
+x3270*fileMenu*background                 : Grey11
+x3270*exitMenu*background                 : Grey11
+x3270*optionsMenu*background              : Grey11
+x3270*hostMenu*background                 : Grey11
+x3270*reconnect*background                : Grey11
+x3270*macrosMenu*background               : Grey11
+x3270*togglesMenu*background              : Grey11
+x3270*fontsMenu*background                : Grey11
+x3270*modelsMenu*background               : Grey11
+x3270*colorsMenu*background               : Grey11
+x3270*charsetMenu*background              : Grey11
+x3270*dialog*value*background             : Grey11
+x3270*dialog*background                   : Grey11
+x3270*dialog*confirmButton.background     : Grey11
+x3270*dialog*confirm2Button.background    : Grey11
+3270*dialog*cancelButton.background       : Grey11
+x3270.ftProgressPopup*filename.background : Grey11
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : LightSteelBlue
+x3270*macrosMenuButton*borderColor        : LightSteelBlue
+x3270*fileMenu.borderColor                : LightSteelBlue
+x3270*exitMenu.borderColor                : LightSteelBlue
+x3270*optionsMenu.borderColor             : LightSteelBlue
+x3270*hostMenu.borderColor                : LightSteelBlue
+x3270*macrosMenu.borderColor              : LightSteelBlue
+x3270*togglesMenu.borderColor             : LightSteelBlue
+x3270*fontsMenu.borderColor               : LightSteelBlue
+x3270*modelsMenu.borderColor              : LightSteelBlue
+x3270*colorsMenu.borderColor              : LightSteelBlue
+x3270*charsetMenu.borderColor             : LightSteelBlue
+x3270*confirmButton.borderColor           : LightSteelBlue
+x3270*confirmButton.borderColor           : LightSteelBlue
+x3270*confirm2Button.borderColor          : LightSteelBlue
+x3270*cancelButton.borderColor            : LightSteelBlue
+x3270.ftProgressPopup*filename.borderColor: LightSteelBlue
+x3270*fileMenuButton*borderColor          : Grey11
+x3270*optionsMenuButton*borderColor       : Grey11
+x3270*connectMenuButton*borderColor       : Grey11
+x3270*menuBarContainer.borderColor        : Grey11
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : LightSteelBlue
+x3270*value.foreground                    : LightSteelBlue
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: DuotoneDark
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.DuotoneDark: \
+   Grey11 LightSalmon1 IndianRed LightSalmon3 \
+   SpringGreen3 DodgerBlue1 LightGoldenrod3 LightSteelBlue \
+   Grey11 LightSalmon1 LightGoldenrod3 LightSalmon3 \
+   SpringGreen3 DodgerBlue1 Grey23 LightSteelBlue \
+   white Grey11 Grey23 4 \
+   2 1 15 

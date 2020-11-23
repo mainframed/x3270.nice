@@ -1,0 +1,139 @@
+! --------------------------------------------------
+! .x3270pro file generated using x3270.nice by Soldier of FORTRAN
+! Original Xresource file: 'FirefoxDev'
+! Copy and paste this output to ~/.x3270pro
+! --------------------------------------------------
+! Original Xresource file | mapped color
+! *.foreground:  #7c8fa4  | LightSlateGrey 
+! *.background:  #0e1011  | Grey7 
+! *.color0:      #002831  | Grey11 
+! *.color8:      #001e27  | Grey7 
+! *.color1:      #e63853  | IndianRed 
+! *.color9:      #e1003f  | DeepPink3 
+! *.color2:      #5eb83c  | DarkSeaGreen4 
+! *.color10:     #1d9000  | Green4 
+! *.color3:      #a57706  | DarkGoldenrod 
+! *.color11:     #cd9409  | Orange3 
+! *.color4:      #359ddf  | SkyBlue3 
+! *.color12:     #006fc0  | DeepSkyBlue4 
+! *.color5:      #d75cff  | MediumOrchid1 
+! *.color13:     #a200da  | DarkViolet 
+! *.color6:      #4b73a2  | SlateBlue3 
+! *.color14:     #005794  | DeepSkyBlue4 
+! *.color7:      #dcdcdc  | Grey85 
+! *.color15:     #e2e2e2  | Grey89 
+! --------------------------------------------------
+! Adding theme to Options -> Color Scheme
+! --------------------------------------------------
+x3270.schemeList: Default 3279: default\n\
+                  Bright: bright\n\
+                  Reverse: reverse\n\
+                  Green Screen: greenScreen\n\
+                  FirefoxDev: FirefoxDev
+! --------------------------------------------------
+! Generating FirefoxDev .x3270pro theme
+! --------------------------------------------------
+! Menu Colors: Foreground
+! --------------------------------------------------
+x3270*dialog*confirmButton.foreground     : LightSlateGrey
+x3270*dialog*foreground                   : LightSlateGrey
+x3270.aboutPopup*icon.foreground          : LightSlateGrey
+x3270.keypadForeground                    : LightSlateGrey
+x3270*menuBarContainer.foreground         : LightSlateGrey
+x3270*fileMenuButton*foreground           : LightSlateGrey
+x3270*optionsMenuButton*foreground        : LightSlateGrey
+x3270*connectMenuButton*foreground        : LightSlateGrey
+x3270*reconnectButton*foreground          : LightSlateGrey
+x3270*macrosMenuButton*foreground         : LightSlateGrey
+x3270*keypadButton*foreground             : LightSlateGrey
+x3270*fileMenu*foreground                 : LightSlateGrey
+x3270*exitMenu*foreground                 : LightSlateGrey
+x3270*optionsMenu*foreground              : LightSlateGrey
+x3270*hostMenu*foreground                 : LightSlateGrey
+x3270*reconnect*foreground                : LightSlateGrey
+x3270*macrosMenu*foreground               : LightSlateGrey
+x3270*togglesMenu*foreground              : LightSlateGrey
+x3270*fontsMenu*foreground                : LightSlateGrey
+x3270*modelsMenu*foreground               : LightSlateGrey
+x3270*colorsMenu*foreground               : LightSlateGrey
+x3270*charsetMenu*foreground              : LightSlateGrey
+x3270*dialog*value*foreground             : LightSlateGrey
+x3270*dialog*foreground                   : LightSlateGrey
+x3270*dialog*confirmButton.foreground     : LightSlateGrey
+x3270*dialog*confirm2Button.foreground    : LightSlateGrey
+3270*dialog*cancelButton.foreground       : LightSlateGrey
+x3270.ftProgressPopup*filename.foreground : LightSlateGrey
+! --------------------------------------------------
+! Menu Colors: Critical
+! --------------------------------------------------
+x3270.errorPopup*label.foreground         : DeepPink3
+x3270*dialog*cancelButton.foreground      : DeepPink3
+! --------------------------------------------------
+! Menu Colors: Backgrounds
+! --------------------------------------------------
+x3270.keypadBackground                    : Grey7
+x3270*menuBarContainer.background         : Grey7
+x3270*fileMenuButton*background           : Grey7
+x3270*optionsMenuButton*background        : Grey7
+x3270*connectMenuButton*background        : Grey7
+x3270*reconnectButton*background          : Grey7
+x3270*macrosMenuButton*background         : Grey7
+x3270*keypadButton*background             : Grey7
+x3270*fileMenu*background                 : Grey7
+x3270*exitMenu*background                 : Grey7
+x3270*optionsMenu*background              : Grey7
+x3270*hostMenu*background                 : Grey7
+x3270*reconnect*background                : Grey7
+x3270*macrosMenu*background               : Grey7
+x3270*togglesMenu*background              : Grey7
+x3270*fontsMenu*background                : Grey7
+x3270*modelsMenu*background               : Grey7
+x3270*colorsMenu*background               : Grey7
+x3270*charsetMenu*background              : Grey7
+x3270*dialog*value*background             : Grey7
+x3270*dialog*background                   : Grey7
+x3270*dialog*confirmButton.background     : Grey7
+x3270*dialog*confirm2Button.background    : Grey7
+3270*dialog*cancelButton.background       : Grey7
+x3270.ftProgressPopup*filename.background : Grey7
+! --------------------------------------------------
+! Menu Colors: Borders
+! --------------------------------------------------
+x3270*reconnectButton*borderColor         : LightSlateGrey
+x3270*macrosMenuButton*borderColor        : LightSlateGrey
+x3270*fileMenu.borderColor                : LightSlateGrey
+x3270*exitMenu.borderColor                : LightSlateGrey
+x3270*optionsMenu.borderColor             : LightSlateGrey
+x3270*hostMenu.borderColor                : LightSlateGrey
+x3270*macrosMenu.borderColor              : LightSlateGrey
+x3270*togglesMenu.borderColor             : LightSlateGrey
+x3270*fontsMenu.borderColor               : LightSlateGrey
+x3270*modelsMenu.borderColor              : LightSlateGrey
+x3270*colorsMenu.borderColor              : LightSlateGrey
+x3270*charsetMenu.borderColor             : LightSlateGrey
+x3270*confirmButton.borderColor           : LightSlateGrey
+x3270*confirmButton.borderColor           : LightSlateGrey
+x3270*confirm2Button.borderColor          : LightSlateGrey
+x3270*cancelButton.borderColor            : LightSlateGrey
+x3270.ftProgressPopup*filename.borderColor: LightSlateGrey
+x3270*fileMenuButton*borderColor          : Grey7
+x3270*optionsMenuButton*borderColor       : Grey7
+x3270*connectMenuButton*borderColor       : Grey7
+x3270*menuBarContainer.borderColor        : Grey7
+x3270*menuBarContainer.borderWidth        : 0
+x3270*value.borderColor                   : LightSlateGrey
+x3270*value.foreground                    : LightSlateGrey
+! --------------------------------------------------
+! Default Color Scheme
+! --------------------------------------------------
+x3270.colorScheme: FirefoxDev
+! --------------------------------------------------
+! Color Scheme definition
+! --------------------------------------------------
+x3270.colorScheme.FirefoxDev: \
+   Grey11 DeepSkyBlue4 DeepPink3 DarkViolet \
+   Green4 DeepSkyBlue4 Orange3 LightSlateGrey \
+   Grey11 SkyBlue3 DarkGoldenrod MediumOrchid1 \
+   DarkSeaGreen4 SlateBlue3 Grey7 Grey85 \
+   white Grey7 Grey7 4 \
+   2 1 15 
